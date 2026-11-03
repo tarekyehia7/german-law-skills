@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Behinderung, Schwerbehinderung, Grad der Behinderung, GdB, Schwerbehindertenausweis, Merkzeichen, Rehabilitation, Teilhabe, Eingliederungshilfe, Teilhabe am Arbeitsleben, Werkstatt für behinderte Menschen, Schwerbehindertenvertretung, Kündigungsschutz Schwerbehinderte, Integrationsamt, Inklusionsamt, Zusatzurlaub Schwerbehinderte, Beschäftigungspflicht, Ausgleichsabgabe, Gleichstellung, Nachteilsausgleich, Persönliches Budget, Assistenz, Teilhabeplan, Reha-Antrag, Medizinische Rehabilitation, berufliche Rehabilitation, Budget für Arbeit, Blindengeld, Barrierefreiheit
+- **EN:** disability, severe disability, degree of disability, disability card, disability markers, rehabilitation, participation, integration assistance, participation in working life, sheltered workshop, disabled employees representation, dismissal protection disabled, integration office, inclusion office, additional leave disabled, employment quota disabled, compensatory levy, equal status, disadvantage compensation, personal budget, personal assistance, participation plan, rehabilitation application, medical rehabilitation, vocational rehabilitation, budget for work, accessibility
+- **AR:** الإعاقة، إعاقة شديدة، درجة الإعاقة، بطاقة الإعاقة، علامات الإعاقة، إعادة التأهيل، المشاركة، مساعدة الإدماج، المشاركة في الحياة العملية، ورشة عمل لذوي الإعاقة، تمثيل الموظفين ذوي الإعاقة، الحماية من الفصل لذوي الإعاقة، مكتب الإدماج، إجازة إضافية لذوي الإعاقة، حصة توظيف ذوي الإعاقة، رسم التعويض، المساواة في الوضع، تعويض الحرمان، الميزانية الشخصية، المساعدة الشخصية، خطة المشاركة، طلب إعادة التأهيل، إعادة التأهيل الطبي، إعادة التأهيل المهني، ميزانية العمل، إمكانية الوصول
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

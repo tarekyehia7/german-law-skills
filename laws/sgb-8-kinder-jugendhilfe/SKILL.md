@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Jugendamt, Kinder- und Jugendhilfe, Kita, Kindergarten, Kindertagesbetreuung, Anspruch Kitaplatz, Tagesmutter, Hilfe zur Erziehung, Erziehungsberatung, Inobhutnahme, Kindeswohlgefährdung, Pflegefamilie, Pflegekind, Heimerziehung, Vormundschaft Jugendamt, Beistandschaft, Unterhaltsvorschuss Beratung, Jugendsozialarbeit, Schulsozialarbeit, unbegleitete minderjährige Flüchtlinge, Eingliederungshilfe Kinder, Kostenbeitrag Jugendhilfe, Jugendschutz, Elternbeiträge Kita, Frühe Hilfen, Familienhilfe
+- **EN:** youth welfare office, child and youth welfare, daycare, kindergarten, childcare, right to daycare place, childminder, child-rearing assistance, parenting counselling, taking into care, child endangerment, foster family, foster child, residential care, guardianship youth office, legal assistance, youth social work, school social work, unaccompanied minor refugees, integration assistance children, cost contribution youth welfare, youth protection, daycare fees, early intervention, family support
+- **AR:** مكتب رعاية الشباب، اليوغند أمت، رعاية الأطفال والشباب، الحضانة، روضة الأطفال، رعاية الأطفال، الحق في مكان في الحضانة، مربية أطفال، المساعدة في التربية، استشارات تربوية، أخذ الطفل تحت الرعاية، تعريض الطفل للخطر، عائلة حاضنة، طفل متبنى حضانة، الرعاية في دار، وصاية مكتب الشباب، المساندة القانونية، العمل الاجتماعي للشباب، العمل الاجتماعي المدرسي، اللاجئون القاصرون غير المصحوبين، مساعدة الإدماج للأطفال، مساهمة في تكاليف رعاية الشباب، حماية الشباب، رسوم الحضانة، التدخل المبكر، دعم الأسرة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

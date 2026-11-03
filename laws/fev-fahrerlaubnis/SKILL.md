@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Fahrerlaubnisverordnung, Führerscheinklassen, Klasse B, Klasse A, Klasse C, Klasse BE, Klasse AM, Klasse L, Führerschein Umschreibung, ausländischer Führerschein, Führerschein Anerkennung, EU Führerschein, Führerschein Umtausch, Mindestalter Führerschein, Fahrschule, theoretische Prüfung, praktische Prüfung, Sehtest, Erste-Hilfe-Kurs, MPU, medizinisch-psychologische Untersuchung, Fahreignung, Entziehung Fahrerlaubnis, Neuerteilung, Sperrfrist, Probezeit, Fahrerlaubnis zur Fahrgastbeförderung, Taxischein, Begleitetes Fahren, Schlüsselzahlen, Internationaler Führerschein, Führerschein verloren, Ersatzführerschein, Gesundheitliche Eignung, Drogen Fahreignung, Alkohol Fahreignung, Punkteabbau, Fahreignungsseminar, Kraftfahrzeuge Einteilung, Mofa Prüfbescheinigung
+- **EN:** driving licence regulation, licence classes, class B, class A, class C, class BE, class AM, class L, licence conversion, foreign driving licence, licence recognition, EU driving licence, licence exchange, minimum age driving licence, driving school, theory test, practical test, eye test, first aid course, MPU, medical psychological assessment, fitness to drive, licence revocation, reissue of licence, blocking period, probationary period, passenger transport licence, taxi licence, accompanied driving, licence codes, international driving permit, lost driving licence, replacement licence, medical fitness, drugs fitness to drive, alcohol fitness to drive, points reduction, driving aptitude seminar, vehicle classification, moped certificate
+- **AR:** لائحة رخصة القيادة، فئات رخصة القيادة، فئة B، فئة A، فئة C، فئة BE، فئة AM، فئة L، تحويل رخصة القيادة، رخصة قيادة أجنبية، الاعتراف برخصة القيادة، رخصة القيادة الأوروبية، استبدال رخصة القيادة، الحد الأدنى لسن القيادة، مدرسة القيادة، الاختبار النظري، الاختبار العملي، فحص النظر، دورة الإسعافات الأولية، الفحص الطبي النفسي، الأهلية للقيادة، سحب رخصة القيادة، إعادة إصدار الرخصة، فترة الحظر، فترة الاختبار، رخصة نقل الركاب، رخصة التاكسي، القيادة المصحوبة، الرموز في الرخصة، رخصة القيادة الدولية، فقدان رخصة القيادة، رخصة بديلة، الأهلية الصحية، المخدرات والأهلية للقيادة، الكحول والأهلية للقيادة، تخفيض النقاط، ندوة أهلية القيادة، تصنيف المركبات، شهادة الدراجة البخارية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

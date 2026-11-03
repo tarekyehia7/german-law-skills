@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Gerichtskosten, Gerichtsgebühren, Streitwert, Kostentabelle, Vorschuss, Kostenfestsetzung, Gebühr Berufung, Gebühr Mahnverfahren, Kosten Zwangsvollstreckung, Kostenerstattung
+- **EN:** court fees, court costs, amount in dispute, fee table, advance payment, cost assessment, appeal fee, payment order fee, enforcement costs, reimbursement of costs
+- **AR:** رسوم المحكمة، تكاليف المحكمة، قيمة النزاع، جدول الرسوم، دفعة مقدمة، تحديد التكاليف، رسوم الاستئناف، رسوم أمر الدفع، تكاليف التنفيذ، استرداد التكاليف
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

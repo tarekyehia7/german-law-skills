@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Kündigung, Kündigungsschutz, Kündigungsschutzklage, sozial ungerechtfertigt, betriebsbedingte Kündigung, verhaltensbedingte Kündigung, personenbedingte Kündigung, Abfindung, Sozialauswahl, Massenentlassung, Kleinbetrieb, drei Wochen Frist, Wartezeit sechs Monate
+- **EN:** dismissal, fired, termination of employment, unfair dismissal, wrongful termination, protection against dismissal, dismissal lawsuit, redundancy, severance, social selection, mass layoff, small business exception, three week deadline, probation six months
+- **AR:** فصل من العمل، طرد من العمل، إنهاء عقد العمل، فصل تعسفي، الحماية من الفصل، دعوى ضد الفصل، تسريح، مكافأة نهاية الخدمة، تعويض الفصل، فصل جماعي، مهلة ثلاثة أسابيع، فترة الاختبار
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

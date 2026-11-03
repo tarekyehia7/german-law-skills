@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Staatsangehörigkeit, Einbürgerung, deutscher Pass, Einbürgerungsantrag, Einbürgerungstest, Sprachniveau B1, Aufenthaltsdauer Einbürgerung, Mehrstaatigkeit, doppelte Staatsbürgerschaft, Verlust Staatsangehörigkeit, Geburt in Deutschland, Abstammung, Optionspflicht, Ermessenseinbürgerung, Anspruchseinbürgerung, Einbürgerungsurkunde, Loyalitätserklärung, Unterhaltsfähigkeit
+- **EN:** citizenship, nationality, naturalisation, naturalization, German passport, citizenship application, citizenship test, language level B1, years of residence for citizenship, dual citizenship, multiple nationality, loss of citizenship, birth in Germany, descent, discretionary naturalisation, entitlement to naturalisation, certificate of naturalisation, declaration of loyalty
+- **AR:** الجنسية، التجنس، الجنسية الألمانية، الجواز الألماني، طلب التجنس، اختبار التجنس، مستوى اللغة B1، مدة الإقامة للتجنس، ازدواج الجنسية، جنسية مزدوجة، فقدان الجنسية، الولادة في ألمانيا، النسب، التجنس التقديري، الحق في التجنس، شهادة التجنس، إعلان الولاء
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

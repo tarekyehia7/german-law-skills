@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** GmbH, UG, Gründung, Stammkapital, Geschäftsführer, Gesellschafter, Gesellschafterversammlung, Gesellschaftsvertrag, Haftung Geschäftsführer, Insolvenzantragspflicht, Geschäftsanteil
+- **EN:** limited liability company, GmbH formation, share capital, managing director, shareholder, shareholders meeting, articles of association, director liability, share transfer, mini GmbH
+- **AR:** شركة ذات مسؤولية محدودة، تأسيس شركة، رأس المال، المدير العام، الشركاء، اجتماع الشركاء، عقد التأسيس، مسؤولية المدير، نقل الحصص
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

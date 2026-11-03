@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** unlauterer Wettbewerb, irreführende Werbung, Abmahnung, Unterlassung, aggressive Geschäftspraktiken, Spam, unerlaubte Telefonwerbung, Mitbewerber, Verbraucherschutz Werbung
+- **EN:** unfair competition, misleading advertising, cease and desist, warning letter, aggressive commercial practices, spam, cold calling, competitor
+- **AR:** المنافسة غير المشروعة، إعلانات مضللة، إنذار قانوني، الكف عن الفعل، ممارسات تجارية عدوانية، رسائل مزعجة، مكالمات تسويقية غير مرغوبة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

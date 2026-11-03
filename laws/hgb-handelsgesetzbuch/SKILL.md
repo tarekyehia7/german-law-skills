@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Kaufmann, Handelsregister, Firma, Prokura, OHG, KG, Kommanditgesellschaft, Handelsvertreter, Buchführung, Bilanz, Jahresabschluss, Handelskauf, Frachtgeschäft, Spedition, Lagergeschäft
+- **EN:** merchant, commercial register, company name, commercial power of attorney, general partnership, limited partnership, commercial agent, bookkeeping, balance sheet, annual accounts, commercial sale, freight, forwarding, warehousing
+- **AR:** تاجر، السجل التجاري، الاسم التجاري، وكالة تجارية، شركة تضامن، شركة توصية، وكيل تجاري، مسك الدفاتر، الميزانية، الحسابات السنوية، البيع التجاري، نقل البضائع، الشحن، التخزين
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

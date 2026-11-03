@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Notar, notarielle Beurkundung, Beurkundung, Urkunde, Niederschrift, Beglaubigung, Unterschriftsbeglaubigung, Vorlesen Urkunde, Belehrungspflicht Notar, Ausfertigung, beglaubigte Abschrift, Dolmetscher Notar, Beurkundung Ausländer, Vollmacht Beurkundung, Testament Notar, Erbvertrag Notar, Kaufvertrag Notar, Gesellschaftsvertrag Notar, Ehevertrag Notar, Verwahrung, Zentrales Testamentsregister, Vorsorgeregister, Notar Ablehnung, Mitwirkungsverbot, elektronische Beurkundung, Videobeurkundung GmbH, Zwei-Wochen-Frist Verbraucher, Notarkosten
+- **EN:** notary, notarisation, notarial deed, deed, record, certification, signature certification, reading out deed, notary duty to advise, official copy, certified copy, interpreter notary, notarisation foreigners, power of attorney notary, will notary, inheritance contract notary, purchase contract notary, articles of association notary, prenuptial agreement notary, custody by notary, central register of wills, register of powers of attorney, notary refusal, conflict of interest notary, electronic notarisation, video notarisation GmbH, two week period consumer, notary fees
+- **AR:** الموثق، النوتار، التوثيق لدى الموثق، التوثيق، وثيقة رسمية، محضر، التصديق، التصديق على التوقيع، قراءة الوثيقة، واجب الموثق في الإرشاد، نسخة رسمية، نسخة مصدقة، مترجم عند الموثق، توثيق للأجانب، توثيق التوكيل، وصية عند الموثق، عقد إرث عند الموثق، عقد بيع عند الموثق، عقد تأسيس عند الموثق، عقد زواج عند الموثق، الحفظ لدى الموثق، السجل المركزي للوصايا، سجل التوكيلات، رفض الموثق، منع المشاركة، التوثيق الإلكتروني، التوثيق بالفيديو، مهلة أسبوعين للمستهلك، أتعاب الموثق
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

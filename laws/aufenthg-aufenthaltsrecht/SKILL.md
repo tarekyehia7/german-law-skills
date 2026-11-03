@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Aufenthaltstitel, Aufenthaltserlaubnis, Visum, Niederlassungserlaubnis, Blaue Karte EU, Erlaubnis zum Daueraufenthalt EU, Fachkraft, Erwerbstätigkeit, Arbeitserlaubnis, Studium Aufenthalt, Ausbildung Aufenthalt, Arbeitsplatzsuche, Familiennachzug, Ehegattennachzug, Kindernachzug, Sprachnachweis, Lebensunterhalt gesichert, Ausweisung, Abschiebung, Duldung, Ausreisepflicht, Einreiseverbot, Ausländerbehörde, Fiktionsbescheinigung, Integrationskurs, humanitärer Aufenthalt, Aufenthalt aus humanitären Gründen, Chancenkarte, Selbständige, Au-pair, Forscher, Wohnsitzauflage, Verlängerung Aufenthaltserlaubnis, Passpflicht
+- **EN:** residence permit, residence title, visa, settlement permit, permanent residence, EU Blue Card, EU long-term residence, skilled worker, work permit, employment, student visa, vocational training visa, job seeker visa, family reunification, spouse visa, child reunification, language requirement, secured livelihood, expulsion, deportation, tolerated stay, obligation to leave, entry ban, foreigners office, immigration office, fiction certificate, integration course, humanitarian residence, self-employed visa, au pair, researcher visa, residence obligation, permit extension, passport requirement
+- **AR:** تصريح إقامة، سند إقامة، فيزا، تأشيرة، إقامة دائمة، البطاقة الزرقاء الأوروبية، إقامة طويلة الأمد في الاتحاد الأوروبي، عامل مؤهل، تصريح عمل، العمل، فيزا دراسة، إقامة دراسة، فيزا تدريب مهني، فيزا البحث عن عمل، لم شمل الأسرة، لم شمل الزوج، لم شمل الأطفال، شرط اللغة، تأمين المعيشة، الطرد، الترحيل، دولدونغ، الإقامة المتسامح بها، واجب المغادرة، منع الدخول، مكتب الأجانب، دائرة الهجرة، شهادة مؤقتة، دورة الاندماج، إقامة إنسانية، فيزا عمل حر، أو بير، فيزا باحث، تمديد الإقامة، شرط جواز السفر
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

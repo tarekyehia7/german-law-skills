@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Straftat, Strafe, Freiheitsstrafe, Geldstrafe, Bewährung, Vorsatz, Fahrlässigkeit, Notwehr, Versuch, Täter, Teilnahme, Beihilfe, Verjährung Straftat, Mord, Totschlag, Körperverletzung, Diebstahl, Raub, Betrug, Unterschlagung, Erpressung, Nötigung, Beleidigung, Verleumdung, Bedrohung, Hausfriedensbruch, Sachbeschädigung, Urkundenfälschung, Steuerhinterziehung, Geldwäsche, Sexualstraftaten, Vergewaltigung, Stalking, Volksverhetzung, Trunkenheit im Verkehr, Fahren ohne Fahrerlaubnis, Unfallflucht, Hehlerei, Untreue, Bestechung, Korruption, Widerstand gegen Vollstreckungsbeamte, Strafregister, Jugendstrafe
+- **EN:** crime, criminal offence, punishment, prison sentence, fine, probation, suspended sentence, intent, negligence, self-defence, attempt, perpetrator, accomplice, aiding, statute of limitations crime, murder, manslaughter, assault, bodily harm, theft, robbery, fraud, embezzlement, extortion, coercion, insult, defamation, threat, trespass, property damage, forgery, tax evasion, money laundering, sexual offences, rape, stalking, incitement to hatred, drunk driving, driving without licence, hit and run, handling stolen goods, breach of trust, bribery, corruption, resisting arrest, criminal record
+- **AR:** جريمة، جناية، عقوبة، حكم بالسجن، غرامة مالية، وقف التنفيذ، مراقبة قضائية، القصد الجنائي، الإهمال، الدفاع عن النفس، الشروع في الجريمة، الجاني، الشريك، المساعدة في الجريمة، تقادم الجريمة، قتل عمد، قتل، اعتداء، ضرب، إيذاء جسدي، سرقة، سرقة بالإكراه، نصب، احتيال، اختلاس، ابتزاز، إكراه، إهانة، سب، قذف، تشهير، تهديد، انتهاك حرمة المنزل، إتلاف ممتلكات، تزوير، تهرب ضريبي، غسيل أموال، جرائم جنسية، اغتصاب، ملاحقة، تحريض على الكراهية، القيادة تحت تأثير الكحول، القيادة بدون رخصة، الهروب من موقع الحادث، خيانة الأمانة، رشوة، فساد، مقاومة السلطات، السجل الجنائي
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

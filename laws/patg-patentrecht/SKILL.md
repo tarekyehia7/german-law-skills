@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Patent, Patentanmeldung, Erfindung, Patentverletzung, Patentamt, Lizenz Patent, Nichtigkeit, Arbeitnehmererfindung, Patentschutz
+- **EN:** patent, patent application, invention, patent infringement, patent office, patent licence, nullity, employee invention, patent protection
+- **AR:** براءة اختراع، طلب براءة، اختراع، التعدي على براءة الاختراع، مكتب البراءات، ترخيص براءة، إبطال البراءة، اختراع الموظف
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Versicherung, Versicherungsvertrag, Versicherungsnehmer, Versicherer, Prämie, Schadensfall, Obliegenheit, Haftpflichtversicherung, Lebensversicherung, Krankenversicherung privat, Kündigung Versicherung
+- **EN:** insurance, insurance contract, policyholder, insurer, premium, claim, liability insurance, life insurance, private health insurance, cancel insurance
+- **AR:** تأمين، عقد تأمين، المؤمن له، شركة التأمين، قسط التأمين، مطالبة تأمين، تأمين المسؤولية، تأمين على الحياة، التأمين الصحي الخاص، إلغاء التأمين
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

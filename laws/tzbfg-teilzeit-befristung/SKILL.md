@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Teilzeit, Befristung, befristeter Arbeitsvertrag, sachgrundlose Befristung, zwei Jahre, Kettenbefristung, Brückenteilzeit, Anspruch auf Teilzeit, Entfristung, Verlängerung befristeter Vertrag
+- **EN:** part-time, fixed-term contract, temporary contract, fixed term without reason, two years limit, chain of fixed-term contracts, right to part-time, bridge part-time, conversion to permanent, contract extension
+- **AR:** عمل بدوام جزئي، عقد محدد المدة، عقد مؤقت، تحديد المدة بدون سبب، حد السنتين، عقود مؤقتة متسلسلة، الحق في الدوام الجزئي، تحويل إلى عقد دائم، تمديد العقد المؤقت
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

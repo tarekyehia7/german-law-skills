@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Waffe, Waffenbesitzkarte, Waffenschein, kleiner Waffenschein, Schreckschusswaffe, Messer, verbotene Waffen, Munition, Aufbewahrung Waffen, Jäger, Sportschütze, Waffenverbot, Zuverlässigkeit
+- **EN:** weapon, firearm, gun licence, weapons possession card, small firearms licence, blank gun, knife, prohibited weapons, ammunition, storage of weapons, hunter, sport shooter, weapons ban, reliability check
+- **AR:** سلاح، سلاح ناري، رخصة سلاح، بطاقة حيازة سلاح، رخصة سلاح صغيرة، مسدس صوت، سكين، أسلحة محظورة، ذخيرة، تخزين الأسلحة، صياد، رماية رياضية، حظر الأسلحة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

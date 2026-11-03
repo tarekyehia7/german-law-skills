@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Mutterschutz, Schwangerschaft, Schwangere, Beschäftigungsverbot, Mutterschutzfrist, sechs Wochen vor, acht Wochen nach, Kündigungsverbot Schwangerschaft, Stillen, Mutterschaftsgeld, Arbeitgeberzuschuss
+- **EN:** maternity protection, pregnancy, pregnant employee, work prohibition, maternity leave period, six weeks before birth, eight weeks after birth, dismissal ban pregnancy, breastfeeding, maternity pay, employer top-up
+- **AR:** حماية الأمومة، الحمل، الموظفة الحامل، منع العمل، إجازة الولادة، ستة أسابيع قبل الولادة، ثمانية أسابيع بعد الولادة، منع الفصل أثناء الحمل، الرضاعة، بدل الأمومة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

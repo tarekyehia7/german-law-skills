@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Urheberrecht, Werk, Urheber, Nutzungsrecht, Lizenz, Zitat, Privatkopie, Abmahnung Filesharing, Schranken, Leistungsschutzrecht, Software, Fotos, Musik, Verwertungsgesellschaft
+- **EN:** copyright, work, author, licence, license, quotation, private copy, fair use, file sharing, software copyright, photos, music, collecting society, royalties
+- **AR:** حقوق المؤلف، حقوق النشر، عمل أدبي أو فني، المؤلف، ترخيص، اقتباس، نسخة خاصة، تبادل الملفات، حقوق البرمجيات، الصور، الموسيقى، الإتاوات
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

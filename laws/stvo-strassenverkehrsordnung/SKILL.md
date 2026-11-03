@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Straßenverkehrsordnung, Verkehrsregeln, Geschwindigkeit, Tempolimit, 50 innerorts, 100 außerorts, Autobahn Richtgeschwindigkeit, Abstand, Überholen, Vorfahrt, rechts vor links, Kreisverkehr, Ampel, rote Ampel, Verkehrszeichen, Verkehrsschilder, Parken, Halten, Parkverbot, Halteverbot, Anwohnerparken, Behindertenparkplatz, Rettungsgasse, Blaulicht, Handy am Steuer, Mobiltelefon, Gurtpflicht, Kindersitz, Fahrrad Regeln, Radweg, E-Scooter, Fußgänger, Zebrastreifen, Spielstraße, Winterreifen, Blinken, Lichtpflicht, Nebelscheinwerfer, Umweltzone, Unfall Verhalten, Warnblinker, Alkohol Fahrrad, Sonntagsfahrverbot LKW, Bußgeldkatalog, Fahrradstraße, Einbahnstraße, Reißverschlussverfahren, Einfädeln, Wenden, Rückwärtsfahren, Abschleppen, Anhänger, Ladung sichern
+- **EN:** road traffic regulations, traffic rules, speed, speed limit, 50 in town, 100 outside town, autobahn recommended speed, safe distance, overtaking, right of way, right before left, roundabout, traffic light, red light, traffic signs, parking, stopping, no parking, no stopping, resident parking, disabled parking, emergency lane, blue light, phone while driving, mobile phone, seat belt, child seat, bicycle rules, cycle path, e-scooter, pedestrians, zebra crossing, play street, winter tyres, indicating, lights obligation, fog lights, low emission zone, behaviour after accident, hazard lights, alcohol bicycle, sunday truck ban, fine catalogue, bicycle street, one-way street, zipper merge, merging, u-turn, reversing, towing, trailer, securing cargo
+- **AR:** لائحة المرور، قواعد المرور، السرعة، حد السرعة، 50 داخل المدينة، 100 خارج المدينة، السرعة الموصى بها على الأوتوبان، مسافة الأمان، التجاوز، حق الأولوية، اليمين قبل اليسار، الدوار، إشارة المرور، الإشارة الحمراء، علامات المرور، اللوحات المرورية، الوقوف، التوقف، منع الوقوف، منع التوقف، مواقف السكان، موقف ذوي الإعاقة، ممر الطوارئ، الضوء الأزرق، الهاتف أثناء القيادة، الهاتف المحمول، حزام الأمان، مقعد الأطفال، قواعد الدراجات، مسار الدراجات، سكوتر كهربائي، المشاة، ممر المشاة، شارع اللعب، إطارات الشتاء، الإشارة بالغماز، إلزامية الأضواء، أضواء الضباب، المنطقة البيئية، التصرف بعد الحادث، أضواء التحذير، الكحول والدراجة، منع الشاحنات يوم الأحد، جدول الغرامات، شارع الدراجات، شارع اتجاه واحد، الاندماج بالتناوب، الاندماج، الالتفاف، الرجوع للخلف، السحب، المقطورة، تأمين الحمولة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Verwaltungsgericht, Klage gegen Behörde, Anfechtungsklage, Verpflichtungsklage, Widerspruch, Widerspruchsverfahren, Klagefrist ein Monat, einstweiliger Rechtsschutz, aufschiebende Wirkung, Eilantrag, Oberverwaltungsgericht, Bundesverwaltungsgericht, Normenkontrolle, Untätigkeitsklage, Fortsetzungsfeststellungsklage
+- **EN:** administrative court, lawsuit against authority, action for annulment, action to compel, objection, objection procedure, one month deadline, interim relief, suspensive effect, urgent application, higher administrative court, federal administrative court, judicial review of regulations, action for failure to act
+- **AR:** المحكمة الإدارية، دعوى ضد جهة حكومية، دعوى إلغاء، دعوى إلزام، اعتراض، إجراءات الاعتراض، مهلة شهر للطعن، الحماية القضائية المستعجلة، الأثر الموقف، طلب مستعجل، المحكمة الإدارية العليا، المحكمة الإدارية الفيدرالية، دعوى بسبب عدم الرد
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Insolvenz, Insolvenzverfahren, Insolvenzverwalter, Gläubiger, Schuldner, Zahlungsunfähigkeit, Überschuldung, Restschuldbefreiung, Verbraucherinsolvenz, Privatinsolvenz, Insolvenzanfechtung, Insolvenzplan, Eigenverwaltung
+- **EN:** insolvency, bankruptcy, insolvency administrator, creditor, debtor, illiquidity, over-indebtedness, discharge of residual debt, consumer insolvency, personal bankruptcy, clawback, insolvency plan
+- **AR:** إعسار، إفلاس، مدير التفليسة، دائن، مدين، عدم القدرة على الدفع، إفلاس شخصي، إعفاء من الديون المتبقية، خطة الإعسار
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

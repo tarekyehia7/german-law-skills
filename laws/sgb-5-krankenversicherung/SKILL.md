@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Krankenversicherung, gesetzliche Krankenversicherung, Krankenkasse, Versicherungspflicht Krankenversicherung, freiwillige Versicherung, Familienversicherung, Beitrag Krankenversicherung, Zusatzbeitrag, Krankengeld, Arbeitsunfähigkeit, Krankenhaus, Arzt, Zahnarzt, Zahnersatz, Arzneimittel, Zuzahlung, Belastungsgrenze, Hilfsmittel, Heilmittel, Vorsorge, Früherkennung, Schwangerschaft Leistungen, Mutterschaftsgeld, Kinderkrankengeld, Krankenkasse wechseln, Kassenwahl, Kündigung Krankenkasse, Medizinischer Dienst, Reha Krankenkasse, Haushaltshilfe, Fahrkosten, Psychotherapie, Auslandsbehandlung, elektronische Gesundheitskarte, Widerspruch Krankenkasse, Studenten Krankenversicherung, Rentner Krankenversicherung, Selbständige Krankenversicherung, Beitragsschulden
+- **EN:** health insurance, statutory health insurance, public health insurance, health insurance fund, compulsory health insurance, voluntary insurance, family insurance, health insurance contribution, additional contribution, sickness benefit, incapacity for work, hospital, doctor, dentist, dentures, medication, co-payment, co-payment limit, medical aids, therapies, preventive care, screening, pregnancy benefits, maternity benefit, child sickness benefit, switching health insurance, cancel health insurance, medical service, rehabilitation, household help, travel costs, psychotherapy, treatment abroad, electronic health card, objection health insurance, student health insurance, pensioner health insurance, self-employed health insurance, contribution debts
+- **AR:** التأمين الصحي، التأمين الصحي الحكومي، التأمين الصحي القانوني، صندوق التأمين الصحي، الكرانكنكاسه، التأمين الصحي الإجباري، التأمين الطوعي، التأمين العائلي، اشتراك التأمين الصحي، الاشتراك الإضافي، بدل المرض، عدم القدرة على العمل، المستشفى، الطبيب، طبيب الأسنان، تركيبات الأسنان، الأدوية، المساهمة الذاتية، حد المساهمة، الأجهزة الطبية المساعدة، العلاج الطبيعي، الرعاية الوقائية، الفحص المبكر، خدمات الحمل، بدل الأمومة، بدل مرض الطفل، تغيير التأمين الصحي، إلغاء التأمين الصحي، الخدمة الطبية، إعادة التأهيل، مساعدة منزلية، تكاليف المواصلات، العلاج النفسي، العلاج في الخارج، البطاقة الصحية الإلكترونية، اعتراض على التأمين الصحي، تأمين صحي للطلاب، تأمين صحي للمتقاعدين، تأمين صحي للعمل الحر، ديون الاشتراكات
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

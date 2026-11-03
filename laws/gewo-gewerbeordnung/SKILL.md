@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Gewerbe, Gewerbeanmeldung, Gewerbeschein, Gewerbeerlaubnis, Gewerbeuntersagung, Unzuverlässigkeit, Reisegewerbe, Makler Erlaubnis, Bauträger, Versicherungsvermittler, Finanzanlagenvermittler, Bewachungsgewerbe, Spielhalle, Gaststätte, Messe, Markt, Handwerk Abgrenzung, Arbeitszeugnis, Gewerbezentralregister
+- **EN:** trade, business registration, trade licence, business permit, prohibition of trade, unreliability, itinerant trade, real estate agent licence, property developer, insurance broker, financial investment broker, security services, gambling hall, trade fair, market, employment reference, central trade register
+- **AR:** نشاط تجاري، تسجيل النشاط التجاري، رخصة تجارية، تصريح مزاولة النشاط، منع مزاولة النشاط، عدم الموثوقية، التجارة المتجولة، رخصة وسيط عقاري، مطور عقاري، وسيط تأمين، وسيط استثمار مالي، خدمات الحراسة، صالة قمار، معرض تجاري، سوق، شهادة خبرة، السجل التجاري المركزي
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

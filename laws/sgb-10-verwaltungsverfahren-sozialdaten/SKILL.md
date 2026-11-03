@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Verwaltungsverfahren Sozialleistungen, Sozialdaten, Sozialgeheimnis, Bescheid Sozialleistung, Rücknahme Bescheid, Aufhebung Bescheid, Erstattung Sozialleistungen, Rückforderung, Überzahlung, Verjährung Erstattung, Anhörung Sozialbehörde, Akteneinsicht Sozialamt, Wiedereinsetzung Frist, Überprüfungsantrag, Erstattungsanspruch zwischen Leistungsträgern, Datenübermittlung Behörden, Auskunft Sozialdaten, Vertrauensschutz, Zustellung Bescheid, Bekanntgabe Bescheid
+- **EN:** administrative procedure social benefits, social data, social secrecy, benefit decision, withdrawal of decision, revocation of decision, repayment of benefits, recovery claim, overpayment, limitation repayment, hearing social authority, access to files social office, reinstatement deadline, review application, reimbursement between providers, data transfer authorities, information social data, protection of legitimate expectations, service of decision, notification of decision
+- **AR:** الإجراءات الإدارية للمساعدات الاجتماعية، البيانات الاجتماعية، السرية الاجتماعية، قرار المساعدة الاجتماعية، سحب القرار، إلغاء القرار، استرداد المساعدات، مطالبة بالاسترداد، دفع زائد، تقادم الاسترداد، الاستماع في الجهة الاجتماعية، الاطلاع على ملف الشؤون الاجتماعية، إعادة المهلة، طلب مراجعة، تبادل البيانات بين الجهات، معلومات البيانات الاجتماعية، حماية الثقة المشروعة، تبليغ القرار
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

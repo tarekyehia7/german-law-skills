@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Urlaub, Urlaubsanspruch, Mindesturlaub, 24 Werktage, Urlaubsabgeltung, Urlaubsentgelt, Resturlaub, Übertragung Urlaub, Urlaub Krankheit, Teilurlaub
+- **EN:** vacation, holiday entitlement, annual leave, minimum leave, 24 working days, payout of unused leave, holiday pay, remaining leave, carry over leave, sick during vacation
+- **AR:** إجازة، استحقاق الإجازة، الإجازة السنوية، الحد الأدنى للإجازة، 24 يوم عمل، تعويض الإجازة غير المستخدمة، أجر الإجازة، الإجازة المتبقية، ترحيل الإجازة، المرض أثناء الإجازة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

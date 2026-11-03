@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Rente, Rentenversicherung, gesetzliche Rente, Altersrente, Regelaltersgrenze, Rente mit 67, Rente mit 63, langjährig Versicherte, besonders langjährig Versicherte, Erwerbsminderungsrente, Witwenrente, Witwerrente, Waisenrente, Hinterbliebenenrente, Rentenpunkte, Entgeltpunkte, Rentenformel, Wartezeit Rente, fünf Jahre Mindestversicherungszeit, Rentenbeitrag, Beitragsbemessungsgrenze Rente, Kindererziehungszeiten, Mütterrente, Anrechnungszeiten, Rehabilitation Rente, Flexirente, Teilrente, Hinzuverdienst Rente, Rentenabschlag, Rentenantrag, Rentenauskunft, Rentenbescheid, Rentenanpassung, Grundrente, Versorgungsausgleich Rente, Beitragserstattung Ausländer, Rente ins Ausland, Nachversicherung, freiwillige Beiträge Rente, Selbständige Rentenversicherung, Deutsche Rentenversicherung
+- **EN:** pension, pension insurance, statutory pension, old-age pension, retirement age, retire at 67, retire at 63, long-term insured, disability pension, reduced earning capacity pension, widow's pension, widower's pension, orphan's pension, survivor's pension, pension points, earnings points, pension formula, qualifying period pension, five years minimum insurance, pension contribution, contribution ceiling pension, child-raising periods, mothers' pension, credited periods, rehabilitation, flexible pension, partial pension, earning while retired, pension reduction, pension application, pension information, pension notice, pension adjustment, basic pension, pension splitting divorce, refund of contributions foreigners, pension abroad, voluntary contributions, self-employed pension insurance, German pension insurance
+- **AR:** المعاش، التقاعد، تأمين التقاعد، المعاش الحكومي، معاش الشيخوخة، سن التقاعد، التقاعد في 67، التقاعد في 63، المؤمن عليهم لفترة طويلة، معاش العجز، معاش انخفاض القدرة على العمل، معاش الأرملة، معاش الأرمل، معاش اليتيم، معاش الورثة، نقاط التقاعد، معادلة المعاش، فترة الانتظار للمعاش، خمس سنوات حد أدنى للتأمين، اشتراك التقاعد، الحد الأقصى لاشتراك التقاعد، فترات تربية الأطفال، معاش الأمهات، الفترات المحتسبة، إعادة التأهيل، المعاش المرن، معاش جزئي، العمل أثناء التقاعد، خصم من المعاش، طلب المعاش، معلومات المعاش، إشعار المعاش، تعديل المعاش، المعاش الأساسي، تقسيم المعاش عند الطلاق، استرداد اشتراكات الأجانب، المعاش في الخارج، اشتراكات طوعية، تأمين تقاعد للعمل الحر، هيئة التأمين التقاعدي الألمانية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Vertrag, Kaufvertrag, Mietvertrag, Miete, Kündigung, Kaution, Schadensersatz, Verjährung, Widerruf, Gewährleistung, Mangel, Darlehen, Bürgschaft, Eigentum, Besitz, Grundstück, Ehe, Scheidung, Unterhalt, Sorgerecht, Vaterschaft, Erbe, Testament, Pflichtteil, Vollmacht, Geschäftsfähigkeit, Verein, Stiftung, Arbeitsvertrag, Dienstvertrag, Werkvertrag, AGB, Verbraucher, Delikt, unerlaubte Handlung, Schmerzensgeld
+- **EN:** contract, purchase, sale, rent, lease, tenant, landlord, deposit, termination, damages, limitation period, withdrawal, warranty, defect, loan, guarantee, ownership, possession, real estate, marriage, divorce, maintenance, alimony, custody, paternity, inheritance, will, testament, power of attorney, legal capacity, association, foundation, employment contract, service contract, work contract, general terms and conditions, consumer, tort, liability, compensation for pain
+- **AR:** عقد، عقد بيع، عقد إيجار، إيجار، مستأجر، مالك، تأمين الإيجار، فسخ العقد، تعويض، تقادم، الرجوع عن العقد، ضمان، عيب، قرض، كفالة، ملكية، حيازة، عقار، زواج، طلاق، نفقة، حضانة، نسب، ميراث، وصية، توكيل، الأهلية القانونية، جمعية، مؤسسة، عقد عمل، الشروط العامة، مستهلك، مسؤولية تقصيرية، تعويض عن الضرر
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

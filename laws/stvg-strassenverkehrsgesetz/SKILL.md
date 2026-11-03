@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Straßenverkehrsgesetz, Fahrerlaubnis, Führerschein, Fahrerlaubnisentzug, Fahrverbot, Punkte Flensburg, Fahreignungsregister, Punktesystem, 8 Punkte, Halterhaftung, Haftung Unfall, Betriebsgefahr, Gefährdungshaftung Kfz, Schadensersatz Verkehrsunfall, Verjährung Verkehrsunfall, Kennzeichen, Zulassung Fahrzeug, Alkohol 0,5 Promille, Alkoholverbot Fahranfänger, Probezeit Führerschein, Aufbauseminar, Fahrzeugregister, Halterdaten Auskunft, Fahrtenbuchauflage, Ordnungswidrigkeit Verkehr, Bußgeld Verkehr, Begleitetes Fahren 17, MPU Anordnung, Autonomes Fahren, Kraftfahrt-Bundesamt
+- **EN:** road traffic act, driving licence, driver's license, licence revocation, driving ban, penalty points, driving aptitude register, points system, 8 points, vehicle owner liability, accident liability, operational risk, strict liability vehicle, damages traffic accident, limitation traffic accident, licence plate, vehicle registration, alcohol 0.5 limit, alcohol ban new drivers, probationary licence, advanced seminar, vehicle register, owner data inquiry, logbook requirement, traffic offence, traffic fine, accompanied driving 17, medical psychological assessment, autonomous driving, federal motor transport authority
+- **AR:** قانون المرور، رخصة القيادة، سحب رخصة القيادة، حظر القيادة، نقاط فلنسبورغ، سجل أهلية القيادة، نظام النقاط، 8 نقاط، مسؤولية مالك السيارة، مسؤولية الحادث، خطر التشغيل، المسؤولية المطلقة للسيارة، تعويض حادث مروري، تقادم حادث مروري، لوحة الترخيص، تسجيل السيارة، حد الكحول 0.5، منع الكحول للسائقين الجدد، فترة الاختبار لرخصة القيادة، ندوة تأهيلية، سجل المركبات، الاستعلام عن بيانات المالك، فرض سجل الرحلات، مخالفة مرورية، غرامة مرورية، القيادة المصحوبة في 17، الفحص الطبي النفسي، القيادة الذاتية، الهيئة الفيدرالية للنقل
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

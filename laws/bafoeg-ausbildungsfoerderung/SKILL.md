@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** BAföG, Ausbildungsförderung, Studienfinanzierung, BAföG Antrag, BAföG Höchstsatz, Bedarfssatz, Elternunabhängiges BAföG, Einkommen Eltern BAföG, Freibetrag BAföG, Vermögen BAföG, Förderungshöchstdauer, Regelstudienzeit, Fachrichtungswechsel, Leistungsnachweis, BAföG Rückzahlung, Darlehen BAföG, Zuschuss BAföG, Auslands-BAföG, Schüler-BAföG, Aufstiegs-BAföG, BAföG Ausländer, Altersgrenze BAföG, Kinderbetreuungszuschlag, Wohnpauschale
+- **EN:** student financial aid, BAföG, education grant, study financing, BAföG application, maximum rate, needs rate, parent-independent BAföG, parents' income, allowance, assets limit, maximum funding period, standard study period, change of subject, proof of performance, BAföG repayment, BAföG loan, BAföG grant, BAföG abroad, school BAföG, advancement BAföG, BAföG for foreigners, age limit, childcare supplement, housing lump sum
+- **AR:** البافوغ، الدعم المالي للطلاب، منحة التعليم، تمويل الدراسة، طلب البافوغ، الحد الأقصى للبافوغ، معدل الاحتياج، بافوغ مستقل عن الوالدين، دخل الوالدين، المبلغ المعفى، حد الأصول، الحد الأقصى لمدة الدعم، مدة الدراسة النظامية، تغيير التخصص، إثبات الأداء، سداد البافوغ، قرض البافوغ، منحة البافوغ، بافوغ للدراسة في الخارج، بافوغ للتلاميذ، بافوغ الترقية المهنية، بافوغ للأجانب، حد العمر، بدل رعاية الأطفال، بدل السكن
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

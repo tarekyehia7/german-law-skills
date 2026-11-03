@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Strafverfahren, Ermittlungsverfahren, Staatsanwaltschaft, Polizei, Beschuldigter, Angeklagter, Festnahme, Haftbefehl, Untersuchungshaft, Durchsuchung, Beschlagnahme, Vernehmung, Aussageverweigerungsrecht, Schweigerecht, Verteidiger, Pflichtverteidiger, Anklage, Hauptverhandlung, Urteil, Berufung, Revision, Strafbefehl, Einstellung des Verfahrens, Nebenkläger, Zeuge, Akteneinsicht, Telekommunikationsüberwachung, DNA, Opferrechte, Wiederaufnahme
+- **EN:** criminal procedure, criminal investigation, prosecutor, police, suspect, accused, defendant, arrest, arrest warrant, pre-trial detention, remand, search, seizure, interrogation, right to remain silent, defence lawyer, public defender, indictment, trial, verdict, appeal, penalty order, dismissal of charges, witness, access to files, wiretapping, DNA evidence, victim rights, retrial
+- **AR:** الإجراءات الجنائية، التحقيق الجنائي، النيابة العامة، الشرطة، المشتبه به، المتهم، القبض، أمر القبض، الحبس الاحتياطي، التفتيش، المصادرة، الاستجواب، حق الصمت، محامي الدفاع، محامي منتدب، لائحة الاتهام، المحاكمة، الحكم، الاستئناف، النقض، أمر عقوبة، حفظ الدعوى، الشاهد، الاطلاع على الملف، مراقبة الاتصالات، حقوق الضحية، إعادة المحاكمة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Sozialversicherung, Beschäftigung, Versicherungspflicht, geringfügige Beschäftigung, Minijob, Midijob, Übergangsbereich, Beitragsbemessungsgrenze, Gesamtsozialversicherungsbeitrag, Arbeitgeber Meldepflicht, Betriebsprüfung, Scheinselbständigkeit, Statusfeststellung, Entsendung, Sozialversicherungsausweis, Beitragsnachweis, Säumniszuschlag, Verjährung Beiträge, Einzugsstelle, Arbeitsentgelt Definition
+- **EN:** social insurance, employment, compulsory insurance, marginal employment, mini job, midi job, transition zone, contribution ceiling, total social insurance contribution, employer reporting duty, social insurance audit, bogus self-employment, status determination, posting of workers, social insurance card, contribution statement, late payment surcharge, limitation period contributions, collection agency, definition of wages
+- **AR:** التأمين الاجتماعي، العمل، التأمين الإجباري، عمل هامشي، ميني جوب، ميدي جوب، منطقة انتقالية، الحد الأقصى للاشتراكات، إجمالي اشتراكات التأمين الاجتماعي، واجب الإبلاغ لصاحب العمل، تدقيق التأمين الاجتماعي، عمل حر صوري، تحديد الوضع، إعارة العمال، بطاقة التأمين الاجتماعي، بيان الاشتراكات، رسوم التأخير، تقادم الاشتراكات، تعريف الأجر
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

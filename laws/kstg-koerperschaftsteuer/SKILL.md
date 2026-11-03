@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Körperschaftsteuer, GmbH Steuer, AG Steuer, 15 Prozent, verdeckte Gewinnausschüttung, Organschaft, Verlustabzug Körperschaft, Mantelkauf, Beteiligungserträge, Schachtelprivileg, Gemeinnützige Körperschaft Steuer, Verein Steuer, Zinsschranke, Betriebsstätte, Liquidation Steuer
+- **EN:** corporate income tax, corporation tax, GmbH tax, 15 percent, hidden profit distribution, tax group, loss deduction corporation, shell company purchase, dividend income, participation exemption, non-profit corporation tax, association tax, interest barrier, permanent establishment, liquidation tax
+- **AR:** ضريبة الشركات، ضريبة الشركة ذات المسؤولية المحدودة، ضريبة شركة المساهمة، 15 بالمئة، توزيع أرباح مستتر، المجموعة الضريبية، خصم خسائر الشركة، شراء شركة وهمية، دخل الأرباح الموزعة، إعفاء المساهمات، ضريبة المؤسسات غير الربحية، ضريبة الجمعيات، حد الفائدة، المنشأة الدائمة، ضريبة التصفية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

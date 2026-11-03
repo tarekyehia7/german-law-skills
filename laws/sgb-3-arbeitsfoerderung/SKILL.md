@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Arbeitslosengeld, Arbeitslosengeld I, ALG I, Arbeitsagentur, Agentur für Arbeit, Anwartschaftszeit, zwölf Monate, Sperrzeit, Arbeitslosmeldung, Eigenkündigung Sperrzeit, Bemessungsentgelt, 60 Prozent, 67 Prozent, Anspruchsdauer, Weiterbildung, Bildungsgutschein, Vermittlungsbudget, Kurzarbeitergeld, Insolvenzgeld, Gründungszuschuss, Eingliederungszuschuss, Berufsberatung, Vermittlungsvorschlag, Arbeitslosenversicherung, Beiträge Arbeitslosenversicherung, Arbeitsunfähigkeit Arbeitslosengeld, Nebeneinkommen, Teilarbeitslosengeld
+- **EN:** unemployment benefit, unemployment insurance, employment agency, qualifying period, twelve months, suspension period, registering as unemployed, quitting job suspension, assessment wage, 60 percent, 67 percent, duration of benefit, further training, education voucher, placement budget, short-time work allowance, insolvency benefit, start-up grant, integration subsidy, career counselling, job offer, unemployment contributions, sick while unemployed, side income, partial unemployment benefit
+- **AR:** إعانة البطالة، إعانة البطالة الأولى، تأمين البطالة، وكالة العمل، فترة الاستحقاق، اثنا عشر شهرا، فترة الحظر، التسجيل كعاطل عن العمل، الاستقالة وفترة الحظر، أجر التقييم، 60 بالمئة، 67 بالمئة، مدة الإعانة، التدريب المستمر، قسيمة التعليم، ميزانية التوظيف، بدل العمل المختصر، بدل الإعسار، منحة تأسيس، دعم الإدماج، الاستشارة المهنية، عرض عمل، اشتراكات تأمين البطالة، المرض أثناء البطالة، دخل جانبي، إعانة بطالة جزئية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

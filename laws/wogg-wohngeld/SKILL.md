@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Wohngeld, Mietzuschuss, Lastenzuschuss, Wohngeldantrag, Wohngeldstelle, Einkommensgrenze Wohngeld, Haushaltsmitglieder, Miethöchstbetrag, Mietenstufe, Heizkostenkomponente, Klimakomponente, Wohngeld Rentner, Wohngeld Studenten, Wohngeld Ausländer, Wohngeld berechnen, Wohngeld Plus, Bewilligungszeitraum, Rückforderung Wohngeld
+- **EN:** housing benefit, housing allowance, rent subsidy, subsidy for homeowners, housing benefit application, housing benefit office, income limit housing benefit, household members, maximum rent, rent level, heating cost component, climate component, housing benefit pensioners, housing benefit students, housing benefit foreigners, calculate housing benefit, approval period, repayment housing benefit
+- **AR:** بدل السكن، الفونغيلد، دعم الإيجار، دعم لأصحاب المنازل، طلب بدل السكن، مكتب بدل السكن، حد الدخل لبدل السكن، أفراد الأسرة، الحد الأقصى للإيجار، مستوى الإيجار، مكون تكاليف التدفئة، المكون المناخي، بدل السكن للمتقاعدين، بدل السكن للطلاب، بدل السكن للأجانب، حساب بدل السكن، فترة الموافقة، استرداد بدل السكن
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

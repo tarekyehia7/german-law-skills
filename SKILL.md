@@ -20,6 +20,10 @@ metadata:
 4. **Answer with the exact German wording**, cited as `§ 433 Abs. 1 BGB`, then explain/translate. Mark your own interpretation clearly.
 5. **Always add**: the text is the 2022 state of the law and not legal advice; newer amendments may apply.
 
+## Any language works / أي لغة تعمل
+
+Questions may be asked in **German, English, Arabic or any other language**. Each law's `SKILL.md` lists its topics in DE / EN / AR under *Keywords*, and `laws/keywords.md` is the combined trilingual index: search it for a word from the question (e.g. `فصل من العمل`, `fired`, `Kündigung`) to find the law, then open that law's skill. The statute text itself is German; quote it in German and translate afterwards.
+
 ## Quick routing hints
 
 - Contract, purchase, rent, damages, divorce, inheritance, custody → **BGB**; which country's law applies → **EGBGB**

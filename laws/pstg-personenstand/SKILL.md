@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Standesamt, Personenstand, Geburtsurkunde, Geburt anmelden, Heiratsurkunde, Eheurkunde, Eheschließung anmelden, Ehefähigkeitszeugnis, Sterbeurkunde, Todesfall anzeigen, Namensänderung, Namenserklärung, Vaterschaftsanerkennung Standesamt, Geburtenregister, Eheregister, Sterberegister, Lebenspartnerschaftsregister, Personenstandsurkunde, beglaubigter Registerausdruck, Urkunde beantragen, Auslandsheirat anerkennen, Nachbeurkundung Geburt Ausland, Nachbeurkundung Ehe Ausland, ausländische Urkunde, Apostille, Legalisation, Übersetzung Urkunde, Vorname ändern Kind, Geschlechtseintrag, Kirchenaustritt, Familienbuch, Standesbeamter
+- **EN:** registry office, civil status, birth certificate, register a birth, marriage certificate, register a marriage, certificate of no impediment, death certificate, report a death, name change, name declaration, acknowledgement of paternity registry, birth register, marriage register, death register, civil partnership register, civil status certificate, certified register printout, apply for certificate, recognition of foreign marriage, subsequent registration birth abroad, subsequent registration marriage abroad, foreign document, apostille, legalisation, translation of document, change child's first name, gender entry, leaving the church, family book, registrar
+- **AR:** مكتب الأحوال المدنية، الشتاندس أمت، الأحوال المدنية، شهادة الميلاد، تسجيل الولادة، شهادة الزواج، عقد الزواج، تسجيل الزواج، شهادة أهلية الزواج، شهادة الوفاة، الإبلاغ عن الوفاة، تغيير الاسم، إعلان الاسم، الاعتراف بالأبوة في مكتب الأحوال، سجل المواليد، سجل الزواج، سجل الوفيات، سجل الشراكة المدنية، وثيقة الأحوال المدنية، مستخرج مصدق من السجل، طلب وثيقة، الاعتراف بزواج في الخارج، تسجيل لاحق لولادة في الخارج، تسجيل لاحق لزواج في الخارج، وثيقة أجنبية، أبوستيل، التصديق القنصلي، ترجمة الوثيقة، تغيير اسم الطفل، خانة الجنس، الخروج من الكنيسة، دفتر العائلة، موظف الأحوال المدنية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

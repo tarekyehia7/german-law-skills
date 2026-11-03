@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Datenschutz, DSGVO Ergänzung, personenbezogene Daten, Datenschutzbeauftragter, Beschäftigtendatenschutz, Videoüberwachung, Scoring, Auskunftsrecht, Löschung, Bußgeld Datenschutz, Aufsichtsbehörde, Datenschutz Behörden, Verarbeitung besonderer Kategorien
+- **EN:** data protection, GDPR supplement, personal data, data protection officer, employee data protection, video surveillance, credit scoring, right of access, erasure, data protection fine, supervisory authority, sensitive data processing
+- **AR:** حماية البيانات، اللائحة العامة لحماية البيانات، البيانات الشخصية، مسؤول حماية البيانات، حماية بيانات الموظفين، المراقبة بالفيديو، التقييم الائتماني، حق الوصول للبيانات، حذف البيانات، غرامة حماية البيانات، هيئة الرقابة، معالجة البيانات الحساسة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

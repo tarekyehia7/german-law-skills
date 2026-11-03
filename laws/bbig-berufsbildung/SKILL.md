@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Ausbildung, Berufsausbildung, Auszubildender, Azubi, Ausbildungsvertrag, Probezeit Ausbildung, Ausbildungsvergütung, Abschlussprüfung, Zwischenprüfung, Kündigung Ausbildung, Berufsschule, IHK, Ausbilder, Umschulung
+- **EN:** vocational training, apprenticeship, apprentice, training contract, probation apprenticeship, training allowance, final exam, intermediate exam, termination of apprenticeship, vocational school, chamber of commerce, trainer, retraining
+- **AR:** التدريب المهني، أوسبيلدونغ، متدرب، عقد التدريب، فترة الاختبار في التدريب، راتب التدريب، الامتحان النهائي، الامتحان المتوسط، إنهاء التدريب، المدرسة المهنية، غرفة التجارة، المدرب، إعادة التأهيل المهني
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

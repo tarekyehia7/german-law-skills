@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Arbeitnehmerüberlassung, Leiharbeit, Zeitarbeit, Verleiher, Entleiher, Equal Pay, Equal Treatment, Höchstüberlassungsdauer, 18 Monate, Erlaubnis Arbeitnehmerüberlassung, Scheinwerkvertrag
+- **EN:** temporary agency work, agency worker, staff leasing, temp agency, hirer, equal pay, equal treatment, maximum assignment period, 18 months, agency licence, bogus contract for work
+- **AR:** العمل عبر وكالات التوظيف، عمالة مؤقتة، تأجير العمال، وكالة التوظيف، الشركة المستعيرة، المساواة في الأجر، المساواة في المعاملة، الحد الأقصى لمدة الإعارة، 18 شهر، ترخيص الوكالة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

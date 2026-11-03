@@ -6,8 +6,9 @@ The full German text of **82 core federal laws (17,064 paragraphs)**, packaged a
 SKILL.md                      ← router: which law applies to a question
 laws/
   index.json                  ← machine-readable list of all laws
+  keywords.md                 ← trilingual topic index (DE / EN / AR) → law
   bgb-buergerliches-gesetzbuch/
-    SKILL.md                  ← metadata + outline table (section → chunk file → §§)
+    SKILL.md                  ← metadata, DE/EN/AR keywords, outline table (section → chunk file → §§)
     toc.md                    ← every § with its heading and chunk file
     text/
       01-buch-1-allgemeiner-teil.md
@@ -19,9 +20,12 @@ laws/
 scripts/
   build.py                    ← regenerates everything from the source mirror
   codes.json                  ← which laws to include + one-line descriptions
+  keywords.json               ← German / English / Arabic topic keywords per law
 ```
 
 Every file is plain Markdown, so the pack works wherever an AI can read files.
+
+**Ask in any language.** Every law carries its topics in German, English and Arabic (≈4,500 keywords in total), and `laws/keywords.md` is the combined index, so a question like *"I got fired without notice"* or *"اتفصلت من الشغل من غير إنذار"* routes to KSchG and BGB § 622 just as *"fristlose Kündigung"* does. The statute text itself is German; the skills instruct the AI to quote it in German and then translate.
 
 ## Which laws are included
 

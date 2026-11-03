@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Entgeltfortzahlung, Krankheit, sechs Wochen, Lohnfortzahlung im Krankheitsfall, Feiertag Lohn, Arbeitsunfähigkeitsbescheinigung, Krankmeldung, Krankengeld Übergang
+- **EN:** sick pay, continued payment during illness, six weeks, pay on public holidays, sick note, doctor's certificate, calling in sick, sickness benefit transition
+- **AR:** أجر المرض، استمرار الأجر أثناء المرض، ستة أسابيع، أجر العطلات الرسمية، شهادة مرضية، الإبلاغ عن المرض، بدل المرض
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Familiengericht, Scheidungsverfahren, Scheidungsantrag, Sorgerechtsverfahren, Umgangsrecht, Unterhaltsverfahren, Gewaltschutz, Betreuungsverfahren, Nachlassverfahren, Erbschein, Adoption Verfahren, Kindesanhörung, Verfahrensbeistand, Jugendamt Gericht, Registersachen, Freiheitsentziehung
+- **EN:** family court, divorce proceedings, divorce petition, custody proceedings, visitation rights, contact rights, maintenance proceedings, protection against violence, guardianship proceedings, probate, certificate of inheritance, adoption proceedings, hearing of the child, guardian ad litem, register matters
+- **AR:** محكمة الأسرة، إجراءات الطلاق، طلب الطلاق، إجراءات الحضانة، حق الزيارة، إجراءات النفقة، الحماية من العنف، إجراءات الوصاية، إجراءات الإرث، شهادة الوراثة، إجراءات التبني، سماع الطفل، ممثل الطفل، مسائل السجلات
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

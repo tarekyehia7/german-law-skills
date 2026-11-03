@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Impressum, Anbieterkennzeichnung, Telemedien, Haftung Hosting, Haftung Links, Störerhaftung, Herkunftslandprinzip, kommerzielle Kommunikation, Website Pflichtangaben, Diensteanbieter
+- **EN:** imprint, legal notice website, provider identification, telemedia, hosting liability, liability for links, country of origin principle, commercial communication, website mandatory information, service provider
+- **AR:** بيانات الناشر، الإشعار القانوني للموقع، تعريف مقدم الخدمة، خدمات الإنترنت، مسؤولية الاستضافة، المسؤولية عن الروابط، مبدأ بلد المنشأ، التواصل التجاري، المعلومات الإلزامية للموقع، مقدم الخدمة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

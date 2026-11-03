@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Arbeitsgericht, Klage Arbeitsgericht, Güteverhandlung, Landesarbeitsgericht, Bundesarbeitsgericht, Berufung, Revision, Kosten Arbeitsgericht, Prozessvertretung Gewerkschaft, Beschlussverfahren
+- **EN:** labour court, employment tribunal, lawsuit against employer, conciliation hearing, regional labour court, federal labour court, appeal, costs labour court, union representation
+- **AR:** محكمة العمل، دعوى ضد صاحب العمل، جلسة التوفيق، محكمة العمل الإقليمية، محكمة العمل الفيدرالية، استئناف، تكاليف محكمة العمل، تمثيل النقابة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

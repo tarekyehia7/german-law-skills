@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Sozialhilfe, Grundsicherung im Alter, Grundsicherung bei Erwerbsminderung, Hilfe zum Lebensunterhalt, Sozialamt, Hilfe zur Pflege, Hilfe zur Gesundheit, Eingliederungshilfe alt, Hilfe in besonderen Lebenslagen, Bestattungskosten, Einkommen Sozialhilfe, Vermögen Sozialhilfe, Schonvermögen, Unterhaltsrückgriff, Elternunterhalt, Kinder Unterhalt Sozialamt, 100000 Euro Grenze, Regelsatz Sozialhilfe, Mehrbedarf Sozialhilfe, Kosten der Unterkunft Sozialhilfe, Sozialhilfe Ausländer, Blindenhilfe, Altenhilfe, Darlehen Sozialamt
+- **EN:** social assistance, welfare, basic income old age, basic income reduced earning capacity, subsistence assistance, social welfare office, assistance with care, health assistance, assistance in special situations, funeral costs, income social assistance, assets social assistance, protected assets, maintenance recourse, parental maintenance, children paying for parents, 100000 euro threshold, standard rate welfare, additional needs welfare, housing costs welfare, welfare for foreigners, assistance for the blind, assistance for the elderly, loan welfare office
+- **AR:** المساعدة الاجتماعية، الرعاية الاجتماعية، الضمان الأساسي في الشيخوخة، الضمان الأساسي عند انخفاض القدرة على العمل، مساعدة المعيشة، مكتب الشؤون الاجتماعية، السوتسيال أمت، المساعدة في الرعاية، المساعدة الصحية، المساعدة في الظروف الخاصة، تكاليف الدفن، الدخل والمساعدة الاجتماعية، الأصول والمساعدة الاجتماعية، الأصول المحمية، الرجوع على الملتزم بالنفقة، نفقة الوالدين، الأطفال يدفعون للوالدين، حد 100000 يورو، المبلغ الأساسي للمساعدة الاجتماعية، احتياجات إضافية، تكاليف السكن، المساعدة الاجتماعية للأجانب، مساعدة المكفوفين، مساعدة المسنين، قرض من مكتب الشؤون الاجتماعية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

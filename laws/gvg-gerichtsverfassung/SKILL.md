@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Gerichtsaufbau, Amtsgericht, Landgericht, Oberlandesgericht, Bundesgerichtshof, Zuständigkeit, Schöffen, Richter, Staatsanwaltschaft Organisation, Gerichtssprache, Öffentlichkeit, Rechtshilfe, Kammer, Senat, Rechtsweg
+- **EN:** court system, local court, regional court, higher regional court, federal court of justice, jurisdiction, lay judges, judges, prosecution office organisation, court language, public hearing, judicial assistance, chamber, senate
+- **AR:** النظام القضائي، المحكمة المحلية، المحكمة الإقليمية، المحكمة الإقليمية العليا، محكمة العدل الفيدرالية، الاختصاص، القضاة الشعبيون، القضاة، تنظيم النيابة العامة، لغة المحكمة، علنية الجلسات، المساعدة القضائية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

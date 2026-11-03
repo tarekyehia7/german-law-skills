@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Bürgergeld, Hartz IV, Arbeitslosengeld II, Grundsicherung für Arbeitsuchende, Jobcenter, Regelbedarf, Regelsatz, Kosten der Unterkunft, Miete Jobcenter, Bedarfsgemeinschaft, Mehrbedarf, Einkommen Anrechnung, Vermögen Schonvermögen, Sanktionen, Leistungsminderung, Eingliederungsvereinbarung, Kooperationsplan, Zumutbare Arbeit, Erstausstattung, Bildung und Teilhabe, Erwerbsfähigkeit, Hilfebedürftigkeit, Aufstocker, Umzug Jobcenter, Darlehen Jobcenter, Ausländer Leistungsausschluss, Widerspruch Jobcenter
+- **EN:** citizen's income, Bürgergeld, unemployment benefit II, basic income support, job center, standard rate, housing costs, rent job center, benefit community, additional needs, income deduction, assets allowance, sanctions, benefit reduction, integration agreement, reasonable work, initial furnishing, education and participation, capacity to work, need for assistance, top-up benefits, moving job center, loan job center, exclusion of foreigners, objection job center
+- **AR:** بورغرغيلد، دخل المواطن، هارتس 4، إعانة البطالة الثانية، الضمان الأساسي للباحثين عن عمل، الجوب سنتر، مركز العمل، المبلغ الأساسي، تكاليف السكن، إيجار الجوب سنتر، مجتمع الاحتياج، احتياجات إضافية، احتساب الدخل، الأصول المعفاة، عقوبات، تخفيض الإعانة، اتفاقية الإدماج، خطة التعاون، عمل مقبول، التجهيز الأولي، التعليم والمشاركة، القدرة على العمل، الحاجة للمساعدة، مكمل الدخل، الانتقال مع الجوب سنتر، قرض من الجوب سنتر، استثناء الأجانب، اعتراض على الجوب سنتر
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

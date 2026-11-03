@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build portable AI skill packs from the bundestag/gesetze Markdown mirror.
 
-Usage: build.py <mirror_dir> <codes.json> <out_dir>
+Usage: build.py <mirror_dir> <codes.json> <out_dir>   (keywords.json next to codes.json is picked up automatically)
 
 For every law in codes.json this produces
 
@@ -166,7 +166,8 @@ def para_range(chunk):
     return short(paras[0]) if len(paras) == 1 else f"{short(paras[0])} – {short(paras[-1])}"
 
 
-def build_law(mirror, code, out_root):
+def build_law(mirror, code, out_root, kw=None):
+    kw = kw or {"de": [], "en": [], "ar": []}
     src = None
     for cand in Path(mirror).glob(f"*/{code['slug']}/index.md"):
         src = cand
@@ -238,6 +239,14 @@ def build_law(mirror, code, out_root):
         "4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.",
         "5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.",
         "",
+        "## Keywords / Stichwörter / كلمات مفتاحية",
+        "",
+        "Questions in any language that mention these topics belong to this law:",
+        "",
+        f"- **DE:** {', '.join(kw['de'])}",
+        f"- **EN:** {', '.join(kw['en'])}",
+        f"- **AR:** {'، '.join(kw['ar'])}",
+        "",
         "## Outline (chunk → content)",
         "",
         "| # | File | Section | Paragraphs | Size |",
@@ -258,7 +267,8 @@ def build_law(mirror, code, out_root):
     (skill_dir / "toc.md").write_text("\n".join(toc) + "\n", encoding="utf-8")
 
     return {"skill": code["skill"], "jurabk": jurabk, "title": title, "area": code["area"], "en": code["en"],
-            "paragraphs": n_paras, "chunks": len(chunks), "size": total, "stand": meta.get("Zuletzt geändert durch", "")}
+            "paragraphs": n_paras, "chunks": len(chunks), "size": total, "stand": meta.get("Zuletzt geändert durch", ""),
+            "keywords": kw}
 
 
 def build_router(results, out_root):
@@ -288,6 +298,10 @@ def build_router(results, out_root):
         "4. **Answer with the exact German wording**, cited as `§ 433 Abs. 1 BGB`, then explain/translate. Mark your own interpretation clearly.",
         "5. **Always add**: the text is the 2022 state of the law and not legal advice; newer amendments may apply.",
         "",
+        "## Any language works / أي لغة تعمل",
+        "",
+        "Questions may be asked in **German, English, Arabic or any other language**. Each law's `SKILL.md` lists its topics in DE / EN / AR under *Keywords*, and `laws/keywords.md` is the combined trilingual index: search it for a word from the question (e.g. `فصل من العمل`, `fired`, `Kündigung`) to find the law, then open that law's skill. The statute text itself is German; quote it in German and translate afterwards.",
+        "",
         "## Quick routing hints",
         "",
         "- Contract, purchase, rent, damages, divorce, inheritance, custody → **BGB**; which country's law applies → **EGBGB**",
@@ -312,13 +326,24 @@ def build_router(results, out_root):
     (Path(out_root) / "SKILL.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     (Path(out_root) / "laws" / "index.json").write_text(json.dumps(results, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
+    kwl = ["# Trilingual keyword index · Stichwortindex · فهرس الكلمات المفتاحية", "",
+           "Search this file for a word from the question in German, English or Arabic. Each hit names the law and its skill folder.", ""]
+    for r in results:
+        kwl += [f"## {r['jurabk']} – {r['title']}  →  `laws/{r['skill']}/`", "",
+                f"- **DE:** {', '.join(r['keywords']['de'])}",
+                f"- **EN:** {', '.join(r['keywords']['en'])}",
+                f"- **AR:** {'، '.join(r['keywords']['ar'])}", ""]
+    (Path(out_root) / "laws" / "keywords.md").write_text("\n".join(kwl) + "\n", encoding="utf-8")
+
 
 def main():
     mirror, codes_path, out_root = sys.argv[1:4]
     codes = json.loads(Path(codes_path).read_text(encoding="utf-8"))
+    kw_path = Path(codes_path).with_name("keywords.json")
+    keywords = json.loads(kw_path.read_text(encoding="utf-8")) if kw_path.exists() else {}
     results = []
     for code in codes:
-        r = build_law(mirror, code, out_root)
+        r = build_law(mirror, code, out_root, keywords.get(code["slug"]))
         if r:
             results.append(r)
             print(f"{r['jurabk']:<12} {r['paragraphs']:>5} §§  {r['chunks']:>3} chunks  {r['size'] // 1000:>5} KB")

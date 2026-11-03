@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Zivilprozess, Klage, Klageerhebung, Zuständigkeit Gericht, Streitwert, Beweis, Zeuge, Sachverständiger, Urteil, Versäumnisurteil, Berufung, Revision, Mahnverfahren, Mahnbescheid, Vollstreckungsbescheid, Zwangsvollstreckung, Gerichtsvollzieher, Pfändung, Kontopfändung, Lohnpfändung, Pfändungsfreigrenze, einstweilige Verfügung, Arrest, Prozesskostenhilfe, Vergleich, Kostenentscheidung, Anwaltszwang, Schlichtung, Vollstreckbare Ausfertigung, Vermögensauskunft
+- **EN:** civil procedure, civil lawsuit, filing a claim, court jurisdiction, amount in dispute, evidence, witness, expert witness, judgment, default judgment, appeal, dunning procedure, payment order, enforcement order, enforcement, bailiff, garnishment, account seizure, wage garnishment, exempt amount, injunction, interim relief, legal aid, settlement, cost decision, mandatory lawyer, mediation, debtor disclosure
+- **AR:** الإجراءات المدنية، دعوى مدنية، رفع دعوى، اختصاص المحكمة، قيمة النزاع، الإثبات، الشاهد، الخبير، الحكم، حكم غيابي، الاستئناف، النقض، إجراءات المطالبة بالدين، أمر الدفع، أمر التنفيذ، التنفيذ الجبري، المحضر، الحجز، الحجز على الحساب، الحجز على الراتب، الحد المعفى من الحجز، أمر قضائي مستعجل، المساعدة القضائية، تسوية، قرار التكاليف، الوساطة، إفصاح المدين
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

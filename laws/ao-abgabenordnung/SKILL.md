@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Abgabenordnung, Steuerverfahren, Finanzamt, Steuerbescheid, Einspruch Steuerbescheid, Einspruchsfrist ein Monat, Steuererklärung Frist, Verspätungszuschlag, Säumniszuschlag, Zinsen Steuer, Stundung, Erlass, Vollstreckung Finanzamt, Festsetzungsfrist, Verjährung Steuer, Außenprüfung, Betriebsprüfung Finanzamt, Steuerhinterziehung, Selbstanzeige, leichtfertige Steuerverkürzung, Steuergeheimnis, Steuernummer, Steuer-ID, Mitwirkungspflicht Steuer, Aufbewahrungspflicht, Buchführungspflicht, Schätzung Besteuerungsgrundlagen, Änderung Steuerbescheid, offenbare Unrichtigkeit, neue Tatsachen, Haftung Steuer, Gemeinnützigkeit, Verbindliche Auskunft, Wiedereinsetzung Finanzamt, Aussetzung der Vollziehung, Steuerstrafverfahren
+- **EN:** fiscal code, tax procedure, tax office, tax assessment notice, objection tax notice, one month objection deadline, tax return deadline, late filing penalty, late payment surcharge, tax interest, deferral, remission, enforcement tax office, assessment period, tax limitation period, tax audit, tax evasion, voluntary disclosure, reckless tax understatement, tax secrecy, tax number, tax ID, duty to cooperate tax, retention obligation, bookkeeping obligation, estimation of tax base, amendment of tax assessment, obvious error, new facts, tax liability third party, non-profit status, binding ruling, reinstatement tax office, suspension of enforcement, tax criminal proceedings
+- **AR:** قانون الإجراءات الضريبية، الإجراءات الضريبية، مكتب الضرائب، الفينانس أمت، إشعار التقييم الضريبي، الاعتراض على الإشعار الضريبي، مهلة الاعتراض شهر، موعد التصريح الضريبي، غرامة التأخير في التقديم، رسوم التأخير في الدفع، فوائد الضرائب، تأجيل الدفع، الإعفاء، التنفيذ من مكتب الضرائب، فترة التقييم، تقادم الضرائب، التدقيق الضريبي، التهرب الضريبي، الإبلاغ الذاتي، التخفيض الضريبي بإهمال، السرية الضريبية، الرقم الضريبي، رقم التعريف الضريبي، واجب التعاون الضريبي، واجب الاحتفاظ بالمستندات، واجب مسك الدفاتر، تقدير الوعاء الضريبي، تعديل الإشعار الضريبي، خطأ واضح، حقائق جديدة، المسؤولية الضريبية، صفة النفع العام، رأي ملزم، إعادة المهلة، وقف التنفيذ، الإجراءات الجنائية الضريبية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

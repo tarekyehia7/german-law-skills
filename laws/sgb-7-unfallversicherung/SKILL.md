@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Unfallversicherung, Arbeitsunfall, Wegeunfall, Berufskrankheit, Berufsgenossenschaft, Verletztengeld, Verletztenrente, Minderung der Erwerbsfähigkeit, Hinterbliebene Arbeitsunfall, Unfallanzeige, Durchgangsarzt, Heilbehandlung Unfall, Prävention Berufsgenossenschaft, Beitrag Unfallversicherung, Haftungsbeschränkung Arbeitgeber, Ehrenamt Unfallversicherung, Schüler Unfallversicherung, Kindergarten Unfall
+- **EN:** accident insurance, work accident, occupational accident, commuting accident, occupational disease, accident insurance institution, injury benefit, injury pension, reduced earning capacity, survivors work accident, accident report, accident doctor, medical treatment accident, prevention, accident insurance contribution, employer liability limitation, volunteer accident insurance, student accident insurance, kindergarten accident
+- **AR:** تأمين الحوادث، حادث عمل، إصابة عمل، حادث في الطريق إلى العمل، مرض مهني، هيئة تأمين الحوادث المهنية، بدل الإصابة، معاش الإصابة، انخفاض القدرة على العمل، ورثة ضحية حادث عمل، الإبلاغ عن حادث، طبيب الحوادث، العلاج الطبي للحادث، الوقاية، اشتراك تأمين الحوادث، تحديد مسؤولية صاحب العمل، تأمين الحوادث للمتطوعين، تأمين الحوادث للطلاب، حادث في الحضانة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

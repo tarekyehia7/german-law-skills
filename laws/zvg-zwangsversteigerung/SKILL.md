@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Zwangsversteigerung, Zwangsverwaltung, Versteigerungstermin, Verkehrswert, Zuschlag, Mindestgebot, Teilungsversteigerung, Gläubiger Grundstück, Immobilie Versteigerung, Sicherheitsleistung
+- **EN:** foreclosure, forced sale, auction of property, receivership, auction date, market value, award, minimum bid, partition auction, property auction, security deposit
+- **AR:** البيع بالمزاد الجبري، حجز العقار، الحراسة القضائية، تاريخ المزاد، القيمة السوقية، رسو المزاد، الحد الأدنى للعرض، مزاد تقسيم الملكية، مزاد عقاري
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

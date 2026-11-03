@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Grundbuch, Grundbuchamt, Grundbucheintragung, Grundbuchauszug, Eigentümer Eintragung, Auflassungsvormerkung, Vormerkung, Grundschuld Eintragung, Hypothek Eintragung, Löschung Grundbuch, Löschungsbewilligung, Rangfolge, Rang Grundbuch, Abteilung I, Abteilung II, Abteilung III, Bestandsverzeichnis, Grundbucheinsicht, berechtigtes Interesse, Grundbuchberichtigung, Erbfolge Grundbuch, Grundbuchkosten, Notar Grundbuch, Wohnungsgrundbuch, Erbbaugrundbuch, elektronisches Grundbuch, Zwischenverfügung, Beschwerde Grundbuchamt, Flurstück, Teilung Grundstück
+- **EN:** land register, land registry office, land register entry, land register extract, owner registration, priority notice of conveyance, priority notice, land charge registration, mortgage registration, deletion land register, consent to deletion, ranking, priority land register, section I, section II, section III, inventory, inspection of land register, legitimate interest, correction of land register, succession land register, land register fees, notary land register, condominium register, leasehold register, electronic land register, interim order, complaint land registry, parcel, division of land
+- **AR:** السجل العقاري، مكتب السجل العقاري، القيد في السجل العقاري، مستخرج السجل العقاري، تسجيل المالك، التسجيل التمهيدي لنقل الملكية، القيد الاحتياطي، تسجيل الرهن العقاري، تسجيل الرهن، الشطب من السجل العقاري، الموافقة على الشطب، ترتيب الأولوية، الأولوية في السجل العقاري، القسم الأول، القسم الثاني، القسم الثالث، قائمة الممتلكات، الاطلاع على السجل العقاري، المصلحة المشروعة، تصحيح السجل العقاري، الإرث والسجل العقاري، رسوم السجل العقاري، الموثق والسجل العقاري، سجل الشقق، سجل حق البناء، السجل العقاري الإلكتروني، قرار مؤقت، شكوى ضد مكتب السجل العقاري، القطعة، تقسيم الأرض
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

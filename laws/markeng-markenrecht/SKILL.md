@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Marke, Markenanmeldung, Markenregister, DPMA, Markenverletzung, Verwechslungsgefahr, Unternehmenskennzeichen, geografische Herkunftsangabe, Löschung Marke
+- **EN:** trademark, trade mark registration, trademark infringement, likelihood of confusion, company name protection, brand, geographical indication, cancellation of trademark
+- **AR:** علامة تجارية، تسجيل العلامة التجارية، التعدي على العلامة التجارية، احتمال الخلط، حماية اسم الشركة، البراند، بيان جغرافي
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

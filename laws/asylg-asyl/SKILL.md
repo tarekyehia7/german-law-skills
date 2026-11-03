@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Asyl, Asylantrag, Asylverfahren, BAMF, Flüchtling, Flüchtlingseigenschaft, subsidiärer Schutz, Abschiebungsverbot, Anhörung Asyl, Dublin-Verfahren, sicherer Herkunftsstaat, sicherer Drittstaat, Aufenthaltsgestattung, Erstaufnahmeeinrichtung, Ablehnung Asyl, offensichtlich unbegründet, Klage Asyl, Folgeantrag, Widerruf Flüchtlingsstatus, Familienasyl, Residenzpflicht, Ankunftsnachweis
+- **EN:** asylum, asylum application, asylum procedure, federal office for migration, refugee, refugee status, subsidiary protection, deportation ban, asylum interview, Dublin procedure, safe country of origin, safe third country, permission to stay, reception centre, asylum rejection, manifestly unfounded, asylum appeal, follow-up application, revocation of refugee status, family asylum, residence requirement, arrival certificate
+- **AR:** لجوء، طلب اللجوء، إجراءات اللجوء، المكتب الفيدرالي للهجرة واللاجئين، لاجئ، صفة اللاجئ، الحماية الثانوية، منع الترحيل، مقابلة اللجوء، إجراءات دبلن، بلد منشأ آمن، بلد ثالث آمن، تصريح الإقامة المؤقت، مركز الاستقبال الأولي، رفض اللجوء، رفض كطلب غير مبرر بشكل واضح، دعوى اللجوء، طلب لجوء لاحق، إلغاء صفة اللاجئ، لجوء الأسرة، واجب الإقامة، شهادة الوصول
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

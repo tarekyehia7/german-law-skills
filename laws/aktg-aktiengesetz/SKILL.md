@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Aktiengesellschaft, Aktie, Vorstand, Aufsichtsrat, Hauptversammlung, Aktionär, Grundkapital, Dividende, Konzern, Kapitalerhöhung, Squeeze-out
+- **EN:** stock corporation, share, management board, supervisory board, general meeting, shareholder, share capital, dividend, corporate group, capital increase, squeeze-out
+- **AR:** شركة مساهمة، سهم، مجلس الإدارة، مجلس الرقابة، الجمعية العامة، مساهم، رأس المال، توزيع الأرباح، مجموعة شركات، زيادة رأس المال
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Kartell, Kartellrecht, Marktbeherrschung, Missbrauch, Fusionskontrolle, Zusammenschluss, Bundeskartellamt, Vergabe, öffentliche Aufträge, Vergaberecht, Bußgeld Kartell
+- **EN:** antitrust, cartel, competition law, market dominance, abuse of dominance, merger control, federal cartel office, public procurement, tender, cartel fine
+- **AR:** الاحتكار، قانون المنافسة، كارتل، السيطرة على السوق، إساءة استخدام المركز المسيطر، مراقبة الاندماج، المشتريات العامة، المناقصات
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

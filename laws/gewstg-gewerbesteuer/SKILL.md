@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Gewerbesteuer, Gewerbeertrag, Hebesatz, Messbetrag, Freibetrag 24500, Hinzurechnungen, Kürzungen, Gewerbesteuer Anrechnung, Zerlegung, Gemeinde Steuer, Betriebsstätte Gewerbesteuer, Freiberufler Gewerbesteuer, erweiterte Kürzung Grundstücke
+- **EN:** trade tax, business tax, trade income, municipal multiplier, tax base amount, allowance 24500, add-backs, deductions, trade tax credit, apportionment, municipal tax, permanent establishment trade tax, freelancers trade tax, extended deduction real estate
+- **AR:** ضريبة النشاط التجاري، ضريبة الأعمال، دخل النشاط التجاري، معامل البلدية، المبلغ الأساسي، إعفاء 24500، الإضافات، الخصومات، خصم ضريبة النشاط التجاري، التقسيم بين البلديات، ضريبة البلدية، المنشأة الدائمة، أصحاب المهن الحرة، الخصم الموسع للعقارات
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

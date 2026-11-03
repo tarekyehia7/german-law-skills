@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Anwaltskosten, Rechtsanwaltsgebühren, Vergütungsverzeichnis, Gegenstandswert, Verfahrensgebühr, Terminsgebühr, Einigungsgebühr, Beratungsgebühr, Erstberatung, Honorarvereinbarung, Beratungshilfe, Prozesskostenhilfe Anwalt, Pflichtverteidiger Gebühren, Erfolgshonorar
+- **EN:** lawyer fees, attorney costs, fee schedule, value of the matter, procedural fee, hearing fee, settlement fee, consultation fee, initial consultation, fee agreement, legal advice aid, legal aid lawyer, public defender fees, contingency fee
+- **AR:** أتعاب المحامي، تكاليف المحامي، جدول الأتعاب، قيمة الموضوع، رسوم الإجراءات، رسوم الجلسة، رسوم التسوية، رسوم الاستشارة، الاستشارة الأولى، اتفاقية الأتعاب، المساعدة القانونية، أتعاب المحامي المنتدب، أتعاب مشروطة بالنجاح
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

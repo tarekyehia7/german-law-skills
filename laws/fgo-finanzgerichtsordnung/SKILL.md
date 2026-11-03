@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Finanzgericht, Klage gegen Finanzamt, Klagefrist Steuer, Bundesfinanzhof, Revision Steuer, Nichtzulassungsbeschwerde, Aussetzung der Vollziehung Gericht, Kosten Finanzgericht, Prozesskostenhilfe Finanzgericht, Sprungklage, Untätigkeitsklage Finanzamt, Beweis Finanzgericht, mündliche Verhandlung, Gerichtsbescheid, Einzelrichter, Vertretung vor Finanzgericht, Steuerberater Vertretung
+- **EN:** fiscal court, tax court, lawsuit against tax office, tax appeal deadline, federal fiscal court, tax appeal on points of law, appeal against non-admission, suspension of enforcement court, costs fiscal court, legal aid fiscal court, direct action, action for failure to act tax office, evidence tax court, oral hearing, court decision without hearing, single judge, representation before tax court, tax advisor representation
+- **AR:** المحكمة المالية، محكمة الضرائب، دعوى ضد مكتب الضرائب، مهلة الطعن الضريبي، المحكمة المالية الفيدرالية، النقض الضريبي، الطعن في عدم القبول، وقف التنفيذ من المحكمة، تكاليف المحكمة المالية، المساعدة القضائية في المحكمة المالية، الدعوى المباشرة، دعوى عدم الرد من مكتب الضرائب، الإثبات في محكمة الضرائب، الجلسة الشفوية، قرار المحكمة بدون جلسة، القاضي الفرد، التمثيل أمام محكمة الضرائب، تمثيل المستشار الضريبي
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

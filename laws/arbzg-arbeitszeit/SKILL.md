@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Arbeitszeit, Höchstarbeitszeit, acht Stunden, zehn Stunden, Pause, Ruhezeit, Nachtarbeit, Sonntagsarbeit, Feiertagsarbeit, Überstunden, Schichtarbeit, Bereitschaftsdienst
+- **EN:** working hours, maximum working time, eight hours, ten hours, breaks, rest period, night work, sunday work, public holiday work, overtime, shift work, on-call duty
+- **AR:** ساعات العمل، الحد الأقصى لساعات العمل، ثماني ساعات، فترات الراحة، وقت الراحة، العمل الليلي، العمل يوم الأحد، العمل في العطلات، ساعات إضافية، عمل بنظام الورديات، الاستعداد للعمل
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

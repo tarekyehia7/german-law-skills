@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Verwaltungsakt, Behörde, Bescheid, Anhörung, Begründung, Bekanntgabe, Rücknahme, Widerruf, Nebenbestimmung, Auflage, Ermessen, Akteneinsicht Behörde, Wiedereinsetzung, öffentlich-rechtlicher Vertrag, Verwaltungsverfahren, Fristen Behörde, Zusicherung, Bestandskraft, Nichtigkeit Verwaltungsakt, Amtssprache Deutsch
+- **EN:** administrative act, authority, official decision, hearing, reasons, notification, withdrawal, revocation, conditions, discretion, access to files authority, reinstatement of deadline, public law contract, administrative procedure, deadlines authority, assurance, finality, nullity of administrative act, official language
+- **AR:** قرار إداري، السلطة الإدارية، الجهة الحكومية، إشعار رسمي، الاستماع، التسبيب، التبليغ، سحب القرار، إلغاء القرار، شروط إضافية، السلطة التقديرية، الاطلاع على الملف، إعادة المهلة، عقد قانون عام، الإجراءات الإدارية، مواعيد السلطة الإدارية، اللغة الرسمية
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

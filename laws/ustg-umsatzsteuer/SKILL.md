@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Umsatzsteuer, Mehrwertsteuer, MwSt, 19 Prozent, 7 Prozent, Kleinunternehmer, Kleinunternehmerregelung, 22000 Euro, Vorsteuer, Vorsteuerabzug, Rechnung Pflichtangaben, Kleinbetragsrechnung, Umsatzsteuervoranmeldung, Umsatzsteuererklärung, Umsatzsteuer-ID, innergemeinschaftliche Lieferung, innergemeinschaftlicher Erwerb, Reverse Charge, Steuerschuldnerschaft Leistungsempfänger, Ort der Leistung, Export, Ausfuhr, Einfuhrumsatzsteuer, steuerfreie Umsätze, Vermietung Umsatzsteuer, Option Umsatzsteuer, Ärzte umsatzsteuerfrei, Bildung umsatzsteuerfrei, Istversteuerung, Sollversteuerung, Differenzbesteuerung, Gutschrift, Berichtigung Rechnung, unentgeltliche Wertabgabe, Eigenverbrauch, Dauerfristverlängerung, Zusammenfassende Meldung, OSS One-Stop-Shop, Fernverkauf, Gastronomie Umsatzsteuer
+- **EN:** VAT, value added tax, sales tax, 19 percent, 7 percent, small business, small business exemption, 22000 euro threshold, input tax, input tax deduction, invoice requirements, small amount invoice, advance VAT return, annual VAT return, VAT ID, intra-community supply, intra-community acquisition, reverse charge, place of supply, export, import VAT, VAT exempt supplies, rental VAT, VAT option, doctors VAT exempt, education VAT exempt, cash accounting VAT, accrual accounting VAT, margin scheme, credit note, invoice correction, free of charge supply, private use, permanent deadline extension, recapitulative statement, one-stop shop, distance selling, restaurant VAT
+- **AR:** ضريبة القيمة المضافة، ضريبة المبيعات، 19 بالمئة، 7 بالمئة، صاحب مشروع صغير، قاعدة المشروع الصغير، حد 22000 يورو، ضريبة المدخلات، خصم ضريبة المدخلات، متطلبات الفاتورة، فاتورة بمبلغ صغير، التصريح المسبق لضريبة القيمة المضافة، التصريح السنوي لضريبة القيمة المضافة، رقم ضريبة القيمة المضافة، التوريد داخل الاتحاد الأوروبي، الاستحواذ داخل الاتحاد الأوروبي، الاحتساب العكسي، مكان التوريد، التصدير، ضريبة الاستيراد، التوريدات المعفاة، الإيجار وضريبة القيمة المضافة، خيار ضريبة القيمة المضافة، الأطباء معفون، التعليم معفى، المحاسبة النقدية، محاسبة الاستحقاق، نظام هامش الربح، إشعار دائن، تصحيح الفاتورة، التوريد بدون مقابل، الاستخدام الشخصي، تمديد المهلة الدائم، البيان التلخيصي، المحطة الواحدة، البيع عن بعد، ضريبة المطاعم
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Ordnungswidrigkeit, Bußgeld, Bußgeldbescheid, Verwarnung, Verwarnungsgeld, Einspruch Bußgeldbescheid, Verjährung Ordnungswidrigkeit, Anhörungsbogen, Fahrtenbuch, Bußgeldverfahren, Zahlungserleichterung
+- **EN:** regulatory offence, administrative offence, fine notice, penalty notice, warning fine, objection to fine, limitation period fine, hearing form, fine proceedings, payment in instalments
+- **AR:** مخالفة إدارية، غرامة، إشعار الغرامة، تحذير، غرامة تحذيرية، الاعتراض على الغرامة، تقادم المخالفة، استمارة الاستماع، إجراءات الغرامة، تقسيط الغرامة
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

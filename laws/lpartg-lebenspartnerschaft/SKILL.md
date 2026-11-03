@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Lebenspartnerschaft, eingetragene Lebenspartnerschaft, gleichgeschlechtliche Partnerschaft, Umwandlung in Ehe, Aufhebung Lebenspartnerschaft, Lebenspartnerschaftsvertrag, Unterhalt Lebenspartner, Versorgungsausgleich Lebenspartner, Erbrecht Lebenspartner, Stiefkindadoption Lebenspartner, Name Lebenspartner, Güterstand Lebenspartner, Trennung Lebenspartner
+- **EN:** civil partnership, registered civil partnership, same-sex partnership, conversion into marriage, dissolution of civil partnership, civil partnership agreement, maintenance civil partner, pension splitting civil partner, inheritance civil partner, stepchild adoption civil partner, name civil partner, property regime civil partner, separation civil partners
+- **AR:** الشراكة المدنية، الشراكة المدنية المسجلة، شراكة من نفس الجنس، التحويل إلى زواج، فسخ الشراكة المدنية، عقد الشراكة المدنية، نفقة الشريك المدني، تقسيم المعاش للشريك المدني، إرث الشريك المدني، تبني ابن الشريك، اسم الشريك المدني، النظام المالي للشراكة، انفصال الشريكين
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

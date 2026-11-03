@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Cookies, Einwilligung Cookies, Cookie Banner, Fernmeldegeheimnis, Telekommunikation Datenschutz, Telemedien Datenschutz, Endeinrichtungen, Tracking, Standortdaten, Nachrichten Vertraulichkeit, digitales Erbe Account
+- **EN:** cookies, cookie consent, cookie banner, secrecy of telecommunications, telecommunications privacy, telemedia privacy, terminal equipment, tracking, location data, confidentiality of communications, digital legacy account
+- **AR:** الكوكيز، ملفات تعريف الارتباط، الموافقة على الكوكيز، سرية الاتصالات، خصوصية الاتصالات، خصوصية الإنترنت، الأجهزة الطرفية، التتبع، بيانات الموقع، سرية الرسائل
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

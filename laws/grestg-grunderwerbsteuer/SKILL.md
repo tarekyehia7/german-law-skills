@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Grunderwerbsteuer, Immobilienkauf Steuer, Hauskauf Steuer, Steuersatz Bundesland, Bemessungsgrundlage Kaufpreis, Befreiung Ehegatten, Befreiung Verwandte, Schenkung Grundstück, Erbschaft Grundstück, Share Deal, Anteilsvereinigung, Unbedenklichkeitsbescheinigung, Rückabwicklung Kaufvertrag, Steuerschuldner Grunderwerbsteuer, Fälligkeit Grunderwerbsteuer, Grundstückstausch, Erbbaurecht Steuer, Zubehör Kaufpreis
+- **EN:** real estate transfer tax, property purchase tax, house purchase tax, tax rate by state, tax base purchase price, spouse exemption, relatives exemption, gift of property, inherited property, share deal, unification of shares, tax clearance certificate, reversal of purchase contract, taxpayer transfer tax, due date transfer tax, property exchange, leasehold tax, movables in purchase price
+- **AR:** ضريبة نقل ملكية العقار، ضريبة شراء العقار، ضريبة شراء المنزل، معدل الضريبة حسب الولاية، الوعاء الضريبي سعر الشراء، إعفاء الزوج، إعفاء الأقارب، هبة عقار، عقار موروث، صفقة أسهم، توحيد الحصص، شهادة براءة ضريبية، إلغاء عقد الشراء، المكلف بضريبة نقل الملكية، استحقاق ضريبة نقل الملكية، مبادلة عقارات، حق البناء والضريبة، المنقولات في سعر الشراء
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

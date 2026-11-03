@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Tarifvertrag, Tarifbindung, Allgemeinverbindlichkeit, Gewerkschaft, Arbeitgeberverband, Tariflohn, Tarifautonomie, Nachwirkung, Günstigkeitsprinzip
+- **EN:** collective agreement, collective bargaining, union, employers association, collective wage, generally binding, bargaining autonomy, favourability principle
+- **AR:** اتفاقية جماعية، المفاوضة الجماعية، النقابة، اتحاد أصحاب العمل، الأجر الجماعي، الإلزام العام، استقلالية التفاوض
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |

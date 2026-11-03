@@ -28,6 +28,14 @@ metadata:
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
 5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
 
+## Keywords / Stichwörter / كلمات مفتاحية
+
+Questions in any language that mention these topics belong to this law:
+
+- **DE:** Erbschaftsteuer, Schenkungsteuer, Freibetrag Erbschaft, 500000 Euro Ehegatte, 400000 Euro Kinder, Steuerklasse Erbschaft, Steuersatz Erbschaft, Familienheim steuerfrei, Betriebsvermögen Verschonung, Zehnjahresfrist Schenkung, Nießbrauch Steuer, Bewertung Erbschaft, Anzeige Erbschaft Finanzamt, Erbschaftsteuererklärung, Versorgungsfreibetrag, Hausrat Freibetrag, Pflegefreibetrag, Zugewinnausgleich steuerfrei, Stiftung Erbschaftsteuer, Ausland Erbschaftsteuer
+- **EN:** inheritance tax, gift tax, inheritance allowance, 500000 euro spouse, 400000 euro children, inheritance tax class, inheritance tax rate, family home tax-free, business assets relief, ten year period gifts, usufruct tax, valuation inheritance, reporting inheritance to tax office, inheritance tax return, pension allowance, household goods allowance, care allowance, accrued gains equalisation tax-free, foundation inheritance tax, foreign inheritance tax
+- **AR:** ضريبة الميراث، ضريبة الهبة، إعفاء الميراث، 500000 يورو للزوج، 400000 يورو للأطفال، فئة ضريبة الميراث، معدل ضريبة الميراث، منزل العائلة معفى، إعفاء أصول الشركة، فترة عشر سنوات للهبات، حق الانتفاع والضريبة، تقييم الميراث، الإبلاغ عن الميراث لمكتب الضرائب، تصريح ضريبة الميراث، إعفاء المعاش، إعفاء الأثاث المنزلي، إعفاء الرعاية، تسوية الأرباح الزوجية معفاة، المؤسسة وضريبة الميراث، ضريبة الميراث في الخارج
+
 ## Outline (chunk → content)
 
 | # | File | Section | Paragraphs | Size |
