@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Erster Teil - Allgemeine Vorschriften  
+# Erster Teil Allgemeine Vorschriften  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 1 Errichtung von Betriebsräten → `text/1-erster-teil-allgemeine-vorschriften.md`
@@ -13,23 +13,23 @@ Format: `heading → text/<file>`
 - § 5 Arbeitnehmer → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 6 → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-# Zweiter Teil - Betriebsrat, Betriebsversammlung, Gesamt- und Konzernbetriebsrat  
+# Zweiter Teil Betriebsrat, Betriebsversammlung, Gesamt- und Konzernbetriebsrat  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
 
-## Erster Abschnitt - Zusammensetzung und Wahl des Betriebsrats  
+## Erster Abschnitt Zusammensetzung und Wahl des Betriebsrats  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
 - § 7 Wahlberechtigung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 8 Wählbarkeit → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
-- § 9 Zahl der Betriebsratsmitglieder \*) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
+- § 9 Zahl der Betriebsratsmitglieder *) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 10 → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 11 Ermäßigte Zahl der Betriebsratsmitglieder → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 12 → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 13 Zeitpunkt der Betriebsratswahlen → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 14 Wahlvorschriften → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 14a Vereinfachtes Wahlverfahren für Kleinbetriebe → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
-- § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter \*) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
+- § 15 Zusammensetzung nach Beschäftigungsarten und Geschlechter *) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 16 Bestellung des Wahlvorstands → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 17 Bestellung des Wahlvorstands in Betrieben ohne Betriebsrat → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 17a Bestellung des Wahlvorstands im vereinfachten Wahlverfahren → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
@@ -38,18 +38,18 @@ Format: `heading → text/<file>`
 - § 19 Wahlanfechtung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 20 Wahlschutz und Wahlkosten → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-## Zweiter Abschnitt - Amtszeit des Betriebsrats  
+## Zweiter Abschnitt Amtszeit des Betriebsrats  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
 - § 21 Amtszeit → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
-- § 21a Übergangsmandat \*) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
+- § 21a Übergangsmandat *) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 21b Restmandat → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 22 Weiterführung der Geschäfte des Betriebsrats → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 23 Verletzung gesetzlicher Pflichten → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 24 Erlöschen der Mitgliedschaft → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 25 Ersatzmitglieder → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-## Dritter Abschnitt - Geschäftsführung des Betriebsrats  
+## Dritter Abschnitt Geschäftsführung des Betriebsrats  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
 - § 26 Vorsitzender → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
@@ -70,7 +70,7 @@ Format: `heading → text/<file>`
 - § 40 Kosten und Sachaufwand des Betriebsrats → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 41 Umlageverbot → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-## Vierter Abschnitt - Betriebsversammlung  
+## Vierter Abschnitt Betriebsversammlung  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
 - § 42 Zusammensetzung, Teilversammlung, Abteilungsversammlung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
@@ -79,10 +79,10 @@ Format: `heading → text/<file>`
 - § 45 Themen der Betriebs- und Abteilungsversammlungen → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 46 Beauftragte der Verbände → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-## Fünfter Abschnitt - Gesamtbetriebsrat  
+## Fünfter Abschnitt Gesamtbetriebsrat  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-- § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht \*) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
+- § 47 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht *) → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 48 Ausschluss von Gesamtbetriebsratsmitgliedern → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 49 Erlöschen der Mitgliedschaft → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 50 Zuständigkeit → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
@@ -90,7 +90,7 @@ Format: `heading → text/<file>`
 - § 52 Teilnahme der Gesamtschwerbehindertenvertretung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 53 Betriebsräteversammlung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-## Sechster Abschnitt - Konzernbetriebsrat  
+## Sechster Abschnitt Konzernbetriebsrat  
 `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
 - § 54 Errichtung des Konzernbetriebsrats → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
@@ -101,11 +101,11 @@ Format: `heading → text/<file>`
 - § 59 Geschäftsführung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 - § 59a Teilnahme der Konzernschwerbehindertenvertretung → `text/2-zweiter-teil-betriebsrat-betriebsversammlung-gesamt-und-konz.md`
 
-# Dritter Teil - Jugend- und Auszubildendenvertretung  
+# Dritter Teil Jugend- und Auszubildendenvertretung  
 `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
 
-## Erster Abschnitt - Betriebliche Jugend- und Auszubildendenvertretung  
+## Erster Abschnitt Betriebliche Jugend- und Auszubildendenvertretung  
 `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
 - § 60 Errichtung und Aufgabe → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
@@ -121,23 +121,23 @@ Format: `heading → text/<file>`
 - § 70 Allgemeine Aufgaben → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 - § 71 Jugend- und Auszubildendenversammlung → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
-## Zweiter Abschnitt - Gesamt-Jugend- und Auszubildendenvertretung  
+## Zweiter Abschnitt Gesamt-Jugend- und Auszubildendenvertretung  
 `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
 - § 72 Voraussetzungen der Errichtung, Mitgliederzahl, Stimmengewicht → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 - § 73 Geschäftsführung und Geltung sonstiger Vorschriften → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
-## Dritter Abschnitt - Konzern-Jugend- und Auszubildendenvertretung  
+## Dritter Abschnitt Konzern-Jugend- und Auszubildendenvertretung  
 `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
 - § 73a Voraussetzung der Errichtung, Mitgliederzahl, Stimmengewicht → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 - § 73b Geschäftsführung und Geltung sonstiger Vorschriften → `text/3-dritter-teil-jugend-und-auszubildendenvertretung.md`
 
-# Vierter Teil - Mitwirkung und Mitbestimmung der Arbeitnehmer  
+# Vierter Teil Mitwirkung und Mitbestimmung der Arbeitnehmer  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 
-## Erster Abschnitt - Allgemeines  
+## Erster Abschnitt Allgemeines  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 74 Grundsätze für die Zusammenarbeit → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
@@ -151,7 +151,7 @@ Format: `heading → text/<file>`
 - § 79a Datenschutz → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 80 Allgemeine Aufgaben → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-## Zweiter Abschnitt - Mitwirkungs- und Beschwerderecht des Arbeitnehmers  
+## Zweiter Abschnitt Mitwirkungs- und Beschwerderecht des Arbeitnehmers  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 81 Unterrichtungs- und Erörterungspflicht des Arbeitgebers → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
@@ -162,24 +162,24 @@ Format: `heading → text/<file>`
 - § 86 Ergänzende Vereinbarungen → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 86a Vorschlagsrecht der Arbeitnehmer → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-## Dritter Abschnitt - Soziale Angelegenheiten  
+## Dritter Abschnitt Soziale Angelegenheiten  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 87 Mitbestimmungsrechte → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 88 Freiwillige Betriebsvereinbarungen → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 89 Arbeits- und betrieblicher Umweltschutz → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-## Vierter Abschnitt - Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung  
+## Vierter Abschnitt Gestaltung von Arbeitsplatz, Arbeitsablauf und Arbeitsumgebung  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 90 Unterrichtungs- und Beratungsrechte → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 91 Mitbestimmungsrecht → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-## Fünfter Abschnitt - Personelle Angelegenheiten  
+## Fünfter Abschnitt Personelle Angelegenheiten  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 
-### Erster Unterabschnitt - Allgemeine personelle Angelegenheiten  
+### Erster Unterabschnitt Allgemeine personelle Angelegenheiten  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 92 Personalplanung → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
@@ -188,14 +188,14 @@ Format: `heading → text/<file>`
 - § 94 Personalfragebogen, Beurteilungsgrundsätze → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 95 Auswahlrichtlinien → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-### Zweiter Unterabschnitt - Berufsbildung  
+### Zweiter Unterabschnitt Berufsbildung  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 96 Förderung der Berufsbildung → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 97 Einrichtungen und Maßnahmen der Berufsbildung → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 98 Durchführung betrieblicher Bildungsmaßnahmen → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-### Dritter Unterabschnitt - Personelle Einzelmaßnahmen  
+### Dritter Unterabschnitt Personelle Einzelmaßnahmen  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 99 Mitbestimmung bei personellen Einzelmaßnahmen → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
@@ -206,11 +206,11 @@ Format: `heading → text/<file>`
 - § 104 Entfernung betriebsstörender Arbeitnehmer → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 105 Leitende Angestellte → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-## Sechster Abschnitt - Wirtschaftliche Angelegenheiten  
+## Sechster Abschnitt Wirtschaftliche Angelegenheiten  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 
-### Erster Unterabschnitt - Unterrichtung in wirtschaftlichen Angelegenheiten  
+### Erster Unterabschnitt Unterrichtung in wirtschaftlichen Angelegenheiten  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 106 Wirtschaftsausschuss → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
@@ -220,7 +220,7 @@ Format: `heading → text/<file>`
 - § 109a Unternehmensübernahme → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 110 Unterrichtung der Arbeitnehmer → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-### Zweiter Unterabschnitt - Betriebsänderungen  
+### Zweiter Unterabschnitt Betriebsänderungen  
 `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
 - § 111 Betriebsänderungen → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
@@ -228,42 +228,42 @@ Format: `heading → text/<file>`
 - § 112a Erzwingbarer Sozialplan bei Personalabbau, Neugründungen → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 - § 113 Nachteilsausgleich → `text/4-vierter-teil-mitwirkung-und-mitbestimmung-der-arbeitnehmer.md`
 
-# Fünfter Teil - Besondere Vorschriften für einzelne Betriebsarten  
+# Fünfter Teil Besondere Vorschriften für einzelne Betriebsarten  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 
-## Erster Abschnitt - Seeschifffahrt  
+## Erster Abschnitt Seeschifffahrt  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 - § 114 Grundsätze → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 - § 115 Bordvertretung → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 - § 116 Seebetriebsrat → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
-## Zweiter Abschnitt - Luftfahrt  
+## Zweiter Abschnitt Luftfahrt  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 - § 117 Geltung für die Luftfahrt → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
-## Dritter Abschnitt - Tendenzbetriebe und Religionsgemeinschaften  
+## Dritter Abschnitt Tendenzbetriebe und Religionsgemeinschaften  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 - § 118 Geltung für Tendenzbetriebe und Religionsgemeinschaften → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
-# Sechster Teil - Straf- und Bußgeldvorschriften  
+# Sechster Teil Straf- und Bußgeldvorschriften  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 - § 119 Straftaten gegen Betriebsverfassungsorgane und ihre Mitglieder → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 - § 120 Verletzung von Geheimnissen → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 - § 121 Bußgeldvorschriften → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
-# Siebenter Teil - Änderung von Gesetzen  
+# Siebenter Teil Änderung von Gesetzen  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 - § 122 → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 - § 123 → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 - § 124 → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
-# Achter Teil - Übergangs- und Schlussvorschriften  
+# Achter Teil Übergangs- und Schlussvorschriften  
 `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`
 
 - § 125 Erstmalige Wahlen nach diesem Gesetz → `text/5-funfter-teil-besondere-vorschriften-fur-einzelne-betriebsart.md`

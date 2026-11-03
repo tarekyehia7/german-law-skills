@@ -6,19 +6,20 @@ metadata:
   title: "Personenstandsgesetz"
   area: Familien- und Personenrecht
   ausfertigungsdatum: 2007-02-19
-  stand: "Art. 88 V v. 19.6.2020 I 1328"
+  stand: "Art. 4 G v. 21.7.2026 I Nr. 221"
   source: https://www.gesetze-im-internet.de/pstg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/p/pstg
-  paragraphs: 83
-  chunks: 1
-  size_bytes: 86343
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/ps/pstg.md
+  snapshot: 2026-11-03
+  paragraphs: 86
+  chunks: 3
+  size_bytes: 100130
 ---
 
 # Personenstandsgesetz (PStG)
 
 **Area:** Familien- und Personenrecht  
 **Covers:** Civil Status Act: birth, marriage and death registration  
-**Text state:** Art. 88 V v. 19.6.2020 I 1328 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 4 G v. 21.7.2026 I Nr. 221 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,6 +41,8 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-kapitel-1-allgemeine-bestimmungen.md` | Kapitel 1 - Allgemeine Bestimmungen | § 1 – § 79 | 86 KB |
+| 1 | `text/1-kapitel-1-allgemeine-bestimmungen.md` | Kapitel 1 Allgemeine Bestimmungen | § 1 – § 33 | 31 KB |
+| 2 | `text/2-kapitel-7-besondere-beurkundungen.md` | Kapitel 7 Besondere Beurkundungen | § 34 – § 53 | 32 KB |
+| 3 | `text/3-kapitel-9-beweiskraft-und-benutzung-der-personenstandsregist.md` | Kapitel 9 Beweiskraft und Benutzung der Personenstandsregister | § 54 – § 79 | 36 KB |
 
-Full paragraph index: `toc.md` (83 paragraphs).
+Full paragraph index: `toc.md` (86 paragraphs).

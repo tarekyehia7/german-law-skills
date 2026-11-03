@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Erster Teil - Allgemeine Vorschriften  
+# Erster Teil Allgemeine Vorschriften  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 1 Ziele des Insolvenzverfahrens → `text/1-erster-teil-allgemeine-vorschriften.md`
@@ -27,11 +27,11 @@ Format: `heading → text/<file>`
 - § 10 Anhörung des Schuldners → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 10a Vorgespräch → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-# Zweiter Teil - Eröffnung des Insolvenzverfahrens. Erfaßtes Vermögen und Verfahrensbeteiligte  
+# Zweiter Teil Eröffnung des Insolvenzverfahrens. Erfaßtes Vermögen und Verfahrensbeteiligte  
 `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 
 
-## Erster Abschnitt - Eröffnungsvoraussetzungen und Eröffnungsverfahren  
+## Erster Abschnitt Eröffnungsvoraussetzungen und Eröffnungsverfahren  
 `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 
 - § 11 Zulässigkeit des Insolvenzverfahrens → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
@@ -39,14 +39,14 @@ Format: `heading → text/<file>`
 - § 13 Eröffnungsantrag → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 13a Antrag zur Begründung eines Gruppen-Gerichtsstands → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 14 Antrag eines Gläubigers → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
-- § 15 Antragsrecht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
-- § 15a Antragspflicht bei juristischen Personen und Gesellschaften ohne Rechtspersönlichkeit → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
+- § 15 Antragsrecht bei juristischen Personen und rechtsfähigen Personengesellschaften → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
+- § 15a Antragspflicht bei juristischen Personen und rechtsfähigen Personengesellschaften → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 15b Zahlungen bei Zahlungsunfähigkeit und Überschuldung; Verjährung → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 16 Eröffnungsgrund → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 17 Zahlungsunfähigkeit → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 18 Drohende Zahlungsunfähigkeit → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 19 Überschuldung → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
-- § 20 Hinweis auf Restschuldbefreiung → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
+- § 20 Auskunfts- und Mitwirkungspflicht im Eröffnungsverfahren. Hinweis auf Restschuldbefreiung → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 21 Anordnung vorläufiger Maßnahmen → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 22 Rechtsstellung des vorläufigen Insolvenzverwalters → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 22a Bestellung eines vorläufigen Gläubigerausschusses → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
@@ -59,12 +59,12 @@ Format: `heading → text/<file>`
 - § 28 Aufforderungen an die Gläubiger und die Schuldner → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 29 Terminbestimmungen → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 30 Bekanntmachung des Eröffnungsbeschlusses → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
-- § 31 Handels-, Genossenschafts-, Partnerschafts- und Vereinsregister → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
+- § 31 Handels-, Genossenschafts-, Gesellschafts-, Partnerschafts- oder Vereinsregister → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 32 Grundbuch → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 33 Register für Schiffe und Luftfahrzeuge → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 34 Rechtsmittel → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 
-## Zweiter Abschnitt - Insolvenzmasse. Einteilung der Gläubiger  
+## Zweiter Abschnitt Insolvenzmasse. Einteilung der Gläubiger  
 `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 
 - § 35 Begriff der Insolvenzmasse → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
@@ -120,11 +120,11 @@ Format: `heading → text/<file>`
 - § 78 Aufhebung eines Beschlusses der Gläubigerversammlung → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 - § 79 Unterrichtung der Gläubigerversammlung → `text/2-zweiter-teil-eroffnung-des-insolvenzverfahrens-erfasstes-ver.md`
 
-# Dritter Teil - Wirkungen der Eröffnung des Insolvenzverfahrens  
+# Dritter Teil Wirkungen der Eröffnung des Insolvenzverfahrens  
 `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
 
-## Erster Abschnitt - Allgemeine Wirkungen  
+## Erster Abschnitt Allgemeine Wirkungen  
 `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
 - § 80 Übergang des Verwaltungs- und Verfügungsrechts → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
@@ -151,7 +151,7 @@ Format: `heading → text/<file>`
 - § 101 Organschaftliche Vertreter. Angestellte → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 - § 102 Einschränkung eines Grundrechts → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
-## Zweiter Abschnitt - Erfüllung der Rechtsgeschäfte. Mitwirkung des Betriebsrats  
+## Zweiter Abschnitt Erfüllung der Rechtsgeschäfte. Mitwirkung des Betriebsrats  
 `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
 - § 103 Wahlrecht des Insolvenzverwalters → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
@@ -181,7 +181,7 @@ Format: `heading → text/<file>`
 - § 127 Klage des Arbeitnehmers → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 - § 128 Betriebsveräußerung → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
-## Dritter Abschnitt - Insolvenzanfechtung  
+## Dritter Abschnitt Insolvenzanfechtung  
 `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
 - § 129 Grundsatz → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
@@ -204,11 +204,11 @@ Format: `heading → text/<file>`
 - § 146 Verjährung des Anfechtungsanspruchs → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 - § 147 Rechtshandlungen nach Verfahrenseröffnung → `text/3-dritter-teil-wirkungen-der-eroffnung-des-insolvenzverfahrens.md`
 
-# Vierter Teil - Verwaltung und Verwertung der Insolvenzmasse  
+# Vierter Teil Verwaltung und Verwertung der Insolvenzmasse  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 
-## Erster Abschnitt - Sicherung der Insolvenzmasse  
+## Erster Abschnitt Sicherung der Insolvenzmasse  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 - § 148 Übernahme der Insolvenzmasse → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
@@ -220,7 +220,7 @@ Format: `heading → text/<file>`
 - § 154 Niederlegung in der Geschäftsstelle → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 - § 155 Handels- und steuerrechtliche Rechnungslegung → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
-## Zweiter Abschnitt - Entscheidung über die Verwertung  
+## Zweiter Abschnitt Entscheidung über die Verwertung  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 - § 156 Berichtstermin → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
@@ -233,7 +233,7 @@ Format: `heading → text/<file>`
 - § 163 Betriebsveräußerung unter Wert → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 - § 164 Wirksamkeit der Handlung → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
-## Dritter Abschnitt - Gegenstände mit Absonderungsrechten  
+## Dritter Abschnitt Gegenstände mit Absonderungsrechten  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 - § 165 Verwertung unbeweglicher Gegenstände → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
@@ -246,11 +246,11 @@ Format: `heading → text/<file>`
 - § 172 Sonstige Verwendung beweglicher Sachen → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 - § 173 Verwertung durch den Gläubiger → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
-# Fünfter Teil - Befriedigung der Insolvenzgläubiger. Einstellung des Verfahrens  
+# Fünfter Teil Befriedigung der Insolvenzgläubiger. Einstellung des Verfahrens  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 
-## Erster Abschnitt - Feststellung der Forderungen  
+## Erster Abschnitt Feststellung der Forderungen  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 - § 174 Anmeldung der Forderungen → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
@@ -267,7 +267,7 @@ Format: `heading → text/<file>`
 - § 185 Besondere Zuständigkeiten → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 - § 186 Wiedereinsetzung in den vorigen Stand → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
-## Zweiter Abschnitt - Verteilung  
+## Zweiter Abschnitt Verteilung  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 - § 187 Befriedigung der Insolvenzgläubiger → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
@@ -291,7 +291,7 @@ Format: `heading → text/<file>`
 - § 205 Vollzug der Nachtragsverteilung → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 - § 206 Ausschluß von Massegläubigern → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
-## Dritter Abschnitt - Einstellung des Verfahrens  
+## Dritter Abschnitt Einstellung des Verfahrens  
 `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
 - § 207 Einstellung mangels Masse → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
@@ -306,11 +306,11 @@ Format: `heading → text/<file>`
 - § 215 Bekanntmachung und Wirkungen der Einstellung → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 - § 216 Rechtsmittel → `text/4-vierter-teil-verwaltung-und-verwertung-der-insolvenzmasse.md`
 
-# Sechster Teil - Insolvenzplan  
+# Sechster Teil Insolvenzplan  
 `text/5-sechster-teil-insolvenzplan.md`
 
 
-## Erster Abschnitt - Aufstellung des Plans  
+## Erster Abschnitt Aufstellung des Plans  
 `text/5-sechster-teil-insolvenzplan.md`
 
 - § 217 Grundsatz → `text/5-sechster-teil-insolvenzplan.md`
@@ -334,7 +334,7 @@ Format: `heading → text/<file>`
 - § 233 Aussetzung von Verwertung und Verteilung → `text/5-sechster-teil-insolvenzplan.md`
 - § 234 Niederlegung des Plans → `text/5-sechster-teil-insolvenzplan.md`
 
-## Zweiter Abschnitt - Annahme und Bestätigung des Plans  
+## Zweiter Abschnitt Annahme und Bestätigung des Plans  
 `text/5-sechster-teil-insolvenzplan.md`
 
 - § 235 Erörterungs- und Abstimmungstermin → `text/5-sechster-teil-insolvenzplan.md`
@@ -362,7 +362,7 @@ Format: `heading → text/<file>`
 - § 252 Bekanntgabe der Entscheidung → `text/5-sechster-teil-insolvenzplan.md`
 - § 253 Rechtsmittel → `text/5-sechster-teil-insolvenzplan.md`
 
-## Dritter Abschnitt - Wirkungen des bestätigten Plans. Überwachung der Planerfüllung  
+## Dritter Abschnitt Wirkungen des bestätigten Plans. Überwachung der Planerfüllung  
 `text/5-sechster-teil-insolvenzplan.md`
 
 - § 254 Allgemeine Wirkungen des Plans → `text/5-sechster-teil-insolvenzplan.md`
@@ -386,18 +386,18 @@ Format: `heading → text/<file>`
 - § 268 Aufhebung der Überwachung → `text/5-sechster-teil-insolvenzplan.md`
 - § 269 Kosten der Überwachung → `text/5-sechster-teil-insolvenzplan.md`
 
-# Siebter Teil - Koordinierung der Verfahren von Schuldnern, die derselben Unternehmensgruppe angehören  
+# Siebter Teil Koordinierung der Verfahren von Schuldnern, die derselben Unternehmensgruppe angehören  
 `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
 
-## Erster Abschnitt - Allgemeine Bestimmungen  
+## Erster Abschnitt Allgemeine Bestimmungen  
 `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
 - § 269a Zusammenarbeit der Insolvenzverwalter → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 - § 269b Zusammenarbeit der Gerichte → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 - § 269c Zusammenarbeit der Gläubigerausschüsse → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
-## Zweiter Abschnitt - Koordinationsverfahren  
+## Zweiter Abschnitt Koordinationsverfahren  
 `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
 - § 269d Koordinationsgericht → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
@@ -407,7 +407,7 @@ Format: `heading → text/<file>`
 - § 269h Koordinationsplan → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 - § 269i Abweichungen vom Koordinationsplan → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
-# Achter Teil - Eigenverwaltung  
+# Achter Teil Eigenverwaltung  
 `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
 - § 270 Grundsatz → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
@@ -435,7 +435,7 @@ Format: `heading → text/<file>`
 - § 284 Insolvenzplan → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 - § 285 Masseunzulänglichkeit → `text/6-siebter-teil-koordinierung-der-verfahren-von-schuldnern-die.md`
 
-# Neunter Teil - Restschuldbefreiung  
+# Neunter Teil Restschuldbefreiung  
 `text/7-neunter-teil-restschuldbefreiung.md`
 
 - § 286 Grundsatz → `text/7-neunter-teil-restschuldbefreiung.md`
@@ -463,7 +463,7 @@ Format: `heading → text/<file>`
 - § 303 Widerruf der Restschuldbefreiung → `text/7-neunter-teil-restschuldbefreiung.md`
 - § 303a Eintragung in das Schuldnerverzeichnis → `text/7-neunter-teil-restschuldbefreiung.md`
 
-# Zehnter Teil - Verbraucherinsolvenzverfahren  
+# Zehnter Teil Verbraucherinsolvenzverfahren  
 `text/7-neunter-teil-restschuldbefreiung.md`
 
 - § 304 Grundsatz → `text/7-neunter-teil-restschuldbefreiung.md`
@@ -477,11 +477,11 @@ Format: `heading → text/<file>`
 - § 311 Aufnahme des Verfahrens über den Eröffnungsantrag → `text/7-neunter-teil-restschuldbefreiung.md`
 - §§ 312 bis 314 (weggefallen) → `text/7-neunter-teil-restschuldbefreiung.md`
 
-# Elfter Teil - Besondere Arten des Insolvenzverfahrens  
+# Elfter Teil Besondere Arten des Insolvenzverfahrens  
 `text/7-neunter-teil-restschuldbefreiung.md`
 
 
-## Erster Abschnitt - Nachlaßinsolvenzverfahren  
+## Erster Abschnitt Nachlaßinsolvenzverfahren  
 `text/7-neunter-teil-restschuldbefreiung.md`
 
 - § 315 Örtliche Zuständigkeit → `text/7-neunter-teil-restschuldbefreiung.md`
@@ -502,22 +502,22 @@ Format: `heading → text/<file>`
 - § 330 Erbschaftskauf → `text/7-neunter-teil-restschuldbefreiung.md`
 - § 331 Gleichzeitige Insolvenz des Erben → `text/7-neunter-teil-restschuldbefreiung.md`
 
-## Zweiter Abschnitt - Insolvenzverfahren über das Gesamtgut einer fortgesetzten Gütergemeinschaft  
+## Zweiter Abschnitt Insolvenzverfahren über das Gesamtgut einer fortgesetzten Gütergemeinschaft  
 `text/7-neunter-teil-restschuldbefreiung.md`
 
 - § 332 Verweisung auf das Nachlaßinsolvenzverfahren → `text/7-neunter-teil-restschuldbefreiung.md`
 
-## Dritter Abschnitt - Insolvenzverfahren über das gemeinschaftlich verwaltete Gesamtgut einer Gütergemeinschaft  
+## Dritter Abschnitt Insolvenzverfahren über das gemeinschaftlich verwaltete Gesamtgut einer Gütergemeinschaft  
 `text/7-neunter-teil-restschuldbefreiung.md`
 
 - § 333 Antragsrecht. Eröffnungsgründe → `text/7-neunter-teil-restschuldbefreiung.md`
 - § 334 Persönliche Haftung der Ehegatten → `text/7-neunter-teil-restschuldbefreiung.md`
 
-# Zwölfter Teil - Internationales Insolvenzrecht  
+# Zwölfter Teil Internationales Insolvenzrecht  
 `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
 
-## Erster Abschnitt - Allgemeine Vorschriften  
+## Erster Abschnitt Allgemeine Vorschriften  
 `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
 - § 335 Grundsatz → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
@@ -529,7 +529,7 @@ Format: `heading → text/<file>`
 - § 341 Ausübung von Gläubigerrechten → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 342 Herausgabepflicht. Anrechnung → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
-## Zweiter Abschnitt - Ausländisches Insolvenzverfahren  
+## Zweiter Abschnitt Ausländisches Insolvenzverfahren  
 `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
 - § 343 Anerkennung → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
@@ -537,14 +537,14 @@ Format: `heading → text/<file>`
 - § 345 Öffentliche Bekanntmachung → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 346 Grundbuch → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 347 Nachweis der Verwalterbestellung. Unterrichtung des Gerichts → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
-- § 348 Zusammenarbeit der Insolvenzgerichte → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
+- § 348 Zuständiges Insolvenzgericht. Zusammenarbeit der Insolvenzgerichte → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 349 Verfügungen über unbewegliche Gegenstände → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 350 Leistung an den Schuldner → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 351 Dingliche Rechte → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 352 Unterbrechung und Aufnahme eines Rechtsstreits → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 353 Vollstreckbarkeit ausländischer Entscheidungen → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
-## Dritter Abschnitt - Partikularverfahren über das Inlandsvermögen  
+## Dritter Abschnitt Partikularverfahren über das Inlandsvermögen  
 `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
 - § 354 Voraussetzungen des Partikularverfahrens → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
@@ -553,7 +553,7 @@ Format: `heading → text/<file>`
 - § 357 Zusammenarbeit der Insolvenzverwalter → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 - § 358 Überschuss bei der Schlussverteilung → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
-# Dreizehnter Teil - Inkrafttreten  
+# Dreizehnter Teil Inkrafttreten  
 `text/8-zwolfter-teil-internationales-insolvenzrecht.md`
 
 - § 359 Verweisung auf das Einführungsgesetz → `text/8-zwolfter-teil-internationales-insolvenzrecht.md`

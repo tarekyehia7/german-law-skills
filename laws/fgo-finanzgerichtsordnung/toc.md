@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Erster Teil - Gerichtsverfassung  
+# Erster Teil Gerichtsverfassung  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 
-## Abschnitt I - Gerichte  
+## Abschnitt I Gerichte  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 1 → `text/1-erster-teil-gerichtsverfassung.md`
@@ -22,13 +22,13 @@ Format: `heading → text/<file>`
 - § 12 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 13 → `text/1-erster-teil-gerichtsverfassung.md`
 
-## Abschnitt II - Richter  
+## Abschnitt II Richter  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 14 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 15 → `text/1-erster-teil-gerichtsverfassung.md`
 
-## Abschnitt III - Ehrenamtliche Richter  
+## Abschnitt III Ehrenamtliche Richter  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 16 → `text/1-erster-teil-gerichtsverfassung.md`
@@ -47,40 +47,40 @@ Format: `heading → text/<file>`
 - § 29 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 30 → `text/1-erster-teil-gerichtsverfassung.md`
 
-## Abschnitt IV - Gerichtsverwaltung  
+## Abschnitt IV Gerichtsverwaltung  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 31 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 32 → `text/1-erster-teil-gerichtsverfassung.md`
 
-## Abschnitt V - Finanzrechtsweg und Zuständigkeit  
+## Abschnitt V Finanzrechtsweg und Zuständigkeit  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 
-### Unterabschnitt 1 - Finanzrechtsweg  
+### Unterabschnitt 1 Finanzrechtsweg  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 33 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 34 → `text/1-erster-teil-gerichtsverfassung.md`
 
-### Unterabschnitt 2 - Sachliche Zuständigkeit  
+### Unterabschnitt 2 Sachliche Zuständigkeit  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 35 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 36 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 37 → `text/1-erster-teil-gerichtsverfassung.md`
 
-### Unterabschnitt 3 - Örtliche Zuständigkeit  
+### Unterabschnitt 3 Örtliche Zuständigkeit  
 `text/1-erster-teil-gerichtsverfassung.md`
 
 - § 38 → `text/1-erster-teil-gerichtsverfassung.md`
 - § 39 → `text/1-erster-teil-gerichtsverfassung.md`
 
-# Zweiter Teil - Verfahren  
+# Zweiter Teil Verfahren  
 `text/2-zweiter-teil-verfahren.md`
 
 
-## Abschnitt I - Klagearten, Klagebefugnis, Klagevoraussetzungen, Klageverzicht  
+## Abschnitt I Klagearten, Klagebefugnis, Klagevoraussetzungen, Klageverzicht  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 40 → `text/2-zweiter-teil-verfahren.md`
@@ -95,7 +95,7 @@ Format: `heading → text/<file>`
 - § 49 → `text/2-zweiter-teil-verfahren.md`
 - § 50 → `text/2-zweiter-teil-verfahren.md`
 
-## Abschnitt II - Allgemeine Verfahrensvorschriften  
+## Abschnitt II Allgemeine Verfahrensvorschriften  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 51 → `text/2-zweiter-teil-verfahren.md`
@@ -103,7 +103,7 @@ Format: `heading → text/<file>`
 - § 52a → `text/2-zweiter-teil-verfahren.md`
 - § 52b → `text/2-zweiter-teil-verfahren.md`
 - § 52c Formulare; Verordnungsermächtigung → `text/2-zweiter-teil-verfahren.md`
-- § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen → `text/2-zweiter-teil-verfahren.md`
+- § 52d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte → `text/2-zweiter-teil-verfahren.md`
 - § 53 → `text/2-zweiter-teil-verfahren.md`
 - § 54 → `text/2-zweiter-teil-verfahren.md`
 - § 55 → `text/2-zweiter-teil-verfahren.md`
@@ -117,7 +117,7 @@ Format: `heading → text/<file>`
 - § 62 → `text/2-zweiter-teil-verfahren.md`
 - § 62a (weggefallen) → `text/2-zweiter-teil-verfahren.md`
 
-## Abschnitt III - Verfahren im ersten Rechtszug  
+## Abschnitt III Verfahren im ersten Rechtszug  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 63 → `text/2-zweiter-teil-verfahren.md`
@@ -153,14 +153,13 @@ Format: `heading → text/<file>`
 - § 90 → `text/2-zweiter-teil-verfahren.md`
 - § 90a → `text/2-zweiter-teil-verfahren.md`
 - § 91 → `text/2-zweiter-teil-verfahren.md`
-- § 91a → `text/2-zweiter-teil-verfahren.md`
 - § 92 → `text/2-zweiter-teil-verfahren.md`
 - § 93 → `text/2-zweiter-teil-verfahren.md`
 - § 93a (weggefallen) → `text/2-zweiter-teil-verfahren.md`
 - § 94 → `text/2-zweiter-teil-verfahren.md`
 - § 94a → `text/2-zweiter-teil-verfahren.md`
 
-## Abschnitt IV - Urteile und andere Entscheidungen  
+## Abschnitt IV Urteile und andere Entscheidungen  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 95 → `text/2-zweiter-teil-verfahren.md`
@@ -183,11 +182,11 @@ Format: `heading → text/<file>`
 - § 113 → `text/2-zweiter-teil-verfahren.md`
 - § 114 → `text/2-zweiter-teil-verfahren.md`
 
-## Abschnitt V - Rechtsmittel und Wiederaufnahme des Verfahrens  
+## Abschnitt V Rechtsmittel und Wiederaufnahme des Verfahrens  
 `text/2-zweiter-teil-verfahren.md`
 
 
-### Unterabschnitt 1 - Revision  
+### Unterabschnitt 1 Revision  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 115 → `text/2-zweiter-teil-verfahren.md`
@@ -205,7 +204,7 @@ Format: `heading → text/<file>`
 - § 126a → `text/2-zweiter-teil-verfahren.md`
 - § 127 → `text/2-zweiter-teil-verfahren.md`
 
-### Unterabschnitt 2 - Beschwerde, Erinnerung, Anhörungsrüge  
+### Unterabschnitt 2 Beschwerde, Erinnerung, Anhörungsrüge  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 128 → `text/2-zweiter-teil-verfahren.md`
@@ -216,16 +215,16 @@ Format: `heading → text/<file>`
 - § 133 → `text/2-zweiter-teil-verfahren.md`
 - § 133a → `text/2-zweiter-teil-verfahren.md`
 
-### Unterabschnitt 3 - Wiederaufnahme des Verfahrens  
+### Unterabschnitt 3 Wiederaufnahme des Verfahrens  
 `text/2-zweiter-teil-verfahren.md`
 
 - § 134 → `text/2-zweiter-teil-verfahren.md`
 
-# Dritter Teil - Kosten und Vollstreckung  
+# Dritter Teil Kosten und Vollstreckung  
 `text/3-dritter-teil-kosten-und-vollstreckung.md`
 
 
-## Abschnitt I - Kosten  
+## Abschnitt I Kosten  
 `text/3-dritter-teil-kosten-und-vollstreckung.md`
 
 - § 135 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
@@ -238,10 +237,11 @@ Format: `heading → text/<file>`
 - § 143 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 144 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 145 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
-- §§ 146 bis 148 (weggefallen) → `text/3-dritter-teil-kosten-und-vollstreckung.md`
+- § 146 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
+- §§ 147 bis 148 (weggefallen) → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 149 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 
-## Abschnitt II - Vollstreckung  
+## Abschnitt II Vollstreckung  
 `text/3-dritter-teil-kosten-und-vollstreckung.md`
 
 - § 150 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
@@ -250,7 +250,7 @@ Format: `heading → text/<file>`
 - § 153 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 154 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 
-# Vierter Teil - Übergangs- und Schlußbestimmungen  
+# Vierter Teil Übergangs- und Schlußbestimmungen  
 `text/3-dritter-teil-kosten-und-vollstreckung.md`
 
 - § 155 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
@@ -260,5 +260,6 @@ Format: `heading → text/<file>`
 - § 159 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 160 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 161 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
-- §§ 162 bis 183 (weggefallen) → `text/3-dritter-teil-kosten-und-vollstreckung.md`
+- § 162 → `text/3-dritter-teil-kosten-und-vollstreckung.md`
+- §§ 163 bis 183 (weggefallen) → `text/3-dritter-teil-kosten-und-vollstreckung.md`
 - § 184 → `text/3-dritter-teil-kosten-und-vollstreckung.md`

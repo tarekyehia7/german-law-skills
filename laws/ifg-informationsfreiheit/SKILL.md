@@ -8,17 +8,18 @@ metadata:
   ausfertigungsdatum: 2005-09-05
   stand: "Art. 44 V v. 19.6.2020 I 1328"
   source: https://www.gesetze-im-internet.de/ifg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/i/ifg
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/if/ifg.md
+  snapshot: 2026-11-03
   paragraphs: 15
   chunks: 1
-  size_bytes: 11724
+  size_bytes: 12028
 ---
 
 # Gesetz zur Regelung des Zugangs zu Informationen des Bundes (IFG)
 
 **Area:** Verwaltungsrecht  
 **Covers:** Freedom of Information Act: access to federal government information  
-**Text state:** Art. 44 V v. 19.6.2020 I 1328 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 44 V v. 19.6.2020 I 1328 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,6 +41,6 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-1-bis-15.md` | § 1 bis § 15 | § 1 – § 15 | 11 KB |
+| 1 | `text/1-1-bis-15.md` | § 1 bis § 15 | § 1 – § 15 | 12 KB |
 
 Full paragraph index: `toc.md` (15 paragraphs).

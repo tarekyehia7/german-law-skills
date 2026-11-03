@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung  
+# Erster Abschnitt Zwangsversteigerung und Zwangsverwaltung von Grundstücken im Wege der Zwangsvollstreckung  
 `text/1-erster-abschnitt-zwangsversteigerung-und-zwangsverwaltung-vo.md`
 
 
-## Erster Titel - Allgemeine Vorschriften  
+## Erster Titel Allgemeine Vorschriften  
 `text/1-erster-abschnitt-zwangsversteigerung-und-zwangsverwaltung-vo.md`
 
 - § 1 → `text/1-erster-abschnitt-zwangsversteigerung-und-zwangsverwaltung-vo.md`
@@ -25,11 +25,11 @@ Format: `heading → text/<file>`
 - § 13 → `text/1-erster-abschnitt-zwangsversteigerung-und-zwangsverwaltung-vo.md`
 - § 14 → `text/1-erster-abschnitt-zwangsversteigerung-und-zwangsverwaltung-vo.md`
 
-## Zweiter Titel - Zwangsversteigerung  
+## Zweiter Titel Zwangsversteigerung  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 
-### I. - Anordnung der Versteigerung  
+### I. Anordnung der Versteigerung  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 15 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -46,7 +46,7 @@ Format: `heading → text/<file>`
 - § 26 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 27 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### II. - Aufhebung und einstweilige Einstellung des Verfahrens  
+### II. Aufhebung und einstweilige Einstellung des Verfahrens  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 28 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -64,7 +64,7 @@ Format: `heading → text/<file>`
 - § 33 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 34 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### III. - Bestimmung des Versteigerungstermins  
+### III. Bestimmung des Versteigerungstermins  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 35 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -77,7 +77,7 @@ Format: `heading → text/<file>`
 - § 42 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 43 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### IV. - Geringstes Gebot Versteigerungsbedingungen  
+### IV. Geringstes Gebot Versteigerungsbedingungen  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 44 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -105,7 +105,7 @@ Format: `heading → text/<file>`
 - § 64 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 65 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### V. - Versteigerung  
+### V. Versteigerung  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 66 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -124,7 +124,7 @@ Format: `heading → text/<file>`
 - § 77 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 78 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### VI. - Entscheidung über den Zuschlag  
+### VI. Entscheidung über den Zuschlag  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 79 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -144,8 +144,9 @@ Format: `heading → text/<file>`
 - § 92 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 93 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 94 → `text/2-zweiter-titel-zwangsversteigerung.md`
+- § 94a → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### VII. - Beschwerde  
+### VII. Beschwerde  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 95 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -159,7 +160,7 @@ Format: `heading → text/<file>`
 - § 103 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 104 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### VIII. - Verteilung des Erlöses  
+### VIII. Verteilung des Erlöses  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 105 → `text/2-zweiter-titel-zwangsversteigerung.md`
@@ -206,12 +207,12 @@ Format: `heading → text/<file>`
 - § 144 → `text/2-zweiter-titel-zwangsversteigerung.md`
 - § 145 → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-### IX. - Grundpfandrechte in ausländischer Währung  
+### IX. Grundpfandrechte in ausländischer Währung  
 `text/2-zweiter-titel-zwangsversteigerung.md`
 
 - § 145a → `text/2-zweiter-titel-zwangsversteigerung.md`
 
-## Dritter Titel - Zwangsverwaltung  
+## Dritter Titel Zwangsverwaltung  
 `text/3-dritter-titel-zwangsverwaltung.md`
 
 - § 146 → `text/3-dritter-titel-zwangsverwaltung.md`
@@ -241,11 +242,11 @@ Format: `heading → text/<file>`
 - § 160 → `text/3-dritter-titel-zwangsverwaltung.md`
 - § 161 → `text/3-dritter-titel-zwangsverwaltung.md`
 
-# Zweiter Abschnitt - Zwangsversteigerung von Schiffen, Schiffsbauwerken und Luftfahrzeugen im Wege der Zwangsvollstreckung  
+# Zweiter Abschnitt Zwangsversteigerung von Schiffen, Schiffsbauwerken und Luftfahrzeugen im Wege der Zwangsvollstreckung  
 `text/3-dritter-titel-zwangsverwaltung.md`
 
 
-## Erster Titel - Zwangsversteigerung von Schiffen und Schiffsbauwerken  
+## Erster Titel Zwangsversteigerung von Schiffen und Schiffsbauwerken  
 `text/3-dritter-titel-zwangsverwaltung.md`
 
 - § 162 → `text/3-dritter-titel-zwangsverwaltung.md`
@@ -264,7 +265,7 @@ Format: `heading → text/<file>`
 - § 170a → `text/3-dritter-titel-zwangsverwaltung.md`
 - § 171 → `text/3-dritter-titel-zwangsverwaltung.md`
 
-## Zweiter Titel - Zwangsversteigerung von Luftfahrzeugen  
+## Zweiter Titel Zwangsversteigerung von Luftfahrzeugen  
 `text/3-dritter-titel-zwangsverwaltung.md`
 
 - § 171a → `text/3-dritter-titel-zwangsverwaltung.md`
@@ -281,7 +282,7 @@ Format: `heading → text/<file>`
 - § 171m → `text/3-dritter-titel-zwangsverwaltung.md`
 - § 171n → `text/3-dritter-titel-zwangsverwaltung.md`
 
-# Dritter Abschnitt - Zwangsversteigerung und Zwangsverwaltung in besonderen Fällen  
+# Dritter Abschnitt Zwangsversteigerung und Zwangsverwaltung in besonderen Fällen  
 `text/3-dritter-titel-zwangsverwaltung.md`
 
 - § 172 → `text/3-dritter-titel-zwangsverwaltung.md`

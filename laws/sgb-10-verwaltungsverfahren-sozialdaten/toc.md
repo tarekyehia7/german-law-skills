@@ -1,13 +1,13 @@
-# Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz - (SGB 10) – Inhaltsverzeichnis
+# Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz - (SGB X) – Inhaltsverzeichnis
 
 Format: `heading → text/<file>`
 
 
-# Erstes Kapitel - Verwaltungsverfahren  
+# Erstes Kapitel Verwaltungsverfahren  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 
-## Erster Abschnitt - Anwendungsbereich, Zuständigkeit, Amtshilfe  
+## Erster Abschnitt Anwendungsbereich, Zuständigkeit, Amtshilfe  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 1 Anwendungsbereich → `text/1-erstes-kapitel-verwaltungsverfahren.md`
@@ -18,11 +18,11 @@ Format: `heading → text/<file>`
 - § 6 Durchführung der Amtshilfe → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 7 Kosten der Amtshilfe → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-## Zweiter Abschnitt - Allgemeine Vorschriften über das Verwaltungsverfahren  
+## Zweiter Abschnitt Allgemeine Vorschriften über das Verwaltungsverfahren  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 
-### Erster Titel - Verfahrensgrundsätze  
+### Erster Titel Verfahrensgrundsätze  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 8 Begriff des Verwaltungsverfahrens → `text/1-erstes-kapitel-verwaltungsverfahren.md`
@@ -44,24 +44,24 @@ Format: `heading → text/<file>`
 - § 24 Anhörung Beteiligter → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 25 Akteneinsicht durch Beteiligte → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-### Zweiter Titel - Fristen, Termine, Wiedereinsetzung  
+### Zweiter Titel Fristen, Termine, Wiedereinsetzung  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 26 Fristen und Termine → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 27 Wiedereinsetzung in den vorigen Stand → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 28 Wiederholte Antragstellung → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-### Dritter Titel - Amtliche Beglaubigung  
+### Dritter Titel Amtliche Beglaubigung  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 29 Beglaubigung von Dokumenten → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 30 Beglaubigung von Unterschriften → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-## Dritter Abschnitt - Verwaltungsakt  
+## Dritter Abschnitt Verwaltungsakt  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 
-### Erster Titel - Zustandekommen des Verwaltungsaktes  
+### Erster Titel Zustandekommen des Verwaltungsaktes  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 31 Begriff des Verwaltungsaktes → `text/1-erstes-kapitel-verwaltungsverfahren.md`
@@ -74,7 +74,7 @@ Format: `heading → text/<file>`
 - § 37 Bekanntgabe des Verwaltungsaktes → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 38 Offenbare Unrichtigkeiten im Verwaltungsakt → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-### Zweiter Titel - Bestandskraft des Verwaltungsaktes  
+### Zweiter Titel Bestandskraft des Verwaltungsaktes  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 39 Wirksamkeit des Verwaltungsaktes → `text/1-erstes-kapitel-verwaltungsverfahren.md`
@@ -91,12 +91,12 @@ Format: `heading → text/<file>`
 - § 50 Erstattung zu Unrecht erbrachter Leistungen → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 51 Rückgabe von Urkunden und Sachen → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-### Dritter Titel - Verjährungsrechtliche Wirkungen des Verwaltungsaktes  
+### Dritter Titel Verjährungsrechtliche Wirkungen des Verwaltungsaktes  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 52 Hemmung der Verjährung durch Verwaltungsakt → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-## Vierter Abschnitt - Öffentlich-rechtlicher Vertrag  
+## Vierter Abschnitt Öffentlich-rechtlicher Vertrag  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 53 Zulässigkeit des öffentlich-rechtlichen Vertrages → `text/1-erstes-kapitel-verwaltungsverfahren.md`
@@ -109,29 +109,29 @@ Format: `heading → text/<file>`
 - § 60 Unterwerfung unter die sofortige Vollstreckung → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 61 Ergänzende Anwendung von Vorschriften → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-## Fünfter Abschnitt - Rechtsbehelfsverfahren  
+## Fünfter Abschnitt Rechtsbehelfsverfahren  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 62 Rechtsbehelfe gegen Verwaltungsakte → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 63 Erstattung von Kosten im Vorverfahren → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-## Sechster Abschnitt - Kosten, Zustellung und Vollstreckung  
+## Sechster Abschnitt Kosten, Zustellung und Vollstreckung  
 `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
 - § 64 Kostenfreiheit → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 65 Zustellung → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 - § 66 Vollstreckung → `text/1-erstes-kapitel-verwaltungsverfahren.md`
 
-# Zweites Kapitel - Schutz der Sozialdaten  
+# Zweites Kapitel Schutz der Sozialdaten  
 `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
 
-## Erster Abschnitt - Begriffsbestimmungen  
+## Erster Abschnitt Begriffsbestimmungen  
 `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
 - § 67 Begriffsbestimmungen → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
-## Zweiter Abschnitt - Verarbeitung von Sozialdaten  
+## Zweiter Abschnitt Verarbeitung von Sozialdaten  
 `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
 - § 67a Erhebung von Sozialdaten → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
@@ -139,6 +139,7 @@ Format: `heading → text/<file>`
 - § 67c Zweckbindung sowie Speicherung, Veränderung und Nutzung von Sozialdaten zu anderen Zwecken → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 67d Übermittlungsgrundsätze → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 67e Erhebung und Übermittlung zur Bekämpfung von Leistungsmissbrauch und illegaler Ausländerbeschäftigung → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
+- § 67f Erhebung und Übermittlung von Sozialdaten zur Nachweiserbringung → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 68 Übermittlung für Aufgaben der Polizeibehörden, der Staatsanwaltschaften, Gerichte und der Behörden der Gefahrenabwehr → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 69 Übermittlung für die Erfüllung sozialer Aufgaben → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 70 Übermittlung für die Durchführung des Arbeitsschutzes → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
@@ -150,15 +151,16 @@ Format: `heading → text/<file>`
 - § 75 Übermittlung von Sozialdaten für die Forschung und Planung → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 76 Einschränkung der Übermittlungsbefugnis bei besonders schutzwürdigen Sozialdaten → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 77 Übermittlung ins Ausland und an internationale Organisationen → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
+- § 77a Grenzüberschreitende Nachweisabrufe → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 78 Zweckbindung und Geheimhaltungspflicht eines Dritten, an den Daten übermittelt werden → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
-## Dritter Abschnitt - Besondere Datenverarbeitungsarten  
+## Dritter Abschnitt Besondere Datenverarbeitungsarten  
 `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
 - § 79 Einrichtung automatisierter Verfahren auf Abruf → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 80 Verarbeitung von Sozialdaten im Auftrag → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
-## Vierter Abschnitt - Rechte der betroffenen Person, Beauftragte für den Datenschutz und Schlussvorschriften  
+## Vierter Abschnitt Rechte der betroffenen Person, Beauftragte für den Datenschutz und Schlussvorschriften  
 `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
 - § 81 Recht auf Anrufung, Beauftragte für den Datenschutz → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
@@ -168,25 +170,24 @@ Format: `heading → text/<file>`
 - § 82 Informationspflichten bei der Erhebung von Sozialdaten bei der betroffenen Person → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 82a Informationspflichten, wenn Sozialdaten nicht bei der betroffenen Person erhoben wurden → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 83 Auskunftsrecht der betroffenen Personen → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
-- § 83a Benachrichtigung bei einer Verletzung des Schutzes von Sozialdaten → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 84 Recht auf Berichtigung, Löschung, Einschränkung der Verarbeitung und Widerspruch → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 85 Strafvorschriften → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 - § 85a Bußgeldvorschriften → `text/2-zweites-kapitel-schutz-der-sozialdaten.md`
 
-# Drittes Kapitel - Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten  
+# Drittes Kapitel Zusammenarbeit der Leistungsträger und ihre Beziehungen zu Dritten  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 
-## Erster Abschnitt - Zusammenarbeit der Leistungsträger untereinander und mit Dritten  
+## Erster Abschnitt Zusammenarbeit der Leistungsträger untereinander und mit Dritten  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 
-### Erster Titel - Allgemeine Vorschriften  
+### Erster Titel Allgemeine Vorschriften  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 - § 86 Zusammenarbeit → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
-### Zweiter Titel - Zusammenarbeit der Leistungsträger untereinander  
+### Zweiter Titel Zusammenarbeit der Leistungsträger untereinander  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 - § 87 Beschleunigung der Zusammenarbeit → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
@@ -200,7 +201,7 @@ Format: `heading → text/<file>`
 - § 95 Zusammenarbeit bei Planung und Forschung → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 - § 96 Ärztliche Untersuchungen, psychologische Eignungsuntersuchungen → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
-### Dritter Titel - Zusammenarbeit der Leistungsträger mit Dritten  
+### Dritter Titel Zusammenarbeit der Leistungsträger mit Dritten  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 - § 97 Durchführung von Aufgaben durch Dritte → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
@@ -210,7 +211,7 @@ Format: `heading → text/<file>`
 - § 101 Auskunftspflicht der Leistungsträger → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 - § 101a Mitteilungen der Meldebehörden → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
-## Zweiter Abschnitt - Erstattungsansprüche der Leistungsträger untereinander  
+## Zweiter Abschnitt Erstattungsansprüche der Leistungsträger untereinander  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 - § 102 Anspruch des vorläufig leistenden Leistungsträgers → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
@@ -227,7 +228,7 @@ Format: `heading → text/<file>`
 - § 113 Verjährung → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 - § 114 Rechtsweg → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
-## Dritter Abschnitt - Erstattungs- und Ersatzansprüche der Leistungsträger gegen Dritte  
+## Dritter Abschnitt Erstattungs- und Ersatzansprüche der Leistungsträger gegen Dritte  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 - § 115 Ansprüche gegen den Arbeitgeber → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
@@ -236,7 +237,7 @@ Format: `heading → text/<file>`
 - § 118 Bindung der Gerichte → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 - § 119 Übergang von Beitragsansprüchen → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
-# Viertes Kapitel - Übergangs- und Schlussvorschriften  
+# Viertes Kapitel Übergangs- und Schlussvorschriften  
 `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`
 
 - § 120 Übergangsregelung → `text/3-drittes-kapitel-zusammenarbeit-der-leistungstrager-und-ihre.md`

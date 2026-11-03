@@ -6,19 +6,20 @@ metadata:
   title: "Aktiengesetz"
   area: Handels- und Gesellschaftsrecht
   ausfertigungsdatum: 1965-09-06
-  stand: "Art. 15 Abs. 22 G v. 4.5.2021 I 882"
+  stand: "Art. 23 G v. 4.2.2026 I Nr. 33"
   source: https://www.gesetze-im-internet.de/aktg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/a/aktg
-  paragraphs: 388
-  chunks: 12
-  size_bytes: 483839
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/ak/aktg.md
+  snapshot: 2026-11-03
+  paragraphs: 393
+  chunks: 13
+  size_bytes: 524158
 ---
 
 # Aktiengesetz (AktG)
 
 **Area:** Handels- und Gesellschaftsrecht  
 **Covers:** Stock Corporation Act: AG founding, management board, supervisory board, shareholders' meeting, corporate groups  
-**Text state:** Art. 15 Abs. 22 G v. 4.5.2021 I 882 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 23 G v. 4.2.2026 I Nr. 33 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,17 +41,18 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/01-erstes-buch-aktiengesellschaft.md` | Erstes Buch - Aktiengesellschaft | Eingangsformel – § 53 | 48 KB |
-| 2 | `text/02-dritter-teil-rechtsverhaltnisse-der-gesellschaft-und-der-ges.md` | Erstes Buch - Aktiengesellschaft › Dritter Teil - Rechtsverhältnisse der Gesellschaft und der Gesellschafter | § 53a – § 75 | 41 KB |
-| 3 | `text/03-erster-abschnitt-vorstand.md` | Erstes Buch - Aktiengesellschaft › Vierter Teil - Verfassung der Aktiengesellschaft › Erster Abschnitt - Vorstand | § 76 – § 94 | 32 KB |
-| 4 | `text/04-zweiter-abschnitt-aufsichtsrat.md` | Erstes Buch - Aktiengesellschaft › Vierter Teil - Verfassung der Aktiengesellschaft › Zweiter Abschnitt - Aufsichtsrat | § 95 – § 116 | 47 KB |
-| 5 | `text/05-dritter-abschnitt-benutzung-des-einflusses-auf-die-gesellsch.md` | Erstes Buch - Aktiengesellschaft › Vierter Teil - Verfassung der Aktiengesellschaft › Dritter Abschnitt - Benutzung des Einflusses auf die Gesellschaft | § 117 | 2 KB |
-| 6 | `text/06-vierter-abschnitt-hauptversammlung.md` | Erstes Buch - Aktiengesellschaft › Vierter Teil - Verfassung der Aktiengesellschaft › Vierter Abschnitt - Hauptversammlung | § 118 – § 149 | 73 KB |
-| 7 | `text/07-funfter-teil-rechnungslegung-gewinnverwendung.md` | Erstes Buch - Aktiengesellschaft › Fünfter Teil - Rechnungslegung Gewinnverwendung | § 150 – § 178 | 24 KB |
-| 8 | `text/08-sechster-teil-satzungsanderung-massnahmen-der-kapitalbeschaf.md` | Erstes Buch - Aktiengesellschaft › Sechster Teil - Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung | § 179 – § 240 | 59 KB |
-| 9 | `text/09-siebenter-teil-nichtigkeit-von-hauptversammlungsbeschlussen.md` | Erstes Buch - Aktiengesellschaft › Siebenter Teil - Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung | § 241 – § 261a | 38 KB |
-| 10 | `text/10-achter-teil-auflosung-und-nichtigerklarung-der-gesellschaft.md` | Erstes Buch - Aktiengesellschaft › Achter Teil - Auflösung und Nichtigerklärung der Gesellschaft | § 262 – § 290 | 29 KB |
-| 11 | `text/11-drittes-buch-verbundene-unternehmen.md` | Drittes Buch - Verbundene Unternehmen | § 291 – § 338 | 62 KB |
-| 12 | `text/12-viertes-buch-sonder-straf-und-schlussvorschriften.md` | Viertes Buch - Sonder-, Straf- und Schlußvorschriften | § 393a – § 410 | 22 KB |
+| 1 | `text/01-erstes-buch-aktiengesellschaft.md` | Erstes Buch Aktiengesellschaft | Eingangsformel – § 22 | 15 KB |
+| 2 | `text/02-zweiter-teil-grundung-der-gesellschaft.md` | Erstes Buch Aktiengesellschaft › Zweiter Teil Gründung der Gesellschaft | § 23 – § 53 | 36 KB |
+| 3 | `text/03-dritter-teil-rechtsverhaltnisse-der-gesellschaft-und-der-ges.md` | Erstes Buch Aktiengesellschaft › Dritter Teil Rechtsverhältnisse der Gesellschaft und der Gesellschafter | § 53a – § 75 | 43 KB |
+| 4 | `text/04-vierter-teil-verfassung-der-aktiengesellschaft.md` | Erstes Buch Aktiengesellschaft › Vierter Teil Verfassung der Aktiengesellschaft | § 76 – § 94 | 33 KB |
+| 5 | `text/05-zweiter-abschnitt-aufsichtsrat.md` | Erstes Buch Aktiengesellschaft › Vierter Teil Verfassung der Aktiengesellschaft › Zweiter Abschnitt Aufsichtsrat | § 95 – § 116 | 49 KB |
+| 6 | `text/06-dritter-abschnitt-benutzung-des-einflusses-auf-die-gesellsch.md` | Erstes Buch Aktiengesellschaft › Vierter Teil Verfassung der Aktiengesellschaft › Dritter Abschnitt Benutzung des Einflusses auf die Gesellschaft | § 117 | 2 KB |
+| 7 | `text/07-vierter-abschnitt-hauptversammlung.md` | Erstes Buch Aktiengesellschaft › Vierter Teil Verfassung der Aktiengesellschaft › Vierter Abschnitt Hauptversammlung | § 118 – § 149 | 87 KB |
+| 8 | `text/08-funfter-teil-rechnungslegung-gewinnverwendung.md` | Erstes Buch Aktiengesellschaft › Fünfter Teil Rechnungslegung Gewinnverwendung | § 150 – § 178 | 26 KB |
+| 9 | `text/09-sechster-teil-satzungsanderung-massnahmen-der-kapitalbeschaf.md` | Erstes Buch Aktiengesellschaft › Sechster Teil Satzungsänderung. Maßnahmen der Kapitalbeschaffung und Kapitalherabsetzung | § 179 – § 240 | 61 KB |
+| 10 | `text/10-siebenter-teil-nichtigkeit-von-hauptversammlungsbeschlussen.md` | Erstes Buch Aktiengesellschaft › Siebenter Teil Nichtigkeit von Hauptversammlungsbeschlüssen und des festgestellten Jahresabschlusses. Sonderprüfung wegen unzulässiger Unterbewertung | § 241 – § 261a | 49 KB |
+| 11 | `text/11-achter-teil-auflosung-und-nichtigerklarung-der-gesellschaft.md` | Erstes Buch Aktiengesellschaft › Achter Teil Auflösung und Nichtigerklärung der Gesellschaft | § 262 – § 290 | 31 KB |
+| 12 | `text/12-drittes-buch-verbundene-unternehmen.md` | Drittes Buch Verbundene Unternehmen | § 291 – § 338 | 64 KB |
+| 13 | `text/13-viertes-buch-sonder-straf-und-schlussvorschriften.md` | Viertes Buch Sonder-, Straf- und Schlußvorschriften | § 393a – § 410 | 23 KB |
 
-Full paragraph index: `toc.md` (388 paragraphs).
+Full paragraph index: `toc.md` (393 paragraphs).

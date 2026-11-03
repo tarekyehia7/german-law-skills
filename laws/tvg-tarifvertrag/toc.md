@@ -17,4 +17,4 @@ Format: `heading → text/<file>`
 - § 12 Spitzenorganisationen → `text/1-1-bis-anhang-ev.md`
 - § 12a Arbeitnehmerähnliche Personen → `text/1-1-bis-anhang-ev.md`
 - § 13 Inkrafttreten → `text/1-1-bis-anhang-ev.md`
-- Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - → `text/1-1-bis-anhang-ev.md`
+- Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet A Abschnitt III (BGBl. II 1990, 889, 1023) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - → `text/1-1-bis-anhang-ev.md`

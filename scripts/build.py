@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
-"""Build portable AI skill packs from the bundestag/gesetze Markdown mirror.
+"""Build portable AI skill packs from the Gesetze-fuer-KI/bundesrecht Markdown mirror.
 
-Usage: build.py <mirror_dir> <codes.json> <out_dir>   (keywords.json next to codes.json is picked up automatically)
+Usage: build.py <mirror_dir> <codes.json> <out_dir>
+
+mirror_dir is a clone of github.com/Gesetze-fuer-KI/bundesrecht (one <xx>/<slug>.md per law,
+synced nightly with gesetze-im-internet.de). keywords.json next to codes.json is picked up automatically.
 
 For every law in codes.json this produces
 
@@ -18,6 +21,7 @@ import sys
 import unicodedata
 from pathlib import Path
 
+SNAPSHOT = "unknown"  # set in main() from the mirror's last commit date
 MAX_CHUNK = 100_000  # bytes; ~25k tokens, comfortable for any model to read whole
 
 HEADING_RE = re.compile(r"^(#{1,6}) (.*)$")
@@ -131,9 +135,22 @@ def group(nodes):
         return out
 
     chunks = split_at(nodes, struct_levels)
+    # a chunk holding only structural headings (e.g. a bare "Buch 1") is glued to the next one
+    glued, carry = [], []
+    for c in chunks:
+        if not any(n["is_para"] for n in c):
+            carry += c
+            continue
+        glued.append(carry + c)
+        carry = []
+    if carry:
+        if glued:
+            glued[-1] += carry
+        else:
+            glued.append(carry)
     # merge tiny neighbours so we do not end up with 300 files of 2 KB
     merged = []
-    for c in chunks:
+    for c in glued:
         if merged and size(merged[-1]) + size(c) <= MAX_CHUNK // 2:
             merged[-1] = merged[-1] + c
         else:
@@ -168,14 +185,20 @@ def para_range(chunk):
 
 def build_law(mirror, code, out_root, kw=None):
     kw = kw or {"de": [], "en": [], "ar": []}
-    src = None
-    for cand in Path(mirror).glob(f"*/{code['slug']}/index.md"):
-        src = cand
+    slug = code["slug"]
+    src = Path(mirror) / slug[:2] / f"{slug}.md"
+    if not src.exists():  # legacy bundestag/gesetze layout
+        src = next(iter(Path(mirror).glob(f"*/{slug}/index.md")), None)
     if src is None:
         print(f"!! missing {code['slug']}", file=sys.stderr)
         return None
     lines = src.read_text(encoding="utf-8").splitlines()
     meta, body_start = read_meta(lines)
+    # normalise the two mirror formats to one set of keys
+    stand = meta.get("stand") or meta.get("Zuletzt geändert durch", "")
+    meta["Zuletzt geändert durch"] = re.sub(r"^zuletzt geändert durch\s+", "", stand.strip(), flags=re.I)
+    meta["Ausfertigungsdatum"] = (meta.get("ausfertigung") or meta.get("Ausfertigungsdatum", "")).strip("'\"")
+    meta["quelle"] = meta.get("quelle") or f"https://www.gesetze-im-internet.de/{slug}/"
     nodes = parse(lines, body_start)
     chunks = group(nodes)
 
@@ -185,7 +208,7 @@ def build_law(mirror, code, out_root, kw=None):
     for old in text_dir.glob("*.md"):
         old.unlink()
 
-    jurabk = re.sub(r" \d{4}$", "", meta.get("jurabk") or code["slug"].upper())
+    jurabk = re.sub(r" \d{4}$", "", meta.get("abkuerzung") or meta.get("jurabk") or code["slug"].upper())
     title = meta.get("Title", jurabk)
     outline, toc_rows = [], []
     width = len(str(len(chunks)))
@@ -193,7 +216,7 @@ def build_law(mirror, code, out_root, kw=None):
         ct = chunk_title(chunk)
         fname = f"{str(i).zfill(width)}-{slugify(ct.split(' › ')[-1])}.md"
         rng = para_range(chunk)
-        head = [f"# {title} ({jurabk})", f"## Teil {i}/{len(chunks)}: {ct}", f"*{rng}* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: {meta.get('Zuletzt geändert durch', 'siehe SKILL.md')}", ""]
+        head = [f"# {title} ({jurabk})", f"## Teil {i}/{len(chunks)}: {ct}", f"*{rng}* · Quelle: {meta['quelle']} · Stand: {meta.get('Zuletzt geändert durch') or 'siehe SKILL.md'} · Abruf: {SNAPSHOT}", ""]
         (text_dir / fname).write_text("\n".join(head + ["\n".join(n["lines"]) for n in chunk]) + "\n", encoding="utf-8")
         outline.append((i, ct, rng, fname, sum(len('\n'.join(n['lines'])) for n in chunk)))
         for n in chunk:
@@ -218,8 +241,9 @@ def build_law(mirror, code, out_root, kw=None):
         f"  area: {code['area']}",
         f"  ausfertigungsdatum: {meta.get('Ausfertigungsdatum', '')}",
         f"  stand: {json.dumps(meta.get('Zuletzt geändert durch', ''), ensure_ascii=False)}",
-        f"  source: https://www.gesetze-im-internet.de/{code['slug']}/",
-        f"  mirror: https://github.com/bundestag/gesetze/tree/master/{src.parent.parent.name}/{code['slug']}",
+        f"  source: {meta['quelle']}",
+        f"  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/{src.parent.name}/{src.name}",
+        f"  snapshot: {SNAPSHOT}",
         f"  paragraphs: {n_paras}",
         f"  chunks: {len(chunks)}",
         f"  size_bytes: {total}",
@@ -229,7 +253,7 @@ def build_law(mirror, code, out_root, kw=None):
         "",
         f"**Area:** {code['area']}  ",
         f"**Covers:** {code['en']}  ",
-        f"**Text state:** {meta.get('Zuletzt geändert durch', 'unknown')} (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).",
+        f"**Text state:** {meta.get('Zuletzt geändert durch', 'unknown')} (text retrieved {SNAPSHOT} from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).",
         "",
         "## How to use this skill",
         "",
@@ -237,7 +261,7 @@ def build_law(mirror, code, out_root, kw=None):
         "2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.",
         "3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.",
         "4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.",
-        "5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.",
+        "5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.",
         "",
         "## Keywords / Stichwörter / كلمات مفتاحية",
         "",
@@ -283,7 +307,7 @@ def build_router(results, out_root):
         f"  laws: {len(results)}",
         f"  paragraphs: {sum(r['paragraphs'] for r in results)}",
         "  language: de",
-        "  text_state: gesetze-im-internet.de snapshot via github.com/bundestag/gesetze (2022-03-26)",
+        f"  text_state: gesetze-im-internet.de via github.com/Gesetze-fuer-KI/bundesrecht, retrieved {SNAPSHOT}",
         "---",
         "",
         "# German Law (Bundesrecht) – Skill Router",
@@ -296,7 +320,7 @@ def build_router(results, out_root):
         "2. **Open `laws/<skill>/SKILL.md`** – it has a short outline table that maps topics to chunk files.",
         "3. **Open the single chunk** `laws/<skill>/text/<file>.md` with the § you need (or search `toc.md` by keyword first). Never load all chunks at once.",
         "4. **Answer with the exact German wording**, cited as `§ 433 Abs. 1 BGB`, then explain/translate. Mark your own interpretation clearly.",
-        "5. **Always add**: the text is the 2022 state of the law and not legal advice; newer amendments may apply.",
+        f"5. **Always add**: the text was retrieved {SNAPSHOT} (each law's SKILL.md names its last amendment) and is not legal advice; check the source for changes since.",
         "",
         "## Any language works / أي لغة تعمل",
         "",
@@ -312,7 +336,7 @@ def build_router(results, out_root):
         "- Health insurance, pension, unemployment money, Bürgergeld, care → **SGB V, VI, III, II, XI**",
         "- Income tax, VAT, tax procedure → **EStG, UStG, AO**",
         "- Suing someone, enforcement, court costs → **ZPO, GVG, GKG, RVG**; suing an authority → **VwGO, VwVfG**",
-        "- Data protection, cookies, Impressum → **BDSG, TTDSG, TMG**",
+        "- Data protection, cookies, Impressum → **BDSG, TTDSG, DDG**",
         "- Constitutional rights → **GG**",
         "",
         "## Laws by area",
@@ -337,7 +361,13 @@ def build_router(results, out_root):
 
 
 def main():
+    global SNAPSHOT
     mirror, codes_path, out_root = sys.argv[1:4]
+    try:
+        import subprocess
+        SNAPSHOT = subprocess.run(["git", "-C", mirror, "log", "-1", "--format=%cs"], capture_output=True, text=True, check=True).stdout.strip() or SNAPSHOT
+    except Exception:
+        pass
     codes = json.loads(Path(codes_path).read_text(encoding="utf-8"))
     kw_path = Path(codes_path).with_name("keywords.json")
     keywords = json.loads(kw_path.read_text(encoding="utf-8")) if kw_path.exists() else {}

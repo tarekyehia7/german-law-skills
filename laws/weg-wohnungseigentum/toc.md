@@ -1,18 +1,18 @@
-# Gesetz über das Wohnungseigentum und das Dauerwohnrecht (WoEigG) – Inhaltsverzeichnis
+# Gesetz über das Wohnungseigentum und das Dauerwohnrecht (WEG) – Inhaltsverzeichnis
 
 Format: `heading → text/<file>`
 
 
-# Teil 1 - Wohnungseigentum  
+# Teil 1 Wohnungseigentum  
 `text/1-teil-1-wohnungseigentum.md`
 
 
-## Abschnitt 1 - Begriffsbestimmungen  
+## Abschnitt 1 Begriffsbestimmungen  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 1 Begriffsbestimmungen → `text/1-teil-1-wohnungseigentum.md`
 
-## Abschnitt 2 - Begründung des Wohnungseigentums  
+## Abschnitt 2 Begründung des Wohnungseigentums  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 2 Arten der Begründung → `text/1-teil-1-wohnungseigentum.md`
@@ -24,13 +24,13 @@ Format: `heading → text/<file>`
 - § 8 Teilung durch den Eigentümer → `text/1-teil-1-wohnungseigentum.md`
 - § 9 Schließung der Wohnungsgrundbücher → `text/1-teil-1-wohnungseigentum.md`
 
-## Abschnitt 3 - Rechtsfähige Gemeinschaft der Wohnungseigentümer  
+## Abschnitt 3 Rechtsfähige Gemeinschaft der Wohnungseigentümer  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 9a Gemeinschaft der Wohnungseigentümer → `text/1-teil-1-wohnungseigentum.md`
 - § 9b Vertretung → `text/1-teil-1-wohnungseigentum.md`
 
-## Abschnitt 4 - Rechtsverhältnis der Wohnungseigentümer untereinander und zur Gemeinschaft der Wohnungseigentümer  
+## Abschnitt 4 Rechtsverhältnis der Wohnungseigentümer untereinander und zur Gemeinschaft der Wohnungseigentümer  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 10 Allgemeine Grundsätze → `text/1-teil-1-wohnungseigentum.md`
@@ -55,12 +55,12 @@ Format: `heading → text/<file>`
 - § 28 Wirtschaftsplan, Jahresabrechnung, Vermögensbericht → `text/1-teil-1-wohnungseigentum.md`
 - § 29 Verwaltungsbeirat → `text/1-teil-1-wohnungseigentum.md`
 
-## Abschnitt 5 - Wohnungserbbaurecht  
+## Abschnitt 5 Wohnungserbbaurecht  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 30 Wohnungserbbaurecht → `text/1-teil-1-wohnungseigentum.md`
 
-# Teil 2 - Dauerwohnrecht  
+# Teil 2 Dauerwohnrecht  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 31 Begriffsbestimmungen → `text/1-teil-1-wohnungseigentum.md`
@@ -76,14 +76,14 @@ Format: `heading → text/<file>`
 - § 41 Besondere Vorschriften für langfristige Dauerwohnrechte → `text/1-teil-1-wohnungseigentum.md`
 - § 42 Belastung eines Erbbaurechts → `text/1-teil-1-wohnungseigentum.md`
 
-# Teil 3 - Verfahrensvorschriften  
+# Teil 3 Verfahrensvorschriften  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 43 Zuständigkeit → `text/1-teil-1-wohnungseigentum.md`
 - § 44 Beschlussklagen → `text/1-teil-1-wohnungseigentum.md`
 - § 45 Fristen der Anfechtungsklage → `text/1-teil-1-wohnungseigentum.md`
 
-# Teil 4 - Ergänzende Bestimmungen  
+# Teil 4 Ergänzende Bestimmungen  
 `text/1-teil-1-wohnungseigentum.md`
 
 - § 46 Veräußerung ohne erforderliche Zustimmung → `text/1-teil-1-wohnungseigentum.md`

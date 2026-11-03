@@ -6,19 +6,20 @@ metadata:
   title: "Verwaltungsverfahrensgesetz"
   area: Verwaltungsrecht
   ausfertigungsdatum: 1976-05-25
-  stand: "Art. 15 Abs. 1 G v. 4.5.2021 I 882"
+  stand: "Art. 2 G v. 15.7.2024 I Nr. 236"
   source: https://www.gesetze-im-internet.de/vwvfg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/v/vwvfg
-  paragraphs: 118
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/vw/vwvfg.md
+  snapshot: 2026-11-03
+  paragraphs: 130
   chunks: 4
-  size_bytes: 123572
+  size_bytes: 138430
 ---
 
 # Verwaltungsverfahrensgesetz (VwVfG)
 
 **Area:** Verwaltungsrecht  
 **Covers:** Administrative Procedure Act: administrative acts, hearings, revocation, public-law contracts  
-**Text state:** Art. 15 Abs. 1 G v. 4.5.2021 I 882 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 2 G v. 15.7.2024 I Nr. 236 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,9 +41,9 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md` | Teil I - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit | § 1 – § 8e | 15 KB |
-| 2 | `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md` | Teil II - Allgemeine Vorschriften über das Verwaltungsverfahren | § 9 – § 34 | 34 KB |
-| 3 | `text/3-teil-iii-verwaltungsakt.md` | Teil III - Verwaltungsakt | § 35 – § 62 | 31 KB |
-| 4 | `text/4-teil-v-besondere-verfahrensarten.md` | Teil V - Besondere Verfahrensarten | § 63 – § 103 | 41 KB |
+| 1 | `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md` | Teil I Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit | § 1 – § 8e | 17 KB |
+| 2 | `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md` | Teil II Allgemeine Vorschriften über das Verwaltungsverfahren | § 9 – § 34 | 38 KB |
+| 3 | `text/3-teil-iii-verwaltungsakt.md` | Teil III Verwaltungsakt | § 35 – § 62 | 32 KB |
+| 4 | `text/4-teil-v-besondere-verfahrensarten.md` | Teil V Besondere Verfahrensarten | § 63 – § 103 | 49 KB |
 
-Full paragraph index: `toc.md` (118 paragraphs).
+Full paragraph index: `toc.md` (130 paragraphs).

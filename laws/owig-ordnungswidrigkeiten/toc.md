@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Erster Teil - Allgemeine Vorschriften  
+# Erster Teil Allgemeine Vorschriften  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 
-## Erster Abschnitt - Geltungsbereich  
+## Erster Abschnitt Geltungsbereich  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 1 Begriffsbestimmung → `text/1-erster-teil-allgemeine-vorschriften.md`
@@ -18,7 +18,7 @@ Format: `heading → text/<file>`
 - § 6 Zeit der Handlung → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 7 Ort der Handlung → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-## Zweiter Abschnitt - Grundlagen der Ahndung  
+## Zweiter Abschnitt Grundlagen der Ahndung  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 8 Begehen durch Unterlassen → `text/1-erster-teil-allgemeine-vorschriften.md`
@@ -31,20 +31,20 @@ Format: `heading → text/<file>`
 - § 15 Notwehr → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 16 Rechtfertigender Notstand → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-## Dritter Abschnitt - Geldbuße  
+## Dritter Abschnitt Geldbuße  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 17 Höhe der Geldbuße → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 18 Zahlungserleichterungen → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-## Vierter Abschnitt - Zusammentreffen mehrerer Gesetzesverletzungen  
+## Vierter Abschnitt Zusammentreffen mehrerer Gesetzesverletzungen  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 19 Tateinheit → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 20 Tatmehrheit → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 21 Zusammentreffen von Straftat und Ordnungswidrigkeit → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-## Fünfter Abschnitt - Einziehung von Gegenständen  
+## Fünfter Abschnitt Einziehung von Gegenständen  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 22 Einziehung von Gegenständen → `text/1-erster-teil-allgemeine-vorschriften.md`
@@ -56,13 +56,13 @@ Format: `heading → text/<file>`
 - § 28 Entschädigung → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 29 Sondervorschrift für Organe und Vertreter → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-## Sechster Abschnitt - Einziehung des Wertes von Taterträgen, Geldbuße gegen juristische Personen und Personenvereinigungen  
+## Sechster Abschnitt Einziehung des Wertes von Taterträgen, Geldbuße gegen juristische Personen und Personenvereinigungen  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 29a Einziehung des Wertes von Taterträgen → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 30 Geldbuße gegen juristische Personen und Personenvereinigungen → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-## Siebenter Abschnitt - Verjährung  
+## Siebenter Abschnitt Verjährung  
 `text/1-erster-teil-allgemeine-vorschriften.md`
 
 - § 31 Verfolgungsverjährung → `text/1-erster-teil-allgemeine-vorschriften.md`
@@ -70,11 +70,11 @@ Format: `heading → text/<file>`
 - § 33 Unterbrechung der Verfolgungsverjährung → `text/1-erster-teil-allgemeine-vorschriften.md`
 - § 34 Vollstreckungsverjährung → `text/1-erster-teil-allgemeine-vorschriften.md`
 
-# Zweiter Teil - Bußgeldverfahren  
+# Zweiter Teil Bußgeldverfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 
-## Erster Abschnitt - Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten  
+## Erster Abschnitt Zuständigkeit zur Verfolgung und Ahndung von Ordnungswidrigkeiten  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 35 Verfolgung und Ahndung durch die Verwaltungsbehörde → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -89,7 +89,7 @@ Format: `heading → text/<file>`
 - § 44 Bindung der Verwaltungsbehörde → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 45 Zuständigkeit des Gerichts → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Zweiter Abschnitt - Allgemeine Verfahrensvorschriften  
+## Zweiter Abschnitt Allgemeine Verfahrensvorschriften  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 46 Anwendung der Vorschriften über das Strafverfahren → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -104,25 +104,25 @@ Format: `heading → text/<file>`
 - § 51 Verfahren bei Zustellungen der Verwaltungsbehörde → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 52 Wiedereinsetzung in den vorigen Stand → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Dritter Abschnitt - Vorverfahren  
+## Dritter Abschnitt Vorverfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 
-### I. - Allgemeine Vorschriften  
+### I. Allgemeine Vorschriften  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 53 Aufgaben der Polizei → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 54 → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 55 Anhörung des Betroffenen → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### II. - Verwarnungsverfahren  
+### II. Verwarnungsverfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 56 Verwarnung durch die Verwaltungsbehörde → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 57 Verwarnung durch Beamte des Außen- und Polizeidienstes → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 58 Ermächtigung zur Erteilung der Verwarnung → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### III. - Verfahren der Verwaltungsbehörde  
+### III. Verfahren der Verwaltungsbehörde  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 59 Vergütung von Sachverständigen, Dolmetschern und Übersetzern, Entschädigung von Zeugen und Dritten → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -130,23 +130,23 @@ Format: `heading → text/<file>`
 - § 61 Abschluß der Ermittlungen → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 62 Rechtsbehelf gegen Maßnahmen der Verwaltungsbehörde → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### IV. - Verfahren der Staatsanwaltschaft  
+### IV. Verfahren der Staatsanwaltschaft  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 63 Beteiligung der Verwaltungsbehörde → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 64 Erstreckung der öffentlichen Klage auf die Ordnungswidrigkeit → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Vierter Abschnitt - Bußgeldbescheid  
+## Vierter Abschnitt Bußgeldbescheid  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 65 Allgemeines → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 66 Inhalt des Bußgeldbescheides → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Fünfter Abschnitt - Einspruch und gerichtliches Verfahren  
+## Fünfter Abschnitt Einspruch und gerichtliches Verfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 
-### I. - Einspruch  
+### I. Einspruch  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 67 Form und Frist → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -154,7 +154,7 @@ Format: `heading → text/<file>`
 - § 69 Zwischenverfahren → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 70 Entscheidung des Gerichts über die Zulässigkeit des Einspruchs → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### II. - Hauptverfahren  
+### II. Hauptverfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 71 Hauptverhandlung → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -168,34 +168,34 @@ Format: `heading → text/<file>`
 - § 77b Absehen von Urteilsgründen → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 78 Weitere Verfahrensvereinfachungen → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### III. - Rechtsmittel  
+### III. Rechtsmittel  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 79 Rechtsbeschwerde → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 80 Zulassung der Rechtsbeschwerde → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 80a Besetzung der Bußgeldsenate der Oberlandesgerichte → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Sechster Abschnitt - Bußgeld- und Strafverfahren  
+## Sechster Abschnitt Bußgeld- und Strafverfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 81 Übergang vom Bußgeld- zum Strafverfahren → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 82 Bußgelderkenntnis im Strafverfahren → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 83 Verfahren bei Ordnungswidrigkeiten und Straftaten → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Siebenter Abschnitt - Rechtskraft und Wiederaufnahme des Verfahrens  
+## Siebenter Abschnitt Rechtskraft und Wiederaufnahme des Verfahrens  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 84 Wirkung der Rechtskraft → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 85 Wiederaufnahme des Verfahrens → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 86 Aufhebung des Bußgeldbescheides im Strafverfahren → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Achter Abschnitt - Verfahren bei Anordnung von Nebenfolgen oder der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung Nebenfolgen  
+## Achter Abschnitt Verfahren bei Anordnung von Nebenfolgen oder der Festsetzung einer Geldbuße gegen eine juristische Person oder Personenvereinigung Nebenfolgen  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 87 Anordnung der Einziehung → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 88 Festsetzung der Geldbuße gegen juristische Personen und Personenvereinigungen → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Neunter Abschnitt - Vollstreckung der Bußgeldentscheidungen  
+## Neunter Abschnitt Vollstreckung der Bußgeldentscheidungen  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 89 Vollstreckbarkeit der Bußgeldentscheidungen → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -215,11 +215,11 @@ Format: `heading → text/<file>`
 - § 103 Gerichtliche Entscheidung → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 104 Verfahren bei gerichtlicher Entscheidung → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Zehnter Abschnitt - Kosten  
+## Zehnter Abschnitt Kosten  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 
-### I. - Verfahren der Verwaltungsbehörde  
+### I. Verfahren der Verwaltungsbehörde  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 105 Kostenentscheidung → `text/2-zweiter-teil-bussgeldverfahren.md`
@@ -227,38 +227,38 @@ Format: `heading → text/<file>`
 - § 107 Gebühren und Auslagen → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 108 Rechtsbehelf und Vollstreckung → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### II. - Verfahren der Staatsanwaltschaft  
+### II. Verfahren der Staatsanwaltschaft  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 108a → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### III. - Verfahren über die Zulässigkeit des Einspruchs  
+### III. Verfahren über die Zulässigkeit des Einspruchs  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 109 → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-### IV. - Auslagen des Betroffenen  
+### IV. Auslagen des Betroffenen  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 109a → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Elfter Abschnitt - Entschädigung für Verfolgungsmaßnahmen  
+## Elfter Abschnitt Entschädigung für Verfolgungsmaßnahmen  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 110 → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-## Zwölfter Abschnitt - Aktenführung und Kommunikation im Verfahren  
+## Zwölfter Abschnitt Aktenführung und Kommunikation im Verfahren  
 `text/2-zweiter-teil-bussgeldverfahren.md`
 
 - § 110a Elektronische Aktenführung; Verordnungsermächtigungen → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 110b Elektronische Formulare; Verordnungsermächtigung → `text/2-zweiter-teil-bussgeldverfahren.md`
 - § 110c Entsprechende Geltung der Strafprozessordnung für Aktenführung und Kommunikation im Verfahren → `text/2-zweiter-teil-bussgeldverfahren.md`
 
-# Dritter Teil - Einzelne Ordnungswidrigkeiten  
+# Dritter Teil Einzelne Ordnungswidrigkeiten  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 
-## Erster Abschnitt - Verstöße gegen staatliche Anordnungen  
+## Erster Abschnitt Verstöße gegen staatliche Anordnungen  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 - § 111 Falsche Namensangabe → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
@@ -267,7 +267,7 @@ Format: `heading → text/<file>`
 - § 114 Betreten militärischer Anlagen → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 - § 115 Verkehr mit Gefangenen → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
-## Zweiter Abschnitt - Verstöße gegen die öffentliche Ordnung  
+## Zweiter Abschnitt Verstöße gegen die öffentliche Ordnung  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 - § 116 Öffentliche Aufforderung zu Ordnungswidrigkeiten → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
@@ -279,7 +279,7 @@ Format: `heading → text/<file>`
 - § 122 Vollrausch → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 - § 123 Einziehung, Unbrauchbarmachung → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
-## Dritter Abschnitt - Mißbrauch staatlicher oder staatlich geschützter Zeichen  
+## Dritter Abschnitt Mißbrauch staatlicher oder staatlich geschützter Zeichen  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 - § 124 Benutzen von Wappen oder Dienstflaggen → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
@@ -289,17 +289,17 @@ Format: `heading → text/<file>`
 - § 128 Herstellen oder Verbreiten von papiergeldähnlichen Drucksachen oder Abbildungen → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 - § 129 Einziehung → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
-## Vierter Abschnitt - Verletzung der Aufsichtspflicht in Betrieben und Unternehmen  
+## Vierter Abschnitt Verletzung der Aufsichtspflicht in Betrieben und Unternehmen  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 - § 130 → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
-## Fünfter Abschnitt - Gemeinsame Vorschriften  
+## Fünfter Abschnitt Gemeinsame Vorschriften  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 - § 131 → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
-# Vierter Teil - Schlußvorschriften  
+# Vierter Teil Schlußvorschriften  
 `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`
 
 - § 132 Einschränkung von Grundrechten → `text/3-dritter-teil-einzelne-ordnungswidrigkeiten.md`

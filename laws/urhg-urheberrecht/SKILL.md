@@ -6,19 +6,20 @@ metadata:
   title: "Gesetz über Urheberrecht und verwandte Schutzrechte"
   area: Wettbewerbs- und IP-Recht
   ausfertigungsdatum: 1965-09-09
-  stand: "Art. 4 G v. 26.11.2020 I 2568"
+  stand: "Art. 2 G v. 26.5.2026 I Nr. 157"
   source: https://www.gesetze-im-internet.de/urhg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/u/urhg
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/ur/urhg.md
+  snapshot: 2026-11-03
   paragraphs: 254
   chunks: 6
-  size_bytes: 232438
+  size_bytes: 241737
 ---
 
 # Gesetz über Urheberrecht und verwandte Schutzrechte (UrhG)
 
 **Area:** Wettbewerbs- und IP-Recht  
 **Covers:** Copyright Act: protected works, author rights, licences, limitations, enforcement  
-**Text state:** Art. 4 G v. 26.11.2020 I 2568 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 2 G v. 26.5.2026 I Nr. 157 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,11 +41,11 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-teil-1-urheberrecht.md` | Teil 1 - Urheberrecht | § 1 – § 27 | 23 KB |
-| 2 | `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md` | Teil 1 - Urheberrecht › Abschnitt 5 - Rechtsverkehr im Urheberrecht | § 28 – § 44 | 35 KB |
-| 3 | `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md` | Teil 1 - Urheberrecht › Abschnitt 6 - Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen | § 44a – § 63a | 51 KB |
-| 4 | `text/4-abschnitt-7-dauer-des-urheberrechts.md` | Teil 1 - Urheberrecht › Abschnitt 7 - Dauer des Urheberrechts | § 64 – § 95 | 40 KB |
-| 5 | `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md` | Teil 4 - Gemeinsame Bestimmungen für Urheberrecht und verwandte Schutzrechte | § 95a – § 119 | 39 KB |
-| 6 | `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md` | Teil 5 - Anwendungsbereich, Übergangs- und Schlussbestimmungen | § 120 – Anlage (zu | 41 KB |
+| 1 | `text/1-teil-1-urheberrecht.md` | Teil 1 Urheberrecht | § 1 – § 27 | 24 KB |
+| 2 | `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md` | Teil 1 Urheberrecht › Abschnitt 5 Rechtsverkehr im Urheberrecht | § 28 – § 44 | 36 KB |
+| 3 | `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md` | Teil 1 Urheberrecht › Abschnitt 6 Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen | § 44a – § 63a | 53 KB |
+| 4 | `text/4-abschnitt-7-dauer-des-urheberrechts.md` | Teil 1 Urheberrecht › Abschnitt 7 Dauer des Urheberrechts | § 64 – § 95 | 43 KB |
+| 5 | `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md` | Teil 4 Gemeinsame Bestimmungen für Urheberrecht und verwandte Schutzrechte | § 95a – § 119 | 40 KB |
+| 6 | `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md` | Teil 5 Anwendungsbereich, Übergangs- und Schlussbestimmungen | § 120 – Anlage (zu | 42 KB |
 
 Full paragraph index: `toc.md` (254 paragraphs).

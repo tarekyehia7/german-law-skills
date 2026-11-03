@@ -1,13 +1,13 @@
-# Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234) (SGB 9) – Inhaltsverzeichnis
+# Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234) (SGB IX) – Inhaltsverzeichnis
 
 Format: `heading → text/<file>`
 
 
-# Teil 1 - Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen  
+# Teil 1 Regelungen für Menschen mit Behinderungen und von Behinderung bedrohte Menschen  
 `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
 
-## Kapitel 1 - Allgemeine Vorschriften  
+## Kapitel 1 Allgemeine Vorschriften  
 `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
 - § 1 Selbstbestimmung und Teilhabe am Leben in der Gesellschaft → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
@@ -19,20 +19,20 @@ Format: `heading → text/<file>`
 - § 7 Vorbehalt abweichender Regelungen → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 - § 8 Wunsch- und Wahlrecht der Leistungsberechtigten → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
-## Kapitel 2 - Einleitung der Rehabilitation von Amts wegen  
+## Kapitel 2 Einleitung der Rehabilitation von Amts wegen  
 `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
 - § 9 Vorrangige Prüfung von Leistungen zur Teilhabe → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 - § 10 Sicherung der Erwerbsfähigkeit → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 - § 11 Förderung von Modellvorhaben zur Stärkung der Rehabilitation, Verordnungsermächtigung → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
-## Kapitel 3 - Erkennung und Ermittlung des Rehabilitationsbedarfs  
+## Kapitel 3 Erkennung und Ermittlung des Rehabilitationsbedarfs  
 `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
 - § 12 Maßnahmen zur Unterstützung der frühzeitigen Bedarfserkennung → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 - § 13 Instrumente zur Ermittlung des Rehabilitationsbedarfs → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
-## Kapitel 4 - Koordinierung der Leistungen  
+## Kapitel 4 Koordinierung der Leistungen  
 `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
 - § 14 Leistender Rehabilitationsträger → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
@@ -47,18 +47,18 @@ Format: `heading → text/<file>`
 - § 23 Verantwortliche Stelle für den Sozialdatenschutz → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 - § 24 Vorläufige Leistungen → `text/1-teil-1-regelungen-fur-menschen-mit-behinderungen-und-von-beh.md`
 
-## Kapitel 5 - Zusammenarbeit  
+## Kapitel 5 Zusammenarbeit  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 - § 25 Zusammenarbeit der Rehabilitationsträger → `text/2-kapitel-5-zusammenarbeit.md`
 - § 26 Gemeinsame Empfehlungen → `text/2-kapitel-5-zusammenarbeit.md`
 - § 27 Verordnungsermächtigung → `text/2-kapitel-5-zusammenarbeit.md`
 
-## Kapitel 6 - Leistungsformen, Beratung  
+## Kapitel 6 Leistungsformen, Beratung  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 
-### Abschnitt 1 - Leistungsformen  
+### Abschnitt 1 Leistungsformen  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 - § 28 Ausführung von Leistungen → `text/2-kapitel-5-zusammenarbeit.md`
@@ -66,7 +66,7 @@ Format: `heading → text/<file>`
 - § 30 Verordnungsermächtigung → `text/2-kapitel-5-zusammenarbeit.md`
 - § 31 Leistungsort → `text/2-kapitel-5-zusammenarbeit.md`
 
-### Abschnitt 2 - Beratung  
+### Abschnitt 2 Beratung  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 - § 32 Ergänzende unabhängige Teilhabeberatung; Verordnungsermächtigung → `text/2-kapitel-5-zusammenarbeit.md`
@@ -74,7 +74,7 @@ Format: `heading → text/<file>`
 - § 34 Sicherung der Beratung von Menschen mit Behinderungen → `text/2-kapitel-5-zusammenarbeit.md`
 - § 35 Landesärzte → `text/2-kapitel-5-zusammenarbeit.md`
 
-## Kapitel 7 - Struktur, Qualitätssicherung, Gewaltschutz und Verträge  
+## Kapitel 7 Struktur, Qualitätssicherung, Gewaltschutz und Verträge  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 - § 36 Rehabilitationsdienste und -einrichtungen → `text/2-kapitel-5-zusammenarbeit.md`
@@ -82,14 +82,14 @@ Format: `heading → text/<file>`
 - § 37a Gewaltschutz → `text/2-kapitel-5-zusammenarbeit.md`
 - § 38 Verträge mit Leistungserbringern → `text/2-kapitel-5-zusammenarbeit.md`
 
-## Kapitel 8 - Bundesarbeitsgemeinschaft für Rehabilitation  
+## Kapitel 8 Bundesarbeitsgemeinschaft für Rehabilitation  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 - § 39 Aufgaben → `text/2-kapitel-5-zusammenarbeit.md`
 - § 40 Rechtsaufsicht → `text/2-kapitel-5-zusammenarbeit.md`
 - § 41 Teilhabeverfahrensbericht → `text/2-kapitel-5-zusammenarbeit.md`
 
-## Kapitel 9 - Leistungen zur medizinischen Rehabilitation  
+## Kapitel 9 Leistungen zur medizinischen Rehabilitation  
 `text/2-kapitel-5-zusammenarbeit.md`
 
 - § 42 Leistungen zur medizinischen Rehabilitation → `text/2-kapitel-5-zusammenarbeit.md`
@@ -101,7 +101,7 @@ Format: `heading → text/<file>`
 - § 47a Digitale Gesundheitsanwendungen → `text/2-kapitel-5-zusammenarbeit.md`
 - § 48 Verordnungsermächtigungen → `text/2-kapitel-5-zusammenarbeit.md`
 
-## Kapitel 10 - Leistungen zur Teilhabe am Arbeitsleben  
+## Kapitel 10 Leistungen zur Teilhabe am Arbeitsleben  
 `text/3-kapitel-10-leistungen-zur-teilhabe-am-arbeitsleben.md`
 
 - § 49 Leistungen zur Teilhabe am Arbeitsleben, Verordnungsermächtigung → `text/3-kapitel-10-leistungen-zur-teilhabe-am-arbeitsleben.md`
@@ -121,7 +121,7 @@ Format: `heading → text/<file>`
 - § 62 Wahlrecht des Menschen mit Behinderungen → `text/3-kapitel-10-leistungen-zur-teilhabe-am-arbeitsleben.md`
 - § 63 Zuständigkeit nach den Leistungsgesetzen → `text/3-kapitel-10-leistungen-zur-teilhabe-am-arbeitsleben.md`
 
-## Kapitel 11 - Unterhaltssichernde und andere ergänzende Leistungen  
+## Kapitel 11 Unterhaltssichernde und andere ergänzende Leistungen  
 `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
 - § 64 Ergänzende Leistungen → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
@@ -136,12 +136,12 @@ Format: `heading → text/<file>`
 - § 73 Reisekosten → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 - § 74 Haushalts- oder Betriebshilfe und Kinderbetreuungskosten → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
-## Kapitel 12 - Leistungen zur Teilhabe an Bildung  
+## Kapitel 12 Leistungen zur Teilhabe an Bildung  
 `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
 - § 75 Leistungen zur Teilhabe an Bildung → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
-## Kapitel 13 - Soziale Teilhabe  
+## Kapitel 13 Soziale Teilhabe  
 `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
 - § 76 Leistungen zur Sozialen Teilhabe → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
@@ -154,7 +154,7 @@ Format: `heading → text/<file>`
 - § 83 Leistungen zur Mobilität → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 - § 84 Hilfsmittel → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
-## Kapitel 14 - Beteiligung der Verbände und Träger  
+## Kapitel 14 Beteiligung der Verbände und Träger  
 `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
 - § 85 Klagerecht der Verbände → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
@@ -163,11 +163,11 @@ Format: `heading → text/<file>`
 - § 88 Berichte über die Lage von Menschen mit Behinderungen und die Entwicklung ihrer Teilhabe → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 - § 89 Verordnungsermächtigung → `text/4-kapitel-11-unterhaltssichernde-und-andere-erganzende-leistun.md`
 
-# Teil 2 - Besondere Leistungen zur selbstbestimmten Lebensführung für Menschen mit Behinderungen (Eingliederungshilferecht)  
+# Teil 2 Besondere Leistungen zur selbstbestimmten Lebensführung für Menschen mit Behinderungen (Eingliederungshilferecht)  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 
-## Kapitel 1 - Allgemeine Vorschriften  
+## Kapitel 1 Allgemeine Vorschriften  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 90 Aufgabe der Eingliederungshilfe → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -180,7 +180,7 @@ Format: `heading → text/<file>`
 - § 97 Fachkräfte → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 98 Örtliche Zuständigkeit → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 2 - Grundsätze der Leistungen  
+## Kapitel 2 Grundsätze der Leistungen  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 99 Leistungsberechtigung, Verordnungsermächtigung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -194,23 +194,23 @@ Format: `heading → text/<file>`
 - § 107 Übertragung, Verpfändung oder Pfändung, Auswahlermessen → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 108 Antragserfordernis → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 3 - Medizinische Rehabilitation  
+## Kapitel 3 Medizinische Rehabilitation  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 109 Leistungen zur medizinischen Rehabilitation → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 110 Leistungserbringung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 4 - Teilhabe am Arbeitsleben  
+## Kapitel 4 Teilhabe am Arbeitsleben  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 111 Leistungen zur Beschäftigung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 5 - Teilhabe an Bildung  
+## Kapitel 5 Teilhabe an Bildung  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 112 Leistungen zur Teilhabe an Bildung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 6 - Soziale Teilhabe  
+## Kapitel 6 Soziale Teilhabe  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 113 Leistungen zur Sozialen Teilhabe → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -218,7 +218,7 @@ Format: `heading → text/<file>`
 - § 115 Besuchsbeihilfen → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 116 Pauschale Geldleistung, gemeinsame Inanspruchnahme → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 7 - Gesamtplanung  
+## Kapitel 7 Gesamtplanung  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 117 Gesamtplanverfahren → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -228,7 +228,7 @@ Format: `heading → text/<file>`
 - § 121 Gesamtplan → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 122 Teilhabezielvereinbarung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 8 - Vertragsrecht  
+## Kapitel 8 Vertragsrecht  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 123 Allgemeine Grundsätze → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -244,7 +244,7 @@ Format: `heading → text/<file>`
 - § 133 Schiedsstelle → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 134 Sonderregelung zum Inhalt der Vereinbarungen zur Erbringung von Leistungen für minderjährige Leistungsberechtigte und in Sonderfällen → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 9 - Einkommen und Vermögen  
+## Kapitel 9 Einkommen und Vermögen  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 135 Begriff des Einkommens → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -256,7 +256,7 @@ Format: `heading → text/<file>`
 - § 141 Übergang von Ansprüchen → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 142 Sonderregelungen für minderjährige Leistungsberechtigte und in Sonderfällen → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 10 - Statistik  
+## Kapitel 10 Statistik  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 143 Bundesstatistik → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
@@ -266,24 +266,26 @@ Format: `heading → text/<file>`
 - § 147 Auskunftspflicht → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 148 Übermittlung, Veröffentlichung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-## Kapitel 11 - Übergangs- und Schlussbestimmungen  
+## Kapitel 11 Übergangs- und Schlussbestimmungen  
 `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
 - § 149 Übergangsregelung für ambulant Betreute → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 - § 150 Übergangsregelung zum Einsatz des Einkommens → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
+- § 150a Übergangsregelung für Ausländerinnen und Ausländer mit Aufenthaltstitel nach § 24 des Aufenthaltsgesetzes oder mit entsprechender Fiktionsbescheinigung → `text/5-teil-2-besondere-leistungen-zur-selbstbestimmten-lebensfuhru.md`
 
-# Teil 3 - Besondere Regelungen zur Teilhabe schwerbehinderter Menschen (Schwerbehindertenrecht)  
+# Teil 3 Besondere Regelungen zur Teilhabe schwerbehinderter Menschen (Schwerbehindertenrecht)  
 `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
 
-## Kapitel 1 - Geschützter Personenkreis  
+## Kapitel 1 Geschützter Personenkreis  
 `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
 - § 151 Geltungsbereich → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 - § 152 Feststellung der Behinderung, Ausweise → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 - § 153 Verordnungsermächtigung → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
+- § 153a Sachverständigenbeirat, Verfahren → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
-## Kapitel 2 - Beschäftigungspflicht der Arbeitgeber  
+## Kapitel 2 Beschäftigungspflicht der Arbeitgeber  
 `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
 - § 154 Pflicht der Arbeitgeber zur Beschäftigung schwerbehinderter Menschen → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
@@ -296,7 +298,7 @@ Format: `heading → text/<file>`
 - § 161 Ausgleichsfonds → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 - § 162 Verordnungsermächtigungen → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
-## Kapitel 3 - Sonstige Pflichten der Arbeitgeber; Rechte der schwerbehinderten Menschen  
+## Kapitel 3 Sonstige Pflichten der Arbeitgeber; Rechte der schwerbehinderten Menschen  
 `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
 - § 163 Zusammenwirken der Arbeitgeber mit der Bundesagentur für Arbeit und den Integrationsämtern → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
@@ -305,7 +307,7 @@ Format: `heading → text/<file>`
 - § 166 Inklusionsvereinbarung → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 - § 167 Prävention → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
-## Kapitel 4 - Kündigungsschutz  
+## Kapitel 4 Kündigungsschutz  
 `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
 - § 168 Erfordernis der Zustimmung → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
@@ -317,7 +319,7 @@ Format: `heading → text/<file>`
 - § 174 Außerordentliche Kündigung → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 - § 175 Erweiterter Beendigungsschutz → `text/6-teil-3-besondere-regelungen-zur-teilhabe-schwerbehinderter-m.md`
 
-## Kapitel 5 - Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrat, Schwerbehindertenvertretung, Inklusionsbeauftragter des Arbeitgebers  
+## Kapitel 5 Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrat, Schwerbehindertenvertretung, Inklusionsbeauftragter des Arbeitgebers  
 `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
 
 - § 176 Aufgaben des Betriebs-, Personal-, Richter-, Staatsanwalts- und Präsidialrates → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
@@ -329,7 +331,7 @@ Format: `heading → text/<file>`
 - § 182 Zusammenarbeit → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
 - § 183 Verordnungsermächtigung → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
 
-## Kapitel 6 - Durchführung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen  
+## Kapitel 6 Durchführung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen  
 `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
 
 - § 184 Zusammenarbeit der Integrationsämter und der Bundesagentur für Arbeit → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
@@ -342,67 +344,67 @@ Format: `heading → text/<file>`
 - § 190 Übertragung von Aufgaben → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
 - § 191 Verordnungsermächtigung → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
 
-## Kapitel 7 - Integrationsfachdienste  
-`text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
+## Kapitel 7 Integrationsfachdienste  
+`text/8-kapitel-7-integrationsfachdienste.md`
 
-- § 192 Begriff und Personenkreis → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
-- § 193 Aufgaben → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
-- § 194 Beauftragung und Verantwortlichkeit → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
-- § 195 Fachliche Anforderungen → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
-- § 196 Finanzielle Leistungen → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
-- § 197 Ergebnisbeobachtung → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
-- § 198 Verordnungsermächtigung → `text/7-kapitel-5-betriebs-personal-richter-staatsanwalts-und-prasid.md`
+- § 192 Begriff und Personenkreis → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 193 Aufgaben → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 194 Beauftragung und Verantwortlichkeit → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 195 Fachliche Anforderungen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 196 Finanzielle Leistungen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 197 Ergebnisbeobachtung → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 198 Verordnungsermächtigung → `text/8-kapitel-7-integrationsfachdienste.md`
 
-## Kapitel 8 - Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter und gleichgestellter behinderter Menschen  
-`text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+## Kapitel 8 Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter und gleichgestellter behinderter Menschen  
+`text/8-kapitel-7-integrationsfachdienste.md`
 
-- § 199 Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 200 Entziehung der besonderen Hilfen für schwerbehinderte Menschen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+- § 199 Beendigung der Anwendung der besonderen Regelungen zur Teilhabe schwerbehinderter Menschen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 200 Entziehung der besonderen Hilfen für schwerbehinderte Menschen → `text/8-kapitel-7-integrationsfachdienste.md`
 
-## Kapitel 9 - Widerspruchsverfahren  
-`text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+## Kapitel 9 Widerspruchsverfahren  
+`text/8-kapitel-7-integrationsfachdienste.md`
 
-- § 201 Widerspruch → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 202 Widerspruchsausschuss bei dem Integrationsamt → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 203 Widerspruchsausschüsse der Bundesagentur für Arbeit → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 204 Verfahrensvorschriften → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+- § 201 Widerspruch → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 202 Widerspruchsausschuss bei dem Integrationsamt → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 203 Widerspruchsausschüsse der Bundesagentur für Arbeit → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 204 Verfahrensvorschriften → `text/8-kapitel-7-integrationsfachdienste.md`
 
-## Kapitel 10 - Sonstige Vorschriften  
-`text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+## Kapitel 10 Sonstige Vorschriften  
+`text/8-kapitel-7-integrationsfachdienste.md`
 
-- § 205 Vorrang der schwerbehinderten Menschen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 206 Arbeitsentgelt und Dienstbezüge → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 207 Mehrarbeit → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 208 Zusatzurlaub → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 209 Nachteilsausgleich → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 210 Beschäftigung schwerbehinderter Menschen in Heimarbeit → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 211 Schwerbehinderte Beamtinnen und Beamte, Richterinnen und Richter, Soldatinnen und Soldaten → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 212 Unabhängige Tätigkeit → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 213 Geheimhaltungspflicht → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 214 Statistik → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+- § 205 Vorrang der schwerbehinderten Menschen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 206 Arbeitsentgelt und Dienstbezüge → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 207 Mehrarbeit → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 208 Zusatzurlaub → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 209 Nachteilsausgleich → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 210 Beschäftigung schwerbehinderter Menschen in Heimarbeit → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 211 Schwerbehinderte Beamtinnen und Beamte, Richterinnen und Richter, Soldatinnen und Soldaten → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 212 Unabhängige Tätigkeit → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 213 Geheimhaltungspflicht → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 214 Statistik → `text/8-kapitel-7-integrationsfachdienste.md`
 
-## Kapitel 11 - Inklusionsbetriebe  
-`text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+## Kapitel 11 Inklusionsbetriebe  
+`text/8-kapitel-7-integrationsfachdienste.md`
 
-- § 215 Begriff und Personenkreis → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 216 Aufgaben → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 217 Finanzielle Leistungen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 218 Verordnungsermächtigung → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+- § 215 Begriff und Personenkreis → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 216 Aufgaben → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 217 Finanzielle Leistungen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 218 Verordnungsermächtigung → `text/8-kapitel-7-integrationsfachdienste.md`
 
-## Kapitel 12 - Werkstätten für behinderte Menschen  
-`text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+## Kapitel 12 Werkstätten für behinderte Menschen  
+`text/8-kapitel-7-integrationsfachdienste.md`
 
-- § 219 Begriff und Aufgaben der Werkstatt für behinderte Menschen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 220 Aufnahme in die Werkstätten für behinderte Menschen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 221 Rechtsstellung und Arbeitsentgelt behinderter Menschen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 222 Mitbestimmung, Mitwirkung, Frauenbeauftragte → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 223 Anrechnung von Aufträgen auf die Ausgleichsabgabe → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 224 Vergabe von Aufträgen durch die öffentliche Hand → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 225 Anerkennungsverfahren → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 226 Blindenwerkstätten → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
-- § 227 Verordnungsermächtigungen → `text/8-kapitel-8-beendigung-der-anwendung-der-besonderen-regelungen.md`
+- § 219 Begriff und Aufgaben der Werkstatt für behinderte Menschen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 220 Aufnahme in die Werkstätten für behinderte Menschen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 221 Rechtsstellung und Arbeitsentgelt behinderter Menschen → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 222 Mitbestimmung, Mitwirkung, Frauenbeauftragte → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 223 Anrechnung von Aufträgen auf die Ausgleichsabgabe → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 224 Vergabe von Aufträgen durch die öffentliche Hand → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 225 Anerkennungsverfahren → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 226 Blindenwerkstätten → `text/8-kapitel-7-integrationsfachdienste.md`
+- § 227 Verordnungsermächtigungen → `text/8-kapitel-7-integrationsfachdienste.md`
 
-## Kapitel 13 - Unentgeltliche Beförderung schwerbehinderter Menschen im öffentlichen Personenverkehr  
+## Kapitel 13 Unentgeltliche Beförderung schwerbehinderter Menschen im öffentlichen Personenverkehr  
 `text/9-kapitel-13-unentgeltliche-beforderung-schwerbehinderter-mens.md`
 
 - § 228 Unentgeltliche Beförderung, Anspruch auf Erstattung der Fahrgeldausfälle → `text/9-kapitel-13-unentgeltliche-beforderung-schwerbehinderter-mens.md`
@@ -416,7 +418,7 @@ Format: `heading → text/<file>`
 - § 236 Erfassung der Ausweise → `text/9-kapitel-13-unentgeltliche-beforderung-schwerbehinderter-mens.md`
 - § 237 Verordnungsermächtigungen → `text/9-kapitel-13-unentgeltliche-beforderung-schwerbehinderter-mens.md`
 
-## Kapitel 14 - Straf-, Bußgeld- und Schlussvorschriften  
+## Kapitel 14 Straf-, Bußgeld- und Schlussvorschriften  
 `text/9-kapitel-13-unentgeltliche-beforderung-schwerbehinderter-mens.md`
 
 - § 237a Strafvorschriften → `text/9-kapitel-13-unentgeltliche-beforderung-schwerbehinderter-mens.md`

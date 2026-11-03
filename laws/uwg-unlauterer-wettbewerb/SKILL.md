@@ -6,19 +6,20 @@ metadata:
   title: "Gesetz gegen den unlauteren Wettbewerb"
   area: Wettbewerbs- und IP-Recht
   ausfertigungsdatum: 2004-07-03
-  stand: "Art. 1 G v. 26.11.2020 I 2568"
+  stand: "Art. 6 G v. 22.10.2026 I Nr. 322"
   source: https://www.gesetze-im-internet.de/uwg_2004/
-  mirror: https://github.com/bundestag/gesetze/tree/master/u/uwg_2004
-  paragraphs: 28
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/uw/uwg_2004.md
+  snapshot: 2026-11-03
+  paragraphs: 32
   chunks: 1
-  size_bytes: 53054
+  size_bytes: 76081
 ---
 
 # Gesetz gegen den unlauteren Wettbewerb (UWG)
 
 **Area:** Wettbewerbs- und IP-Recht  
 **Covers:** Unfair Competition Act: misleading advertising, aggressive practices, cease-and-desist claims  
-**Text state:** Art. 1 G v. 26.11.2020 I 2568 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 6 G v. 22.10.2026 I Nr. 322 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,6 +41,6 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-kapitel-1-allgemeine-bestimmungen.md` | Kapitel 1 - Allgemeine Bestimmungen | § 1 – Anhang (zu | 53 KB |
+| 1 | `text/1-kapitel-1-allgemeine-bestimmungen.md` | Kapitel 1 Allgemeine Bestimmungen | § 1 – Anhang (zu | 76 KB |
 
-Full paragraph index: `toc.md` (28 paragraphs).
+Full paragraph index: `toc.md` (32 paragraphs).

@@ -3,15 +3,15 @@
 Format: `heading → text/<file>`
 
 
-# Teil 1 - Allgemeiner Teil  
+# Teil 1 Allgemeiner Teil  
 `text/1-teil-1-allgemeiner-teil.md`
 
 
-## Kapitel 1 - Vorschriften für alle Versicherungszweige  
+## Kapitel 1 Vorschriften für alle Versicherungszweige  
 `text/1-teil-1-allgemeiner-teil.md`
 
 
-### Abschnitt 1 - Allgemeine Vorschriften  
+### Abschnitt 1 Allgemeine Vorschriften  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 1 Vertragstypische Pflichten → `text/1-teil-1-allgemeiner-teil.md`
@@ -22,12 +22,12 @@ Format: `heading → text/<file>`
 - § 5 Abweichender Versicherungsschein → `text/1-teil-1-allgemeiner-teil.md`
 - § 6 Beratung des Versicherungsnehmers → `text/1-teil-1-allgemeiner-teil.md`
 - § 6a Einzelheiten der Auskunftserteilung → `text/1-teil-1-allgemeiner-teil.md`
-- § 7 Information des Versicherungsnehmers → `text/1-teil-1-allgemeiner-teil.md`
+- § 7 Information des Versicherungsnehmers; Verordnungsermächtigung → `text/1-teil-1-allgemeiner-teil.md`
 - § 7a Querverkäufe → `text/1-teil-1-allgemeiner-teil.md`
 - § 7b Information bei Versicherungsanlageprodukten → `text/1-teil-1-allgemeiner-teil.md`
 - § 7c Beurteilung von Versicherungsanlageprodukten; Berichtspflicht → `text/1-teil-1-allgemeiner-teil.md`
-- § 7d Beratung, Information und Widerruf bei bestimmten Gruppenversicherungen → `text/1-teil-1-allgemeiner-teil.md`
-- § 8 Widerrufsrecht des Versicherungsnehmers → `text/1-teil-1-allgemeiner-teil.md`
+- § 7d (weggefallen) → `text/1-teil-1-allgemeiner-teil.md`
+- § 8 Widerrufsrecht des Versicherungsnehmers; Verordnungsermächtigung → `text/1-teil-1-allgemeiner-teil.md`
 - § 9 Rechtsfolgen des Widerrufs → `text/1-teil-1-allgemeiner-teil.md`
 - § 10 Beginn und Ende der Versicherung → `text/1-teil-1-allgemeiner-teil.md`
 - § 11 Verlängerung, Kündigung → `text/1-teil-1-allgemeiner-teil.md`
@@ -39,7 +39,7 @@ Format: `heading → text/<file>`
 - § 17 Abtretungsverbot bei unpfändbaren Sachen → `text/1-teil-1-allgemeiner-teil.md`
 - § 18 Abweichende Vereinbarungen → `text/1-teil-1-allgemeiner-teil.md`
 
-### Abschnitt 2 - Anzeigepflicht, Gefahrerhöhung, andere Obliegenheiten  
+### Abschnitt 2 Anzeigepflicht, Gefahrerhöhung, andere Obliegenheiten  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 19 Anzeigepflicht → `text/1-teil-1-allgemeiner-teil.md`
@@ -57,7 +57,7 @@ Format: `heading → text/<file>`
 - § 31 Auskunftspflicht des Versicherungsnehmers → `text/1-teil-1-allgemeiner-teil.md`
 - § 32 Abweichende Vereinbarungen → `text/1-teil-1-allgemeiner-teil.md`
 
-### Abschnitt 3 - Prämie  
+### Abschnitt 3 Prämie  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 33 Fälligkeit → `text/1-teil-1-allgemeiner-teil.md`
@@ -71,7 +71,7 @@ Format: `heading → text/<file>`
 - § 41 Herabsetzung der Prämie → `text/1-teil-1-allgemeiner-teil.md`
 - § 42 Abweichende Vereinbarungen → `text/1-teil-1-allgemeiner-teil.md`
 
-### Abschnitt 4 - Versicherung für fremde Rechnung  
+### Abschnitt 4 Versicherung für fremde Rechnung  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 43 Begriffsbestimmung → `text/1-teil-1-allgemeiner-teil.md`
@@ -81,7 +81,7 @@ Format: `heading → text/<file>`
 - § 47 Kenntnis und Verhalten des Versicherten → `text/1-teil-1-allgemeiner-teil.md`
 - § 48 Versicherung für Rechnung „wen es angeht“ → `text/1-teil-1-allgemeiner-teil.md`
 
-### Abschnitt 5 - Vorläufige Deckung  
+### Abschnitt 5 Vorläufige Deckung  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 49 Inhalt des Vertrags → `text/1-teil-1-allgemeiner-teil.md`
@@ -89,7 +89,7 @@ Format: `heading → text/<file>`
 - § 51 Prämienzahlung → `text/1-teil-1-allgemeiner-teil.md`
 - § 52 Beendigung des Vertrags → `text/1-teil-1-allgemeiner-teil.md`
 
-### Abschnitt 6 - Laufende Versicherung  
+### Abschnitt 6 Laufende Versicherung  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 53 Anmeldepflicht → `text/1-teil-1-allgemeiner-teil.md`
@@ -99,11 +99,11 @@ Format: `heading → text/<file>`
 - § 57 Gefahränderung → `text/1-teil-1-allgemeiner-teil.md`
 - § 58 Obliegenheitsverletzung → `text/1-teil-1-allgemeiner-teil.md`
 
-### Abschnitt 7 - Versicherungsvermittler, Versicherungsberater  
+### Abschnitt 7 Versicherungsvermittler, Versicherungsberater  
 `text/1-teil-1-allgemeiner-teil.md`
 
 
-#### Unterabschnitt 1 - Mitteilungs- und Beratungspflichten  
+#### Unterabschnitt 1 Mitteilungs- und Beratungspflichten  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 59 Begriffsbestimmungen → `text/1-teil-1-allgemeiner-teil.md`
@@ -117,7 +117,7 @@ Format: `heading → text/<file>`
 - § 67 Abweichende Vereinbarungen → `text/1-teil-1-allgemeiner-teil.md`
 - § 68 Versicherungsberater → `text/1-teil-1-allgemeiner-teil.md`
 
-#### Unterabschnitt 2 - Vertretungsmacht  
+#### Unterabschnitt 2 Vertretungsmacht  
 `text/1-teil-1-allgemeiner-teil.md`
 
 - § 69 Gesetzliche Vollmacht → `text/1-teil-1-allgemeiner-teil.md`
@@ -126,177 +126,177 @@ Format: `heading → text/<file>`
 - § 72 Beschränkung der Vertretungsmacht → `text/1-teil-1-allgemeiner-teil.md`
 - § 73 Angestellte und nicht gewerbsmäßig tätige Vermittler → `text/1-teil-1-allgemeiner-teil.md`
 
-## Kapitel 2 - Schadensversicherung  
-`text/1-teil-1-allgemeiner-teil.md`
+## Kapitel 2 Schadensversicherung  
+`text/2-kapitel-2-schadensversicherung.md`
 
 
-### Abschnitt 1 - Allgemeine Vorschriften  
-`text/1-teil-1-allgemeiner-teil.md`
+### Abschnitt 1 Allgemeine Vorschriften  
+`text/2-kapitel-2-schadensversicherung.md`
 
-- § 74 Überversicherung → `text/1-teil-1-allgemeiner-teil.md`
-- § 75 Unterversicherung → `text/1-teil-1-allgemeiner-teil.md`
-- § 76 Taxe → `text/1-teil-1-allgemeiner-teil.md`
-- § 77 Mehrere Versicherer → `text/1-teil-1-allgemeiner-teil.md`
-- § 78 Haftung bei Mehrfachversicherung → `text/1-teil-1-allgemeiner-teil.md`
-- § 79 Beseitigung der Mehrfachversicherung → `text/1-teil-1-allgemeiner-teil.md`
-- § 80 Fehlendes versichertes Interesse → `text/1-teil-1-allgemeiner-teil.md`
-- § 81 Herbeiführung des Versicherungsfalles → `text/1-teil-1-allgemeiner-teil.md`
-- § 82 Abwendung und Minderung des Schadens → `text/1-teil-1-allgemeiner-teil.md`
-- § 83 Aufwendungsersatz → `text/1-teil-1-allgemeiner-teil.md`
-- § 84 Sachverständigenverfahren → `text/1-teil-1-allgemeiner-teil.md`
-- § 85 Schadensermittlungskosten → `text/1-teil-1-allgemeiner-teil.md`
-- § 86 Übergang von Ersatzansprüchen → `text/1-teil-1-allgemeiner-teil.md`
-- § 87 Abweichende Vereinbarungen → `text/1-teil-1-allgemeiner-teil.md`
+- § 74 Überversicherung → `text/2-kapitel-2-schadensversicherung.md`
+- § 75 Unterversicherung → `text/2-kapitel-2-schadensversicherung.md`
+- § 76 Taxe → `text/2-kapitel-2-schadensversicherung.md`
+- § 77 Mehrere Versicherer → `text/2-kapitel-2-schadensversicherung.md`
+- § 78 Haftung bei Mehrfachversicherung → `text/2-kapitel-2-schadensversicherung.md`
+- § 79 Beseitigung der Mehrfachversicherung → `text/2-kapitel-2-schadensversicherung.md`
+- § 80 Fehlendes versichertes Interesse → `text/2-kapitel-2-schadensversicherung.md`
+- § 81 Herbeiführung des Versicherungsfalles → `text/2-kapitel-2-schadensversicherung.md`
+- § 82 Abwendung und Minderung des Schadens → `text/2-kapitel-2-schadensversicherung.md`
+- § 83 Aufwendungsersatz → `text/2-kapitel-2-schadensversicherung.md`
+- § 84 Sachverständigenverfahren → `text/2-kapitel-2-schadensversicherung.md`
+- § 85 Schadensermittlungskosten → `text/2-kapitel-2-schadensversicherung.md`
+- § 86 Übergang von Ersatzansprüchen → `text/2-kapitel-2-schadensversicherung.md`
+- § 87 Abweichende Vereinbarungen → `text/2-kapitel-2-schadensversicherung.md`
 
-### Abschnitt 2 - Sachversicherung  
-`text/1-teil-1-allgemeiner-teil.md`
+### Abschnitt 2 Sachversicherung  
+`text/2-kapitel-2-schadensversicherung.md`
 
-- § 88 Versicherungswert → `text/1-teil-1-allgemeiner-teil.md`
-- § 89 Versicherung für Inbegriff von Sachen → `text/1-teil-1-allgemeiner-teil.md`
-- § 90 Erweiterter Aufwendungsersatz → `text/1-teil-1-allgemeiner-teil.md`
-- § 91 Verzinsung der Entschädigung → `text/1-teil-1-allgemeiner-teil.md`
-- § 92 Kündigung nach Versicherungsfall → `text/1-teil-1-allgemeiner-teil.md`
-- § 93 Wiederherstellungsklausel → `text/1-teil-1-allgemeiner-teil.md`
-- § 94 Wirksamkeit der Zahlung gegenüber Hypothekengläubigern → `text/1-teil-1-allgemeiner-teil.md`
-- § 95 Veräußerung der versicherten Sache → `text/1-teil-1-allgemeiner-teil.md`
-- § 96 Kündigung nach Veräußerung → `text/1-teil-1-allgemeiner-teil.md`
-- § 97 Anzeige der Veräußerung → `text/1-teil-1-allgemeiner-teil.md`
-- § 98 Schutz des Erwerbers → `text/1-teil-1-allgemeiner-teil.md`
-- § 99 Zwangsversteigerung, Erwerb des Nutzungsrechts → `text/1-teil-1-allgemeiner-teil.md`
+- § 88 Versicherungswert → `text/2-kapitel-2-schadensversicherung.md`
+- § 89 Versicherung für Inbegriff von Sachen → `text/2-kapitel-2-schadensversicherung.md`
+- § 90 Erweiterter Aufwendungsersatz → `text/2-kapitel-2-schadensversicherung.md`
+- § 91 Verzinsung der Entschädigung → `text/2-kapitel-2-schadensversicherung.md`
+- § 92 Kündigung nach Versicherungsfall → `text/2-kapitel-2-schadensversicherung.md`
+- § 93 Wiederherstellungsklausel → `text/2-kapitel-2-schadensversicherung.md`
+- § 94 Wirksamkeit der Zahlung gegenüber Hypothekengläubigern → `text/2-kapitel-2-schadensversicherung.md`
+- § 95 Veräußerung der versicherten Sache → `text/2-kapitel-2-schadensversicherung.md`
+- § 96 Kündigung nach Veräußerung → `text/2-kapitel-2-schadensversicherung.md`
+- § 97 Anzeige der Veräußerung → `text/2-kapitel-2-schadensversicherung.md`
+- § 98 Schutz des Erwerbers → `text/2-kapitel-2-schadensversicherung.md`
+- § 99 Zwangsversteigerung, Erwerb des Nutzungsrechts → `text/2-kapitel-2-schadensversicherung.md`
 
-# Teil 2 - Einzelne Versicherungszweige  
-`text/2-teil-2-einzelne-versicherungszweige.md`
-
-
-## Kapitel 1 - Haftpflichtversicherung  
-`text/2-teil-2-einzelne-versicherungszweige.md`
+# Teil 2 Einzelne Versicherungszweige  
+`text/2-kapitel-2-schadensversicherung.md`
 
 
-### Abschnitt 1 - Allgemeine Vorschriften  
-`text/2-teil-2-einzelne-versicherungszweige.md`
+## Kapitel 1 Haftpflichtversicherung  
+`text/2-kapitel-2-schadensversicherung.md`
 
-- § 100 Leistung des Versicherers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 101 Kosten des Rechtsschutzes → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 102 Betriebshaftpflichtversicherung → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 103 Herbeiführung des Versicherungsfalles → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 104 Anzeigepflicht des Versicherungsnehmers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 105 Anerkenntnis des Versicherungsnehmers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 106 Fälligkeit der Versicherungsleistung → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 107 Rentenanspruch → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 108 Verfügung über den Freistellungsanspruch → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 109 Mehrere Geschädigte → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 110 Insolvenz des Versicherungsnehmers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 111 Kündigung nach Versicherungsfall → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 112 Abweichende Vereinbarungen → `text/2-teil-2-einzelne-versicherungszweige.md`
 
-### Abschnitt 2 - Pflichtversicherung  
-`text/2-teil-2-einzelne-versicherungszweige.md`
+### Abschnitt 1 Allgemeine Vorschriften  
+`text/2-kapitel-2-schadensversicherung.md`
 
-- § 113 Pflichtversicherung → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 114 Umfang des Versicherungsschutzes → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 115 Direktanspruch → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 116 Gesamtschuldner → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 117 Leistungspflicht gegenüber Dritten → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 118 Rangfolge mehrerer Ansprüche → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 119 Obliegenheiten des Dritten → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 120 Obliegenheitsverletzung des Dritten → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 121 Aufrechnung gegenüber Dritten → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 122 Veräußerung der von der Versicherung erfassten Sache → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 123 Rückgriff bei mehreren Versicherten → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 124 Rechtskrafterstreckung → `text/2-teil-2-einzelne-versicherungszweige.md`
+- § 100 Leistung des Versicherers → `text/2-kapitel-2-schadensversicherung.md`
+- § 101 Kosten des Rechtsschutzes → `text/2-kapitel-2-schadensversicherung.md`
+- § 102 Betriebshaftpflichtversicherung → `text/2-kapitel-2-schadensversicherung.md`
+- § 103 Herbeiführung des Versicherungsfalles → `text/2-kapitel-2-schadensversicherung.md`
+- § 104 Anzeigepflicht des Versicherungsnehmers → `text/2-kapitel-2-schadensversicherung.md`
+- § 105 Anerkenntnis des Versicherungsnehmers → `text/2-kapitel-2-schadensversicherung.md`
+- § 106 Fälligkeit der Versicherungsleistung → `text/2-kapitel-2-schadensversicherung.md`
+- § 107 Rentenanspruch → `text/2-kapitel-2-schadensversicherung.md`
+- § 108 Verfügung über den Freistellungsanspruch → `text/2-kapitel-2-schadensversicherung.md`
+- § 109 Mehrere Geschädigte → `text/2-kapitel-2-schadensversicherung.md`
+- § 110 Insolvenz des Versicherungsnehmers → `text/2-kapitel-2-schadensversicherung.md`
+- § 111 Kündigung nach Versicherungsfall → `text/2-kapitel-2-schadensversicherung.md`
+- § 112 Abweichende Vereinbarungen → `text/2-kapitel-2-schadensversicherung.md`
 
-## Kapitel 2 - Rechtsschutzversicherung  
-`text/2-teil-2-einzelne-versicherungszweige.md`
+### Abschnitt 2 Pflichtversicherung  
+`text/2-kapitel-2-schadensversicherung.md`
 
-- § 125 Leistung des Versicherers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 126 Schadensabwicklungsunternehmen → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 127 Freie Anwaltswahl → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 128 Gutachterverfahren → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 129 Abweichende Vereinbarungen → `text/2-teil-2-einzelne-versicherungszweige.md`
+- § 113 Pflichtversicherung → `text/2-kapitel-2-schadensversicherung.md`
+- § 114 Umfang des Versicherungsschutzes → `text/2-kapitel-2-schadensversicherung.md`
+- § 115 Direktanspruch → `text/2-kapitel-2-schadensversicherung.md`
+- § 116 Gesamtschuldner → `text/2-kapitel-2-schadensversicherung.md`
+- § 117 Leistungspflicht gegenüber Dritten → `text/2-kapitel-2-schadensversicherung.md`
+- § 118 Rangfolge mehrerer Ansprüche → `text/2-kapitel-2-schadensversicherung.md`
+- § 119 Obliegenheiten des Dritten → `text/2-kapitel-2-schadensversicherung.md`
+- § 120 Obliegenheitsverletzung des Dritten → `text/2-kapitel-2-schadensversicherung.md`
+- § 121 Aufrechnung gegenüber Dritten → `text/2-kapitel-2-schadensversicherung.md`
+- § 122 Veräußerung der von der Versicherung erfassten Sache → `text/2-kapitel-2-schadensversicherung.md`
+- § 123 Rückgriff bei mehreren Versicherten → `text/2-kapitel-2-schadensversicherung.md`
+- § 124 Rechtskrafterstreckung → `text/2-kapitel-2-schadensversicherung.md`
 
-## Kapitel 3 - Transportversicherung  
-`text/2-teil-2-einzelne-versicherungszweige.md`
+## Kapitel 2 Rechtsschutzversicherung  
+`text/2-kapitel-2-schadensversicherung.md`
 
-- § 130 Umfang der Gefahrtragung → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 131 Verletzung der Anzeigepflicht → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 132 Gefahränderung → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 133 Vertragswidrige Beförderung → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 134 Ungeeignete Beförderungsmittel → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 135 Aufwendungsersatz → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 136 Versicherungswert → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 137 Herbeiführung des Versicherungsfalles → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 138 Haftungsausschluss bei Schiffen → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 139 Veräußerung der versicherten Sache oder Güter → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 140 Veräußerung des versicherten Schiffes → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 141 Befreiung durch Zahlung der Versicherungssumme → `text/2-teil-2-einzelne-versicherungszweige.md`
+- § 125 Leistung des Versicherers → `text/2-kapitel-2-schadensversicherung.md`
+- § 126 Schadensabwicklungsunternehmen → `text/2-kapitel-2-schadensversicherung.md`
+- § 127 Freie Anwaltswahl → `text/2-kapitel-2-schadensversicherung.md`
+- § 128 Gutachterverfahren → `text/2-kapitel-2-schadensversicherung.md`
+- § 129 Abweichende Vereinbarungen → `text/2-kapitel-2-schadensversicherung.md`
 
-## Kapitel 4 - Gebäudefeuerversicherung  
-`text/2-teil-2-einzelne-versicherungszweige.md`
+## Kapitel 3 Transportversicherung  
+`text/3-kapitel-3-transportversicherung.md`
 
-- § 142 Anzeigen an Hypothekengläubiger → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 143 Fortdauer der Leistungspflicht gegenüber Hypothekengläubigern → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 144 Kündigung des Versicherungsnehmers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 145 Übergang der Hypothek → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 146 Bestätigungs- und Auskunftspflicht des Versicherers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 147 Änderung von Anschrift und Name des Hypothekengläubigers → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 148 Andere Grundpfandrechte → `text/2-teil-2-einzelne-versicherungszweige.md`
-- § 149 Eigentümergrundpfandrechte → `text/2-teil-2-einzelne-versicherungszweige.md`
+- § 130 Umfang der Gefahrtragung → `text/3-kapitel-3-transportversicherung.md`
+- § 131 Verletzung der Anzeigepflicht → `text/3-kapitel-3-transportversicherung.md`
+- § 132 Gefahränderung → `text/3-kapitel-3-transportversicherung.md`
+- § 133 Vertragswidrige Beförderung → `text/3-kapitel-3-transportversicherung.md`
+- § 134 Ungeeignete Beförderungsmittel → `text/3-kapitel-3-transportversicherung.md`
+- § 135 Aufwendungsersatz → `text/3-kapitel-3-transportversicherung.md`
+- § 136 Versicherungswert → `text/3-kapitel-3-transportversicherung.md`
+- § 137 Herbeiführung des Versicherungsfalles → `text/3-kapitel-3-transportversicherung.md`
+- § 138 Haftungsausschluss bei Schiffen → `text/3-kapitel-3-transportversicherung.md`
+- § 139 Veräußerung der versicherten Sache oder Güter → `text/3-kapitel-3-transportversicherung.md`
+- § 140 Veräußerung des versicherten Schiffes → `text/3-kapitel-3-transportversicherung.md`
+- § 141 Befreiung durch Zahlung der Versicherungssumme → `text/3-kapitel-3-transportversicherung.md`
 
-## Kapitel 5 - Lebensversicherung  
-`text/3-kapitel-5-lebensversicherung.md`
+## Kapitel 4 Gebäudefeuerversicherung  
+`text/3-kapitel-3-transportversicherung.md`
 
-- § 150 Versicherte Person → `text/3-kapitel-5-lebensversicherung.md`
-- § 151 Ärztliche Untersuchung → `text/3-kapitel-5-lebensversicherung.md`
-- § 152 Widerruf des Versicherungsnehmers → `text/3-kapitel-5-lebensversicherung.md`
-- § 153 Überschussbeteiligung → `text/3-kapitel-5-lebensversicherung.md`
-- § 154 Modellrechnung → `text/3-kapitel-5-lebensversicherung.md`
-- § 155 Standmitteilung → `text/3-kapitel-5-lebensversicherung.md`
-- § 156 Kenntnis und Verhalten der versicherten Person → `text/3-kapitel-5-lebensversicherung.md`
-- § 157 Unrichtige Altersangabe → `text/3-kapitel-5-lebensversicherung.md`
-- § 158 Gefahränderung → `text/3-kapitel-5-lebensversicherung.md`
-- § 159 Bezugsberechtigung → `text/3-kapitel-5-lebensversicherung.md`
-- § 160 Auslegung der Bezugsberechtigung → `text/3-kapitel-5-lebensversicherung.md`
-- § 161 Selbsttötung → `text/3-kapitel-5-lebensversicherung.md`
-- § 162 Tötung durch Leistungsberechtigten → `text/3-kapitel-5-lebensversicherung.md`
-- § 163 Prämien- und Leistungsänderung → `text/3-kapitel-5-lebensversicherung.md`
-- § 164 Bedingungsanpassung → `text/3-kapitel-5-lebensversicherung.md`
-- § 165 Prämienfreie Versicherung → `text/3-kapitel-5-lebensversicherung.md`
-- § 166 Kündigung des Versicherers → `text/3-kapitel-5-lebensversicherung.md`
-- § 167 Umwandlung zur Erlangung eines Pfändungsschutzes → `text/3-kapitel-5-lebensversicherung.md`
-- § 168 Kündigung des Versicherungsnehmers → `text/3-kapitel-5-lebensversicherung.md`
-- § 169 Rückkaufswert → `text/3-kapitel-5-lebensversicherung.md`
-- § 170 Eintrittsrecht → `text/3-kapitel-5-lebensversicherung.md`
-- § 171 Abweichende Vereinbarungen → `text/3-kapitel-5-lebensversicherung.md`
+- § 142 Anzeigen an Hypothekengläubiger → `text/3-kapitel-3-transportversicherung.md`
+- § 143 Fortdauer der Leistungspflicht gegenüber Hypothekengläubigern → `text/3-kapitel-3-transportversicherung.md`
+- § 144 Kündigung des Versicherungsnehmers → `text/3-kapitel-3-transportversicherung.md`
+- § 145 Übergang der Hypothek → `text/3-kapitel-3-transportversicherung.md`
+- § 146 Bestätigungs- und Auskunftspflicht des Versicherers → `text/3-kapitel-3-transportversicherung.md`
+- § 147 Änderung von Anschrift und Name des Hypothekengläubigers → `text/3-kapitel-3-transportversicherung.md`
+- § 148 Andere Grundpfandrechte → `text/3-kapitel-3-transportversicherung.md`
+- § 149 Eigentümergrundpfandrechte → `text/3-kapitel-3-transportversicherung.md`
 
-## Kapitel 6 - Berufsunfähigkeitsversicherung  
-`text/3-kapitel-5-lebensversicherung.md`
+## Kapitel 5 Lebensversicherung  
+`text/3-kapitel-3-transportversicherung.md`
 
-- § 172 Leistung des Versicherers → `text/3-kapitel-5-lebensversicherung.md`
-- § 173 Anerkenntnis → `text/3-kapitel-5-lebensversicherung.md`
-- § 174 Leistungsfreiheit → `text/3-kapitel-5-lebensversicherung.md`
-- § 175 Abweichende Vereinbarungen → `text/3-kapitel-5-lebensversicherung.md`
-- § 176 Anzuwendende Vorschriften → `text/3-kapitel-5-lebensversicherung.md`
-- § 177 Ähnliche Versicherungsverträge → `text/3-kapitel-5-lebensversicherung.md`
+- § 150 Versicherte Person → `text/3-kapitel-3-transportversicherung.md`
+- § 151 Ärztliche Untersuchung → `text/3-kapitel-3-transportversicherung.md`
+- § 152 Widerruf des Versicherungsnehmers → `text/3-kapitel-3-transportversicherung.md`
+- § 153 Überschussbeteiligung → `text/3-kapitel-3-transportversicherung.md`
+- § 154 Modellrechnung → `text/3-kapitel-3-transportversicherung.md`
+- § 155 Standmitteilung → `text/3-kapitel-3-transportversicherung.md`
+- § 156 Kenntnis und Verhalten der versicherten Person → `text/3-kapitel-3-transportversicherung.md`
+- § 157 Unrichtige Altersangabe → `text/3-kapitel-3-transportversicherung.md`
+- § 158 Gefahränderung → `text/3-kapitel-3-transportversicherung.md`
+- § 159 Bezugsberechtigung → `text/3-kapitel-3-transportversicherung.md`
+- § 160 Auslegung der Bezugsberechtigung → `text/3-kapitel-3-transportversicherung.md`
+- § 161 Selbsttötung → `text/3-kapitel-3-transportversicherung.md`
+- § 162 Tötung durch Leistungsberechtigten → `text/3-kapitel-3-transportversicherung.md`
+- § 163 Prämien- und Leistungsänderung → `text/3-kapitel-3-transportversicherung.md`
+- § 164 Bedingungsanpassung → `text/3-kapitel-3-transportversicherung.md`
+- § 165 Prämienfreie Versicherung → `text/3-kapitel-3-transportversicherung.md`
+- § 166 Kündigung des Versicherers → `text/3-kapitel-3-transportversicherung.md`
+- § 167 Umwandlung zur Erlangung eines Pfändungsschutzes → `text/3-kapitel-3-transportversicherung.md`
+- § 168 Kündigung des Versicherungsnehmers → `text/3-kapitel-3-transportversicherung.md`
+- § 169 Rückkaufswert → `text/3-kapitel-3-transportversicherung.md`
+- § 170 Eintrittsrecht → `text/3-kapitel-3-transportversicherung.md`
+- § 171 Abweichende Vereinbarungen → `text/3-kapitel-3-transportversicherung.md`
 
-## Kapitel 7 - Unfallversicherung  
-`text/3-kapitel-5-lebensversicherung.md`
+## Kapitel 6 Berufsunfähigkeitsversicherung  
+`text/3-kapitel-3-transportversicherung.md`
 
-- § 178 Leistung des Versicherers → `text/3-kapitel-5-lebensversicherung.md`
-- § 179 Versicherte Person → `text/3-kapitel-5-lebensversicherung.md`
-- § 180 Invalidität → `text/3-kapitel-5-lebensversicherung.md`
-- § 181 Gefahrerhöhung → `text/3-kapitel-5-lebensversicherung.md`
-- § 182 Mitwirkende Ursachen → `text/3-kapitel-5-lebensversicherung.md`
-- § 183 Herbeiführung des Versicherungsfalles → `text/3-kapitel-5-lebensversicherung.md`
-- § 184 Abwendung und Minderung des Schadens → `text/3-kapitel-5-lebensversicherung.md`
-- § 185 Bezugsberechtigung → `text/3-kapitel-5-lebensversicherung.md`
-- § 186 Hinweispflicht des Versicherers → `text/3-kapitel-5-lebensversicherung.md`
-- § 187 Anerkenntnis → `text/3-kapitel-5-lebensversicherung.md`
-- § 188 Neubemessung der Invalidität → `text/3-kapitel-5-lebensversicherung.md`
-- § 189 Sachverständigenverfahren, Schadensermittlungskosten → `text/3-kapitel-5-lebensversicherung.md`
-- § 190 Pflichtversicherung → `text/3-kapitel-5-lebensversicherung.md`
-- § 191 Abweichende Vereinbarungen → `text/3-kapitel-5-lebensversicherung.md`
+- § 172 Leistung des Versicherers → `text/3-kapitel-3-transportversicherung.md`
+- § 173 Anerkenntnis → `text/3-kapitel-3-transportversicherung.md`
+- § 174 Leistungsfreiheit → `text/3-kapitel-3-transportversicherung.md`
+- § 175 Abweichende Vereinbarungen → `text/3-kapitel-3-transportversicherung.md`
+- § 176 Anzuwendende Vorschriften → `text/3-kapitel-3-transportversicherung.md`
+- § 177 Ähnliche Versicherungsverträge → `text/3-kapitel-3-transportversicherung.md`
 
-## Kapitel 8 - Krankenversicherung  
+## Kapitel 7 Unfallversicherung  
+`text/3-kapitel-3-transportversicherung.md`
+
+- § 178 Leistung des Versicherers → `text/3-kapitel-3-transportversicherung.md`
+- § 179 Versicherte Person → `text/3-kapitel-3-transportversicherung.md`
+- § 180 Invalidität → `text/3-kapitel-3-transportversicherung.md`
+- § 181 Gefahrerhöhung → `text/3-kapitel-3-transportversicherung.md`
+- § 182 Mitwirkende Ursachen → `text/3-kapitel-3-transportversicherung.md`
+- § 183 Herbeiführung des Versicherungsfalles → `text/3-kapitel-3-transportversicherung.md`
+- § 184 Abwendung und Minderung des Schadens → `text/3-kapitel-3-transportversicherung.md`
+- § 185 Bezugsberechtigung → `text/3-kapitel-3-transportversicherung.md`
+- § 186 Hinweispflicht des Versicherers → `text/3-kapitel-3-transportversicherung.md`
+- § 187 Anerkenntnis → `text/3-kapitel-3-transportversicherung.md`
+- § 188 Neubemessung der Invalidität → `text/3-kapitel-3-transportversicherung.md`
+- § 189 Sachverständigenverfahren, Schadensermittlungskosten → `text/3-kapitel-3-transportversicherung.md`
+- § 190 Pflichtversicherung → `text/3-kapitel-3-transportversicherung.md`
+- § 191 Abweichende Vereinbarungen → `text/3-kapitel-3-transportversicherung.md`
+
+## Kapitel 8 Krankenversicherung  
 `text/4-kapitel-8-krankenversicherung.md`
 
 - § 192 Vertragstypische Leistungen des Versicherers → `text/4-kapitel-8-krankenversicherung.md`
@@ -317,15 +317,16 @@ Format: `heading → text/<file>`
 - § 207 Fortsetzung des Versicherungsverhältnisses → `text/4-kapitel-8-krankenversicherung.md`
 - § 208 Abweichende Vereinbarungen → `text/4-kapitel-8-krankenversicherung.md`
 
-# Teil 3 - Schlussvorschriften  
+# Teil 3 Schlussvorschriften  
 `text/5-teil-3-schlussvorschriften.md`
 
 - § 209 Rückversicherung, Seeversicherung → `text/5-teil-3-schlussvorschriften.md`
 - § 210 Großrisiken, laufende Versicherung → `text/5-teil-3-schlussvorschriften.md`
+- § 210a Elektronische Transportversicherungspolice → `text/5-teil-3-schlussvorschriften.md`
 - § 211 Pensionskassen, kleinere Versicherungsvereine, Versicherungen mit kleineren Beträgen → `text/5-teil-3-schlussvorschriften.md`
-- § 212 Fortsetzung der Lebensversicherung nach der Elternzeit → `text/5-teil-3-schlussvorschriften.md`
+- § 212 Fortsetzung der Lebensversicherung nach einer Beschäftigungszeit ohne Entgelt → `text/5-teil-3-schlussvorschriften.md`
 - § 213 Erhebung personenbezogener Gesundheitsdaten bei Dritten → `text/5-teil-3-schlussvorschriften.md`
 - § 214 Schlichtungsstelle → `text/5-teil-3-schlussvorschriften.md`
 - § 215 Gerichtsstand → `text/5-teil-3-schlussvorschriften.md`
 - § 216 Prozessstandschaft bei Versicherermehrheit → `text/5-teil-3-schlussvorschriften.md`
-- Anlage Muster für die Widerrufsbelehrung → `text/5-teil-3-schlussvorschriften.md`
+- Anlage (zu § 8 Absatz 5 Satz 1) Muster für die Widerrufsbelehrung → `text/5-teil-3-schlussvorschriften.md`

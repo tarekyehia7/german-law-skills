@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Abschnitt 1 - Allgemeine Vorschriften  
+# Abschnitt 1 Allgemeine Vorschriften  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 1 Geltungsbereich → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -25,7 +25,7 @@ Format: `heading → text/<file>`
 - § 12b Elektronische Akte, elektronisches Dokument → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 12c Rechtsbehelfsbelehrung → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 2 - Gebührenvorschriften  
+# Abschnitt 2 Gebührenvorschriften  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 13 Wertgebühren → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -33,7 +33,7 @@ Format: `heading → text/<file>`
 - § 15 Abgeltungsbereich der Gebühren → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 15a Anrechnung einer Gebühr → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 3 - Angelegenheit  
+# Abschnitt 3 Angelegenheit  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 16 Dieselbe Angelegenheit → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -43,14 +43,14 @@ Format: `heading → text/<file>`
 - § 20 Verweisung, Abgabe → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 21 Zurückverweisung, Fortführung einer Folgesache als selbständige Familiensache → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 4 - Gegenstandswert  
+# Abschnitt 4 Gegenstandswert  
 `text/2-abschnitt-4-gegenstandswert.md`
 
 - § 22 Grundsatz → `text/2-abschnitt-4-gegenstandswert.md`
 - § 23 Allgemeine Wertvorschrift → `text/2-abschnitt-4-gegenstandswert.md`
 - § 23a Gegenstandswert im Verfahren über die Prozesskostenhilfe → `text/2-abschnitt-4-gegenstandswert.md`
 - § 23b Gegenstandswert im Musterverfahren nach dem Kapitalanleger-Musterverfahrensgesetz → `text/2-abschnitt-4-gegenstandswert.md`
-- § 24 Gegenstandswert im Sanierungs- und Reorganisationsverfahren nach dem Kreditinstitute-Reorganisationsgesetz → `text/2-abschnitt-4-gegenstandswert.md`
+- § 24 Gegenstandswert im Umsetzungsverfahren nach dem Verbraucherrechtedurchsetzungsgesetz → `text/2-abschnitt-4-gegenstandswert.md`
 - § 25 Gegenstandswert in der Vollstreckung und bei der Vollziehung → `text/2-abschnitt-4-gegenstandswert.md`
 - § 26 Gegenstandswert in der Zwangsversteigerung → `text/2-abschnitt-4-gegenstandswert.md`
 - § 27 Gegenstandswert in der Zwangsverwaltung → `text/2-abschnitt-4-gegenstandswert.md`
@@ -64,14 +64,14 @@ Format: `heading → text/<file>`
 - § 32 Wertfestsetzung für die Gerichtsgebühren → `text/2-abschnitt-4-gegenstandswert.md`
 - § 33 Wertfestsetzung für die Rechtsanwaltsgebühren → `text/2-abschnitt-4-gegenstandswert.md`
 
-# Abschnitt 5 - Außergerichtliche Beratung und Vertretung  
+# Abschnitt 5 Außergerichtliche Beratung und Vertretung  
 `text/2-abschnitt-4-gegenstandswert.md`
 
 - § 34 Beratung, Gutachten und Mediation → `text/2-abschnitt-4-gegenstandswert.md`
 - § 35 Hilfeleistung in Steuersachen → `text/2-abschnitt-4-gegenstandswert.md`
 - § 36 Schiedsrichterliche Verfahren und Verfahren vor dem Schiedsgericht → `text/2-abschnitt-4-gegenstandswert.md`
 
-# Abschnitt 6 - Gerichtliche Verfahren  
+# Abschnitt 6 Gerichtliche Verfahren  
 `text/2-abschnitt-4-gegenstandswert.md`
 
 - § 37 Verfahren vor den Verfassungsgerichten → `text/2-abschnitt-4-gegenstandswert.md`
@@ -79,16 +79,16 @@ Format: `heading → text/<file>`
 - § 38a Verfahren vor dem Europäischen Gerichtshof für Menschenrechte → `text/2-abschnitt-4-gegenstandswert.md`
 - § 39 Von Amts wegen beigeordneter Rechtsanwalt → `text/2-abschnitt-4-gegenstandswert.md`
 - § 40 Als gemeinsamer Vertreter bestellter Rechtsanwalt → `text/2-abschnitt-4-gegenstandswert.md`
-- § 41 Prozesspfleger → `text/2-abschnitt-4-gegenstandswert.md`
+- § 41 Besonderer Vertreter → `text/2-abschnitt-4-gegenstandswert.md`
 - § 41a Vertreter des Musterklägers → `text/2-abschnitt-4-gegenstandswert.md`
 
-# Abschnitt 7 - Straf- und Bußgeldsachen sowie bestimmte sonstige Verfahren  
+# Abschnitt 7 Straf- und Bußgeldsachen sowie bestimmte sonstige Verfahren  
 `text/2-abschnitt-4-gegenstandswert.md`
 
 - § 42 Feststellung einer Pauschgebühr → `text/2-abschnitt-4-gegenstandswert.md`
 - § 43 Abtretung des Kostenerstattungsanspruchs → `text/2-abschnitt-4-gegenstandswert.md`
 
-# Abschnitt 8 - Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe  
+# Abschnitt 8 Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe  
 `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
 
 - § 44 Vergütungsanspruch bei Beratungshilfe → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
@@ -110,12 +110,12 @@ Format: `heading → text/<file>`
 - § 59 Übergang von Ansprüchen auf die Staatskasse → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
 - § 59a Beiordnung und Bestellung durch Justizbehörden → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
 
-# Abschnitt 9 - Übergangs- und Schlussvorschriften  
+# Abschnitt 9 Übergangs- und Schlussvorschriften  
 `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
 
 - § 59b Bekanntmachung von Neufassungen → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
 - § 60 Übergangsvorschrift → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
-- § 61 Übergangsvorschrift aus Anlass des Inkrafttretens dieses Gesetzes → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
+- § 61 Übergangsvorschrift zum Gesetz zur Änderung des Zuständigkeitsstreitwerts der Amtsgerichte, zum Ausbau der Spezialisierung der Justiz in Zivilsachen sowie zur Änderung weiterer prozessualer Regelungen → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
 - § 62 Verfahren nach dem Therapieunterbringungsgesetz → `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md`
-- Anlage 1 Vergütungsverzeichnis → `text/4-anlage-1.md`
+- Anlage 1 (zu § 2 Absatz 2)Vergütungsverzeichnis → `text/4-anlage-1.md`
 - Anlage 2 (zu § 13 Absatz 1 Satz 3) → `text/5-anlage-2.md`

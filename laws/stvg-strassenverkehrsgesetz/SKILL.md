@@ -6,19 +6,20 @@ metadata:
   title: "Straßenverkehrsgesetz"
   area: Verkehrsrecht
   ausfertigungsdatum: 1909-05-03
-  stand: "Art. 1 G v. 12.7.2021 I 3108"
+  stand: "Art. 7 G v. 22.10.2026 I Nr. 320"
   source: https://www.gesetze-im-internet.de/stvg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/s/stvg
-  paragraphs: 124
-  chunks: 6
-  size_bytes: 296512
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/st/stvg.md
+  snapshot: 2026-11-03
+  paragraphs: 127
+  chunks: 7
+  size_bytes: 312483
 ---
 
 # Straßenverkehrsgesetz (StVG)
 
 **Area:** Verkehrsrecht  
 **Covers:** Road Traffic Act: driving licences, liability of vehicle owners, points system, driving bans  
-**Text state:** Art. 1 G v. 12.7.2021 I 3108 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 7 G v. 22.10.2026 I Nr. 320 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,11 +41,12 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-i-verkehrsvorschriften.md` | I. - Verkehrsvorschriften | § 1 – § 6 | 99 KB |
-| 2 | `text/2-ii-haftpflicht.md` | II. - Haftpflicht | § 6a – § 20 | 34 KB |
-| 3 | `text/3-iii-straf-und-bussgeldvorschriften.md` | III. - Straf- und Bußgeldvorschriften | § 21 – § 30c | 48 KB |
-| 4 | `text/4-v-fahrzeugregister.md` | V. - Fahrzeugregister | § 31 – § 47 | 62 KB |
-| 5 | `text/5-vi-fahrerlaubnisregister.md` | VI. - Fahrerlaubnisregister | § 48 – § 63f | 35 KB |
-| 6 | `text/6-vii-gemeinsame-vorschriften-ubergangsbestimmungen.md` | VII. - Gemeinsame Vorschriften, Übergangsbestimmungen | § 64 – Anhang EV | 15 KB |
+| 1 | `text/1-i-verkehrsvorschriften.md` | I. Verkehrsvorschriften | § 1 – § 5b | 85 KB |
+| 2 | `text/2-6-6g.md` | I. Verkehrsvorschriften › § 6 – § 6g | § 6 – § 6g | 37 KB |
+| 3 | `text/3-ii-haftpflicht.md` | II. Haftpflicht | § 7 – § 27 | 38 KB |
+| 4 | `text/4-iv-fahreignungsregister.md` | IV. Fahreignungsregister | § 28 – § 30c | 29 KB |
+| 5 | `text/5-v-fahrzeugregister.md` | V. Fahrzeugregister | § 31 – § 47 | 68 KB |
+| 6 | `text/6-vi-fahrerlaubnisregister.md` | VI. Fahrerlaubnisregister | § 48 – § 63g | 41 KB |
+| 7 | `text/7-vii-gemeinsame-vorschriften-ubergangsbestimmungen.md` | VII. Gemeinsame Vorschriften, Übergangsbestimmungen | § 64 – Anhang EV | 11 KB |
 
-Full paragraph index: `toc.md` (124 paragraphs).
+Full paragraph index: `toc.md` (127 paragraphs).

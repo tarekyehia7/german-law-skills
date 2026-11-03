@@ -1,24 +1,25 @@
 ---
 name: stag-staatsangehoerigkeit
-description: "Full German text of the Staatsangehörigkeitsgesetz (RuStAG) – Nationality Act: acquiring and losing German citizenship, naturalisation requirements. Use when a question concerns German Migrationsrecht and the exact wording of a § of the RuStAG is needed."
+description: "Full German text of the Staatsangehörigkeitsgesetz (StAG) – Nationality Act: acquiring and losing German citizenship, naturalisation requirements. Use when a question concerns German Migrationsrecht and the exact wording of a § of the StAG is needed."
 metadata:
-  jurabk: "RuStAG"
+  jurabk: "StAG"
   title: "Staatsangehörigkeitsgesetz"
   area: Migrationsrecht
   ausfertigungsdatum: 1913-07-22
-  stand: "Art. 1 G v. 12.8.2021 I 3538"
-  source: https://www.gesetze-im-internet.de/rustag/
-  mirror: https://github.com/bundestag/gesetze/tree/master/r/rustag
-  paragraphs: 48
+  stand: "Art. 3 G v. 21.7.2026 I Nr. 221"
+  source: https://www.gesetze-im-internet.de/stag/
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/st/stag.md
+  snapshot: 2026-11-03
+  paragraphs: 46
   chunks: 1
-  size_bytes: 50779
+  size_bytes: 47492
 ---
 
-# Staatsangehörigkeitsgesetz (RuStAG)
+# Staatsangehörigkeitsgesetz (StAG)
 
 **Area:** Migrationsrecht  
 **Covers:** Nationality Act: acquiring and losing German citizenship, naturalisation requirements  
-**Text state:** Art. 1 G v. 12.8.2021 I 3538 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 3 G v. 21.7.2026 I Nr. 221 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,6 +41,6 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-1-bis-42.md` | § 1 bis § 42 | § 1 – § 42 | 50 KB |
+| 1 | `text/1-1-bis-42.md` | § 1 bis § 42 | § 1 – § 42 | 47 KB |
 
-Full paragraph index: `toc.md` (48 paragraphs).
+Full paragraph index: `toc.md` (46 paragraphs).

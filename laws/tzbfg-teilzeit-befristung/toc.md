@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Allgemeine Vorschriften  
+# Erster Abschnitt Allgemeine Vorschriften  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 1 Zielsetzung → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
@@ -12,7 +12,7 @@ Format: `heading → text/<file>`
 - § 4 Verbot der Diskriminierung → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 5 Benachteiligungsverbot → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Zweiter Abschnitt - Teilzeitarbeit  
+# Zweiter Abschnitt Teilzeitarbeit  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 6 Förderung von Teilzeitarbeit → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
@@ -25,7 +25,7 @@ Format: `heading → text/<file>`
 - § 12 Arbeit auf Abruf → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 13 Arbeitsplatzteilung → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Dritter Abschnitt - Befristete Arbeitsverträge  
+# Dritter Abschnitt Befristete Arbeitsverträge  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 14 Zulässigkeit der Befristung → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
@@ -37,7 +37,7 @@ Format: `heading → text/<file>`
 - § 20 Information der Arbeitnehmervertretung → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 21 Auflösend bedingte Arbeitsverträge → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Vierter Abschnitt - Gemeinsame Vorschriften  
+# Vierter Abschnitt Gemeinsame Vorschriften  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 22 Abweichende Vereinbarungen → `text/1-erster-abschnitt-allgemeine-vorschriften.md`

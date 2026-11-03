@@ -6,19 +6,20 @@ metadata:
   title: "Tarifvertragsgesetz"
   area: Arbeitsrecht
   ausfertigungsdatum: 1949-04-09
-  stand: "Art. 8 G v. 20.5.2020 I 1055"
+  stand: "Art. 7 G v. 27.4.2026 I Nr. 119"
   source: https://www.gesetze-im-internet.de/tvg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/t/tvg
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/tv/tvg.md
+  snapshot: 2026-11-03
   paragraphs: 16
   chunks: 1
-  size_bytes: 17728
+  size_bytes: 17267
 ---
 
 # Tarifvertragsgesetz (TVG)
 
 **Area:** Arbeitsrecht  
 **Covers:** Collective Agreements Act: binding effect of collective bargaining agreements  
-**Text state:** Art. 8 G v. 20.5.2020 I 1055 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 7 G v. 27.4.2026 I Nr. 119 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 

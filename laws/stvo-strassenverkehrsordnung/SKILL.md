@@ -6,19 +6,20 @@ metadata:
   title: "Straßenverkehrs-Ordnung"
   area: Verkehrsrecht
   ausfertigungsdatum: 2013-03-06
-  stand: "Art. 13 G v. 12.7.2021 I 3091"
+  stand: "Art. 4 V v. 30.1.2026 I Nr. 32"
   source: https://www.gesetze-im-internet.de/stvo_2013/
-  mirror: https://github.com/bundestag/gesetze/tree/master/s/stvo_2013
-  paragraphs: 63
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/st/stvo_2013.md
+  snapshot: 2026-11-03
+  paragraphs: 64
   chunks: 4
-  size_bytes: 229029
+  size_bytes: 212789
 ---
 
 # Straßenverkehrs-Ordnung (StVO)
 
 **Area:** Verkehrsrecht  
 **Covers:** Road Traffic Regulations: rules of the road, speed limits, signs, parking  
-**Text state:** Art. 13 G v. 12.7.2021 I 3091 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 4 V v. 30.1.2026 I Nr. 32 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,9 +41,9 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-i-allgemeine-verkehrsregeln.md` | I. - Allgemeine Verkehrsregeln | § 1 – § 35 | 73 KB |
-| 2 | `text/2-ii-zeichen-und-verkehrseinrichtungen.md` | II. - Zeichen und Verkehrseinrichtungen | § 36 – § 43 | 18 KB |
-| 3 | `text/3-iii-durchfuhrungs-bussgeld-und-schlussvorschriften.md` | III. - Durchführungs-, Bußgeld- und Schlussvorschriften | § 44 – Anlage 2 | 98 KB |
-| 4 | `text/4-anlage-3-anlage-4.md` | III. - Durchführungs-, Bußgeld- und Schlussvorschriften › Anlage 3 – Anlage 4 | Anlage 3 – Anlage 4 | 38 KB |
+| 1 | `text/1-i-allgemeine-verkehrsregeln.md` | I. Allgemeine Verkehrsregeln | § 1 – § 35 | 75 KB |
+| 2 | `text/2-ii-zeichen-und-verkehrseinrichtungen.md` | II. Zeichen und Verkehrseinrichtungen | § 36 – § 43 | 17 KB |
+| 3 | `text/3-iii-durchfuhrungs-bussgeld-und-schlussvorschriften.md` | III. Durchführungs-, Bußgeld- und Schlussvorschriften | § 44 – Anlage 2 | 90 KB |
+| 4 | `text/4-anlage-3-anlage-4.md` | III. Durchführungs-, Bußgeld- und Schlussvorschriften › Anlage 3 – Anlage 4 | Anlage 3 – Anlage 4 | 29 KB |
 
-Full paragraph index: `toc.md` (63 paragraphs).
+Full paragraph index: `toc.md` (64 paragraphs).

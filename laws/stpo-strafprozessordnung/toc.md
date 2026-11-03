@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Erstes Buch - Allgemeine Vorschriften  
+# Erstes Buch Allgemeine Vorschriften  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 
-## Erster Abschnitt - Sachliche Zuständigkeit der Gerichte  
+## Erster Abschnitt Sachliche Zuständigkeit der Gerichte  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 1 Anwendbarkeit des Gerichtsverfassungsgesetzes → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -18,7 +18,7 @@ Format: `heading → text/<file>`
 - § 6 Prüfung der sachlichen Zuständigkeit → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 6a Zuständigkeit besonderer Strafkammern → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-## Zweiter Abschnitt - Gerichtsstand  
+## Zweiter Abschnitt Gerichtsstand  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 7 Gerichtsstand des Tatortes → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -39,7 +39,7 @@ Format: `heading → text/<file>`
 - § 20 Untersuchungshandlungen eines unzuständigen Gerichts → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 21 Befugnisse bei Gefahr im Verzug → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-## Dritter Abschnitt - Ausschließung und Ablehnung der Gerichtspersonen  
+## Dritter Abschnitt Ausschließung und Ablehnung der Gerichtspersonen  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 22 Ausschließung von der Ausübung des Richteramtes kraft Gesetzes → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -54,7 +54,7 @@ Format: `heading → text/<file>`
 - § 30 Ablehnung eines Richters bei Selbstanzeige und von Amts wegen → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 31 Schöffen, Urkundsbeamte → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-## Vierter Abschnitt - Aktenführung und Kommunikation im Verfahren  
+## Vierter Abschnitt Aktenführung und Kommunikation im Verfahren  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 32 Elektronische Aktenführung; Verordnungsermächtigungen → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -65,7 +65,7 @@ Format: `heading → text/<file>`
 - § 32e Übertragung von Dokumenten zu Aktenführungszwecken → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 32f Form der Gewährung von Akteneinsicht; Verordnungsermächtigung → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-### Abschnitt 4a - Gerichtliche Entscheidungen  
+### Abschnitt 4a Gerichtliche Entscheidungen  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 33 Gewährung rechtlichen Gehörs vor einer Entscheidung → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -75,7 +75,7 @@ Format: `heading → text/<file>`
 - § 35 Bekanntmachung → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 35a Rechtsmittelbelehrung → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-### Abschnitt 4b - Verfahren bei Zustellungen  
+### Abschnitt 4b Verfahren bei Zustellungen  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 36 Zustellung und Vollstreckung → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -85,7 +85,7 @@ Format: `heading → text/<file>`
 - § 40 Öffentliche Zustellung → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 41 Zustellungen an die Staatsanwaltschaft → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-## Fünfter Abschnitt - Fristen und Wiedereinsetzung in den vorigen Stand  
+## Fünfter Abschnitt Fristen und Wiedereinsetzung in den vorigen Stand  
 `text/01-erstes-buch-allgemeine-vorschriften.md`
 
 - § 42 Berechnung von Tagesfristen → `text/01-erstes-buch-allgemeine-vorschriften.md`
@@ -95,7 +95,7 @@ Format: `heading → text/<file>`
 - § 46 Zuständigkeit; Rechtsmittel → `text/01-erstes-buch-allgemeine-vorschriften.md`
 - § 47 Keine Vollstreckungshemmung → `text/01-erstes-buch-allgemeine-vorschriften.md`
 
-## Sechster Abschnitt - Zeugen  
+## Sechster Abschnitt Zeugen  
 `text/02-sechster-abschnitt-zeugen.md`
 
 - § 48 Zeugenpflichten; Ladung → `text/02-sechster-abschnitt-zeugen.md`
@@ -129,7 +129,7 @@ Format: `heading → text/<file>`
 - § 70 Folgen unberechtigter Zeugnis- oder Eidesverweigerung → `text/02-sechster-abschnitt-zeugen.md`
 - § 71 Zeugenentschädigung → `text/02-sechster-abschnitt-zeugen.md`
 
-## Siebter Abschnitt - Sachverständige und Augenschein  
+## Siebter Abschnitt Sachverständige und Augenschein  
 `text/03-siebter-abschnitt-sachverstandige-und-augenschein.md`
 
 - § 72 Anwendung der Vorschriften über Zeugen auf Sachverständige → `text/03-siebter-abschnitt-sachverstandige-und-augenschein.md`
@@ -164,7 +164,7 @@ Format: `heading → text/<file>`
 - § 92 Gutachten bei Verdacht einer Geld- oder Wertzeichenfälschung → `text/03-siebter-abschnitt-sachverstandige-und-augenschein.md`
 - § 93 Schriftgutachten → `text/03-siebter-abschnitt-sachverstandige-und-augenschein.md`
 
-## Achter Abschnitt - Ermittlungsmaßnahmen  
+## Achter Abschnitt Ermittlungsmaßnahmen  
 `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 
 - § 94 Sicherstellung und Beschlagnahme von Gegenständen zu Beweiszwecken → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
@@ -188,7 +188,7 @@ Format: `heading → text/<file>`
 - § 100h Weitere Maßnahmen außerhalb von Wohnraum → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 100i Technische Ermittlungsmaßnahmen bei Mobilfunkendgeräten → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 100j Bestandsdatenauskunft → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
-- § 100k Erhebung von Nutzungsdaten bei Telemediendiensten → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
+- § 100k Erhebung von Nutzungsdaten bei digitalen Diensten → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 101 Verfahrensregelungen bei verdeckten Maßnahmen → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 101a Gerichtliche Entscheidung; Datenkennzeichnung und -auswertung; Benachrichtigungspflichten bei Verkehrs- und Nutzungsdaten → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 101b Statistische Erfassung; Berichtspflichten → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
@@ -210,21 +210,21 @@ Format: `heading → text/<file>`
 - § 111b Beschlagnahme zur Sicherung der Einziehung oder Unbrauchbarmachung → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 111c Vollziehung der Beschlagnahme → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
 - § 111d Wirkung der Vollziehung der Beschlagnahme; Rückgabe beweglicher Sachen → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
-- § 111e Vermögensarrest zur Sicherung der Wertersatzeinziehung → `text/04-achter-abschnitt-ermittlungsmassnahmen.md`
-- § 111f Vollziehung des Vermögensarrestes → `text/05-111f-111q.md`
-- § 111g Aufhebung der Vollziehung des Vermögensarrestes → `text/05-111f-111q.md`
-- § 111h Wirkung der Vollziehung des Vermögensarrestes → `text/05-111f-111q.md`
-- § 111i Insolvenzverfahren → `text/05-111f-111q.md`
-- § 111j Verfahren bei der Anordnung der Beschlagnahme und des Vermögensarrestes → `text/05-111f-111q.md`
-- § 111k Verfahren bei der Vollziehung der Beschlagnahme und des Vermögensarrestes → `text/05-111f-111q.md`
-- § 111l Mitteilungen → `text/05-111f-111q.md`
-- § 111m Verwaltung beschlagnahmter oder gepfändeter Gegenstände → `text/05-111f-111q.md`
-- § 111n Herausgabe beweglicher Sachen → `text/05-111f-111q.md`
-- § 111o Verfahren bei der Herausgabe → `text/05-111f-111q.md`
-- § 111p Notveräußerung → `text/05-111f-111q.md`
-- § 111q Beschlagnahme von Verkörperungen eines Inhalts und Vorrichtungen → `text/05-111f-111q.md`
+- § 111e Vermögensarrest zur Sicherung der Wertersatzeinziehung → `text/05-111e-111q.md`
+- § 111f Vollziehung des Vermögensarrestes → `text/05-111e-111q.md`
+- § 111g Aufhebung der Vollziehung des Vermögensarrestes → `text/05-111e-111q.md`
+- § 111h Wirkung der Vollziehung des Vermögensarrestes → `text/05-111e-111q.md`
+- § 111i Insolvenzverfahren → `text/05-111e-111q.md`
+- § 111j Verfahren bei der Anordnung der Beschlagnahme und des Vermögensarrestes → `text/05-111e-111q.md`
+- § 111k Verfahren bei der Vollziehung der Beschlagnahme und des Vermögensarrestes → `text/05-111e-111q.md`
+- § 111l Mitteilungen → `text/05-111e-111q.md`
+- § 111m Verwaltung beschlagnahmter oder gepfändeter Gegenstände → `text/05-111e-111q.md`
+- § 111n Herausgabe beweglicher Sachen → `text/05-111e-111q.md`
+- § 111o Verfahren bei der Herausgabe → `text/05-111e-111q.md`
+- § 111p Notveräußerung → `text/05-111e-111q.md`
+- § 111q Beschlagnahme von Verkörperungen eines Inhalts und Vorrichtungen → `text/05-111e-111q.md`
 
-## Neunter Abschnitt - Verhaftung und vorläufige Festnahme  
+## Neunter Abschnitt Verhaftung und vorläufige Festnahme  
 `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 
 - § 112 Voraussetzungen der Untersuchungshaft; Haftgründe → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
@@ -263,7 +263,7 @@ Format: `heading → text/<file>`
 - § 129 Vorführung bei vorläufiger Festnahme nach Anklageerhebung → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 - § 130 Haftbefehl vor Stellung eines Strafantrags → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 
-## Abschnitt 9a - Weitere Maßnahmen zur Sicherstellung der Strafverfolgung und Strafvollstreckung  
+## Abschnitt 9a Weitere Maßnahmen zur Sicherstellung der Strafverfolgung und Strafvollstreckung  
 `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 
 - § 131 Ausschreibung zur Festnahme → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
@@ -272,12 +272,12 @@ Format: `heading → text/<file>`
 - § 131c Anordnung und Bestätigung von Fahndungsmaßnahmen → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 - § 132 Sicherheitsleistung, Zustellungsbevollmächtigter → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 
-## Abschnitt 9b - Vorläufiges Berufsverbot  
+## Abschnitt 9b Vorläufiges Berufsverbot  
 `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 
 - § 132a Anordnung und Aufhebung eines vorläufigen Berufsverbots → `text/06-neunter-abschnitt-verhaftung-und-vorlaufige-festnahme.md`
 
-## Zehnter Abschnitt - Vernehmung des Beschuldigten  
+## Zehnter Abschnitt Vernehmung des Beschuldigten  
 `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
 
 - § 133 Ladung → `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
@@ -286,7 +286,7 @@ Format: `heading → text/<file>`
 - § 136 Vernehmung → `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
 - § 136a Verbotene Vernehmungsmethoden; Beweisverwertungsverbote → `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
 
-## Elfter Abschnitt - Verteidigung  
+## Elfter Abschnitt Verteidigung  
 `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
 
 - § 137 Recht des Beschuldigten auf Hinzuziehung eines Verteidigers → `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
@@ -313,37 +313,37 @@ Format: `heading → text/<file>`
 - § 149 Zulassung von Beiständen → `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
 - § 150 (weggefallen) → `text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
 
-# Zweites Buch - Verfahren im ersten Rechtszug  
-`text/07-zehnter-abschnitt-vernehmung-des-beschuldigten.md`
+# Zweites Buch Verfahren im ersten Rechtszug  
+`text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
 
 
-## Erster Abschnitt - Öffentliche Klage  
-`text/08-erster-abschnitt-offentliche-klage.md`
+## Erster Abschnitt Öffentliche Klage  
+`text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
 
-- § 151 Anklagegrundsatz → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 152 Anklagebehörde; Legalitätsgrundsatz → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 152a Landesgesetzliche Vorschriften über die Strafverfolgung von Abgeordneten → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153 Absehen von der Verfolgung bei Geringfügigkeit → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153a Absehen von der Verfolgung unter Auflagen und Weisungen → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153b Absehen von der Verfolgung bei möglichem Absehen von Strafe → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153c Absehen von der Verfolgung bei Auslandstaten → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153d Absehen von der Verfolgung bei Staatsschutzdelikten wegen überwiegender öffentlicher Interessen → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153e Absehen von der Verfolgung bei Staatsschutzdelikten wegen tätiger Reue → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 153f Absehen von der Verfolgung bei Straftaten nach dem Völkerstrafgesetzbuch → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154 Teileinstellung bei mehreren Taten → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154a Beschränkung der Verfolgung → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154b Absehen von der Verfolgung bei Auslieferung und Ausweisung → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154c Absehen von der Verfolgung des Opfers einer Nötigung oder Erpressung → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154d Verfolgung bei zivil- oder verwaltungsrechtlicher Vorfrage → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154e Absehen von der Verfolgung bei falscher Verdächtigung oder Beleidigung → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 154f Einstellung des Verfahrens bei vorübergehenden Hindernissen → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 155 Umfang der gerichtlichen Untersuchung und Entscheidung → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 155a Täter-Opfer-Ausgleich → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 155b Durchführung des Täter-Opfer-Ausgleichs → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 156 Anklagerücknahme → `text/08-erster-abschnitt-offentliche-klage.md`
-- § 157 Bezeichnung als Angeschuldigter oder Angeklagter → `text/08-erster-abschnitt-offentliche-klage.md`
+- § 151 Anklagegrundsatz → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 152 Anklagebehörde; Legalitätsgrundsatz → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 152a Landesgesetzliche Vorschriften über die Strafverfolgung von Abgeordneten → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153 Absehen von der Verfolgung bei Geringfügigkeit → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153a Absehen von der Verfolgung unter Auflagen und Weisungen → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153b Absehen von der Verfolgung bei möglichem Absehen von Strafe → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153c Absehen von der Verfolgung bei Auslandstaten → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153d Absehen von der Verfolgung bei Staatsschutzdelikten wegen überwiegender öffentlicher Interessen → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153e Absehen von der Verfolgung bei Staatsschutzdelikten wegen tätiger Reue → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 153f Absehen von der Verfolgung bei Straftaten nach dem Völkerstrafgesetzbuch → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154 Teileinstellung bei mehreren Taten → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154a Beschränkung der Verfolgung → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154b Absehen von der Verfolgung bei Auslieferung und Ausweisung → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154c Absehen von der Verfolgung des Opfers einer Nötigung oder Erpressung → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154d Verfolgung bei zivil- oder verwaltungsrechtlicher Vorfrage → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154e Absehen von der Verfolgung bei falscher Verdächtigung oder Beleidigung → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 154f Einstellung des Verfahrens bei vorübergehenden Hindernissen → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 155 Umfang der gerichtlichen Untersuchung und Entscheidung → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 155a Täter-Opfer-Ausgleich → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 155b Durchführung des Täter-Opfer-Ausgleichs → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 156 Anklagerücknahme → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
+- § 157 Bezeichnung als Angeschuldigter oder Angeklagter → `text/08-zweites-buch-verfahren-im-ersten-rechtszug.md`
 
-## Zweiter Abschnitt - Vorbereitung der öffentlichen Klage  
+## Zweiter Abschnitt Vorbereitung der öffentlichen Klage  
 `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 
 - § 158 Strafanzeige; Strafantrag → `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
@@ -383,11 +383,11 @@ Format: `heading → text/<file>`
 - § 176 Sicherheitsleistung durch den Antragsteller → `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 - § 177 Kosten → `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 
-## Dritter Abschnitt - (weggefallen)  
+## Dritter Abschnitt (weggefallen)  
 `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 
 
-## Vierter Abschnitt - Entscheidung über die Eröffnung des Hauptverfahrens  
+## Vierter Abschnitt Entscheidung über die Eröffnung des Hauptverfahrens  
 `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 
 - § 198 (weggefallen) → `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
@@ -409,7 +409,7 @@ Format: `heading → text/<file>`
 - § 210 Rechtsmittel gegen den Eröffnungs- oder Ablehnungsbeschluss → `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 - § 211 Wiederaufnahme nach Ablehnungsbeschluss → `text/09-zweiter-abschnitt-vorbereitung-der-offentlichen-klage.md`
 
-## Fünfter Abschnitt - Vorbereitung der Hauptverhandlung  
+## Fünfter Abschnitt Vorbereitung der Hauptverhandlung  
 `text/10-funfter-abschnitt-vorbereitung-der-hauptverhandlung.md`
 
 - § 212 Erörterung des Verfahrensstands mit den Verfahrensbeteiligten → `text/10-funfter-abschnitt-vorbereitung-der-hauptverhandlung.md`
@@ -430,7 +430,7 @@ Format: `heading → text/<file>`
 - § 225 Einnahme des richterlichen Augenscheins durch beauftragte oder ersuchte Richter → `text/10-funfter-abschnitt-vorbereitung-der-hauptverhandlung.md`
 - § 225a Zuständigkeitsänderung vor der Hauptverhandlung → `text/10-funfter-abschnitt-vorbereitung-der-hauptverhandlung.md`
 
-## Sechster Abschnitt - Hauptverhandlung  
+## Sechster Abschnitt Hauptverhandlung  
 `text/11-sechster-abschnitt-hauptverhandlung.md`
 
 - § 226 Ununterbrochene Gegenwart → `text/11-sechster-abschnitt-hauptverhandlung.md`
@@ -500,12 +500,12 @@ Format: `heading → text/<file>`
 - § 274 Beweiskraft des Protokolls → `text/11-sechster-abschnitt-hauptverhandlung.md`
 - § 275 Absetzungsfrist und Form des Urteils → `text/11-sechster-abschnitt-hauptverhandlung.md`
 
-## Siebter Abschnitt - Entscheidung über die im Urteil vorbehaltene oder die nachträgliche Anordnung der Sicherungsverwahrung  
+## Siebter Abschnitt Entscheidung über die im Urteil vorbehaltene oder die nachträgliche Anordnung der Sicherungsverwahrung  
 `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
 
 - § 275a Einleitung des Verfahrens; Hauptverhandlung; Unterbringungsbefehl → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
 
-## Achter Abschnitt - Verfahren gegen Abwesende  
+## Achter Abschnitt Verfahren gegen Abwesende  
 `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
 
 - § 276 Begriff der Abwesenheit → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
@@ -522,379 +522,376 @@ Format: `heading → text/<file>`
 - § 294 Verfahren nach Anklageerhebung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
 - § 295 Sicheres Geleit → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
 
-# Drittes Buch - Rechtsmittel  
-`text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+# Drittes Buch Rechtsmittel  
+`text/13-drittes-buch-rechtsmittel.md`
 
 
-## Erster Abschnitt - Allgemeine Vorschriften  
-`text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+## Erster Abschnitt Allgemeine Vorschriften  
+`text/13-drittes-buch-rechtsmittel.md`
 
-- § 296 Rechtsmittelberechtigte → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 297 Einlegung durch den Verteidiger → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 298 Einlegung durch den gesetzlichen Vertreter → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 299 Abgabe von Erklärungen bei Freiheitsentzug → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 300 Falschbezeichnung eines zulässigen Rechtsmittels → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 301 Wirkung eines Rechtsmittels der Staatsanwaltschaft → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 302 Zurücknahme und Verzicht → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 303 Zustimmungserfordernis bei Zurücknahme → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+- § 296 Rechtsmittelberechtigte → `text/13-drittes-buch-rechtsmittel.md`
+- § 297 Einlegung durch den Verteidiger → `text/13-drittes-buch-rechtsmittel.md`
+- § 298 Einlegung durch den gesetzlichen Vertreter → `text/13-drittes-buch-rechtsmittel.md`
+- § 299 Abgabe von Erklärungen bei Freiheitsentzug → `text/13-drittes-buch-rechtsmittel.md`
+- § 300 Falschbezeichnung eines zulässigen Rechtsmittels → `text/13-drittes-buch-rechtsmittel.md`
+- § 301 Wirkung eines Rechtsmittels der Staatsanwaltschaft → `text/13-drittes-buch-rechtsmittel.md`
+- § 302 Zurücknahme und Verzicht → `text/13-drittes-buch-rechtsmittel.md`
+- § 303 Zustimmungserfordernis bei Zurücknahme → `text/13-drittes-buch-rechtsmittel.md`
 
-## Zweiter Abschnitt - Beschwerde  
-`text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+## Zweiter Abschnitt Beschwerde  
+`text/13-drittes-buch-rechtsmittel.md`
 
-- § 304 Zulässigkeit → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 305 Nicht der Beschwerde unterliegende Entscheidungen → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 305a Beschwerde gegen Strafaussetzungsbeschluss → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 306 Einlegung; Abhilfeverfahren → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 307 Keine Vollzugshemmung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 308 Befugnisse des Beschwerdegerichts → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 309 Entscheidung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 310 Weitere Beschwerde → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 311 Sofortige Beschwerde → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 311a Nachträgliche Anhörung des Gegners → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+- § 304 Zulässigkeit → `text/13-drittes-buch-rechtsmittel.md`
+- § 305 Nicht der Beschwerde unterliegende Entscheidungen → `text/13-drittes-buch-rechtsmittel.md`
+- § 305a Beschwerde gegen Strafaussetzungsbeschluss → `text/13-drittes-buch-rechtsmittel.md`
+- § 306 Einlegung; Abhilfeverfahren → `text/13-drittes-buch-rechtsmittel.md`
+- § 307 Keine Vollzugshemmung → `text/13-drittes-buch-rechtsmittel.md`
+- § 308 Befugnisse des Beschwerdegerichts → `text/13-drittes-buch-rechtsmittel.md`
+- § 309 Entscheidung → `text/13-drittes-buch-rechtsmittel.md`
+- § 310 Weitere Beschwerde → `text/13-drittes-buch-rechtsmittel.md`
+- § 311 Sofortige Beschwerde → `text/13-drittes-buch-rechtsmittel.md`
+- § 311a Nachträgliche Anhörung des Gegners → `text/13-drittes-buch-rechtsmittel.md`
 
-## Dritter Abschnitt - Berufung  
-`text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+## Dritter Abschnitt Berufung  
+`text/13-drittes-buch-rechtsmittel.md`
 
-- § 312 Zulässigkeit → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 313 Annahmeberufung bei geringen Geldstrafen und Geldbußen → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 314 Form und Frist → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 315 Berufung und Wiedereinsetzungsantrag → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 316 Hemmung der Rechtskraft → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 317 Berufungsbegründung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 318 Berufungsbeschränkung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 319 Verspätete Einlegung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 320 Aktenübermittlung an die Staatsanwaltschaft → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 321 Aktenübermittlung an das Berufungsgericht → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 322 Verwerfung ohne Hauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 322a Entscheidung über die Annahme der Berufung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 323 Vorbereitung der Berufungshauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 324 Gang der Berufungshauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 325 Verlesung von Urkunden → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 326 Schlussvorträge → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 327 Umfang der Urteilsprüfung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 328 Inhalt des Berufungsurteils → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 329 Ausbleiben des Angeklagten; Vertretung in der Berufungshauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 330 Maßnahmen bei Berufung des gesetzlichen Vertreters → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 331 Verbot der Verschlechterung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 332 Anwendbarkeit der Vorschriften über die erstinstanzliche Hauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+- § 312 Zulässigkeit → `text/13-drittes-buch-rechtsmittel.md`
+- § 313 Annahmeberufung bei geringen Geldstrafen und Geldbußen → `text/13-drittes-buch-rechtsmittel.md`
+- § 314 Form und Frist → `text/13-drittes-buch-rechtsmittel.md`
+- § 315 Berufung und Wiedereinsetzungsantrag → `text/13-drittes-buch-rechtsmittel.md`
+- § 316 Hemmung der Rechtskraft → `text/13-drittes-buch-rechtsmittel.md`
+- § 317 Berufungsbegründung → `text/13-drittes-buch-rechtsmittel.md`
+- § 318 Berufungsbeschränkung → `text/13-drittes-buch-rechtsmittel.md`
+- § 319 Verspätete Einlegung → `text/13-drittes-buch-rechtsmittel.md`
+- § 320 Aktenübermittlung an die Staatsanwaltschaft → `text/13-drittes-buch-rechtsmittel.md`
+- § 321 Aktenübermittlung an das Berufungsgericht → `text/13-drittes-buch-rechtsmittel.md`
+- § 322 Verwerfung ohne Hauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
+- § 322a Entscheidung über die Annahme der Berufung → `text/13-drittes-buch-rechtsmittel.md`
+- § 323 Vorbereitung der Berufungshauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
+- § 324 Gang der Berufungshauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
+- § 325 Verlesung von Urkunden → `text/13-drittes-buch-rechtsmittel.md`
+- § 326 Schlussvorträge → `text/13-drittes-buch-rechtsmittel.md`
+- § 327 Umfang der Urteilsprüfung → `text/13-drittes-buch-rechtsmittel.md`
+- § 328 Inhalt des Berufungsurteils → `text/13-drittes-buch-rechtsmittel.md`
+- § 329 Ausbleiben des Angeklagten; Vertretung in der Berufungshauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
+- § 330 Maßnahmen bei Berufung des gesetzlichen Vertreters → `text/13-drittes-buch-rechtsmittel.md`
+- § 331 Verbot der Verschlechterung → `text/13-drittes-buch-rechtsmittel.md`
+- § 332 Anwendbarkeit der Vorschriften über die erstinstanzliche Hauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
 
-## Vierter Abschnitt - Revision  
-`text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+## Vierter Abschnitt Revision  
+`text/13-drittes-buch-rechtsmittel.md`
 
-- § 333 Zulässigkeit → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 334 (weggefallen) → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 335 Sprungrevision → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 336 Überprüfung der dem Urteil vorausgegangenen Entscheidungen → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 337 Revisionsgründe → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 338 Absolute Revisionsgründe → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 339 Rechtsnormen zugunsten des Angeklagten → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 340 Revision gegen Berufungsurteile bei Vertretung des Angeklagten → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 341 Form und Frist → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 342 Revision und Wiedereinsetzungsantrag → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 343 Hemmung der Rechtskraft → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 344 Revisionsbegründung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 345 Revisionsbegründungsfrist → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 346 Verspätete oder formwidrige Einlegung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 347 Zustellung; Gegenerklärung; Vorlage der Akten an das Revisionsgericht → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 348 Unzuständigkeit des Gerichts → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 349 Entscheidung ohne Hauptverhandlung durch Beschluss → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 350 Revisionshauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 351 Gang der Revisionshauptverhandlung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 352 Umfang der Urteilsprüfung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 353 Aufhebung des Urteils und der Feststellungen → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 354 Eigene Entscheidung in der Sache; Zurückverweisung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 354a Entscheidung bei Gesetzesänderung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 355 Verweisung an das zuständige Gericht → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 356 Urteilsverkündung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 356a Verletzung des Anspruchs auf rechtliches Gehör bei einer Revisionsentscheidung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 357 Revisionserstreckung auf Mitverurteilte → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
-- § 358 Bindung des Tatgerichts; Verbot der Schlechterstellung → `text/12-siebter-abschnitt-entscheidung-uber-die-im-urteil-vorbehalte.md`
+- § 333 Zulässigkeit → `text/13-drittes-buch-rechtsmittel.md`
+- § 334 (weggefallen) → `text/13-drittes-buch-rechtsmittel.md`
+- § 335 Sprungrevision → `text/13-drittes-buch-rechtsmittel.md`
+- § 336 Überprüfung der dem Urteil vorausgegangenen Entscheidungen → `text/13-drittes-buch-rechtsmittel.md`
+- § 337 Revisionsgründe → `text/13-drittes-buch-rechtsmittel.md`
+- § 338 Absolute Revisionsgründe → `text/13-drittes-buch-rechtsmittel.md`
+- § 339 Rechtsnormen zugunsten des Angeklagten → `text/13-drittes-buch-rechtsmittel.md`
+- § 340 Revision gegen Berufungsurteile bei Vertretung des Angeklagten → `text/13-drittes-buch-rechtsmittel.md`
+- § 341 Form und Frist → `text/13-drittes-buch-rechtsmittel.md`
+- § 342 Revision und Wiedereinsetzungsantrag → `text/13-drittes-buch-rechtsmittel.md`
+- § 343 Hemmung der Rechtskraft → `text/13-drittes-buch-rechtsmittel.md`
+- § 344 Revisionsbegründung → `text/13-drittes-buch-rechtsmittel.md`
+- § 345 Revisionsbegründungsfrist → `text/13-drittes-buch-rechtsmittel.md`
+- § 346 Verspätete oder formwidrige Einlegung → `text/13-drittes-buch-rechtsmittel.md`
+- § 347 Zustellung; Gegenerklärung; Vorlage der Akten an das Revisionsgericht → `text/13-drittes-buch-rechtsmittel.md`
+- § 348 Unzuständigkeit des Gerichts → `text/13-drittes-buch-rechtsmittel.md`
+- § 349 Entscheidung ohne Hauptverhandlung durch Beschluss → `text/13-drittes-buch-rechtsmittel.md`
+- § 350 Revisionshauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
+- § 351 Gang der Revisionshauptverhandlung → `text/13-drittes-buch-rechtsmittel.md`
+- § 352 Umfang der Urteilsprüfung → `text/13-drittes-buch-rechtsmittel.md`
+- § 353 Aufhebung des Urteils und der Feststellungen → `text/13-drittes-buch-rechtsmittel.md`
+- § 354 Eigene Entscheidung in der Sache; Zurückverweisung → `text/13-drittes-buch-rechtsmittel.md`
+- § 354a Entscheidung bei Gesetzesänderung → `text/13-drittes-buch-rechtsmittel.md`
+- § 355 Verweisung an das zuständige Gericht → `text/13-drittes-buch-rechtsmittel.md`
+- § 356 Urteilsverkündung → `text/13-drittes-buch-rechtsmittel.md`
+- § 356a Verletzung des Anspruchs auf rechtliches Gehör bei einer Revisionsentscheidung → `text/13-drittes-buch-rechtsmittel.md`
+- § 357 Revisionserstreckung auf Mitverurteilte → `text/13-drittes-buch-rechtsmittel.md`
+- § 358 Bindung des Tatgerichts; Verbot der Schlechterstellung → `text/13-drittes-buch-rechtsmittel.md`
 
-# Viertes Buch - Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen Verfahrens  
-`text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+# Viertes Buch Wiederaufnahme eines durch rechtskräftiges Urteil abgeschlossenen Verfahrens  
+`text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
 
-- § 359 Wiederaufnahme zugunsten des Verurteilten → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 360 Keine Hemmung der Vollstreckung → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 361 Wiederaufnahme nach Vollstreckung oder Tod des Verurteilten → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 362 Wiederaufnahme zuungunsten des Verurteilten → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 363 Unzulässigkeit → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 364 Behauptung einer Straftat → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 364a Bestellung eines Verteidigers für das Wiederaufnahmeverfahren → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 364b Bestellung eines Verteidigers für die Vorbereitung des Wiederaufnahmeverfahrens → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 365 Geltung der allgemeinen Vorschriften über Rechtsmittel für den Antrag → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 366 Inhalt und Form des Antrags → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 367 Zuständigkeit des Gerichts; Entscheidung ohne mündliche Verhandlung → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 368 Verwerfung wegen Unzulässigkeit → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 369 Beweisaufnahme → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 370 Entscheidung über die Begründetheit → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 371 Freisprechung ohne erneute Hauptverhandlung → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 372 Sofortige Beschwerde → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 373 Urteil nach erneuter Hauptverhandlung; Verbot der Schlechterstellung → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
-- § 373a Verfahren bei Strafbefehl → `text/13-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 359 Wiederaufnahme zugunsten des Verurteilten → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 360 Keine Hemmung der Vollstreckung → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 361 Wiederaufnahme nach Vollstreckung oder Tod des Verurteilten → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 362 Wiederaufnahme zuungunsten des Verurteilten → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 363 Unzulässigkeit → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 364 Behauptung einer Straftat → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 364a Bestellung eines Verteidigers für das Wiederaufnahmeverfahren → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 364b Bestellung eines Verteidigers für die Vorbereitung des Wiederaufnahmeverfahrens → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 365 Geltung der allgemeinen Vorschriften über Rechtsmittel für den Antrag → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 366 Inhalt und Form des Antrags → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 367 Zuständigkeit des Gerichts; Entscheidung ohne mündliche Verhandlung → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 368 Verwerfung wegen Unzulässigkeit → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 369 Beweisaufnahme → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 370 Entscheidung über die Begründetheit → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 371 Freisprechung ohne erneute Hauptverhandlung → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 372 Sofortige Beschwerde → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 373 Urteil nach erneuter Hauptverhandlung; Verbot der Schlechterstellung → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
+- § 373a Verfahren bei Strafbefehl → `text/14-viertes-buch-wiederaufnahme-eines-durch-rechtskraftiges-urte.md`
 
-# Fünftes Buch - Beteiligung des Verletzten am Verfahren  
-`text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-
-## Erster Abschnitt - Definition  
-`text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-- § 373b Begriff des Verletzten → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-## Zweiter Abschnitt - Privatklage  
-`text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-- § 374 Zulässigkeit; Privatklageberechtigte → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 375 Mehrere Privatklageberechtigte → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 376 Anklageerhebung bei Privatklagedelikten → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 377 Beteiligung der Staatsanwaltschaft; Übernahme der Verfolgung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 378 Beistand und Vertreter des Privatklägers → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 379 Sicherheitsleistung; Prozesskostenhilfe → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 379a Gebührenvorschuss → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 380 Erfolgloser Sühneversuch als Zulässigkeitsvoraussetzung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 381 Erhebung der Privatklage → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 382 Mitteilung der Privatklage an den Beschuldigten → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 383 Eröffnungs- oder Zurückweisungsbeschluss; Einstellung bei geringer Schuld → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 384 Weiteres Verfahren → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 385 Stellung des Privatklägers; Ladung; Akteneinsicht → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 386 Ladung von Zeugen und Sachverständigen → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 387 Vertretung in der Hauptverhandlung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 388 Widerklage → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 389 Einstellung durch Urteil bei Verdacht eines Offizialdelikts → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 390 Rechtsmittel des Privatklägers → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 391 Rücknahme der Privatklage; Verwerfung bei Versäumung; Wiedereinsetzung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 392 Wirkung der Rücknahme → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 393 Tod des Privatklägers → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 394 Bekanntmachung an den Beschuldigten → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-## Dritter Abschnitt - Nebenklage  
-`text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-- § 395 Befugnis zum Anschluss als Nebenkläger → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 396 Anschlusserklärung; Entscheidung über die Befugnis zum Anschluss → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 397 Verfahrensrechte des Nebenklägers → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 397a Bestellung eines Beistands; Prozesskostenhilfe → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 397b Gemeinschaftliche Nebenklagevertretung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 398 Fortgang des Verfahrens bei Anschluss → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 399 Bekanntmachung und Anfechtbarkeit früherer Entscheidungen → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 400 Rechtsmittelbefugnis des Nebenklägers → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 401 Einlegung eines Rechtsmittels durch den Nebenkläger → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 402 Widerruf der Anschlusserklärung; Tod des Nebenklägers → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-## Vierter Abschnitt - Adhäsionsverfahren  
-`text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-- § 403 Geltendmachung eines Anspruchs im Adhäsionsverfahren → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 404 Antrag; Prozesskostenhilfe → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 405 Vergleich → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406 Entscheidung über den Antrag im Strafurteil; Absehen von einer Entscheidung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406a Rechtsmittel → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406b Vollstreckung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406c Wiederaufnahme des Verfahrens → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-## Fünfter Abschnitt - Sonstige Befugnisse des Verletzten  
-`text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-- § 406d Auskunft über den Stand des Verfahrens → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406e Akteneinsicht → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406f Verletztenbeistand → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406g Psychosoziale Prozessbegleitung → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406h Beistand des nebenklageberechtigten Verletzten → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406i Unterrichtung des Verletzten über seine Befugnisse im Strafverfahren → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406j Unterrichtung des Verletzten über seine Befugnisse außerhalb des Strafverfahrens → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406k Weitere Informationen → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-- § 406l Befugnisse von Angehörigen und Erben von Verletzten → `text/14-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
-
-# Sechstes Buch - Besondere Arten des Verfahrens  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+# Fünftes Buch Beteiligung des Verletzten am Verfahren  
+`text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
 
-## Erster Abschnitt - Verfahren bei Strafbefehlen  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+## Erster Abschnitt Definition  
+`text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-- § 407 Zulässigkeit → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 408 Richterliche Entscheidung über einen Strafbefehlsantrag → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 408a Strafbefehlsantrag nach Eröffnung des Hauptverfahrens → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 408b Bestellung eines Verteidigers bei beantragter Freiheitsstrafe → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 409 Inhalt des Strafbefehls → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 410 Einspruch; Form und Frist des Einspruchs; Rechtskraft → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 411 Verwerfung wegen Unzulässigkeit; Termin zur Hauptverhandlung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 412 Ausbleiben des Angeklagten; Einspruchsverwerfung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 373b Begriff des Verletzten → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-## Zweiter Abschnitt - Sicherungsverfahren  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+## Zweiter Abschnitt Privatklage  
+`text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-- § 413 Zulässigkeit → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 414 Verfahren; Antragsschrift → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 415 Hauptverhandlung ohne Beschuldigten → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 416 Übergang in das Strafverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 374 Zulässigkeit; Privatklageberechtigte → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 375 Mehrere Privatklageberechtigte → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 376 Anklageerhebung bei Privatklagedelikten → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 377 Beteiligung der Staatsanwaltschaft; Übernahme der Verfolgung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 378 Beistand und Vertreter des Privatklägers → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 379 Sicherheitsleistung; Prozesskostenhilfe → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 379a Gebührenvorschuss → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 380 Erfolgloser Sühneversuch als Zulässigkeitsvoraussetzung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 381 Erhebung der Privatklage → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 382 Mitteilung der Privatklage an den Beschuldigten → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 383 Eröffnungs- oder Zurückweisungsbeschluss; Einstellung bei geringer Schuld → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 384 Weiteres Verfahren → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 385 Stellung des Privatklägers; Ladung; Akteneinsicht → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 386 Ladung von Zeugen und Sachverständigen → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 387 Vertretung in der Hauptverhandlung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 388 Widerklage → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 389 Einstellung durch Urteil bei Verdacht eines Offizialdelikts → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 390 Rechtsmittel des Privatklägers → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 391 Rücknahme der Privatklage; Verwerfung bei Versäumung; Wiedereinsetzung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 392 Wirkung der Rücknahme → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 393 Tod des Privatklägers → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 394 Bekanntmachung an den Beschuldigten → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-## Abschnitt 2a - Beschleunigtes Verfahren  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+## Dritter Abschnitt Nebenklage  
+`text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-- § 417 Zulässigkeit → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 418 Durchführung der Hauptverhandlung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 419 Entscheidung des Gerichts; Strafmaß → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 420 Beweisaufnahme → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 395 Befugnis zum Anschluss als Nebenkläger → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 396 Anschlusserklärung; Entscheidung über die Befugnis zum Anschluss → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 397 Verfahrensrechte des Nebenklägers → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 397a Bestellung eines Beistands; Prozesskostenhilfe → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 397b Gemeinschaftliche Nebenklagevertretung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 398 Fortgang des Verfahrens bei Anschluss → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 399 Bekanntmachung und Anfechtbarkeit früherer Entscheidungen → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 400 Rechtsmittelbefugnis des Nebenklägers → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 401 Einlegung eines Rechtsmittels durch den Nebenkläger → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 402 Widerruf der Anschlusserklärung; Tod des Nebenklägers → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-## Dritter Abschnitt - Verfahren bei Einziehung und Vermögensbeschlagnahme  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+## Vierter Abschnitt Adhäsionsverfahren  
+`text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-- § 421 Absehen von der Einziehung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 422 Abtrennung der Einziehung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 423 Einziehung nach Abtrennung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 424 Einziehungsbeteiligte am Strafverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 425 Absehen von der Verfahrensbeteiligung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 426 Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 427 Befugnisse des Einziehungsbeteiligten im Hauptverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 428 Vertretung des Einziehungsbeteiligten → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 429 Terminsnachricht an den Einziehungsbeteiligten → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 430 Stellung in der Hauptverhandlung → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 431 Rechtsmittelverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 432 Einziehung durch Strafbefehl → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 433 Nachverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 434 Entscheidung im Nachverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 435 Selbständiges Einziehungsverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 436 Entscheidung im selbständigen Einziehungsverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 437 Besondere Regelungen für das selbständige Einziehungsverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 438 Nebenbetroffene am Strafverfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- § 439 Der Einziehung gleichstehende Rechtsfolgen → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 403 Geltendmachung eines Anspruchs im Adhäsionsverfahren → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 404 Antrag; Prozesskostenhilfe → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 405 Vergleich → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406 Entscheidung über den Antrag im Strafurteil; Absehen von einer Entscheidung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406a Rechtsmittel → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406b Vollstreckung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406c Wiederaufnahme des Verfahrens → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-### (XXXX)§§ 440 bis 442 (weggefallen)  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+## Fünfter Abschnitt Sonstige Befugnisse des Verletzten  
+`text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-- § 443 Vermögensbeschlagnahme → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 406d Auskunft über den Stand des Verfahrens → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406e Akteneinsicht → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406f Verletztenbeistand → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406g Psychosoziale Prozessbegleitung → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406h Beistand des nebenklageberechtigten Verletzten → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406i Unterrichtung des Verletzten über seine Befugnisse im Strafverfahren → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406j Unterrichtung des Verletzten über seine Befugnisse außerhalb des Strafverfahrens → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406k Weitere Informationen → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
+- § 406l Befugnisse von Angehörigen und Erben von Verletzten → `text/15-funftes-buch-beteiligung-des-verletzten-am-verfahren.md`
 
-## Vierter Abschnitt - Verfahren bei Festsetzung von Geldbußen gegen juristische Personen und Personenvereinigungen  
-`text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-
-- § 444 Verfahren → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-- §§ 445 bis 448 (weggefallen) → `text/15-sechstes-buch-besondere-arten-des-verfahrens.md`
-
-# Siebentes Buch - Strafvollstreckung und Kosten des Verfahrens  
-`text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-
-
-## Erster Abschnitt - Strafvollstreckung  
-`text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-
-- § 449 Vollstreckbarkeit → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 450 Anrechnung von Untersuchungshaft und Führerscheinentziehung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 450a Anrechnung einer im Ausland erlittenen Freiheitsentziehung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 451 Vollstreckungsbehörde → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 452 Begnadigungsrecht → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 453 Nachträgliche Entscheidung über Strafaussetzung zur Bewährung oder Verwarnung mit Strafvorbehalt → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 453a Belehrung bei Strafaussetzung oder Verwarnung mit Strafvorbehalt → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 453b Bewährungsüberwachung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 453c Vorläufige Maßnahmen vor Widerruf der Aussetzung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 454 Aussetzung des Restes einer Freiheitsstrafe zur Bewährung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 454a Beginn der Bewährungszeit; Aufhebung der Aussetzung des Strafrestes → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 454b Vollstreckungsreihenfolge bei Freiheits- und Ersatzfreiheitsstrafen; Unterbrechung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 455 Strafausstand wegen Vollzugsuntauglichkeit → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 455a Strafausstand aus Gründen der Vollzugsorganisation → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 456 Vorübergehender Aufschub → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 456a Absehen von Vollstreckung bei Auslieferung, Überstellung oder Ausweisung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 456b (weggefallen) → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 456c Aufschub und Aussetzung des Berufsverbotes → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 457 Ermittlungshandlungen; Vorführungsbefehl, Vollstreckungshaftbefehl → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 458 Gerichtliche Entscheidungen bei Strafvollstreckung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459 Vollstreckung der Geldstrafe; Anwendung des Justizbeitreibungsgesetzes → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459a Bewilligung von Zahlungserleichterungen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459b Anrechnung von Teilbeträgen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459c Beitreibung der Geldstrafe → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459d Unterbleiben der Vollstreckung einer Geldstrafe → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459e Vollstreckung der Ersatzfreiheitsstrafe → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459f Unterbleiben der Vollstreckung einer Ersatzfreiheitsstrafe → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459g Vollstreckung von Nebenfolgen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459h Entschädigung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459i Mitteilungen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459j Verfahren bei Rückübertragung und Herausgabe → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459k Verfahren bei Auskehrung des Verwertungserlöses → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459l Ansprüche des Betroffenen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459m Entschädigung in sonstigen Fällen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459n Zahlungen auf Wertersatzeinziehung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 459o Einwendungen gegen vollstreckungsrechtliche Entscheidungen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 460 Nachträgliche Gesamtstrafenbildung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 461 Anrechnung des Aufenthalts in einem Krankenhaus → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 462 Verfahren bei gerichtlichen Entscheidungen; sofortige Beschwerde → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 462a Zuständigkeit der Strafvollstreckungskammer und des erstinstanzlichen Gerichts → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 463 Vollstreckung von Maßregeln der Besserung und Sicherung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 463a Zuständigkeit und Befugnisse der Aufsichtsstellen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 463b Beschlagnahme von Führerscheinen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 463c Öffentliche Bekanntmachung der Verurteilung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 463d Gerichtshilfe → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 463e Mündliche Anhörung im Wege der Bild- und Tonübertragung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-
-## Zweiter Abschnitt - Kosten des Verfahrens  
-`text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-
-- § 464 Kosten- und Auslagenentscheidung; sofortige Beschwerde → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 464a Kosten des Verfahrens; notwendige Auslagen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 464b Kostenfestsetzung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 464c Kosten bei Bestellung eines Dolmetschers oder Übersetzers für den Angeschuldigten → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 464d Verteilung der Auslagen nach Bruchteilen → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 465 Kostentragungspflicht des Verurteilten → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 466 Haftung Mitverurteilter für Auslagen als Gesamtschuldner → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 467 Kosten und notwendige Auslagen bei Freispruch, Nichteröffnung und Einstellung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 467a Auslagen der Staatskasse bei Einstellung nach Anklagerücknahme → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 468 Kosten bei Straffreierklärung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 469 Kostentragungspflicht des Anzeigenden bei leichtfertiger oder vorsätzlicher Erstattung einer unwahren Anzeige → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 470 Kosten bei Zurücknahme des Strafantrags → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 471 Kosten bei Privatklage → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 472 Notwendige Auslagen des Nebenklägers → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 472a Kosten und notwendige Auslagen bei Adhäsionsverfahren → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 472b Kosten und notwendige Auslagen bei Nebenbeteiligung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 473 Kosten bei zurückgenommenem oder erfolglosem Rechtsmittel; Kosten der Wiedereinsetzung → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-- § 473a Kosten und notwendige Auslagen bei gesonderter Entscheidung über die Rechtmäßigkeit einer Ermittlungsmaßnahme → `text/16-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
-
-# Achtes Buch - Schutz und Verwendung von Daten  
-`text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+# Sechstes Buch Besondere Arten des Verfahrens  
+`text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
 
-## Erster Abschnitt - Erteilung von Auskünften und Akteneinsicht, sonstige Verwendung von Daten für verfahrensübergreifende Zwecke  
-`text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+## Erster Abschnitt Verfahren bei Strafbefehlen  
+`text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-- § 474 Auskünfte und Akteneinsicht für Justizbehörden und andere öffentliche Stellen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 475 Auskünfte und Akteneinsicht für Privatpersonen und sonstige Stellen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 476 Auskünfte und Akteneinsicht zu Forschungszwecken → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 477 Datenübermittlung von Amts wegen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 478 Form der Datenübermittlung → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 479 Übermittlungsverbote und Verwendungsbeschränkungen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 480 Entscheidung über die Datenübermittlung → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 481 Verwendung personenbezogener Daten für polizeiliche Zwecke → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 482 Mitteilung des Aktenzeichens und des Verfahrensausgangs an die Polizei → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 407 Zulässigkeit → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 408 Richterliche Entscheidung über einen Strafbefehlsantrag → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 408a Strafbefehlsantrag nach Eröffnung des Hauptverfahrens → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 408b Bestellung eines Verteidigers bei beantragter Freiheitsstrafe → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 409 Inhalt des Strafbefehls → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 410 Einspruch; Form und Frist des Einspruchs; Rechtskraft → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 411 Verwerfung wegen Unzulässigkeit; Termin zur Hauptverhandlung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 412 Ausbleiben des Angeklagten; Einspruchsverwerfung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-## Zweiter Abschnitt - Regelungen über die Datenverarbeitung  
-`text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+## Zweiter Abschnitt Sicherungsverfahren  
+`text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-- § 483 Datenverarbeitung für Zwecke des Strafverfahrens → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 484 Datenverarbeitung für Zwecke künftiger Strafverfahren; Verordnungsermächtigung → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 485 Datenverarbeitung für Zwecke der Vorgangsverwaltung → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 486 Gemeinsame Dateisysteme → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 487 Übermittlung gespeicherter Daten; Auskunft → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 488 Automatisierte Verfahren für Datenübermittlungen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 489 Löschung und Einschränkung der Verarbeitung von Daten → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 490 Errichtungsanordnung für automatisierte Dateisysteme → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 491 Auskunft an betroffene Personen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 413 Zulässigkeit → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 414 Verfahren; Antragsschrift → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 415 Hauptverhandlung ohne Beschuldigten → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 416 Übergang in das Strafverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-## Dritter Abschnitt - Länderübergreifendes staatsanwaltschaftliches Verfahrensregister  
-`text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+## Abschnitt 2a Beschleunigtes Verfahren  
+`text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-- § 492 Zentrales staatsanwaltschaftliches Verfahrensregister → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 493 Automatisiertes Verfahren für Datenübermittlungen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 494 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten; Verordnungsermächtigung → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 495 Auskunft an betroffene Personen → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 417 Zulässigkeit → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 418 Durchführung der Hauptverhandlung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 419 Entscheidung des Gerichts; Strafmaß → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 420 Beweisaufnahme → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-## Vierter Abschnitt - Schutz personenbezogener Daten in einer elektronischen Akte; Verwendung personenbezogener Daten aus elektronischen Akten  
-`text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+## Dritter Abschnitt Verfahren bei Einziehung und Vermögensbeschlagnahme  
+`text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-- § 496 Verwendung personenbezogener Daten in einer elektronischen Akte → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 497 Datenverarbeitung im Auftrag → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 498 Verwendung personenbezogener Daten aus elektronischen Akten → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- § 499 Löschung elektronischer Aktenkopien → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 421 Absehen von der Einziehung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 422 Abtrennung der Einziehung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 423 Einziehung nach Abtrennung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 424 Einziehungsbeteiligte am Strafverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 425 Absehen von der Verfahrensbeteiligung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 426 Anhörung von möglichen Einziehungsbeteiligten im vorbereitenden Verfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 427 Befugnisse des Einziehungsbeteiligten im Hauptverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 428 Vertretung des Einziehungsbeteiligten → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 429 Terminsnachricht an den Einziehungsbeteiligten → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 430 Stellung in der Hauptverhandlung → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 431 Rechtsmittelverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 432 Einziehung durch Strafbefehl → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 433 Nachverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 434 Entscheidung im Nachverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 435 Selbständiges Einziehungsverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 436 Entscheidung im selbständigen Einziehungsverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 437 Besondere Regelungen für das selbständige Einziehungsverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 438 Nebenbetroffene am Strafverfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 439 Der Einziehung gleichstehende Rechtsfolgen → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- §§ 440 bis 442 (weggefallen) → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- § 443 Vermögensbeschlagnahme → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-## Fünfter Abschnitt - Anwendbarkeit des Bundesdatenschutzgesetzes  
-`text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+## Vierter Abschnitt Verfahren bei Festsetzung von Geldbußen gegen juristische Personen und Personenvereinigungen  
+`text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
 
-- § 500 Entsprechende Anwendung → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
-- Anhang EV - Sonderregelung für das Land Berlin - → `text/17-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 444 Verfahren → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+- §§ 445 bis 448 (weggefallen) → `text/16-sechstes-buch-besondere-arten-des-verfahrens.md`
+
+# Siebentes Buch Strafvollstreckung und Kosten des Verfahrens  
+`text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+
+
+## Erster Abschnitt Strafvollstreckung  
+`text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+
+- § 449 Vollstreckbarkeit → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 450 Anrechnung von Untersuchungshaft und Führerscheinentziehung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 450a Anrechnung einer im Ausland erlittenen Freiheitsentziehung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 451 Vollstreckungsbehörde → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 452 Begnadigungsrecht → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 453 Nachträgliche Entscheidung über Strafaussetzung zur Bewährung oder Verwarnung mit Strafvorbehalt → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 453a Belehrung bei Strafaussetzung oder Verwarnung mit Strafvorbehalt → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 453b Bewährungsüberwachung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 453c Vorläufige Maßnahmen vor Widerruf der Aussetzung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 454 Aussetzung des Restes einer Freiheitsstrafe zur Bewährung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 454a Beginn der Bewährungszeit; Aufhebung der Aussetzung des Strafrestes → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 454b Vollstreckungsreihenfolge bei Freiheits- und Ersatzfreiheitsstrafen; Unterbrechung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 455 Strafausstand wegen Vollzugsuntauglichkeit → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 455a Strafausstand aus Gründen der Vollzugsorganisation → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 456 Vorübergehender Aufschub → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 456a Absehen von Vollstreckung bei Auslieferung, Überstellung oder Ausweisung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 456b (weggefallen) → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 456c Aufschub und Aussetzung des Berufsverbotes → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 457 Ermittlungshandlungen; Vorführungsbefehl, Vollstreckungshaftbefehl → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 458 Gerichtliche Entscheidungen bei Strafvollstreckung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459 Vollstreckung der Geldstrafe; Anwendung des Justizbeitreibungsgesetzes → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459a Bewilligung von Zahlungserleichterungen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459b Anrechnung von Teilbeträgen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459c Beitreibung der Geldstrafe → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459d Unterbleiben der Vollstreckung einer Geldstrafe → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459e Vollstreckung der Ersatzfreiheitsstrafe → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459f Unterbleiben der Vollstreckung einer Ersatzfreiheitsstrafe → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459g Vollstreckung von Nebenfolgen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459h Entschädigung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459i Mitteilungen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459j Verfahren bei Rückübertragung und Herausgabe → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459k Verfahren bei Auskehrung des Verwertungserlöses → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459l Ansprüche des Betroffenen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459m Entschädigung in sonstigen Fällen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459n Zahlungen auf Wertersatzeinziehung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 459o Einwendungen gegen vollstreckungsrechtliche Entscheidungen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 460 Nachträgliche Gesamtstrafenbildung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 461 Anrechnung des Aufenthalts in einem Krankenhaus → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 462 Verfahren bei gerichtlichen Entscheidungen; sofortige Beschwerde → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 462a Zuständigkeit der Strafvollstreckungskammer und des erstinstanzlichen Gerichts → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 463 Vollstreckung von Maßregeln der Besserung und Sicherung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 463a Zuständigkeit und Befugnisse der Aufsichtsstellen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 463b Beschlagnahme von Führerscheinen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 463c Öffentliche Bekanntmachung der Verurteilung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 463d Gerichtshilfe → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 463e Mündliche Anhörung im Wege der Bild- und Tonübertragung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+
+## Zweiter Abschnitt Kosten des Verfahrens  
+`text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+
+- § 464 Kosten- und Auslagenentscheidung; sofortige Beschwerde → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 464a Kosten des Verfahrens; notwendige Auslagen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 464b Kostenfestsetzung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 464c Kosten bei Bestellung eines Dolmetschers oder Übersetzers für den Angeschuldigten → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 464d Verteilung der Auslagen nach Bruchteilen → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 465 Kostentragungspflicht des Verurteilten → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 466 Haftung Mitverurteilter für Auslagen als Gesamtschuldner → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 467 Kosten und notwendige Auslagen bei Freispruch, Nichteröffnung und Einstellung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 467a Auslagen der Staatskasse bei Einstellung nach Anklagerücknahme → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 468 Kosten bei Straffreierklärung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 469 Kostentragungspflicht des Anzeigenden bei leichtfertiger oder vorsätzlicher Erstattung einer unwahren Anzeige → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 470 Kosten bei Zurücknahme des Strafantrags → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 471 Kosten bei Privatklage → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 472 Notwendige Auslagen des Nebenklägers → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 472a Kosten und notwendige Auslagen bei Adhäsionsverfahren → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 472b Kosten und notwendige Auslagen bei Nebenbeteiligung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 473 Kosten bei zurückgenommenem oder erfolglosem Rechtsmittel; Kosten der Wiedereinsetzung → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+- § 473a Kosten und notwendige Auslagen bei gesonderter Entscheidung über die Rechtmäßigkeit einer Ermittlungsmaßnahme → `text/17-siebentes-buch-strafvollstreckung-und-kosten-des-verfahrens.md`
+
+# Achtes Buch Schutz und Verwendung von Daten  
+`text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+
+## Erster Abschnitt Erteilung von Auskünften und Akteneinsicht, sonstige Verwendung von Daten für verfahrensübergreifende Zwecke  
+`text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+- § 474 Auskünfte und Akteneinsicht für Justizbehörden und andere öffentliche Stellen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 475 Auskünfte und Akteneinsicht für Privatpersonen und sonstige Stellen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 476 Auskünfte und Akteneinsicht zu Forschungszwecken → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 477 Datenübermittlung von Amts wegen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 478 Form der Datenübermittlung → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 479 Übermittlungsverbote und Verwendungsbeschränkungen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 480 Entscheidung über die Datenübermittlung → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 481 Verwendung personenbezogener Daten für polizeiliche Zwecke → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 482 Mitteilung des Aktenzeichens und des Verfahrensausgangs an die Polizei → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+## Zweiter Abschnitt Regelungen über die Datenverarbeitung  
+`text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+- § 483 Datenverarbeitung für Zwecke des Strafverfahrens → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 484 Datenverarbeitung für Zwecke künftiger Strafverfahren; Verordnungsermächtigung → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 485 Datenverarbeitung für Zwecke der Vorgangsverwaltung → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 486 Gemeinsame Dateisysteme → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 487 Übermittlung gespeicherter Daten; Auskunft → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 488 Automatisierte Verfahren für Datenübermittlungen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 489 Löschung und Einschränkung der Verarbeitung von Daten → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 490 Errichtungsanordnung für automatisierte Dateisysteme → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 491 Auskunft an betroffene Personen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+## Dritter Abschnitt Länderübergreifendes staatsanwaltschaftliches Verfahrensregister  
+`text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+- § 492 Zentrales staatsanwaltschaftliches Verfahrensregister → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 493 Automatisiertes Verfahren für Datenübermittlungen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 494 Berichtigung, Löschung und Einschränkung der Verarbeitung von Daten; Verordnungsermächtigung → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 495 Auskunft an betroffene Personen → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+## Vierter Abschnitt Schutz personenbezogener Daten in einer elektronischen Akte; Verwendung personenbezogener Daten aus elektronischen Akten  
+`text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+- § 496 Verwendung personenbezogener Daten in einer elektronischen Akte → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 497 Datenverarbeitung im Auftrag → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 498 Verwendung personenbezogener Daten aus elektronischen Akten → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- § 499 Löschung elektronischer Aktenkopien → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+## Fünfter Abschnitt Anwendbarkeit des Bundesdatenschutzgesetzes  
+`text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+
+- § 500 Entsprechende Anwendung → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`
+- Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 933, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin - → `text/18-achtes-buch-schutz-und-verwendung-von-daten.md`

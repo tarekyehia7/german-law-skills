@@ -5,10 +5,10 @@
     "title": "Grundgesetz für die Bundesrepublik Deutschland",
     "area": "Verfassungsrecht",
     "en": "Basic Law (constitution): fundamental rights, federal structure, state organs, legislation, judiciary",
-    "paragraphs": 204,
+    "paragraphs": 205,
     "chunks": 4,
-    "size": 176059,
-    "stand": "Art. 1 u. 2 Satz 2 G v. 29.9.2020 I 2048",
+    "size": 185674,
+    "stand": "Art. 1 G v. 22.3.2025 I Nr. 94",
     "keywords": {
       "de": [
         "Grundrechte",
@@ -57,10 +57,10 @@
     "title": "Gesetz über das Bundesverfassungsgericht",
     "area": "Verfassungsrecht",
     "en": "Federal Constitutional Court Act: constitutional complaints, procedure before the BVerfG",
-    "paragraphs": 134,
+    "paragraphs": 139,
     "chunks": 1,
-    "size": 82652,
-    "stand": "Art. 4 G v. 20.11.2019 I 1724",
+    "size": 95666,
+    "stand": "Art. 3 G v. 22.12.2025 I Nr. 349",
     "keywords": {
       "de": [
         "Verfassungsbeschwerde",
@@ -90,10 +90,10 @@
     "title": "Bürgerliches Gesetzbuch",
     "area": "Zivilrecht",
     "en": "Civil Code: contracts, obligations, torts, property, family law, inheritance, tenancy, sales, consumer protection",
-    "paragraphs": 2527,
-    "chunks": 36,
-    "size": 1521565,
-    "stand": "Art. 4 Abs. 6 G v. 7.5.2021 I 850",
+    "paragraphs": 2549,
+    "chunks": 40,
+    "size": 1725756,
+    "stand": "Art. 6 G v. 23.7.2026 I Nr. 226",
     "keywords": {
       "de": [
         "Vertrag",
@@ -219,10 +219,10 @@
     "title": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
     "area": "Zivilrecht",
     "en": "Introductory Act to the Civil Code: private international law (which country's law applies), transitional rules, consumer information duties",
-    "paragraphs": 461,
-    "chunks": 11,
-    "size": 629041,
-    "stand": "Art. 10 G v. 22.12.2020 I 3328",
+    "paragraphs": 470,
+    "chunks": 8,
+    "size": 568747,
+    "stand": "Art. 16 G v. 22.10.2026 I Nr. 321",
     "keywords": {
       "de": [
         "internationales Privatrecht",
@@ -258,8 +258,8 @@
     "en": "Product Liability Act: strict liability of manufacturers for defective products",
     "paragraphs": 19,
     "chunks": 1,
-    "size": 10618,
-    "stand": "Art. 5 G v. 17.7.2017 I 2421",
+    "size": 11165,
+    "stand": "Art. 2 G v. 22.10.2026 I Nr. 321",
     "keywords": {
       "de": [
         "Produkthaftung",
@@ -288,10 +288,10 @@
     "title": "Allgemeines Gleichbehandlungsgesetz",
     "area": "Zivilrecht",
     "en": "General Equal Treatment Act: anti-discrimination in employment and civil contracts",
-    "paragraphs": 33,
+    "paragraphs": 42,
     "chunks": 1,
-    "size": 34339,
-    "stand": "Art. 8 G v. 3.4.2013 I 610",
+    "size": 47065,
+    "stand": "Art. 15 G v. 22.12.2023 I Nr. 414",
     "keywords": {
       "de": [
         "Diskriminierung",
@@ -334,14 +334,14 @@
   },
   {
     "skill": "weg-wohnungseigentum",
-    "jurabk": "WoEigG",
+    "jurabk": "WEG",
     "title": "Gesetz über das Wohnungseigentum und das Dauerwohnrecht",
     "area": "Zivilrecht",
     "en": "Condominium Act: ownership of apartments, owners' associations, management",
     "paragraphs": 52,
     "chunks": 1,
-    "size": 49976,
-    "stand": "",
+    "size": 52925,
+    "stand": "Art. 1 G v. 10.10.2024 I Nr. 306",
     "keywords": {
       "de": [
         "Wohnungseigentum",
@@ -378,10 +378,10 @@
     "title": "Gesetz über den Versicherungsvertrag",
     "area": "Zivilrecht",
     "en": "Insurance Contract Act: rights and duties of insurers and policyholders",
-    "paragraphs": 223,
+    "paragraphs": 224,
     "chunks": 5,
-    "size": 231654,
-    "stand": "Art. 2 G v. 10.7.2020 I 1653",
+    "size": 240560,
+    "stand": "Art. 12 G v. 26.5.2026 I Nr. 156",
     "keywords": {
       "de": [
         "Versicherung",
@@ -428,10 +428,10 @@
     "title": "Handelsgesetzbuch",
     "area": "Handels- und Gesellschaftsrecht",
     "en": "Commercial Code: merchants, commercial register, commercial partnerships (OHG, KG), accounting, commercial transactions",
-    "paragraphs": 680,
-    "chunks": 17,
-    "size": 760840,
-    "stand": "Art. 14 G v. 22.12.2020 I 3256",
+    "paragraphs": 696,
+    "chunks": 21,
+    "size": 855773,
+    "stand": "Art. 4 G v. 4.2.2026 I Nr. 33",
     "keywords": {
       "de": [
         "Kaufmann",
@@ -490,10 +490,10 @@
     "title": "Gesetz betreffend die Gesellschaften mit beschränkter Haftung",
     "area": "Handels- und Gesellschaftsrecht",
     "en": "Limited Liability Companies Act: founding, managing directors, shareholders, liability of a GmbH",
-    "paragraphs": 125,
+    "paragraphs": 126,
     "chunks": 3,
-    "size": 103661,
-    "stand": "Art. 15 Abs. 23 G v. 4.5.2021 I 882",
+    "size": 117220,
+    "stand": "Art. 21 G v. 23.10.2024 I Nr. 323",
     "keywords": {
       "de": [
         "GmbH",
@@ -539,10 +539,10 @@
     "title": "Aktiengesetz",
     "area": "Handels- und Gesellschaftsrecht",
     "en": "Stock Corporation Act: AG founding, management board, supervisory board, shareholders' meeting, corporate groups",
-    "paragraphs": 388,
-    "chunks": 12,
-    "size": 483839,
-    "stand": "Art. 15 Abs. 22 G v. 4.5.2021 I 882",
+    "paragraphs": 393,
+    "chunks": 13,
+    "size": 524158,
+    "stand": "Art. 23 G v. 4.2.2026 I Nr. 33",
     "keywords": {
       "de": [
         "Aktiengesellschaft",
@@ -590,10 +590,10 @@
     "title": "Umwandlungsgesetz",
     "area": "Handels- und Gesellschaftsrecht",
     "en": "Transformation Act: mergers, splits, change of legal form of companies",
-    "paragraphs": 341,
-    "chunks": 5,
-    "size": 246171,
-    "stand": "Art. 1 G v. 19.12.2018 I 2694",
+    "paragraphs": 376,
+    "chunks": 7,
+    "size": 315615,
+    "stand": "Art. 17 G v. 23.10.2024 I Nr. 323",
     "keywords": {
       "de": [
         "Verschmelzung",
@@ -628,8 +628,8 @@
     "en": "Insolvency Code: insolvency proceedings, creditors, administrator, consumer insolvency, discharge of residual debt",
     "paragraphs": 411,
     "chunks": 8,
-    "size": 331423,
-    "stand": "Art. 35 G v. 10.8.2021 I 3436",
+    "size": 347513,
+    "stand": "Art. 6 G v. 15.7.2024 I Nr. 236",
     "keywords": {
       "de": [
         "Insolvenz",
@@ -679,10 +679,10 @@
     "title": "Gesetz gegen den unlauteren Wettbewerb",
     "area": "Wettbewerbs- und IP-Recht",
     "en": "Unfair Competition Act: misleading advertising, aggressive practices, cease-and-desist claims",
-    "paragraphs": 28,
+    "paragraphs": 32,
     "chunks": 1,
-    "size": 53054,
-    "stand": "Art. 1 G v. 26.11.2020 I 2568",
+    "size": 76081,
+    "stand": "Art. 6 G v. 22.10.2026 I Nr. 322",
     "keywords": {
       "de": [
         "unlauterer Wettbewerb",
@@ -722,10 +722,10 @@
     "title": "Gesetz gegen Wettbewerbsbeschränkungen",
     "area": "Wettbewerbs- und IP-Recht",
     "en": "Act against Restraints of Competition: antitrust, cartels, abuse of dominance, merger control, public procurement",
-    "paragraphs": 235,
-    "chunks": 12,
-    "size": 413597,
-    "stand": "Art. 10 Abs. 2 G v. 27.7.2021 I 3274",
+    "paragraphs": 241,
+    "chunks": 13,
+    "size": 463922,
+    "stand": "Art. 9 G v. 20.7.2026 I Nr. 215",
     "keywords": {
       "de": [
         "Kartell",
@@ -772,8 +772,8 @@
     "en": "Copyright Act: protected works, author rights, licences, limitations, enforcement",
     "paragraphs": 254,
     "chunks": 6,
-    "size": 232438,
-    "stand": "Art. 4 G v. 26.11.2020 I 2568",
+    "size": 241737,
+    "stand": "Art. 2 G v. 26.5.2026 I Nr. 157",
     "keywords": {
       "de": [
         "Urheberrecht",
@@ -829,10 +829,10 @@
     "title": "Gesetz über den Schutz von Marken und sonstigen Kennzeichen",
     "area": "Wettbewerbs- und IP-Recht",
     "en": "Trade Mark Act: registration, protection and infringement of trade marks",
-    "paragraphs": 193,
-    "chunks": 4,
-    "size": 207051,
-    "stand": "Art. 1 G v. 11.12.2018 I 2357",
+    "paragraphs": 191,
+    "chunks": 5,
+    "size": 220714,
+    "stand": "Art. 2 G v. 22.10.2026 I Nr. 322",
     "keywords": {
       "de": [
         "Marke",
@@ -874,8 +874,8 @@
     "en": "Patent Act: patentability, application, patent infringement",
     "paragraphs": 173,
     "chunks": 5,
-    "size": 170961,
-    "stand": "Art. 4 G v. 8.10.2017 I 3546",
+    "size": 179367,
+    "stand": "Art. 13 G v. 20.5.2026 I Nr. 152",
     "keywords": {
       "de": [
         "Patent",
@@ -919,7 +919,7 @@
     "en": "Protection Against Dismissal Act: when a dismissal is socially unjustified, lawsuits against dismissal",
     "paragraphs": 28,
     "chunks": 1,
-    "size": 33835,
+    "size": 34666,
     "stand": "Art. 2 G v. 14.6.2021 I 1762",
     "keywords": {
       "de": [
@@ -977,8 +977,8 @@
     "en": "Works Constitution Act: works councils, co-determination in the workplace",
     "paragraphs": 148,
     "chunks": 5,
-    "size": 174785,
-    "stand": "Art. 5 G v. 10.12.2021 I 5162",
+    "size": 179671,
+    "stand": "Art. 1 G v. 19.7.2024 I Nr. 248",
     "keywords": {
       "de": [
         "Betriebsrat",
@@ -1024,8 +1024,8 @@
     "en": "Working Hours Act: maximum working hours, breaks, rest periods, Sunday work",
     "paragraphs": 27,
     "chunks": 1,
-    "size": 39505,
-    "stand": "Art. 6 G v. 22.12.2020 I 3334",
+    "size": 40122,
+    "stand": "Art. 52 G v. 23.10.2024 I Nr. 323",
     "keywords": {
       "de": [
         "Arbeitszeit",
@@ -1078,7 +1078,7 @@
     "en": "Federal Leave Act: minimum paid vacation for employees",
     "paragraphs": 18,
     "chunks": 1,
-    "size": 11325,
+    "size": 11708,
     "stand": "Art. 3 Abs. 3 G v. 20.4.2013 I 868",
     "keywords": {
       "de": [
@@ -1127,8 +1127,8 @@
     "en": "Part-Time and Fixed-Term Employment Act: part-time rights, limits on fixed-term contracts",
     "paragraphs": 24,
     "chunks": 1,
-    "size": 25152,
-    "stand": "Art. 10 G v. 22.11.2019 I 1746",
+    "size": 27582,
+    "stand": "Art. 7 G v. 20.7.2022 I 1174",
     "keywords": {
       "de": [
         "Teilzeit",
@@ -1175,8 +1175,8 @@
     "en": "Minimum Wage Act: statutory minimum wage",
     "paragraphs": 24,
     "chunks": 1,
-    "size": 27687,
-    "stand": "Art. 2 Abs. 1 G v. 10.7.2020 I 1657",
+    "size": 36929,
+    "stand": "Art. 8 Abs. 3 G v. 12.5.2026 I Nr. 137",
     "keywords": {
       "de": [
         "Mindestlohn",
@@ -1219,8 +1219,8 @@
     "en": "Continued Remuneration Act: pay during sickness and public holidays",
     "paragraphs": 15,
     "chunks": 1,
-    "size": 19617,
-    "stand": "Art. 9 G v. 22.11.2019 I 1746",
+    "size": 20917,
+    "stand": "Art. 2 Abs. 7 G v. 12.5.2026 I Nr. 143",
     "keywords": {
       "de": [
         "Entgeltfortzahlung",
@@ -1261,8 +1261,8 @@
     "en": "Maternity Protection Act: protection of pregnant and breastfeeding employees",
     "paragraphs": 34,
     "chunks": 1,
-    "size": 58589,
-    "stand": "",
+    "size": 62005,
+    "stand": "Art. 13 G v. 22.12.2025 I Nr. 371",
     "keywords": {
       "de": [
         "Mutterschutz",
@@ -1310,10 +1310,10 @@
     "title": "Berufsbildungsgesetz",
     "area": "Arbeitsrecht",
     "en": "Vocational Training Act: apprenticeships (Ausbildung), training contracts, exams",
-    "paragraphs": 114,
-    "chunks": 3,
-    "size": 123720,
-    "stand": "",
+    "paragraphs": 121,
+    "chunks": 4,
+    "size": 163719,
+    "stand": "geändert durch Art. 9 G v. 28.10.2025 I Nr. 259",
     "keywords": {
       "de": [
         "Ausbildung",
@@ -1369,10 +1369,10 @@
     "title": "Arbeitsgerichtsgesetz",
     "area": "Arbeitsrecht",
     "en": "Labour Court Act: procedure before the labour courts",
-    "paragraphs": 145,
-    "chunks": 3,
-    "size": 139770,
-    "stand": "Art. 10 G v. 5.10.2021 I 4607",
+    "paragraphs": 147,
+    "chunks": 4,
+    "size": 153670,
+    "stand": "Art. 7 G v. 20.5.2026 I Nr. 152",
     "keywords": {
       "de": [
         "Arbeitsgericht",
@@ -1417,8 +1417,8 @@
     "en": "Collective Agreements Act: binding effect of collective bargaining agreements",
     "paragraphs": 16,
     "chunks": 1,
-    "size": 17728,
-    "stand": "Art. 8 G v. 20.5.2020 I 1055",
+    "size": 17267,
+    "stand": "Art. 7 G v. 27.4.2026 I Nr. 119",
     "keywords": {
       "de": [
         "Tarifvertrag",
@@ -1460,8 +1460,8 @@
     "en": "Temporary Employment Act: agency work, equal pay for temp workers",
     "paragraphs": 31,
     "chunks": 1,
-    "size": 54532,
-    "stand": "Art. 116 G v. 10.8.2021 I 3436",
+    "size": 56955,
+    "stand": "Art. 10 G v. 22.12.2025 I Nr. 369",
     "keywords": {
       "de": [
         "Arbeitnehmerüberlassung",
@@ -1511,8 +1511,8 @@
     "en": "Occupational Safety and Health Act: employer duties for safety at work",
     "paragraphs": 29,
     "chunks": 1,
-    "size": 45521,
-    "stand": "Art. 12 G v. 22.11.2021 I 4906",
+    "size": 48620,
+    "stand": "Art. 7 G v. 22.12.2025 I Nr. 369",
     "keywords": {
       "de": [
         "Arbeitsschutz",
@@ -1555,10 +1555,10 @@
     "title": "Strafgesetzbuch",
     "area": "Strafrecht",
     "en": "Criminal Code: general principles of criminal liability, sentencing, and all offences (theft, fraud, assault, homicide, etc.)",
-    "paragraphs": 559,
+    "paragraphs": 562,
     "chunks": 13,
-    "size": 512574,
-    "stand": "Art. 1 G v. 30.3.2021 I 441, dieser geändert durch Art. 15 Nr. 1 G v. 30.3.2021 I 448",
+    "size": 540746,
+    "stand": "Art. 1 G v. 20.3.2026 I Nr. 95",
     "keywords": {
       "de": [
         "Straftat",
@@ -1713,10 +1713,10 @@
     "title": "Strafprozeßordnung",
     "area": "Strafrecht",
     "en": "Code of Criminal Procedure: investigation, arrest, pre-trial detention, trial, appeals, rights of the accused",
-    "paragraphs": 684,
-    "chunks": 17,
-    "size": 671787,
-    "stand": "Art. 1 G v. 21.12.2021 I 5252",
+    "paragraphs": 685,
+    "chunks": 18,
+    "size": 705560,
+    "stand": "Art. 2 Abs. 7 G v. 20.3.2026 I Nr. 95",
     "keywords": {
       "de": [
         "Strafverfahren",
@@ -1820,8 +1820,8 @@
     "en": "Regulatory Offences Act: fines (Bußgeld) for administrative offences, procedure",
     "paragraphs": 148,
     "chunks": 3,
-    "size": 139461,
-    "stand": "Art. 9a G v. 30.3.2021 I 448",
+    "size": 147513,
+    "stand": "Art. 21 G v. 22.12.2025 I Nr. 349",
     "keywords": {
       "de": [
         "Ordnungswidrigkeit",
@@ -1870,8 +1870,8 @@
     "en": "Narcotics Act: controlled substances and drug offences",
     "paragraphs": 51,
     "chunks": 3,
-    "size": 168495,
-    "stand": "Art. 1 V v. 14.1.2021 I 70",
+    "size": 144718,
+    "stand": "Art. 1 V v. 19.5.2026 I Nr. 150",
     "keywords": {
       "de": [
         "Betäubungsmittel",
@@ -1921,10 +1921,10 @@
     "title": "Waffengesetz",
     "area": "Strafrecht",
     "en": "Weapons Act: possession, licences and prohibitions for weapons",
-    "paragraphs": 84,
+    "paragraphs": 88,
     "chunks": 5,
-    "size": 219321,
-    "stand": "Art. 228 V v. 19.6.2020 I 1328",
+    "size": 234491,
+    "stand": "Art. 12 Abs. 20 G v. 22.10.2026 I Nr. 318",
     "keywords": {
       "de": [
         "Waffe",
@@ -1980,10 +1980,10 @@
     "title": "Zivilprozessordnung",
     "area": "Prozessrecht",
     "en": "Code of Civil Procedure: civil lawsuits, evidence, judgments, appeals, enforcement (Zwangsvollstreckung), default proceedings (Mahnverfahren)",
-    "paragraphs": 1079,
-    "chunks": 16,
-    "size": 748431,
-    "stand": "Art. 3 G v. 5.10.2021 I 4607",
+    "paragraphs": 1093,
+    "chunks": 17,
+    "size": 822417,
+    "stand": "zuletzt geändert Art. 2 G v. 22.12.2025 I Nr. 349",
     "keywords": {
       "de": [
         "Zivilprozess",
@@ -2084,10 +2084,10 @@
     "title": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
     "area": "Prozessrecht",
     "en": "Act on Proceedings in Family Matters: divorce, custody, maintenance proceedings, guardianship, probate, registers",
-    "paragraphs": 518,
-    "chunks": 9,
-    "size": 382375,
-    "stand": "Art. 5 G v. 5.10.2021 I 4607",
+    "paragraphs": 529,
+    "chunks": 10,
+    "size": 421182,
+    "stand": "Art. 4 G v. 22.6.2026 I Nr. 192",
     "keywords": {
       "de": [
         "Familiengericht",
@@ -2148,10 +2148,10 @@
     "title": "Gerichtsverfassungsgesetz",
     "area": "Prozessrecht",
     "en": "Courts Constitution Act: court system, jurisdiction of Amtsgericht, Landgericht, OLG, BGH",
-    "paragraphs": 216,
-    "chunks": 4,
-    "size": 162269,
-    "stand": "Art. 8 G v. 7.7.2021 I 2363",
+    "paragraphs": 220,
+    "chunks": 5,
+    "size": 182882,
+    "stand": "Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95",
     "keywords": {
       "de": [
         "Gerichtsaufbau",
@@ -2208,10 +2208,10 @@
     "title": "Gesetz über die Zwangsversteigerung und die Zwangsverwaltung",
     "area": "Prozessrecht",
     "en": "Forced Sale Act: foreclosure auctions and receivership of real property",
-    "paragraphs": 230,
+    "paragraphs": 231,
     "chunks": 3,
-    "size": 133238,
-    "stand": "Art. 4 G v. 22.12.2020 I 3256",
+    "size": 142226,
+    "stand": "Art. 5 G v. 20.5.2026 I Nr. 152",
     "keywords": {
       "de": [
         "Zwangsversteigerung",
@@ -2259,8 +2259,8 @@
     "en": "Court Fees Act: court costs and fee tables",
     "paragraphs": 87,
     "chunks": 4,
-    "size": 255012,
-    "stand": "Art. 16 G v. 25.6.2021 I 2099",
+    "size": 233378,
+    "stand": "Art. 11 G v. 20.5.2026 I Nr. 152",
     "keywords": {
       "de": [
         "Gerichtskosten",
@@ -2308,8 +2308,8 @@
     "en": "Lawyers' Remuneration Act: statutory lawyer fees",
     "paragraphs": 81,
     "chunks": 5,
-    "size": 219484,
-    "stand": "Art. 7 G v. 10.8.2021 I 3424",
+    "size": 200101,
+    "stand": "Art. 14 G v. 8.12.2025 I Nr. 318",
     "keywords": {
       "de": [
         "Anwaltskosten",
@@ -2366,10 +2366,10 @@
     "title": "Verwaltungsverfahrensgesetz",
     "area": "Verwaltungsrecht",
     "en": "Administrative Procedure Act: administrative acts, hearings, revocation, public-law contracts",
-    "paragraphs": 118,
+    "paragraphs": 130,
     "chunks": 4,
-    "size": 123572,
-    "stand": "Art. 15 Abs. 1 G v. 4.5.2021 I 882",
+    "size": 138430,
+    "stand": "Art. 2 G v. 15.7.2024 I Nr. 236",
     "keywords": {
       "de": [
         "Verwaltungsakt",
@@ -2441,10 +2441,10 @@
     "title": "Verwaltungsgerichtsordnung",
     "area": "Verwaltungsrecht",
     "en": "Code of Administrative Court Procedure: lawsuits against authorities, interim relief",
-    "paragraphs": 214,
-    "chunks": 3,
-    "size": 154127,
-    "stand": "Art. 2 G v. 8.10.2021 I 4650",
+    "paragraphs": 216,
+    "chunks": 4,
+    "size": 172263,
+    "stand": "Art. 9 G v. 20.5.2026 I Nr. 152",
     "keywords": {
       "de": [
         "Verwaltungsgericht",
@@ -2502,10 +2502,10 @@
     "title": "Gewerbeordnung",
     "area": "Verwaltungsrecht",
     "en": "Trade Regulation Act: starting a business (Gewerbeanmeldung), licences, prohibitions",
-    "paragraphs": 167,
-    "chunks": 6,
-    "size": 293682,
-    "stand": "Art. 2 G v. 10.8.2021 I 3504",
+    "paragraphs": 171,
+    "chunks": 7,
+    "size": 321176,
+    "stand": "Art. 1 G v. 20.7.2026 I Nr. 215",
     "keywords": {
       "de": [
         "Gewerbe",
@@ -2576,7 +2576,7 @@
     "en": "Freedom of Information Act: access to federal government information",
     "paragraphs": 15,
     "chunks": 1,
-    "size": 11724,
+    "size": 12028,
     "stand": "Art. 44 V v. 19.6.2020 I 1328",
     "keywords": {
       "de": [
@@ -2617,8 +2617,8 @@
     "en": "Federal Data Protection Act: national supplement to the GDPR, employee data, data protection officers",
     "paragraphs": 86,
     "chunks": 4,
-    "size": 160390,
-    "stand": "",
+    "size": 163141,
+    "stand": "Art. 3 G v. 12.5.2026 I Nr. 139",
     "keywords": {
       "de": [
         "Datenschutz",
@@ -2667,14 +2667,14 @@
   },
   {
     "skill": "ttdsg-telekommunikation-telemedien-datenschutz",
-    "jurabk": "TTDSG",
-    "title": "Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien",
+    "jurabk": "TDDDG",
+    "title": "Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei digitalen Diensten",
     "area": "Datenschutz und Digitales",
     "en": "Telecommunications-Telemedia Data Protection Act: cookies, confidentiality of communications",
-    "paragraphs": 30,
+    "paragraphs": 32,
     "chunks": 1,
-    "size": 87973,
-    "stand": "",
+    "size": 86711,
+    "stand": "Art. 3 G v. 10.3.2026 I Nr. 64",
     "keywords": {
       "de": [
         "Cookies",
@@ -2717,39 +2717,48 @@
     }
   },
   {
-    "skill": "tmg-telemedien",
-    "jurabk": "TMG",
-    "title": "Telemediengesetz",
+    "skill": "ddg-digitale-dienste",
+    "jurabk": "DDG",
+    "title": "Digitale-Dienste-Gesetz",
     "area": "Datenschutz und Digitales",
-    "en": "Telemedia Act: provider information (Impressum), liability of hosting providers",
-    "paragraphs": 17,
+    "en": "Digital Services Act (replaced the Telemedia Act TMG in 2024): provider information (Impressum), liability of hosting providers, national enforcement of the EU Digital Services Act",
+    "paragraphs": 37,
     "chunks": 1,
-    "size": 37737,
-    "stand": "Art. 3 G v. 12.8.2021 I 3544",
+    "size": 91509,
+    "stand": "Art. 26 Abs. 2 G v. 25.3.2026 I Nr. 81",
     "keywords": {
       "de": [
         "Impressum",
         "Anbieterkennzeichnung",
-        "Telemedien",
+        "digitale Dienste",
+        "Digital Services Act",
+        "DSA Durchsetzung",
         "Haftung Hosting",
         "Haftung Links",
-        "Störerhaftung",
-        "Herkunftslandprinzip",
-        "kommerzielle Kommunikation",
+        "Plattformen",
+        "Koordinierungsstelle",
+        "Bundesnetzagentur",
+        "Telemediengesetz Nachfolger",
+        "Diensteanbieter",
         "Website Pflichtangaben",
-        "Diensteanbieter"
+        "Beschwerde Plattform"
       ],
       "en": [
         "imprint",
         "legal notice website",
         "provider identification",
-        "telemedia",
+        "digital services",
+        "Digital Services Act",
+        "DSA enforcement",
         "hosting liability",
         "liability for links",
-        "country of origin principle",
-        "commercial communication",
+        "platforms",
+        "digital services coordinator",
+        "federal network agency",
+        "telemedia act successor",
+        "service provider",
         "website mandatory information",
-        "service provider"
+        "platform complaint"
       ],
       "ar": [
         "بيانات الناشر",
@@ -2761,20 +2770,26 @@
         "مبدأ بلد المنشأ",
         "التواصل التجاري",
         "المعلومات الإلزامية للموقع",
-        "مقدم الخدمة"
+        "مقدم الخدمة",
+        "الخدمات الرقمية",
+        "قانون الخدمات الرقمية",
+        "تنفيذ قانون الخدمات الرقمية",
+        "المنصات",
+        "منسق الخدمات الرقمية",
+        "شكوى ضد منصة"
       ]
     }
   },
   {
     "skill": "aufenthg-aufenthaltsrecht",
     "jurabk": "AufenthG",
-    "title": "und die Integration von Ausländern im Bundesgebiet",
+    "title": "Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet",
     "area": "Migrationsrecht",
     "en": "Residence Act: visas, residence permits, Blue Card, settlement permit, family reunification, deportation",
-    "paragraphs": 180,
-    "chunks": 14,
-    "size": 523841,
-    "stand": "Art. 3 G v. 9.7.2021 I 2467",
+    "paragraphs": 202,
+    "chunks": 16,
+    "size": 633807,
+    "stand": "Art. 5 G v. 22.10.2026 I Nr. 318",
     "keywords": {
       "de": [
         "Aufenthaltstitel",
@@ -2889,14 +2904,14 @@
   },
   {
     "skill": "stag-staatsangehoerigkeit",
-    "jurabk": "RuStAG",
+    "jurabk": "StAG",
     "title": "Staatsangehörigkeitsgesetz",
     "area": "Migrationsrecht",
     "en": "Nationality Act: acquiring and losing German citizenship, naturalisation requirements",
-    "paragraphs": 48,
+    "paragraphs": 46,
     "chunks": 1,
-    "size": 50779,
-    "stand": "Art. 1 G v. 12.8.2021 I 3538",
+    "size": 47492,
+    "stand": "Art. 3 G v. 21.7.2026 I Nr. 221",
     "keywords": {
       "de": [
         "Staatsangehörigkeit",
@@ -2961,14 +2976,14 @@
   },
   {
     "skill": "asylg-asyl",
-    "jurabk": "AsylVfG",
+    "jurabk": "AsylG",
     "title": "Asylgesetz",
     "area": "Migrationsrecht",
     "en": "Asylum Act: asylum procedure, refugee status, subsidiary protection",
-    "paragraphs": 127,
-    "chunks": 4,
-    "size": 166709,
-    "stand": "Art. 9 G v. 9.7.2021 I 2467",
+    "paragraphs": 130,
+    "chunks": 5,
+    "size": 194417,
+    "stand": "Art. 10 G v. 21.7.2026 I Nr. 221",
     "keywords": {
       "de": [
         "Asyl",
@@ -3050,10 +3065,10 @@
     "title": "Sozialgesetzbuch (SGB) Erstes Buch (I) - Allgemeiner Teil - (Artikel I des Gesetzes vom 11. Dezember 1975, BGBl. I S. 3015)",
     "area": "Sozialrecht",
     "en": "Social Code I: general principles of social benefits, rights and duties of claimants",
-    "paragraphs": 81,
+    "paragraphs": 83,
     "chunks": 1,
-    "size": 62139,
-    "stand": "Art. 32 G v. 20.8.2021 I 3932",
+    "size": 66289,
+    "stand": "Art. 3 G v. 22.7.2026 I Nr. 223",
     "keywords": {
       "de": [
         "Sozialleistungen Grundsätze",
@@ -3101,13 +3116,13 @@
   {
     "skill": "sgb-2-grundsicherung",
     "jurabk": "SGB 2",
-    "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)",
+    "title": "Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende",
     "area": "Sozialrecht",
     "en": "Social Code II: basic income support for jobseekers (Bürgergeld / formerly Hartz IV)",
-    "paragraphs": 144,
-    "chunks": 6,
-    "size": 242922,
-    "stand": "Art. 3 G v. 22.11.2021 I 4906",
+    "paragraphs": 156,
+    "chunks": 7,
+    "size": 269984,
+    "stand": "Art. 1a G v. 16.4.2026 I Nr. 107",
     "keywords": {
       "de": [
         "Bürgergeld",
@@ -3203,10 +3218,10 @@
     "title": "Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594)",
     "area": "Sozialrecht",
     "en": "Social Code III: unemployment insurance, unemployment benefit (Arbeitslosengeld I), job promotion",
-    "paragraphs": 385,
-    "chunks": 12,
-    "size": 484044,
-    "stand": "Art. 12a G v. 10.12.2021 I 5162",
+    "paragraphs": 405,
+    "chunks": 14,
+    "size": 522894,
+    "stand": "Art. 1a G v. 24.7.2026 I Nr. 228",
     "keywords": {
       "de": [
         "Arbeitslosengeld",
@@ -3301,10 +3316,10 @@
     "title": "Sozialgesetzbuch (SGB) Viertes Buch (IV) - Gemeinsame Vorschriften für die Sozialversicherung - (Artikel I des Gesetzes vom 23. Dezember 1976, BGBl. I S. 3845)",
     "area": "Sozialrecht",
     "en": "Social Code IV: common rules of social insurance, contributions, employment status",
-    "paragraphs": 196,
-    "chunks": 8,
-    "size": 359901,
-    "stand": "Art. 13 G v. 10.12.2021 I 5162",
+    "paragraphs": 211,
+    "chunks": 9,
+    "size": 409657,
+    "stand": "Art. 2 G v. 24.7.2026 I Nr. 228",
     "keywords": {
       "de": [
         "Sozialversicherung",
@@ -3379,10 +3394,10 @@
     "title": "Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477)",
     "area": "Sozialrecht",
     "en": "Social Code V: statutory health insurance, insured persons, benefits, contributions",
-    "paragraphs": 666,
-    "chunks": 48,
-    "size": 2154888,
-    "stand": "Art. 14 G v. 10.12.2021 I 5162",
+    "paragraphs": 700,
+    "chunks": 51,
+    "size": 2609249,
+    "stand": "Art. 1 G v. 26.6.2026 I Nr. 195",
     "keywords": {
       "de": [
         "Krankenversicherung",
@@ -3516,10 +3531,10 @@
     "title": "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)",
     "area": "Sozialrecht",
     "en": "Social Code VI: statutory pension insurance, retirement age, pension calculation",
-    "paragraphs": 509,
-    "chunks": 21,
-    "size": 984836,
-    "stand": "Art. 6a G v. 22.11.2021 I 4906",
+    "paragraphs": 501,
+    "chunks": 19,
+    "size": 903799,
+    "stand": "Art. 3 G v. 15.10.2026 I Nr. 307",
     "keywords": {
       "de": [
         "Rente",
@@ -3656,10 +3671,10 @@
     "title": "Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)",
     "area": "Sozialrecht",
     "en": "Social Code VII: statutory accident insurance, work accidents, occupational diseases",
-    "paragraphs": 252,
-    "chunks": 8,
-    "size": 333746,
-    "stand": "Art. 14a G v. 10.12.2021 I 5162",
+    "paragraphs": 254,
+    "chunks": 9,
+    "size": 350501,
+    "stand": "Art. 3 G v. 12.5.2026 I Nr. 140",
     "keywords": {
       "de": [
         "Unfallversicherung",
@@ -3731,10 +3746,10 @@
     "title": "Sozialgesetzbuch (SGB) - Achtes Buch (VIII) - Kinder- und Jugendhilfe - (Artikel 1 des Gesetzes v. 26. Juni 1990, BGBl. I S. 1163)",
     "area": "Sozialrecht",
     "en": "Social Code VIII: child and youth welfare, daycare, Jugendamt",
-    "paragraphs": 163,
+    "paragraphs": 166,
     "chunks": 6,
-    "size": 247557,
-    "stand": "Art. 32 G v. 5.10.2021 I 4607",
+    "size": 263325,
+    "stand": "Art. 9 G v. 23.4.2026 I Nr. 111",
     "keywords": {
       "de": [
         "Jugendamt",
@@ -3823,14 +3838,14 @@
   },
   {
     "skill": "sgb-9-rehabilitation-behinderung",
-    "jurabk": "SGB 9",
+    "jurabk": "SGB IX",
     "title": "Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)",
     "area": "Sozialrecht",
     "en": "Social Code IX: rehabilitation and participation of people with disabilities",
-    "paragraphs": 247,
+    "paragraphs": 249,
     "chunks": 9,
-    "size": 391781,
-    "stand": "Art. 7c G v. 27.9.2021 I 4530",
+    "size": 409204,
+    "stand": "Art. 2b G v. 24.7.2026 I Nr. 228",
     "keywords": {
       "de": [
         "Behinderung",
@@ -3924,14 +3939,14 @@
   },
   {
     "skill": "sgb-10-verwaltungsverfahren-sozialdaten",
-    "jurabk": "SGB 10",
+    "jurabk": "SGB X",
     "title": "Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -",
     "area": "Sozialrecht",
     "en": "Social Code X: administrative procedure of social agencies, social data protection",
-    "paragraphs": 134,
+    "paragraphs": 135,
     "chunks": 3,
-    "size": 193919,
-    "stand": "Art. 45 G v. 20.8.2021 I 3932",
+    "size": 210724,
+    "stand": "Art. 2 G v. 15.10.2026 I Nr. 307",
     "keywords": {
       "de": [
         "Verwaltungsverfahren Sozialleistungen",
@@ -4005,10 +4020,10 @@
     "title": "Sozialgesetzbuch (SGB) - Elftes Buch (XI) - Soziale Pflegeversicherung (Artikel 1 des Gesetzes vom 26. Mai 1994, BGBl. I S. 1014)",
     "area": "Sozialrecht",
     "en": "Social Code XI: long-term care insurance, care levels (Pflegegrade)",
-    "paragraphs": 217,
-    "chunks": 12,
-    "size": 612778,
-    "stand": "Art. 15 G v. 10.12.2021 I 5162",
+    "paragraphs": 240,
+    "chunks": 14,
+    "size": 756500,
+    "stand": "Art. 2c G v. 24.7.2026 I Nr. 228",
     "keywords": {
       "de": [
         "Pflegeversicherung",
@@ -4127,10 +4142,10 @@
     "title": "Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)",
     "area": "Sozialrecht",
     "en": "Social Code XII: social assistance, basic income in old age and reduced earning capacity",
-    "paragraphs": 195,
-    "chunks": 7,
-    "size": 286595,
-    "stand": "Art. 16 G v. 10.12.2021 I 5162",
+    "paragraphs": 197,
+    "chunks": 8,
+    "size": 302834,
+    "stand": "Art. 2d G v. 24.7.2026 I Nr. 228",
     "keywords": {
       "de": [
         "Sozialhilfe",
@@ -4219,10 +4234,10 @@
     "title": "Wohngeldgesetz",
     "area": "Sozialrecht",
     "en": "Housing Benefit Act: rent subsidies (Wohngeld)",
-    "paragraphs": 51,
+    "paragraphs": 56,
     "chunks": 3,
-    "size": 110337,
-    "stand": "Art. 88 G v. 20.8.2021 I 3932",
+    "size": 121278,
+    "stand": "Art. 11 Abs. 8 G v. 16.4.2026 I Nr. 107",
     "keywords": {
       "de": [
         "Wohngeld",
@@ -4292,10 +4307,10 @@
     "title": "Bundesgesetz über individuelle Förderung der Ausbildung",
     "area": "Sozialrecht",
     "en": "Federal Training Assistance Act: student financial aid (BAföG)",
-    "paragraphs": 79,
+    "paragraphs": 82,
     "chunks": 4,
-    "size": 122583,
-    "stand": "Art. 83 G v. 20.8.2021 I 3932",
+    "size": 141404,
+    "stand": "Art. 11 Abs. 1 G v. 16.4.2026 I Nr. 107",
     "keywords": {
       "de": [
         "BAföG",
@@ -4385,10 +4400,10 @@
     "title": "Abgabenordnung",
     "area": "Steuerrecht",
     "en": "Fiscal Code: general tax procedure, tax assessment, deadlines, objections, tax evasion",
-    "paragraphs": 496,
-    "chunks": 14,
-    "size": 645541,
-    "stand": "Art. 33 G v. 5.10.2021 I 4607",
+    "paragraphs": 503,
+    "chunks": 15,
+    "size": 739091,
+    "stand": "Art. 6 G v. 22.10.2026 I Nr. 320",
     "keywords": {
       "de": [
         "Abgabenordnung",
@@ -4511,10 +4526,10 @@
     "title": "Einkommensteuergesetz",
     "area": "Steuerrecht",
     "en": "Income Tax Act: taxable income, deductions, tax classes, wage tax, capital gains",
-    "paragraphs": 235,
+    "paragraphs": 247,
     "chunks": 21,
-    "size": 1156577,
-    "stand": "Art. 3 G v. 3.6.2021 I 1498",
+    "size": 1150491,
+    "stand": "Art. 1 G v. 15.10.2026 I Nr. 307",
     "keywords": {
       "de": [
         "Einkommensteuer",
@@ -4727,9 +4742,9 @@
     "area": "Steuerrecht",
     "en": "Corporate Income Tax Act: taxation of corporations",
     "paragraphs": 48,
-    "chunks": 4,
-    "size": 189573,
-    "stand": "Art. 3 G v. 25.6.2021 I 2056",
+    "chunks": 5,
+    "size": 191558,
+    "stand": "Art. 30 G v. 4.2.2026 I Nr. 33",
     "keywords": {
       "de": [
         "Körperschaftsteuer",
@@ -4792,8 +4807,8 @@
     "en": "Trade Tax Act: municipal trade tax on businesses",
     "paragraphs": 41,
     "chunks": 1,
-    "size": 80062,
-    "stand": "Art. 2 G v. 25.6.2021 I 2050",
+    "size": 79498,
+    "stand": "Art. 8 G v. 29.6.2026 I Nr. 197",
     "keywords": {
       "de": [
         "Gewerbesteuer",
@@ -4850,10 +4865,10 @@
     "title": "Umsatzsteuergesetz",
     "area": "Steuerrecht",
     "en": "Value Added Tax Act: VAT rates, exemptions, invoices, small business rule",
-    "paragraphs": 88,
-    "chunks": 7,
-    "size": 373005,
-    "stand": "Art. 1 G v. 21.12.2021 I 5250",
+    "paragraphs": 93,
+    "chunks": 8,
+    "size": 387317,
+    "stand": "Art. 5 G v. 29.6.2026 I Nr. 197",
     "keywords": {
       "de": [
         "Umsatzsteuer",
@@ -4984,10 +4999,10 @@
     "title": "Erbschaftsteuer- und Schenkungsteuergesetz",
     "area": "Steuerrecht",
     "en": "Inheritance and Gift Tax Act: tax on inheritances and gifts, allowances",
-    "paragraphs": 46,
+    "paragraphs": 47,
     "chunks": 4,
-    "size": 139689,
-    "stand": "Art. 8 G v. 16.7.2021 I 2947",
+    "size": 143528,
+    "stand": "Art. 10 G v. 22.6.2026 I Nr. 192",
     "keywords": {
       "de": [
         "Erbschaftsteuer",
@@ -5063,10 +5078,10 @@
     "title": "Grunderwerbsteuergesetz",
     "area": "Steuerrecht",
     "en": "Real Estate Transfer Tax Act: tax on buying real property",
-    "paragraphs": 27,
+    "paragraphs": 28,
     "chunks": 1,
-    "size": 57128,
-    "stand": "Art. 11 G v. 25.6.2021 I 2056",
+    "size": 63533,
+    "stand": "Art. 9 G v. 29.6.2026 I Nr. 197",
     "keywords": {
       "de": [
         "Grunderwerbsteuer",
@@ -5136,10 +5151,10 @@
     "title": "Finanzgerichtsordnung",
     "area": "Steuerrecht",
     "en": "Code of Procedure for Fiscal Courts: lawsuits against tax authorities",
-    "paragraphs": 172,
+    "paragraphs": 173,
     "chunks": 3,
-    "size": 118781,
-    "stand": "Art. 19 G v. 5.10.2021 I 4607",
+    "size": 126936,
+    "stand": "Art. 12 Abs. 2 G v. 29.6.2026 I Nr. 197",
     "keywords": {
       "de": [
         "Finanzgericht",
@@ -5208,10 +5223,10 @@
     "title": "Straßenverkehrsgesetz",
     "area": "Verkehrsrecht",
     "en": "Road Traffic Act: driving licences, liability of vehicle owners, points system, driving bans",
-    "paragraphs": 124,
-    "chunks": 6,
-    "size": 296512,
-    "stand": "Art. 1 G v. 12.7.2021 I 3108",
+    "paragraphs": 127,
+    "chunks": 7,
+    "size": 312483,
+    "stand": "Art. 7 G v. 22.10.2026 I Nr. 320",
     "keywords": {
       "de": [
         "Straßenverkehrsgesetz",
@@ -5316,10 +5331,10 @@
     "title": "Straßenverkehrs-Ordnung",
     "area": "Verkehrsrecht",
     "en": "Road Traffic Regulations: rules of the road, speed limits, signs, parking",
-    "paragraphs": 63,
+    "paragraphs": 64,
     "chunks": 4,
-    "size": 229029,
-    "stand": "Art. 13 G v. 12.7.2021 I 3091",
+    "size": 212789,
+    "stand": "Art. 4 V v. 30.1.2026 I Nr. 32",
     "keywords": {
       "de": [
         "Straßenverkehrsordnung",
@@ -5493,10 +5508,10 @@
     "title": "Verordnung über die Zulassung von Personen zum Straßenverkehr",
     "area": "Verkehrsrecht",
     "en": "Driving Licence Regulation: licence classes, probation, medical-psychological assessment (MPU)",
-    "paragraphs": 123,
-    "chunks": 12,
-    "size": 500980,
-    "stand": "Art. 12 G v. 12.7.2021 I 3091",
+    "paragraphs": 125,
+    "chunks": 9,
+    "size": 452308,
+    "stand": "Art. 3 V v. 12.8.2026 I Nr. 236",
     "keywords": {
       "de": [
         "Fahrerlaubnisverordnung",
@@ -5632,9 +5647,9 @@
     "area": "Immobilienrecht",
     "en": "Land Register Code: land register entries, priority, procedure",
     "paragraphs": 163,
-    "chunks": 3,
-    "size": 119695,
-    "stand": "Art. 28 G v. 5.10.2021 I 4607",
+    "chunks": 4,
+    "size": 124763,
+    "stand": "Art. 3 G v. 22.6.2026 I Nr. 192",
     "keywords": {
       "de": [
         "Grundbuch",
@@ -5740,10 +5755,10 @@
     "title": "Beurkundungsgesetz",
     "area": "Immobilienrecht",
     "en": "Notarisation Act: notarial deeds and procedure",
-    "paragraphs": 84,
+    "paragraphs": 93,
     "chunks": 1,
-    "size": 59547,
-    "stand": "Art. 2 G v. 21.12.2021 II 1282",
+    "size": 75363,
+    "stand": "Art. 3 G v. 10.12.2025 I Nr. 320",
     "keywords": {
       "de": [
         "Notar",
@@ -5844,10 +5859,10 @@
     "title": "Personenstandsgesetz",
     "area": "Familien- und Personenrecht",
     "en": "Civil Status Act: birth, marriage and death registration",
-    "paragraphs": 83,
-    "chunks": 1,
-    "size": 86343,
-    "stand": "Art. 88 V v. 19.6.2020 I 1328",
+    "paragraphs": 86,
+    "chunks": 3,
+    "size": 100130,
+    "stand": "Art. 4 G v. 21.7.2026 I Nr. 221",
     "keywords": {
       "de": [
         "Standesamt",
@@ -5961,8 +5976,8 @@
     "en": "Civil Partnership Act: registered same-sex partnerships (pre-2017)",
     "paragraphs": 24,
     "chunks": 1,
-    "size": 19986,
-    "stand": "Art. 3 G v. 18.12.2018 I 2639",
+    "size": 18598,
+    "stand": "Art. 5 Abs. 3 G v. 11.6.2024 I Nr. 185",
     "keywords": {
       "de": [
         "Lebenspartnerschaft",
@@ -6019,7 +6034,7 @@
     "en": "Pension Rights Adjustment Act: splitting pension rights on divorce",
     "paragraphs": 55,
     "chunks": 1,
-    "size": 41916,
+    "size": 44563,
     "stand": "Art. 1 G v. 12.5.2021 I 1085",
     "keywords": {
       "de": [

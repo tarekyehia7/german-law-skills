@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Grundsätze und Begriffsbestimmungen  
+# Erster Abschnitt Grundsätze und Begriffsbestimmungen  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 
-## Erster Titel - Geltungsbereich und Umfang der Versicherung  
+## Erster Titel Geltungsbereich und Umfang der Versicherung  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 - § 1 Sachlicher Geltungsbereich → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
@@ -17,17 +17,17 @@ Format: `heading → text/<file>`
 - § 5 Einstrahlung → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 6 Vorbehalt abweichender Regelungen → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-## Zweiter Titel - Beschäftigung und selbständige Tätigkeit  
+## Zweiter Titel Beschäftigung und selbständige Tätigkeit  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 - § 7 Beschäftigung → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
-- § 7a Anfrageverfahren → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
+- § 7a Feststellung des Erwerbsstatus → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 7b Wertguthabenvereinbarung → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 7c Verwendung von Wertguthaben → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 7d Führung und Verwaltung von Wertguthaben → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 7e Insolvenzschutz → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 7f Übertragung von Wertguthaben → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
-- § 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
+- § 8 Geringfügige Beschäftigung und geringfügige selbständige Tätigkeit; Geringfügigkeitsgrenze → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 8a Geringfügige Beschäftigung in Privathaushalten → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 9 Beschäftigungsort → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 10 Beschäftigungsort für besondere Personengruppen → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
@@ -35,7 +35,7 @@ Format: `heading → text/<file>`
 - § 12 Hausgewerbetreibende, Heimarbeiter und Zwischenmeister → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 13 Reeder, Seeleute und Deutsche Seeschiffe → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-## Dritter Titel - Arbeitsentgelt und sonstiges Einkommen  
+## Dritter Titel Arbeitsentgelt und sonstiges Einkommen  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 - § 14 Arbeitsentgelt → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
@@ -45,7 +45,7 @@ Format: `heading → text/<file>`
 - § 17a Umrechnung von ausländischem Einkommen → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 18 Bezugsgröße → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-## Vierter Titel - Einkommen beim Zusammentreffen mit Renten wegen Todes  
+## Vierter Titel Einkommen beim Zusammentreffen mit Renten wegen Todes  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 - § 18a Art des zu berücksichtigenden Einkommens → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
@@ -54,18 +54,18 @@ Format: `heading → text/<file>`
 - § 18d Einkommensänderungen → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 18e Ermittlung von Einkommensänderungen → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-## Fünfter Titel - Verarbeitung der Versicherungsnummer  
+## Fünfter Titel Verarbeitung der Versicherungsnummer  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 - § 18f Zulässigkeit der Verarbeitung → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 18g Angabe der Versicherungsnummer → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-## Sechster Titel - Sozialversicherungsausweis  
+## Sechster Titel Definition Unternehmen, Beschäftigungsbetrieb, Betriebsstätte  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-- § 18h Ausstellung des Sozialversicherungsausweises → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
+- § 18h Unternehmen, Beschäftigungsbetrieb, Betriebsstätte → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-## Siebter Titel - Betriebsnummer  
+## Siebter Titel Betriebsnummer  
 `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
 - § 18i Betriebsnummer für Beschäftigungsbetriebe der Arbeitgeber → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
@@ -73,18 +73,19 @@ Format: `heading → text/<file>`
 - § 18l Identifikation weiterer Verfahrensbeteiligter in elektronischen Meldeverfahren → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 18m Verarbeitung der Betriebsnummer → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 - § 18n Absendernummer → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
+- § 18o Verarbeitung der Unternehmernummer → `text/1-erster-abschnitt-grundsatze-und-begriffsbestimmungen.md`
 
-# Zweiter Abschnitt - Leistungen und Beiträge  
+# Zweiter Abschnitt Leistungen und Beiträge  
 `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 
 
-## Erster Titel - Leistungen  
+## Erster Titel Leistungen  
 `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 
 - § 19 Leistungen auf Antrag oder von Amts wegen → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 19a Benachteiligungsverbot → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 
-## Zweiter Titel - Beiträge  
+## Zweiter Titel Beiträge  
 `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 
 - § 20 Aufbringung der Mittel, Übergangsbereich → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
@@ -94,24 +95,25 @@ Format: `heading → text/<file>`
 - § 23a Einmalig gezahltes Arbeitsentgelt als beitragspflichtige Einnahmen → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 23b Beitragspflichtige Einnahmen bei flexiblen Arbeitszeitregelungen → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 23c Sonstige nicht beitragspflichtige Einnahmen → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
+- § 23d Abgeltung von abgeleiteten Entgeltguthaben → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 24 Säumniszuschlag → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 25 Verjährung → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 26 Beanstandung und Erstattung zu Unrecht entrichteter Beiträge → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 27 Verzinsung und Verjährung des Erstattungsanspruchs → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 - § 28 Verrechnung und Aufrechnung des Erstattungsanspruchs → `text/2-zweiter-abschnitt-leistungen-und-beitrage.md`
 
-# Dritter Abschnitt - Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag  
+# Dritter Abschnitt Meldepflichten des Arbeitgebers, Gesamtsozialversicherungsbeitrag  
 `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
 
-## Erster Titel - Meldungen des Arbeitgebers und ihre Weiterleitung  
+## Erster Titel Meldungen des Arbeitgebers und ihre Weiterleitung  
 `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
 - § 28a Meldepflicht → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 - § 28b Inhalte und Verfahren für die Gemeinsamen Grundsätze und die Datenfeldbeschreibung → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 - § 28c Verordnungsermächtigung → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
-## Zweiter Titel - Verfahren und Haftung bei der Beitragszahlung  
+## Zweiter Titel Verfahren und Haftung bei der Beitragszahlung  
 `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
 - § 28d Gesamtsozialversicherungsbeitrag → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
@@ -125,7 +127,7 @@ Format: `heading → text/<file>`
 - § 28m Sonderregelungen für bestimmte Personengruppen → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 - § 28n Verordnungsermächtigung → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
-## Dritter Titel - Auskunfts- und Vorlagepflicht, Prüfung, Schadensersatzpflicht und Verzinsung  
+## Dritter Titel Auskunfts- und Vorlagepflicht, Prüfung, Schadensersatzpflicht und Verzinsung  
 `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
 - § 28o Auskunfts- und Vorlagepflicht des Beschäftigten → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
@@ -133,11 +135,11 @@ Format: `heading → text/<file>`
 - § 28q Prüfung bei den Einzugsstellen und den Trägern der Rentenversicherung → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 - § 28r Schadensersatzpflicht, Verzinsung → `text/3-dritter-abschnitt-meldepflichten-des-arbeitgebers-gesamtsozi.md`
 
-# Vierter Abschnitt - Träger der Sozialversicherung  
+# Vierter Abschnitt Träger der Sozialversicherung  
 `text/4-vierter-abschnitt-trager-der-sozialversicherung.md`
 
 
-## Erster Titel - Verfassung  
+## Erster Titel Verfassung  
 `text/4-vierter-abschnitt-trager-der-sozialversicherung.md`
 
 - § 29 Rechtsstellung → `text/4-vierter-abschnitt-trager-der-sozialversicherung.md`
@@ -157,7 +159,7 @@ Format: `heading → text/<file>`
 - § 41 Entschädigung der ehrenamtlich Tätigen → `text/4-vierter-abschnitt-trager-der-sozialversicherung.md`
 - § 42 Haftung → `text/4-vierter-abschnitt-trager-der-sozialversicherung.md`
 
-## Zweiter Titel - Zusammensetzung, Wahl und Verfahren der Selbstverwaltungsorgane, Versichertenältesten und Vertrauenspersonen  
+## Zweiter Titel Zusammensetzung, Wahl und Verfahren der Selbstverwaltungsorgane, Versichertenältesten und Vertrauenspersonen  
 `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 
 - § 43 Mitglieder der Selbstverwaltungsorgane → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
@@ -176,7 +178,7 @@ Format: `heading → text/<file>`
 - § 53 Wahlorgane → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 54 Durchführung der Wahl → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 55 Wahlunterlagen und Mitwirkung der Arbeitgeber → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
-- § 56 Wahlordnung → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
+- § 56 Wahlordnung; Verordnungsermächtigung → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 57 Rechtsbehelfe im Wahlverfahren → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 58 Amtsdauer → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 59 Verlust der Mitgliedschaft → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
@@ -185,10 +187,11 @@ Format: `heading → text/<file>`
 - § 62 Vorsitzende der Selbstverwaltungsorgane → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 63 Beratung → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 64 Beschlussfassung → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
+- § 64a Hybride und digitale Sitzungen → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 65 Getrennte Abstimmung → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 - § 66 Erledigungsausschüsse → `text/5-zweiter-titel-zusammensetzung-wahl-und-verfahren-der-selbstv.md`
 
-## Dritter Titel - Haushalts- und Rechnungswesen  
+## Dritter Titel Haushalts- und Rechnungswesen  
 `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 
 - § 67 Aufstellung des Haushaltsplans → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
@@ -211,114 +214,126 @@ Format: `heading → text/<file>`
 - § 77a Geltung von Haushaltsvorschriften des Bundes für die Bundesagentur für Arbeit → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 78 Verordnungsermächtigung → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 79 Geschäftsübersichten und Statistiken der Sozialversicherung → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
+- § 79a Finanzierung von Maßnahmen der digitalen Transformation aus Bundesmitteln → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 
-## Vierter Titel - Vermögen  
+## Vierter Titel Vermögen  
 `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 
-- § 80 Verwaltung der Mittel → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
+- § 80 Verwaltung der Mittel, Anlagegrundsätze → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 81 Betriebsmittel → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 82 Rücklage → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
-- § 83 Anlegung der Rücklage → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
+- § 82a Verwaltungsvermögen → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
+- § 83 Anlegung der Mittel → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 84 Beleihung von Grundstücken → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 85 Genehmigungs- und anzeigepflichtige Vermögensanlagen → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 - § 86 Ausnahmegenehmigung → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
 
-## Fünfter Titel - Aufsicht  
-`text/6-dritter-titel-haushalts-und-rechnungswesen.md`
+## Fünfter Titel Aufsicht  
+`text/7-funfter-titel-aufsicht.md`
 
-- § 87 Umfang der Aufsicht → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
-- § 88 Prüfung und Unterrichtung → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
-- § 89 Aufsichtsmittel → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
-- § 90 Aufsichtsbehörden → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
-- § 90a Zuständigkeitsbereich → `text/6-dritter-titel-haushalts-und-rechnungswesen.md`
+- § 87 Umfang der Aufsicht → `text/7-funfter-titel-aufsicht.md`
+- § 88 Prüfung und Unterrichtung → `text/7-funfter-titel-aufsicht.md`
+- § 89 Aufsichtsmittel → `text/7-funfter-titel-aufsicht.md`
+- § 90 Aufsichtsbehörden → `text/7-funfter-titel-aufsicht.md`
+- § 90a Zuständigkeitsbereich → `text/7-funfter-titel-aufsicht.md`
 
-# Fünfter Abschnitt - Versicherungsbehörden  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+# Fünfter Abschnitt Versicherungsbehörden  
+`text/7-funfter-titel-aufsicht.md`
 
-- § 91 Arten → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 92 Versicherungsämter → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 93 Aufgaben der Versicherungsämter → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 94 Bundesamt für Soziale Sicherung → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 91 Arten → `text/7-funfter-titel-aufsicht.md`
+- § 92 Versicherungsämter → `text/7-funfter-titel-aufsicht.md`
+- § 93 Aufgaben der Versicherungsämter → `text/7-funfter-titel-aufsicht.md`
+- § 94 Bundesamt für Soziale Sicherung → `text/7-funfter-titel-aufsicht.md`
 
-# Sechster Abschnitt - Verarbeitung von elektronischen Daten in der Sozialversicherung  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+# Sechster Abschnitt Verarbeitung von elektronischen Daten in der Sozialversicherung  
+`text/7-funfter-titel-aufsicht.md`
 
 
-## Erster Titel - Übermittlung von Daten zur und innerhalb der Sozialversicherung  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+## Erster Titel Übermittlung von Daten zur und innerhalb der Sozialversicherung  
+`text/7-funfter-titel-aufsicht.md`
 
-- § 95 Gemeinsame Grundsätze Technik → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 95a Ausfüllhilfe zum elektronischen Datenaustausch mit Sozialversicherungsträgern → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 95b Systemprüfung → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 95c Datenaustausch zwischen den Sozialversicherungsträgern → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 95 Gemeinsame Grundsätze Technik → `text/7-funfter-titel-aufsicht.md`
+- § 95a Ausfüllhilfe zum elektronischen Datenaustausch mit Sozialversicherungsträgern → `text/7-funfter-titel-aufsicht.md`
+- § 95b Systemprüfung → `text/7-funfter-titel-aufsicht.md`
+- § 95c Datenaustausch zwischen den Sozialversicherungsträgern → `text/7-funfter-titel-aufsicht.md`
 
-## Zweiter Titel - Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+## Zweiter Titel Verarbeitung der Daten der Arbeitgeber durch die Sozialversicherungsträger  
+`text/7-funfter-titel-aufsicht.md`
 
-- § 96 Kommunikationsserver → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 97 Annahmestellen → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 98 Weiterleitung der Daten durch die Einzugsstellen → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 96 Kommunikationsserver → `text/7-funfter-titel-aufsicht.md`
+- § 97 Annahmestellen → `text/7-funfter-titel-aufsicht.md`
+- § 98 Weiterleitung der Daten durch die Einzugsstellen → `text/7-funfter-titel-aufsicht.md`
+- § 98a Datei der Stammdaten der an den Meldeverfahren beteiligten Träger der sozialen Sicherung → `text/7-funfter-titel-aufsicht.md`
 
-## Dritter Titel - Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+## Dritter Titel Übermittlung von Daten im Lohnnachweisverfahren der Unfallversicherung  
+`text/7-funfter-titel-aufsicht.md`
 
-- § 99 Übermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 100 Inhalt des elektronischen Lohnnachweises → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 101 Stammdatendatei → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 102 Annahme, Prüfung und Weiterleitung der Daten zum Lohnnachweisverfahren → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 103 Gemeinsame Grundsätze zur Datenübermittlung an die Unfallversicherung → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 99 Übermittlung von Daten durch den Unternehmer im Lohnnachweisverfahren → `text/7-funfter-titel-aufsicht.md`
+- § 100 Inhalt des elektronischen Lohnnachweises → `text/7-funfter-titel-aufsicht.md`
+- § 101 Stammdatendatei → `text/7-funfter-titel-aufsicht.md`
+- § 102 Annahme, Prüfung und Weiterleitung der Daten zum Lohnnachweisverfahren → `text/7-funfter-titel-aufsicht.md`
+- § 103 Gemeinsame Grundsätze zur Datenübermittlung an die Unfallversicherung → `text/7-funfter-titel-aufsicht.md`
 
-# Siebter Abschnitt - Informationsangebote in den Meldeverfahren der sozialen Sicherung  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+# Siebter Abschnitt Informationsangebote in den Meldeverfahren der sozialen Sicherung  
+`text/7-funfter-titel-aufsicht.md`
 
-- § 104 Informations- und Beratungsanspruch → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 105 Informationsportal → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 104 Informations- und Beratungsanspruch → `text/7-funfter-titel-aufsicht.md`
+- § 105 Informationsportal → `text/7-funfter-titel-aufsicht.md`
 
-# Achter Abschnitt - Elektronisches Antrags- und Bescheinigungsverfahren  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+# Achter Abschnitt Elektronisches Antrags- und Bescheinigungsverfahren  
+`text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
 
-- § 106 Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Beschäftigung nach Artikel 11 Absatz 3 Buchstabe b, Absatz 4, 5, Artikel 12 Absatz 1, Artikel 13 Absatz 1 Buchstabe a oder Buchstabe b Ziffer i und Artikel 16 der Verordnung (EG) Nr. 883/2004 → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 106a Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei selbständiger Erwerbstätigkeit nach Artikel 11 Absatz 4 und Artikel 12 Absatz 2 der Verordnung (EG) Nr. 883/2004 → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 109 zukünftig in Kraft → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 110 (weggefallen) → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 106 Elektronischer Antrag des Arbeitgebers auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Beschäftigung in einem oder mehreren Mitgliedsstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 106a Elektronischer Antrag durch Selbständige und Mehrfacherwerbstätige auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei grenzüberschreitender Erwerbstätigkeit in einem oder mehreren Mitgliedstaaten der Europäischen Union, des Europäischen Wirtschaftsraumes, der Schweiz oder dem Vereinigten Königreich Großbritannien und Nordirland → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 106b Elektronischer Antrag auf Freistellung von der Anwendung der Rechtsvorschriften des Wohnmitgliedstaates nach Artikel 16 Absatz 2 der Verordnung (EG) Nr. 883/2004 → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 106c Elektronischer Antrag auf Ausstellung einer Bescheinigung über die anzuwendenden Rechtsvorschriften bei Tätigkeit in einem Vertragsstaat, mit dem die Bundesrepublik Deutschland ein Abkommen über soziale Sicherheit mit Regelungen über die anzuwendenden Rechtsvorschriften geschlossen hat → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 106d Gemeinsame Grundsätze zu den Inhalten der Anträge und den zu übermittelnden Datensätzen nach den §§ 106 bis 106c → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 107 Elektronische Übermittlung von Bescheinigungen für Entgeltersatzleistungen → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 108 Elektronische Übermittlung von Anträgen und sonstigen Bescheinigungen an die Sozialversicherungsträger → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 108a Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 108b Unbedenklichkeitsbescheinigungen der Einzugsstellen → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 109 Meldung der Arbeitsunfähigkeitszeiten an den Arbeitgeber → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 109a Abruf von Arbeitsunfähigkeitsdaten und Daten zur stationären Krankenhausbehandlung durch die Bundesagentur für Arbeit → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 110 Meldungen der Arbeitgeber an gemeinsame Einrichtungen im Sinne des § 4 Absatz 2 des Tarifvertragsgesetzes → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
 
-# Neunter Abschnitt - Aufbewahrung von Unterlagen  
-`text/7-funfter-abschnitt-versicherungsbehorden.md`
+# Neunter Abschnitt Aufbewahrung von Unterlagen  
+`text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
 
-- § 110a Aufbewahrungspflicht → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 110b Rückgabe, Vernichtung und Archivierung von Unterlagen → `text/7-funfter-abschnitt-versicherungsbehorden.md`
-- § 110c Verwaltungsvereinbarungen, Verordnungsermächtigung → `text/7-funfter-abschnitt-versicherungsbehorden.md`
+- § 110a Aufbewahrungspflicht → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 110b Rückgabe, Vernichtung und Archivierung von Unterlagen → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 110c Verwaltungsvereinbarungen, Verordnungsermächtigung → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
 
-# Zehnter Abschnitt - Bußgeldvorschriften  
-`text/8-zehnter-abschnitt-bussgeldvorschriften.md`
+# Zehnter Abschnitt Bußgeldvorschriften  
+`text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
 
-- § 111 Bußgeldvorschriften → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 112 Allgemeines über Bußgeldvorschriften → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 113 Zusammenarbeit mit anderen Behörden → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
+- § 111 Bußgeldvorschriften → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 112 Allgemeines über Bußgeldvorschriften → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
+- § 113 Zusammenarbeit mit anderen Behörden → `text/8-achter-abschnitt-elektronisches-antrags-und-bescheinigungsve.md`
 
-# Elfter Abschnitt - Übergangsvorschriften  
-`text/8-zehnter-abschnitt-bussgeldvorschriften.md`
+# Elfter Abschnitt Übergangsvorschriften  
+`text/9-elfter-abschnitt-ubergangsvorschriften.md`
 
-- § 114 Einkommen beim Zusammentreffen mit Renten wegen Todes → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 115 (weggefallen) → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 116 Übergangsregelungen für bestehende Wertguthaben → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 116a Übergangsregelung zur Beitragshaftung → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 119 (weggefallen) → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 120 Übergangsregelung zur Änderung der Wählbarkeitsvoraussetzungen → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 123 Übergangsregelung zur Struktur der Einrichtungen → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 124 Übergangsregelung für das Verfahren zur elektronischen Abfrage und Übermittlung von Entgeltbescheinigungsdaten für Elterngeld → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 125 Pilotprojekt zur Meldung der Arbeitsunfähigkeits- und Vorerkrankungszeiten an den Arbeitgeber → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 127 Bericht über die Untersuchung zur strukturierten Übermittlung der Daten für die elektronisch unterstützte Prüfung bei den Arbeitgebern → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 128 Außerordentliche Hemmung der Verjährung → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023 → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 132 (weggefallen) → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- § 133 Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
-- Anhang EV - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - → `text/8-zehnter-abschnitt-bussgeldvorschriften.md`
+- § 114 Einkommen beim Zusammentreffen mit Renten wegen Todes → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 115 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 116 Übergangsregelungen für bestehende Wertguthaben → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 116a (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 117 Verwaltungsausgaben der knappschaftlichen Krankenversicherung der Rentner → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 118 Übergangsregelung für Tätigkeiten als Notärztin oder Notarzt im Rettungsdienst → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 119 Berücksichtigung von Versorgungskrankengeld → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 120 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 121 Übergangsregelung zur Vergütung der Vorstandsmitglieder der gesetzlichen Krankenkassen → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 122 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 123 Übergangsregelung → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 124 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 125 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 126 Verzicht auf die elektronisch unterstützte Prüfung bei den Arbeitgebern → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 127 Übergangsregelung für Lehrtätigkeiten → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 128 Außerordentliche Hemmung der Verjährung → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 129 Übergangsregelung für die Zulassung der Arbeitnehmervereinigungen für die Sozialversicherungswahlen im Jahr 2023 → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 130 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Impfzentren → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 131 Sonstige nicht beitragspflichtige Einnahmen aus ärztlichen Tätigkeiten in Corona-Testzentren → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 132 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 133 Übergangsvorschrift zur Besetzung der hauptamtlichen Vorstände und Geschäftsführungen der Versicherungsträger → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 134 (weggefallen) → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- § 135 Bericht zur Einführung eines Betriebsstättenverzeichnisses → `text/9-elfter-abschnitt-ubergangsvorschriften.md`
+- Anhang EV Auszug aus EinigVtr Anlage I Kapitel VIII Sachgebiet F Abschnitt III (BGBl. II 1990, 889, 1046) - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - → `text/9-elfter-abschnitt-ubergangsvorschriften.md`

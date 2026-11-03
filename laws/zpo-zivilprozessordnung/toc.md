@@ -3,15 +3,15 @@
 Format: `heading → text/<file>`
 
 
-# Buch 1 - Allgemeine Vorschriften  
+# Buch 1 Allgemeine Vorschriften  
 `text/01-buch-1-allgemeine-vorschriften.md`
 
 
-## Abschnitt 1 - Gerichte  
+## Abschnitt 1 Gerichte  
 `text/01-buch-1-allgemeine-vorschriften.md`
 
 
-### Titel 1 - Sachliche Zuständigkeit der Gerichte und Wertvorschriften  
+### Titel 1 Sachliche Zuständigkeit der Gerichte und Wertvorschriften  
 `text/01-buch-1-allgemeine-vorschriften.md`
 
 - § 1 Sachliche Zuständigkeit → `text/01-buch-1-allgemeine-vorschriften.md`
@@ -26,7 +26,7 @@ Format: `heading → text/<file>`
 - § 10 → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 11 Bindende Entscheidung über Unzuständigkeit → `text/01-buch-1-allgemeine-vorschriften.md`
 
-### Titel 2 - Gerichtsstand  
+### Titel 2 Gerichtsstand  
 `text/01-buch-1-allgemeine-vorschriften.md`
 
 - § 12 Allgemeiner Gerichtsstand; Begriff → `text/01-buch-1-allgemeine-vorschriften.md`
@@ -43,7 +43,6 @@ Format: `heading → text/<file>`
 - § 21 Besonderer Gerichtsstand der Niederlassung → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 22 Besonderer Gerichtsstand der Mitgliedschaft → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 23 Besonderer Gerichtsstand des Vermögens und des Gegenstands → `text/01-buch-1-allgemeine-vorschriften.md`
-- § 23a (weggefallen) → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 24 Ausschließlicher dinglicher Gerichtsstand → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 25 Dinglicher Gerichtsstand des Sachzusammenhanges → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 26 Dinglicher Gerichtsstand für persönliche Klagen → `text/01-buch-1-allgemeine-vorschriften.md`
@@ -58,23 +57,21 @@ Format: `heading → text/<file>`
 - § 31 Besonderer Gerichtsstand der Vermögensverwaltung → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 32 Besonderer Gerichtsstand der unerlaubten Handlung → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 32a Ausschließlicher Gerichtsstand der Umwelteinwirkung → `text/01-buch-1-allgemeine-vorschriften.md`
-- § 32b Ausschließlicher Gerichtsstand bei falschen, irreführenden oder unterlassenen öffentlichen Kapitalmarktinformationen → `text/01-buch-1-allgemeine-vorschriften.md`
-- § 32c Ausschließlicher Gerichtsstand bei Musterfeststellungsverfahren → `text/01-buch-1-allgemeine-vorschriften.md`
+- § 32b Ausschließlicher Gerichtsstand bei musterverfahrensfähigen Ansprüchen → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 33 Besonderer Gerichtsstand der Widerklage → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 34 Besonderer Gerichtsstand des Hauptprozesses → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 35 Wahl unter mehreren Gerichtsständen → `text/01-buch-1-allgemeine-vorschriften.md`
-- § 35a (weggefallen) → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 36 Gerichtliche Bestimmung der Zuständigkeit → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 37 Verfahren bei gerichtlicher Bestimmung → `text/01-buch-1-allgemeine-vorschriften.md`
 
-### Titel 3 - Vereinbarung über die Zuständigkeit der Gerichte  
+### Titel 3 Vereinbarung über die Zuständigkeit der Gerichte  
 `text/01-buch-1-allgemeine-vorschriften.md`
 
 - § 38 Zugelassene Gerichtsstandsvereinbarung → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 39 Zuständigkeit infolge rügeloser Verhandlung → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 40 Unwirksame und unzulässige Gerichtsstandsvereinbarung → `text/01-buch-1-allgemeine-vorschriften.md`
 
-### Titel 4 - Ausschließung und Ablehnung der Gerichtspersonen  
+### Titel 4 Ausschließung und Ablehnung der Gerichtspersonen  
 `text/01-buch-1-allgemeine-vorschriften.md`
 
 - § 41 Ausschluss von der Ausübung des Richteramtes → `text/01-buch-1-allgemeine-vorschriften.md`
@@ -87,25 +84,24 @@ Format: `heading → text/<file>`
 - § 48 Selbstablehnung; Ablehnung von Amts wegen → `text/01-buch-1-allgemeine-vorschriften.md`
 - § 49 Urkundsbeamte → `text/01-buch-1-allgemeine-vorschriften.md`
 
-## Abschnitt 2 - Parteien  
+## Abschnitt 2 Parteien  
 `text/02-abschnitt-2-parteien.md`
 
 
-### Titel 1 - Parteifähigkeit; Prozessfähigkeit  
+### Titel 1 Parteifähigkeit; Prozessfähigkeit  
 `text/02-abschnitt-2-parteien.md`
 
 - § 50 Parteifähigkeit → `text/02-abschnitt-2-parteien.md`
 - § 51 Prozessfähigkeit; gesetzliche Vertretung; Prozessführung → `text/02-abschnitt-2-parteien.md`
 - § 52 Umfang der Prozessfähigkeit → `text/02-abschnitt-2-parteien.md`
-- § 53 Prozessunfähigkeit bei Betreuung oder Pflegschaft → `text/02-abschnitt-2-parteien.md`
-- § 53a (weggefallen) → `text/02-abschnitt-2-parteien.md`
+- § 53 Prozessfähigkeit bei rechtlicher Betreuung → `text/02-abschnitt-2-parteien.md`
 - § 54 Besondere Ermächtigung zu Prozesshandlungen → `text/02-abschnitt-2-parteien.md`
 - § 55 Prozessfähigkeit von Ausländern → `text/02-abschnitt-2-parteien.md`
 - § 56 Prüfung von Amts wegen → `text/02-abschnitt-2-parteien.md`
 - § 57 Prozesspfleger → `text/02-abschnitt-2-parteien.md`
 - § 58 Prozesspfleger bei herrenlosem Grundstück oder Schiff → `text/02-abschnitt-2-parteien.md`
 
-### Titel 2 - Streitgenossenschaft  
+### Titel 2 Streitgenossenschaft  
 `text/02-abschnitt-2-parteien.md`
 
 - § 59 Streitgenossenschaft bei Rechtsgemeinschaft oder Identität des Grundes → `text/02-abschnitt-2-parteien.md`
@@ -114,7 +110,7 @@ Format: `heading → text/<file>`
 - § 62 Notwendige Streitgenossenschaft → `text/02-abschnitt-2-parteien.md`
 - § 63 Prozessbetrieb; Ladungen → `text/02-abschnitt-2-parteien.md`
 
-### Titel 3 - Beteiligung Dritter am Rechtsstreit  
+### Titel 3 Beteiligung Dritter am Rechtsstreit  
 `text/02-abschnitt-2-parteien.md`
 
 - § 64 Hauptintervention → `text/02-abschnitt-2-parteien.md`
@@ -132,7 +128,7 @@ Format: `heading → text/<file>`
 - § 76 Urheberbenennung bei Besitz → `text/02-abschnitt-2-parteien.md`
 - § 77 Urheberbenennung bei Eigentumsbeeinträchtigung → `text/02-abschnitt-2-parteien.md`
 
-### Titel 4 - Prozessbevollmächtigte und Beistände  
+### Titel 4 Prozessbevollmächtigte und Beistände  
 `text/02-abschnitt-2-parteien.md`
 
 - § 78 Anwaltsprozess → `text/02-abschnitt-2-parteien.md`
@@ -152,7 +148,7 @@ Format: `heading → text/<file>`
 - § 89 Vollmachtloser Vertreter → `text/02-abschnitt-2-parteien.md`
 - § 90 Beistand → `text/02-abschnitt-2-parteien.md`
 
-### Titel 5 - Prozesskosten  
+### Titel 5 Prozesskosten  
 `text/02-abschnitt-2-parteien.md`
 
 - § 91 Grundsatz und Umfang der Kostenpflicht → `text/02-abschnitt-2-parteien.md`
@@ -161,8 +157,6 @@ Format: `heading → text/<file>`
 - § 93 Kosten bei sofortigem Anerkenntnis → `text/02-abschnitt-2-parteien.md`
 - § 93a (weggefallen) → `text/02-abschnitt-2-parteien.md`
 - § 93b Kosten bei Räumungsklagen → `text/02-abschnitt-2-parteien.md`
-- § 93c (weggefallen) → `text/02-abschnitt-2-parteien.md`
-- § 93d (weggefallen) → `text/02-abschnitt-2-parteien.md`
 - § 94 Kosten bei übergegangenem Anspruch → `text/02-abschnitt-2-parteien.md`
 - § 95 Kosten bei Säumnis oder Verschulden → `text/02-abschnitt-2-parteien.md`
 - § 96 Kosten erfolgloser Angriffs- oder Verteidigungsmittel → `text/02-abschnitt-2-parteien.md`
@@ -171,14 +165,14 @@ Format: `heading → text/<file>`
 - § 99 Anfechtung von Kostenentscheidungen → `text/02-abschnitt-2-parteien.md`
 - § 100 Kosten bei Streitgenossen → `text/02-abschnitt-2-parteien.md`
 - § 101 Kosten einer Nebenintervention → `text/02-abschnitt-2-parteien.md`
-- § 102 → `text/02-abschnitt-2-parteien.md`
+- § 102 Änderung der Kostenentscheidung → `text/02-abschnitt-2-parteien.md`
 - § 103 Kostenfestsetzungsgrundlage; Kostenfestsetzungsantrag → `text/02-abschnitt-2-parteien.md`
 - § 104 Kostenfestsetzungsverfahren → `text/02-abschnitt-2-parteien.md`
 - § 105 Vereinfachter Kostenfestsetzungsbeschluss → `text/02-abschnitt-2-parteien.md`
 - § 106 Verteilung nach Quoten → `text/02-abschnitt-2-parteien.md`
 - § 107 Änderung nach Streitwertfestsetzung → `text/02-abschnitt-2-parteien.md`
 
-### Titel 6 - Sicherheitsleistung  
+### Titel 6 Sicherheitsleistung  
 `text/02-abschnitt-2-parteien.md`
 
 - § 108 Art und Höhe der Sicherheit → `text/02-abschnitt-2-parteien.md`
@@ -188,13 +182,13 @@ Format: `heading → text/<file>`
 - § 112 Höhe der Prozesskostensicherheit → `text/02-abschnitt-2-parteien.md`
 - § 113 Fristbestimmung für Prozesskostensicherheit → `text/02-abschnitt-2-parteien.md`
 
-### Titel 7 - Prozesskostenhilfe und Prozesskostenvorschuss  
+### Titel 7 Prozesskostenhilfe und Prozesskostenvorschuss  
 `text/02-abschnitt-2-parteien.md`
 
 - § 114 Voraussetzungen → `text/02-abschnitt-2-parteien.md`
 - § 115 Einsatz von Einkommen und Vermögen → `text/02-abschnitt-2-parteien.md`
 - § 116 Partei kraft Amtes; juristische Person; parteifähige Vereinigung → `text/02-abschnitt-2-parteien.md`
-- § 117 Antrag → `text/02-abschnitt-2-parteien.md`
+- § 117 Antrag; Verordnungsermächtigung → `text/02-abschnitt-2-parteien.md`
 - § 118 Bewilligungsverfahren → `text/02-abschnitt-2-parteien.md`
 - § 119 Bewilligung → `text/02-abschnitt-2-parteien.md`
 - § 120 Festsetzung von Zahlungen → `text/02-abschnitt-2-parteien.md`
@@ -206,17 +200,16 @@ Format: `heading → text/<file>`
 - § 125 Einziehung der Kosten → `text/02-abschnitt-2-parteien.md`
 - § 126 Beitreibung der Rechtsanwaltskosten → `text/02-abschnitt-2-parteien.md`
 - § 127 Entscheidungen → `text/02-abschnitt-2-parteien.md`
-- § 127a (weggefallen) → `text/02-abschnitt-2-parteien.md`
 
-## Abschnitt 3 - Verfahren  
+## Abschnitt 3 Verfahren  
 `text/03-abschnitt-3-verfahren.md`
 
 
-### Titel 1 - Mündliche Verhandlung  
+### Titel 1 Mündliche Verhandlung  
 `text/03-abschnitt-3-verfahren.md`
 
 - § 128 Grundsatz der Mündlichkeit; schriftliches Verfahren → `text/03-abschnitt-3-verfahren.md`
-- § 128a Verhandlung im Wege der Bild- und Tonübertragung → `text/03-abschnitt-3-verfahren.md`
+- § 128a Videoverhandlung → `text/03-abschnitt-3-verfahren.md`
 - § 129 Vorbereitende Schriftsätze → `text/03-abschnitt-3-verfahren.md`
 - § 129a Anträge und Erklärungen zu Protokoll → `text/03-abschnitt-3-verfahren.md`
 - § 130 Inhalt der Schriftsätze → `text/03-abschnitt-3-verfahren.md`
@@ -224,6 +217,7 @@ Format: `heading → text/<file>`
 - § 130b Gerichtliches elektronisches Dokument → `text/03-abschnitt-3-verfahren.md`
 - § 130c Formulare; Verordnungsermächtigung → `text/03-abschnitt-3-verfahren.md`
 - § 130d Nutzungspflicht für Rechtsanwälte und Behörden → `text/03-abschnitt-3-verfahren.md`
+- § 130e Formfiktion → `text/03-abschnitt-3-verfahren.md`
 - § 131 Beifügung von Urkunden → `text/03-abschnitt-3-verfahren.md`
 - § 132 Fristen für Schriftsätze → `text/03-abschnitt-3-verfahren.md`
 - § 133 Abschriften → `text/03-abschnitt-3-verfahren.md`
@@ -261,11 +255,11 @@ Format: `heading → text/<file>`
 - § 164 Protokollberichtigung → `text/03-abschnitt-3-verfahren.md`
 - § 165 Beweiskraft des Protokolls → `text/03-abschnitt-3-verfahren.md`
 
-### Titel 2 - Verfahren bei Zustellungen  
+### Titel 2 Verfahren bei Zustellungen  
 `text/03-abschnitt-3-verfahren.md`
 
 
-#### Untertitel 1 - Zustellungen von Amts wegen  
+#### Untertitel 1 Zustellungen von Amts wegen  
 `text/03-abschnitt-3-verfahren.md`
 
 - § 166 Zustellung → `text/03-abschnitt-3-verfahren.md`
@@ -273,6 +267,7 @@ Format: `heading → text/<file>`
 - § 168 Aufgaben der Geschäftsstelle → `text/03-abschnitt-3-verfahren.md`
 - § 169 Bescheinigung des Zeitpunktes der Zustellung; Beglaubigung → `text/03-abschnitt-3-verfahren.md`
 - § 170 Zustellung an Vertreter → `text/03-abschnitt-3-verfahren.md`
+- § 170a Zustellung bei rechtlicher Betreuung → `text/03-abschnitt-3-verfahren.md`
 - § 171 Zustellung an Bevollmächtigte → `text/03-abschnitt-3-verfahren.md`
 - § 172 Zustellung an Prozessbevollmächtigte → `text/03-abschnitt-3-verfahren.md`
 - § 173 Zustellung von elektronischen Dokumenten → `text/03-abschnitt-3-verfahren.md`
@@ -294,7 +289,7 @@ Format: `heading → text/<file>`
 - § 189 Heilung von Zustellungsmängeln → `text/03-abschnitt-3-verfahren.md`
 - § 190 Einheitliche Zustellungsformulare → `text/03-abschnitt-3-verfahren.md`
 
-#### Untertitel 2 - Zustellungen auf Betreiben der Parteien  
+#### Untertitel 2 Zustellungen auf Betreiben der Parteien  
 `text/03-abschnitt-3-verfahren.md`
 
 - § 191 Zustellung → `text/03-abschnitt-3-verfahren.md`
@@ -305,7 +300,7 @@ Format: `heading → text/<file>`
 - § 195 Zustellung von Anwalt zu Anwalt → `text/03-abschnitt-3-verfahren.md`
 - §§ 195a bis 213a (weggefallen) → `text/03-abschnitt-3-verfahren.md`
 
-### Titel 3 - Ladungen, Termine und Fristen  
+### Titel 3 Ladungen, Termine und Fristen  
 `text/03-abschnitt-3-verfahren.md`
 
 - § 214 Ladung zum Termin → `text/03-abschnitt-3-verfahren.md`
@@ -325,7 +320,7 @@ Format: `heading → text/<file>`
 - § 228 → `text/03-abschnitt-3-verfahren.md`
 - § 229 Beauftragter oder ersuchter Richter → `text/03-abschnitt-3-verfahren.md`
 
-### Titel 4 - Folgen der Versäumung; Rechtsbehelfsbelehrung; Wiedereinsetzung in den vorigen Stand  
+### Titel 4 Folgen der Versäumung; Rechtsbehelfsbelehrung; Wiedereinsetzung in den vorigen Stand  
 `text/03-abschnitt-3-verfahren.md`
 
 - § 230 Allgemeine Versäumungsfolge → `text/03-abschnitt-3-verfahren.md`
@@ -338,7 +333,7 @@ Format: `heading → text/<file>`
 - § 237 Zuständigkeit für Wiedereinsetzung → `text/03-abschnitt-3-verfahren.md`
 - § 238 Verfahren bei Wiedereinsetzung → `text/03-abschnitt-3-verfahren.md`
 
-### Titel 5 - Unterbrechung und Aussetzung des Verfahrens  
+### Titel 5 Unterbrechung und Aussetzung des Verfahrens  
 `text/03-abschnitt-3-verfahren.md`
 
 - § 239 Unterbrechung durch Tod der Partei → `text/03-abschnitt-3-verfahren.md`
@@ -357,15 +352,15 @@ Format: `heading → text/<file>`
 - § 251a Säumnis beider Parteien; Entscheidung nach Lage der Akten → `text/03-abschnitt-3-verfahren.md`
 - § 252 Rechtsmittel bei Aussetzung → `text/03-abschnitt-3-verfahren.md`
 
-# Buch 2 - Verfahren im ersten Rechtszug  
+# Buch 2 Verfahren im ersten Rechtszug  
 `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 
 
-## Abschnitt 1 - Verfahren vor den Landgerichten  
+## Abschnitt 1 Verfahren vor den Landgerichten  
 `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 
 
-### Titel 1 - Verfahren bis zum Urteil  
+### Titel 1 Verfahren bis zum Urteil  
 `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 
 - § 253 Klageschrift → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
@@ -389,6 +384,7 @@ Format: `heading → text/<file>`
 - § 271 Zustellung der Klageschrift → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 - § 272 Bestimmung der Verfahrensweise → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 - § 273 Vorbereitung des Termins → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
+- § 273a Geheimhaltung → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 - § 274 Ladung der Parteien; Einlassungsfrist → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 - § 275 Früher erster Termin → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 - § 276 Schriftliches Vorverfahren → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
@@ -422,7 +418,7 @@ Format: `heading → text/<file>`
 - § 299 Akteneinsicht; Abschriften → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 - § 299a Datenträgerarchiv → `text/04-buch-2-verfahren-im-ersten-rechtszug.md`
 
-### Titel 2 - Urteil  
+### Titel 2 Urteil  
 `text/05-titel-2-urteil.md`
 
 - § 300 Endurteil → `text/05-titel-2-urteil.md`
@@ -432,6 +428,7 @@ Format: `heading → text/<file>`
 - § 304 Zwischenurteil über den Grund → `text/05-titel-2-urteil.md`
 - § 305 Urteil unter Vorbehalt erbrechtlich beschränkter Haftung → `text/05-titel-2-urteil.md`
 - § 305a Urteil unter Vorbehalt seerechtlich beschränkter Haftung → `text/05-titel-2-urteil.md`
+- § 305b Urteil unter Vorbehalt spaltungsrechtlicher Haftungsbeschränkung → `text/05-titel-2-urteil.md`
 - § 306 Verzicht → `text/05-titel-2-urteil.md`
 - § 307 Anerkenntnis → `text/05-titel-2-urteil.md`
 - § 308 Bindung an die Parteianträge → `text/05-titel-2-urteil.md`
@@ -458,13 +455,13 @@ Format: `heading → text/<file>`
 - § 323b Verschärfte Haftung → `text/05-titel-2-urteil.md`
 - § 324 Nachforderungsklage zur Sicherheitsleistung → `text/05-titel-2-urteil.md`
 - § 325 Subjektive Rechtskraftwirkung → `text/05-titel-2-urteil.md`
-- § 325a Feststellungswirkung des Musterentscheids \*) → `text/05-titel-2-urteil.md`
+- § 325a Feststellungswirkung des Musterentscheids *) → `text/05-titel-2-urteil.md`
 - § 326 Rechtskraft bei Nacherbfolge → `text/05-titel-2-urteil.md`
 - § 327 Rechtskraft bei Testamentsvollstreckung → `text/05-titel-2-urteil.md`
 - § 328 Anerkennung ausländischer Urteile → `text/05-titel-2-urteil.md`
 - § 329 Beschlüsse und Verfügungen → `text/05-titel-2-urteil.md`
 
-### Titel 3 - Versäumnisurteil  
+### Titel 3 Versäumnisurteil  
 `text/05-titel-2-urteil.md`
 
 - § 330 Versäumnisurteil gegen den Kläger → `text/05-titel-2-urteil.md`
@@ -489,7 +486,7 @@ Format: `heading → text/<file>`
 - § 346 Verzicht und Zurücknahme des Einspruchs → `text/05-titel-2-urteil.md`
 - § 347 Verfahren bei Widerklage und Zwischenstreit → `text/05-titel-2-urteil.md`
 
-### Titel 4 - Verfahren vor dem Einzelrichter  
+### Titel 4 Verfahren vor dem Einzelrichter  
 `text/05-titel-2-urteil.md`
 
 - § 348 Originärer Einzelrichter → `text/05-titel-2-urteil.md`
@@ -498,7 +495,7 @@ Format: `heading → text/<file>`
 - § 350 Rechtsmittel → `text/05-titel-2-urteil.md`
 - §§ 351 bis 354 (weggefallen) → `text/05-titel-2-urteil.md`
 
-### Titel 5 - Allgemeine Vorschriften über die Beweisaufnahme  
+### Titel 5 Allgemeine Vorschriften über die Beweisaufnahme  
 `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
 - § 355 Unmittelbarkeit der Beweisaufnahme → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
@@ -520,7 +517,7 @@ Format: `heading → text/<file>`
 - § 369 Ausländische Beweisaufnahme → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 - § 370 Fortsetzung der mündlichen Verhandlung → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
-### Titel 6 - Beweis durch Augenschein  
+### Titel 6 Beweis durch Augenschein  
 `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
 - § 371 Beweis durch Augenschein → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
@@ -529,7 +526,7 @@ Format: `heading → text/<file>`
 - § 372 Beweisaufnahme → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 - § 372a Untersuchungen zur Feststellung der Abstammung → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
-### Titel 7 - Zeugenbeweis  
+### Titel 7 Zeugenbeweis  
 `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
 - § 373 Beweisantritt → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
@@ -562,7 +559,7 @@ Format: `heading → text/<file>`
 - § 400 Befugnisse des mit der Beweisaufnahme betrauten Richters → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 - § 401 Zeugenentschädigung → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
-### Titel 8 - Beweis durch Sachverständige  
+### Titel 8 Beweis durch Sachverständige  
 `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
 - § 402 Anwendbarkeit der Vorschriften für Zeugen → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
@@ -582,7 +579,7 @@ Format: `heading → text/<file>`
 - § 413 Sachverständigenvergütung → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 - § 414 Sachverständige Zeugen → `text/06-titel-5-allgemeine-vorschriften-uber-die-beweisaufnahme.md`
 
-### Titel 9 - Beweis durch Urkunden  
+### Titel 9 Beweis durch Urkunden  
 `text/07-titel-9-beweis-durch-urkunden.md`
 
 - § 415 Beweiskraft öffentlicher Urkunden über Erklärungen → `text/07-titel-9-beweis-durch-urkunden.md`
@@ -617,7 +614,7 @@ Format: `heading → text/<file>`
 - § 443 Verwahrung verdächtiger Urkunden → `text/07-titel-9-beweis-durch-urkunden.md`
 - § 444 Folgen der Beseitigung einer Urkunde → `text/07-titel-9-beweis-durch-urkunden.md`
 
-### Titel 10 - Beweis durch Parteivernehmung  
+### Titel 10 Beweis durch Parteivernehmung  
 `text/07-titel-9-beweis-durch-urkunden.md`
 
 - § 445 Vernehmung des Gegners; Beweisantritt → `text/07-titel-9-beweis-durch-urkunden.md`
@@ -633,7 +630,7 @@ Format: `heading → text/<file>`
 - § 455 Prozessunfähige → `text/07-titel-9-beweis-durch-urkunden.md`
 - §§ 456 bis 477 (weggefallen) → `text/07-titel-9-beweis-durch-urkunden.md`
 
-### Titel 11 - Abnahme von Eiden und Bekräftigungen  
+### Titel 11 Abnahme von Eiden und Bekräftigungen  
 `text/07-titel-9-beweis-durch-urkunden.md`
 
 - § 478 Eidesleistung in Person → `text/07-titel-9-beweis-durch-urkunden.md`
@@ -644,7 +641,7 @@ Format: `heading → text/<file>`
 - § 483 Eidesleistung sprach- oder hörbehinderter Personen → `text/07-titel-9-beweis-durch-urkunden.md`
 - § 484 Eidesgleiche Bekräftigung → `text/07-titel-9-beweis-durch-urkunden.md`
 
-### Titel 12 - Selbständiges Beweisverfahren  
+### Titel 12 Selbständiges Beweisverfahren  
 `text/07-titel-9-beweis-durch-urkunden.md`
 
 - § 485 Zulässigkeit → `text/07-titel-9-beweis-durch-urkunden.md`
@@ -658,7 +655,7 @@ Format: `heading → text/<file>`
 - § 494 Unbekannter Gegner → `text/07-titel-9-beweis-durch-urkunden.md`
 - § 494a Frist zur Klageerhebung → `text/07-titel-9-beweis-durch-urkunden.md`
 
-## Abschnitt 2 - Verfahren vor den Amtsgerichten  
+## Abschnitt 2 Verfahren vor den Amtsgerichten  
 `text/07-titel-9-beweis-durch-urkunden.md`
 
 - § 495 Anzuwendende Vorschriften → `text/07-titel-9-beweis-durch-urkunden.md`
@@ -677,11 +674,11 @@ Format: `heading → text/<file>`
 - § 510b Urteil auf Vornahme einer Handlung → `text/07-titel-9-beweis-durch-urkunden.md`
 - § 510c → `text/07-titel-9-beweis-durch-urkunden.md`
 
-# Buch 3 - Rechtsmittel  
+# Buch 3 Rechtsmittel  
 `text/08-buch-3-rechtsmittel.md`
 
 
-## Abschnitt 1 - Berufung  
+## Abschnitt 1 Berufung  
 `text/08-buch-3-rechtsmittel.md`
 
 - § 511 Statthaftigkeit der Berufung → `text/08-buch-3-rechtsmittel.md`
@@ -716,7 +713,7 @@ Format: `heading → text/<file>`
 - § 540 Inhalt des Berufungsurteils → `text/08-buch-3-rechtsmittel.md`
 - § 541 Prozessakten → `text/08-buch-3-rechtsmittel.md`
 
-## Abschnitt 2 - Revision  
+## Abschnitt 2 Revision  
 `text/08-buch-3-rechtsmittel.md`
 
 - § 542 Statthaftigkeit der Revision → `text/08-buch-3-rechtsmittel.md`
@@ -731,9 +728,10 @@ Format: `heading → text/<file>`
 - § 551 Revisionsbegründung → `text/08-buch-3-rechtsmittel.md`
 - § 552 Zulässigkeitsprüfung → `text/08-buch-3-rechtsmittel.md`
 - § 552a Zurückweisungsbeschluss → `text/08-buch-3-rechtsmittel.md`
+- § 552b Bestimmung zum Leitentscheidungsverfahren → `text/08-buch-3-rechtsmittel.md`
 - § 553 Terminsbestimmung; Einlassungsfrist → `text/08-buch-3-rechtsmittel.md`
 - § 554 Anschlussrevision → `text/08-buch-3-rechtsmittel.md`
-- § 555 Allgemeine Verfahrensgrundsätze → `text/08-buch-3-rechtsmittel.md`
+- § 555 Anwendbare Vorschriften → `text/08-buch-3-rechtsmittel.md`
 - § 556 Verlust des Rügerechts → `text/08-buch-3-rechtsmittel.md`
 - § 557 Umfang der Revisionsprüfung → `text/08-buch-3-rechtsmittel.md`
 - § 558 Vorläufige Vollstreckbarkeit → `text/08-buch-3-rechtsmittel.md`
@@ -743,14 +741,14 @@ Format: `heading → text/<file>`
 - § 562 Aufhebung des angefochtenen Urteils → `text/08-buch-3-rechtsmittel.md`
 - § 563 Zurückverweisung; eigene Sachentscheidung → `text/08-buch-3-rechtsmittel.md`
 - § 564 Keine Begründung der Entscheidung bei Rügen von Verfahrensmängeln → `text/08-buch-3-rechtsmittel.md`
-- § 565 Anzuwendende Vorschriften des Berufungsverfahrens → `text/08-buch-3-rechtsmittel.md`
+- § 565 Leitentscheidung → `text/08-buch-3-rechtsmittel.md`
 - § 566 Sprungrevision → `text/08-buch-3-rechtsmittel.md`
 
-## Abschnitt 3 - Beschwerde  
+## Abschnitt 3 Beschwerde  
 `text/08-buch-3-rechtsmittel.md`
 
 
-### Titel 1 - Sofortige Beschwerde  
+### Titel 1 Sofortige Beschwerde  
 `text/08-buch-3-rechtsmittel.md`
 
 - § 567 Sofortige Beschwerde; Anschlussbeschwerde → `text/08-buch-3-rechtsmittel.md`
@@ -761,7 +759,7 @@ Format: `heading → text/<file>`
 - § 572 Gang des Beschwerdeverfahrens → `text/08-buch-3-rechtsmittel.md`
 - § 573 Erinnerung → `text/08-buch-3-rechtsmittel.md`
 
-### Titel 2 - Rechtsbeschwerde  
+### Titel 2 Rechtsbeschwerde  
 `text/08-buch-3-rechtsmittel.md`
 
 - § 574 Rechtsbeschwerde; Anschlussrechtsbeschwerde → `text/08-buch-3-rechtsmittel.md`
@@ -769,7 +767,7 @@ Format: `heading → text/<file>`
 - § 576 Gründe der Rechtsbeschwerde → `text/08-buch-3-rechtsmittel.md`
 - § 577 Prüfung und Entscheidung der Rechtsbeschwerde → `text/08-buch-3-rechtsmittel.md`
 
-# Buch 4 - Wiederaufnahme des Verfahrens  
+# Buch 4 Wiederaufnahme des Verfahrens  
 `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
 - § 578 Arten der Wiederaufnahme → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
@@ -787,7 +785,7 @@ Format: `heading → text/<file>`
 - § 590 Neue Verhandlung → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 - § 591 Rechtsmittel → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
-# Buch 5 - Urkunden- und Wechselprozess  
+# Buch 5 Urkunden- und Wechselprozess  
 `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
 - § 592 Zulässigkeit → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
@@ -806,21 +804,29 @@ Format: `heading → text/<file>`
 - § 605 Beweisvorschriften → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 - § 605a Scheckprozess → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
-# Buch 6 - Musterfeststellungsverfahren  
+# Buch 6 Weitere besondere Verfahren  
 `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
-- § 606 Musterfeststellungsklage → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 607 Bekanntmachung der Musterfeststellungsklage → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 608 Anmeldung von Ansprüchen oder Rechtsverhältnissen → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 609 Klageregister; Verordnungsermächtigung → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 610 Besonderheiten der Musterfeststellungsklage → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 611 Vergleich → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 612 Bekanntmachungen zum Musterfeststellungsurteil → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 613 Bindungswirkung des Musterfeststellungsurteils; Aussetzung → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
-- § 614 Rechtsmittel → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+
+## Abschnitt 1 Englischsprachige Verfahren  
+`text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+
+- § 606 Klageschrift → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 607 Beteiligung Dritter am Rechtsstreit → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 608 Übersetzung → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 609 Rechtsmittelschrift → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+
+## Abschnitt 2 Verfahren vor den Commercial Courts und den Commercial Chambers  
+`text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+
+- § 610 Anwendbare Vorschriften vor den Commercial Courts; Klageschrift → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 611 Verweisung an den Commercial Court → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 612 Organisationstermin → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 613 Wortprotokoll → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+- § 614 Rechtsmittel gegen Urteile des Commercial Courts → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 - §§ 615 bis 687 (weggefallen) → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
-# Buch 7 - Mahnverfahren  
+# Buch 7 Mahnverfahren  
 `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
 - § 688 Zulässigkeit → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
@@ -844,136 +850,137 @@ Format: `heading → text/<file>`
 - § 703c Formulare; Einführung der maschinellen Bearbeitung → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 - § 703d Antragsgegner ohne allgemeinen inländischen Gerichtsstand → `text/09-buch-4-wiederaufnahme-des-verfahrens.md`
 
-# Buch 8 - Zwangsvollstreckung  
-`text/09-buch-4-wiederaufnahme-des-verfahrens.md`
+# Buch 8 Zwangsvollstreckung  
+`text/10-buch-8-zwangsvollstreckung.md`
 
 
-## Abschnitt 1 - Allgemeine Vorschriften  
-`text/10-abschnitt-1-allgemeine-vorschriften.md`
+## Abschnitt 1 Allgemeine Vorschriften  
+`text/10-buch-8-zwangsvollstreckung.md`
 
-- § 704 Vollstreckbare Endurteile → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 705 Formelle Rechtskraft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 706 Rechtskraft- und Notfristzeugnis → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 707 Einstweilige Einstellung der Zwangsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 708 Vorläufige Vollstreckbarkeit ohne Sicherheitsleistung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 709 Vorläufige Vollstreckbarkeit gegen Sicherheitsleistung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 710 Ausnahmen von der Sicherheitsleistung des Gläubigers → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 711 Abwendungsbefugnis → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 712 Schutzantrag des Schuldners → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 713 Unterbleiben von Schuldnerschutzanordnungen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 714 Anträge zur vorläufigen Vollstreckbarkeit → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 715 Rückgabe der Sicherheit → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 716 Ergänzung des Urteils → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 717 Wirkungen eines aufhebenden oder abändernden Urteils → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 718 Vorabentscheidung über vorläufige Vollstreckbarkeit → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 719 Einstweilige Einstellung bei Rechtsmittel und Einspruch → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 720 Hinterlegung bei Abwendung der Vollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 720a Sicherungsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 721 Räumungsfrist → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 722 Vollstreckbarkeit ausländischer Urteile → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 723 Vollstreckungsurteil → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 724 Vollstreckbare Ausfertigung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 725 Vollstreckungsklausel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 726 Vollstreckbare Ausfertigung bei bedingten Leistungen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 727 Vollstreckbare Ausfertigung für und gegen Rechtsnachfolger → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 728 Vollstreckbare Ausfertigung bei Nacherbe oder Testamentsvollstrecker → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 729 Vollstreckbare Ausfertigung gegen Vermögens- und Firmenübernehmer → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 730 Anhörung des Schuldners → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 731 Klage auf Erteilung der Vollstreckungsklausel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 732 Erinnerung gegen Erteilung der Vollstreckungsklausel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 733 Weitere vollstreckbare Ausfertigung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 734 Vermerk über Ausfertigungserteilung auf der Urteilsurschrift → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 735 Zwangsvollstreckung gegen nicht rechtsfähigen Verein → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 736 Zwangsvollstreckung gegen BGB-Gesellschaft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 737 Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 738 Vollstreckbare Ausfertigung gegen Nießbraucher → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 739 Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 740 Zwangsvollstreckung in das Gesamtgut → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 741 Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 742 Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 743 Beendete Gütergemeinschaft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 744 Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 744a Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 745 Zwangsvollstreckung bei fortgesetzter Gütergemeinschaft → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 746 → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 747 Zwangsvollstreckung in ungeteilten Nachlass → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 748 Zwangsvollstreckung bei Testamentsvollstrecker → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 749 Vollstreckbare Ausfertigung für und gegen Testamentsvollstrecker → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 750 Voraussetzungen der Zwangsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 751 Bedingungen für Vollstreckungsbeginn → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 752 Sicherheitsleistung bei Teilvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 753 Vollstreckung durch Gerichtsvollzieher; Verordnungsermächtigung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 753a Vollmachtsnachweis → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 754 Vollstreckungsauftrag und vollstreckbare Ausfertigung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 754a Vereinfachter Vollstreckungsauftrag bei Vollstreckungsbescheiden → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 755 Ermittlung des Aufenthaltsorts des Schuldners → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 756 Zwangsvollstreckung bei Leistung Zug um Zug → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 757 Übergabe des Titels und Quittung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 757a Auskunfts- und Unterstützungsersuchen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 758 Durchsuchung; Gewaltanwendung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 758a Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 759 Zuziehung von Zeugen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 760 Akteneinsicht; Aktenabschrift → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 761 → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 762 Protokoll über Vollstreckungshandlungen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 763 Aufforderungen und Mitteilungen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 764 Vollstreckungsgericht → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 765 Vollstreckungsgerichtliche Anordnungen bei Leistung Zug um Zug → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 765a Vollstreckungsschutz → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 766 Erinnerung gegen Art und Weise der Zwangsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 767 Vollstreckungsabwehrklage → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 768 Klage gegen Vollstreckungsklausel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 769 Einstweilige Anordnungen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 770 Einstweilige Anordnungen im Urteil → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 771 Drittwiderspruchsklage → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 772 Drittwiderspruchsklage bei Veräußerungsverbot → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 773 Drittwiderspruchsklage des Nacherben → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 774 Drittwiderspruchsklage des Ehegatten oder Lebenspartners → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 775 Einstellung oder Beschränkung der Zwangsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 776 Aufhebung von Vollstreckungsmaßregeln → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 777 Erinnerung bei genügender Sicherung des Gläubigers → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 778 Zwangsvollstreckung vor Erbschaftsannahme → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 779 Fortsetzung der Zwangsvollstreckung nach dem Tod des Schuldners → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 780 Vorbehalt der beschränkten Erbenhaftung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 781 Beschränkte Erbenhaftung in der Zwangsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 782 Einreden des Erben gegen Nachlassgläubiger → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 783 Einreden des Erben gegen persönliche Gläubiger → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 784 Zwangsvollstreckung bei Nachlassverwaltung und -insolvenzverfahren → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 785 Vollstreckungsabwehrklage des Erben → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 786 Vollstreckungsabwehrklage bei beschränkter Haftung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 786a See- und binnenschifffahrtsrechtliche Haftungsbeschränkung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 787 Zwangsvollstreckung bei herrenlosem Grundstück oder Schiff → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 788 Kosten der Zwangsvollstreckung → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 789 Einschreiten von Behörden → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 790 (weggefallen) → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 791 → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 792 Erteilung von Urkunden an Gläubiger → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 793 Sofortige Beschwerde → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 794 Weitere Vollstreckungstitel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 794a Zwangsvollstreckung aus Räumungsvergleich → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 795 Anwendung der allgemeinen Vorschriften auf die weiteren Vollstreckungstitel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 795a Zwangsvollstreckung aus Kostenfestsetzungsbeschluss → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 795b Vollstreckbarerklärung des gerichtlichen Vergleichs → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 796 Zwangsvollstreckung aus Vollstreckungsbescheiden → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 796a Voraussetzungen für die Vollstreckbarerklärung des Anwaltsvergleichs → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 796b Vollstreckbarerklärung durch das Prozessgericht → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 796c Vollstreckbarerklärung durch einen Notar → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 797 Verfahren bei vollstreckbaren Urkunden → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 797a Verfahren bei Gütestellenvergleichen → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 798 Wartefrist → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 798a (weggefallen) → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 799 Vollstreckbare Urkunde bei Rechtsnachfolge → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 799a Vollstreckung aus Urkunden durch andere Gläubiger → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 800 Vollstreckbare Urkunde gegen den jeweiligen Grundstückseigentümer → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 800a Vollstreckbare Urkunde bei Schiffshypothek → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 801 Landesrechtliche Vollstreckungstitel → `text/10-abschnitt-1-allgemeine-vorschriften.md`
-- § 802 Ausschließlichkeit der Gerichtsstände → `text/10-abschnitt-1-allgemeine-vorschriften.md`
+- § 704 Vollstreckbare Endurteile → `text/10-buch-8-zwangsvollstreckung.md`
+- § 705 Formelle Rechtskraft → `text/10-buch-8-zwangsvollstreckung.md`
+- § 706 Rechtskraft- und Notfristzeugnis → `text/10-buch-8-zwangsvollstreckung.md`
+- § 707 Einstweilige Einstellung der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 708 Vorläufige Vollstreckbarkeit ohne Sicherheitsleistung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 709 Vorläufige Vollstreckbarkeit gegen Sicherheitsleistung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 710 Ausnahmen von der Sicherheitsleistung des Gläubigers → `text/10-buch-8-zwangsvollstreckung.md`
+- § 711 Abwendungsbefugnis → `text/10-buch-8-zwangsvollstreckung.md`
+- § 712 Schutzantrag des Schuldners → `text/10-buch-8-zwangsvollstreckung.md`
+- § 713 Unterbleiben von Schuldnerschutzanordnungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 714 Anträge zur vorläufigen Vollstreckbarkeit → `text/10-buch-8-zwangsvollstreckung.md`
+- § 715 Rückgabe der Sicherheit → `text/10-buch-8-zwangsvollstreckung.md`
+- § 716 Ergänzung des Urteils → `text/10-buch-8-zwangsvollstreckung.md`
+- § 717 Wirkungen eines aufhebenden oder abändernden Urteils → `text/10-buch-8-zwangsvollstreckung.md`
+- § 718 Vorabentscheidung über vorläufige Vollstreckbarkeit → `text/10-buch-8-zwangsvollstreckung.md`
+- § 719 Einstweilige Einstellung bei Rechtsmittel und Einspruch → `text/10-buch-8-zwangsvollstreckung.md`
+- § 720 Hinterlegung bei Abwendung der Vollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 720a Sicherungsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 721 Räumungsfrist → `text/10-buch-8-zwangsvollstreckung.md`
+- § 722 Vollstreckbarkeit ausländischer Urteile; Verordnungsermächtigung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 723 Vollstreckungsurteil → `text/10-buch-8-zwangsvollstreckung.md`
+- § 724 Vollstreckbare Ausfertigung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 725 Vollstreckungsklausel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 726 Vollstreckbare Ausfertigung bei bedingten Leistungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 727 Vollstreckbare Ausfertigung für und gegen Rechtsnachfolger → `text/10-buch-8-zwangsvollstreckung.md`
+- § 728 Vollstreckbare Ausfertigung bei Nacherbe oder Testamentsvollstrecker → `text/10-buch-8-zwangsvollstreckung.md`
+- § 729 Vollstreckbare Ausfertigung gegen Vermögens- und Firmenübernehmer → `text/10-buch-8-zwangsvollstreckung.md`
+- § 730 Anhörung des Schuldners → `text/10-buch-8-zwangsvollstreckung.md`
+- § 731 Klage auf Erteilung der Vollstreckungsklausel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 732 Erinnerung gegen Erteilung der Vollstreckungsklausel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 733 Weitere vollstreckbare Ausfertigung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 734 Vermerk über Ausfertigungserteilung auf der Urteilsurschrift → `text/10-buch-8-zwangsvollstreckung.md`
+- § 735 (weggefallen) → `text/10-buch-8-zwangsvollstreckung.md`
+- § 736 Zwangsvollstreckung für oder gegen eine Gesellschaft bürgerlichen Rechts bei nachträglicher Eintragung im Gesellschaftsregister → `text/10-buch-8-zwangsvollstreckung.md`
+- § 737 Zwangsvollstreckung bei Vermögens- oder Erbschaftsnießbrauch → `text/10-buch-8-zwangsvollstreckung.md`
+- § 738 Vollstreckbare Ausfertigung gegen Nießbraucher → `text/10-buch-8-zwangsvollstreckung.md`
+- § 739 Gewahrsamsvermutung bei Zwangsvollstreckung gegen Ehegatten und Lebenspartner → `text/10-buch-8-zwangsvollstreckung.md`
+- § 740 Zwangsvollstreckung in das Gesamtgut → `text/10-buch-8-zwangsvollstreckung.md`
+- § 741 Zwangsvollstreckung in das Gesamtgut bei Erwerbsgeschäft → `text/10-buch-8-zwangsvollstreckung.md`
+- § 742 Vollstreckbare Ausfertigung bei Gütergemeinschaft während des Rechtsstreits → `text/10-buch-8-zwangsvollstreckung.md`
+- § 743 Beendete Gütergemeinschaft → `text/10-buch-8-zwangsvollstreckung.md`
+- § 744 Vollstreckbare Ausfertigung bei beendeter Gütergemeinschaft → `text/10-buch-8-zwangsvollstreckung.md`
+- § 744a Zwangsvollstreckung bei Eigentums- und Vermögensgemeinschaft → `text/10-buch-8-zwangsvollstreckung.md`
+- § 745 Zwangsvollstreckung bei fortgesetzter Gütergemeinschaft → `text/10-buch-8-zwangsvollstreckung.md`
+- § 746 → `text/10-buch-8-zwangsvollstreckung.md`
+- § 747 Zwangsvollstreckung in ungeteilten Nachlass → `text/10-buch-8-zwangsvollstreckung.md`
+- § 748 Zwangsvollstreckung bei Testamentsvollstrecker → `text/10-buch-8-zwangsvollstreckung.md`
+- § 749 Vollstreckbare Ausfertigung für und gegen Testamentsvollstrecker → `text/10-buch-8-zwangsvollstreckung.md`
+- § 750 Voraussetzungen der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 751 Bedingungen für Vollstreckungsbeginn → `text/10-buch-8-zwangsvollstreckung.md`
+- § 752 Sicherheitsleistung bei Teilvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 752a Versicherung der Vollmacht für Prozesshandlungen in der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 753 Vollstreckung durch Gerichtsvollzieher; elektronischer Rechtsverkehr; Verordnungsermächtigungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 753a Versicherung der Geldempfangsvollmacht bei der Vollstreckung durch Gerichtsvollzieher → `text/10-buch-8-zwangsvollstreckung.md`
+- § 754 Ermächtigung des Gerichtsvollziehers → `text/10-buch-8-zwangsvollstreckung.md`
+- § 754a Elektronischer Vollstreckungsauftrag → `text/10-buch-8-zwangsvollstreckung.md`
+- § 755 Ermittlung des Aufenthaltsorts des Schuldners → `text/10-buch-8-zwangsvollstreckung.md`
+- § 756 Zwangsvollstreckung bei Leistung Zug um Zug → `text/10-buch-8-zwangsvollstreckung.md`
+- § 757 Bestätigung empfangener Leistungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 757a Auskunfts- und Unterstützungsersuchen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 758 Durchsuchung; Gewaltanwendung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 758a Richterliche Durchsuchungsanordnung; Vollstreckung zur Unzeit → `text/10-buch-8-zwangsvollstreckung.md`
+- § 759 Zuziehung von Zeugen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 760 Akteneinsicht; Aktenabschrift → `text/10-buch-8-zwangsvollstreckung.md`
+- § 761 → `text/10-buch-8-zwangsvollstreckung.md`
+- § 762 Protokoll über Vollstreckungshandlungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 763 Aufforderungen und Mitteilungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 764 Vollstreckungsgericht → `text/10-buch-8-zwangsvollstreckung.md`
+- § 765 Vollstreckungsgerichtliche Anordnungen bei Leistung Zug um Zug → `text/10-buch-8-zwangsvollstreckung.md`
+- § 765a Vollstreckungsschutz → `text/10-buch-8-zwangsvollstreckung.md`
+- § 766 Erinnerung gegen Art und Weise der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 767 Vollstreckungsabwehrklage → `text/10-buch-8-zwangsvollstreckung.md`
+- § 768 Klage gegen Vollstreckungsklausel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 769 Einstweilige Anordnungen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 770 Einstweilige Anordnungen im Urteil → `text/10-buch-8-zwangsvollstreckung.md`
+- § 771 Drittwiderspruchsklage → `text/10-buch-8-zwangsvollstreckung.md`
+- § 772 Drittwiderspruchsklage bei Veräußerungsverbot → `text/10-buch-8-zwangsvollstreckung.md`
+- § 773 Drittwiderspruchsklage des Nacherben → `text/10-buch-8-zwangsvollstreckung.md`
+- § 774 Drittwiderspruchsklage des Ehegatten oder Lebenspartners → `text/10-buch-8-zwangsvollstreckung.md`
+- § 775 Einstellung oder Beschränkung der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 776 Aufhebung von Vollstreckungsmaßregeln → `text/10-buch-8-zwangsvollstreckung.md`
+- § 777 Erinnerung bei genügender Sicherung des Gläubigers → `text/10-buch-8-zwangsvollstreckung.md`
+- § 778 Zwangsvollstreckung vor Erbschaftsannahme → `text/10-buch-8-zwangsvollstreckung.md`
+- § 779 Fortsetzung der Zwangsvollstreckung nach dem Tod des Schuldners → `text/10-buch-8-zwangsvollstreckung.md`
+- § 780 Vorbehalt der beschränkten Erbenhaftung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 781 Beschränkte Erbenhaftung in der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 782 Einreden des Erben gegen Nachlassgläubiger → `text/10-buch-8-zwangsvollstreckung.md`
+- § 783 Einreden des Erben gegen persönliche Gläubiger → `text/10-buch-8-zwangsvollstreckung.md`
+- § 784 Zwangsvollstreckung bei Nachlassverwaltung und -insolvenzverfahren → `text/10-buch-8-zwangsvollstreckung.md`
+- § 785 Vollstreckungsabwehrklage des Erben → `text/10-buch-8-zwangsvollstreckung.md`
+- § 786 Vollstreckungsabwehrklage bei beschränkter Haftung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 786a See- und binnenschifffahrtsrechtliche Haftungsbeschränkung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 787 Zwangsvollstreckung bei herrenlosem Grundstück oder Schiff → `text/10-buch-8-zwangsvollstreckung.md`
+- § 788 Kosten der Zwangsvollstreckung → `text/10-buch-8-zwangsvollstreckung.md`
+- § 789 Einschreiten von Behörden → `text/10-buch-8-zwangsvollstreckung.md`
+- § 790 (weggefallen) → `text/10-buch-8-zwangsvollstreckung.md`
+- § 791 → `text/10-buch-8-zwangsvollstreckung.md`
+- § 792 Erteilung von Urkunden an Gläubiger → `text/10-buch-8-zwangsvollstreckung.md`
+- § 793 Sofortige Beschwerde → `text/10-buch-8-zwangsvollstreckung.md`
+- § 794 Weitere Vollstreckungstitel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 794a Zwangsvollstreckung aus Räumungsvergleich → `text/10-buch-8-zwangsvollstreckung.md`
+- § 795 Anwendung der allgemeinen Vorschriften auf die weiteren Vollstreckungstitel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 795a Zwangsvollstreckung aus Kostenfestsetzungsbeschluss → `text/10-buch-8-zwangsvollstreckung.md`
+- § 795b Vollstreckbarerklärung des gerichtlichen Vergleichs → `text/10-buch-8-zwangsvollstreckung.md`
+- § 796 Zwangsvollstreckung aus Vollstreckungsbescheiden → `text/10-buch-8-zwangsvollstreckung.md`
+- § 796a Voraussetzungen für die Vollstreckbarerklärung des Anwaltsvergleichs → `text/10-buch-8-zwangsvollstreckung.md`
+- § 796b Vollstreckbarerklärung durch das Prozessgericht → `text/10-buch-8-zwangsvollstreckung.md`
+- § 796c Vollstreckbarerklärung durch einen Notar → `text/10-buch-8-zwangsvollstreckung.md`
+- § 797 Verfahren bei vollstreckbaren Urkunden → `text/10-buch-8-zwangsvollstreckung.md`
+- § 797a Verfahren bei Gütestellenvergleichen → `text/10-buch-8-zwangsvollstreckung.md`
+- § 798 Wartefrist → `text/10-buch-8-zwangsvollstreckung.md`
+- § 798a (weggefallen) → `text/10-buch-8-zwangsvollstreckung.md`
+- § 799 Vollstreckbare Urkunde bei Rechtsnachfolge → `text/10-buch-8-zwangsvollstreckung.md`
+- § 799a Schadensersatzpflicht bei derVollstreckung aus Urkunden durch andere Gläubiger → `text/10-buch-8-zwangsvollstreckung.md`
+- § 800 Vollstreckbare Urkunde gegen den jeweiligen Grundstückseigentümer → `text/10-buch-8-zwangsvollstreckung.md`
+- § 800a Vollstreckbare Urkunde bei Schiffshypothek → `text/10-buch-8-zwangsvollstreckung.md`
+- § 801 Landesrechtliche Vollstreckungstitel → `text/10-buch-8-zwangsvollstreckung.md`
+- § 802 Ausschließlichkeit der Gerichtsstände → `text/10-buch-8-zwangsvollstreckung.md`
 
-## Abschnitt 2 - Zwangsvollstreckung wegen Geldforderungen  
+## Abschnitt 2 Zwangsvollstreckung wegen Geldforderungen  
 `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 
 
-### Titel 1 - Allgemeine Vorschriften  
+### Titel 1 Allgemeine Vorschriften  
 `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 
 - § 802a Grundsätze der Vollstreckung; Regelbefugnisse des Gerichtsvollziehers → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
@@ -981,7 +988,7 @@ Format: `heading → text/<file>`
 - § 802c Vermögensauskunft des Schuldners → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 - § 802d Weitere Vermögensauskunft → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 - § 802e Zuständigkeit → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
-- § 802f Verfahren zur Abnahme der Vermögensauskunft → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
+- § 802f Abnahme der Vermögensauskunft → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 - § 802g Erzwingungshaft → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 - § 802h Unzulässigkeit der Haftvollstreckung → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 - § 802i Vermögensauskunft des verhafteten Schuldners → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
@@ -989,11 +996,11 @@ Format: `heading → text/<file>`
 - § 802k Zentrale Verwaltung der Vermögensverzeichnisse → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 - § 802l Auskunftsrechte des Gerichtsvollziehers → `text/11-abschnitt-2-zwangsvollstreckung-wegen-geldforderungen.md`
 
-### Titel 2 - Zwangsvollstreckung in das bewegliche Vermögen  
+### Titel 2 Zwangsvollstreckung in das bewegliche Vermögen  
 `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
 
-#### Untertitel 1 - Allgemeine Vorschriften  
+#### Untertitel 1 Allgemeine Vorschriften  
 `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
 - § 803 Pfändung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
@@ -1004,7 +1011,7 @@ Format: `heading → text/<file>`
 - § 806b (weggefallen) → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 807 Abnahme der Vermögensauskunft nach Pfändungsversuch → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
-#### Untertitel 2 - Zwangsvollstreckung in körperliche Sachen  
+#### Untertitel 2 Zwangsvollstreckung in körperliche Sachen  
 `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
 - § 808 Pfändung beim Schuldner → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
@@ -1034,12 +1041,12 @@ Format: `heading → text/<file>`
 - § 826 Anschlusspfändung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 827 Verfahren bei mehrfacher Pfändung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
-#### Untertitel 3 - Zwangsvollstreckung in Forderungen und andere Vermögensrechte  
+#### Untertitel 3 Zwangsvollstreckung in Forderungen und andere Vermögensrechte  
 `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
 - § 828 Zuständigkeit des Vollstreckungsgerichts → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
-- § 829 Pfändung einer Geldforderung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
-- § 829a Vereinfachter Vollstreckungsantrag bei Vollstreckungsbescheiden → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
+- § 829 Pfändung einer Geldforderung; Verordnungsermächtigung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
+- § 829a Elektronischer Antrag auf Erlass eines Pfändungs- und Überweisungsbeschlusses → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 830 Pfändung einer Hypothekenforderung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 830a Pfändung einer Schiffshypothekenforderung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 831 Pfändung indossabler Papiere → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
@@ -1089,12 +1096,12 @@ Format: `heading → text/<file>`
 - § 856 Klage bei mehrfacher Pfändung → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 857 Zwangsvollstreckung in andere Vermögensrechte → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 858 Zwangsvollstreckung in Schiffspart → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
-- § 859 Pfändung von Gesamthandanteilen → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
+- § 859 Pfändung von Gesamthandsanteilen → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 860 Pfändung von Gesamtgutanteilen → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - §§ 861 und 862 (weggefallen) → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 - § 863 Pfändungsbeschränkungen bei Erbschaftsnutzungen → `text/12-titel-2-zwangsvollstreckung-in-das-bewegliche-vermogen.md`
 
-### Titel 3 - Zwangsvollstreckung in das unbewegliche Vermögen  
+### Titel 3 Zwangsvollstreckung in das unbewegliche Vermögen  
 `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
 - § 864 Gegenstand der Immobiliarvollstreckung → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
@@ -1107,7 +1114,7 @@ Format: `heading → text/<file>`
 - § 870a Zwangsvollstreckung in ein Schiff oder Schiffsbauwerk → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 871 Landesrechtlicher Vorbehalt bei Eisenbahnen → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
-### Titel 4 - Verteilungsverfahren  
+### Titel 4 Verteilungsverfahren  
 `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
 - § 872 Voraussetzungen → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
@@ -1122,12 +1129,12 @@ Format: `heading → text/<file>`
 - § 881 Versäumnisurteil → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 882 Verfahren nach dem Urteil → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
-### Titel 5 - Zwangsvollstreckung in Sachen, die der Erfüllung öffentlicher Aufgaben dienen  
+### Titel 5 Zwangsvollstreckung in Sachen, die der Erfüllung öffentlicher Aufgaben dienen  
 `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
 - § 882a Zwangsvollstreckung wegen einer Geldforderung → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
-### Titel 6 - Schuldnerverzeichnis  
+### Titel 6 Schuldnerverzeichnis  
 `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
 - § 882b Inhalt des Schuldnerverzeichnisses → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
@@ -1139,7 +1146,7 @@ Format: `heading → text/<file>`
 - § 882h Zuständigkeit; Ausgestaltung des Schuldnerverzeichnisses → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 882i Rechte der Betroffenen → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
-## Abschnitt 3 - Zwangsvollstreckung zur Erwirkung der Herausgabe von Sachen und zur Erwirkung von Handlungen oder Unterlassungen  
+## Abschnitt 3 Zwangsvollstreckung zur Erwirkung der Herausgabe von Sachen und zur Erwirkung von Handlungen oder Unterlassungen  
 `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
 - § 883 Herausgabe bestimmter beweglicher Sachen → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
@@ -1154,7 +1161,6 @@ Format: `heading → text/<file>`
 - § 890 Erzwingung von Unterlassungen und Duldungen → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 891 Verfahren; Anhörung des Schuldners; Kostenentscheidung → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 892 Widerstand des Schuldners → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
-- § 892a (weggefallen) → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 893 Klage auf Leistung des Interesses → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 894 Fiktion der Abgabe einer Willenserklärung → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 895 Willenserklärung zwecks Eintragung bei vorläufig vollstreckbarem Urteil → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
@@ -1162,7 +1168,7 @@ Format: `heading → text/<file>`
 - § 897 Übereignung; Verschaffung von Grundpfandrechten → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 - § 898 Gutgläubiger Erwerb → `text/13-titel-3-zwangsvollstreckung-in-das-unbewegliche-vermogen.md`
 
-## Abschnitt 4 - Wirkungen des Pfändungsschutzkontos  
+## Abschnitt 4 Wirkungen des Pfändungsschutzkontos  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - § 899 Pfändungsfreier Betrag; Übertragung → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
@@ -1179,7 +1185,7 @@ Format: `heading → text/<file>`
 - § 910 Verwaltungsvollstreckung → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - §§ 911 bis 915h (weggefallen) → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-## Abschnitt 5 - Arrest und einstweilige Verfügung  
+## Abschnitt 5 Arrest und einstweilige Verfügung  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - § 916 Arrestanspruch → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
@@ -1216,11 +1222,11 @@ Format: `heading → text/<file>`
 - § 945a Einreichung von Schutzschriften → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - § 945b Verordnungsermächtigung → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-## Abschnitt 6 - Grenzüberschreitende vorläufige Kontenpfändung  
+## Abschnitt 6 Grenzüberschreitende vorläufige Kontenpfändung  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 
-### Titel 1 - Erlass des Beschlusses zur vorläufigen Kontenpfändung  
+### Titel 1 Erlass des Beschlusses zur vorläufigen Kontenpfändung  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - § 946 Zuständigkeit → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
@@ -1228,14 +1234,14 @@ Format: `heading → text/<file>`
 - § 948 Ersuchen um Einholung von Kontoinformationen → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - § 949 Nicht rechtzeitige Einleitung des Hauptsacheverfahrens → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-### Titel 2 - Vollziehung des Beschlusses zur vorläufigen Kontenpfändung  
+### Titel 2 Vollziehung des Beschlusses zur vorläufigen Kontenpfändung  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - § 950 Anwendbare Vorschriften → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - § 951 Vollziehung von im Inland erlassenen Beschlüssen → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - § 952 Vollziehung von in einem anderen Mitgliedstaat erlassenen Beschlüssen → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-### Titel 3 - Rechtsbehelfe  
+### Titel 3 Rechtsbehelfe  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - § 953 Rechtsbehelfe des Gläubigers → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
@@ -1244,22 +1250,22 @@ Format: `heading → text/<file>`
 - § 956 Rechtsmittel gegen die Entscheidungen nach § 954 Absatz 1 bis 3 und § 955 → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - § 957 Ausschluss der Rechtsbeschwerde → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-### Titel 4 - Schadensersatz; Verordnungsermächtigung  
+### Titel 4 Schadensersatz; Verordnungsermächtigung  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - § 958 Schadensersatz → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 - § 959 Verordnungsermächtigung → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-# Buch 9 - (weggefallen)  
+# Buch 9 (weggefallen)  
 `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
 - §§ 960 bis 1024 (weggefallen) → `text/14-abschnitt-4-wirkungen-des-pfandungsschutzkontos.md`
 
-# Buch 10 - Schiedsrichterliches Verfahren  
+# Buch 10 Schiedsrichterliches Verfahren  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 
-## Abschnitt 1 - Allgemeine Vorschriften  
+## Abschnitt 1 Allgemeine Vorschriften  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1025 Anwendungsbereich → `text/15-buch-10-schiedsrichterliches-verfahren.md`
@@ -1267,7 +1273,7 @@ Format: `heading → text/<file>`
 - § 1027 Verlust des Rügerechts → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1028 Empfang schriftlicher Mitteilungen bei unbekanntem Aufenthalt → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 2 - Schiedsvereinbarung  
+## Abschnitt 2 Schiedsvereinbarung  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1029 Begriffsbestimmung → `text/15-buch-10-schiedsrichterliches-verfahren.md`
@@ -1276,7 +1282,7 @@ Format: `heading → text/<file>`
 - § 1032 Schiedsvereinbarung und Klage vor Gericht → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1033 Schiedsvereinbarung und einstweilige gerichtliche Maßnahmen → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 3 - Bildung des Schiedsgerichts  
+## Abschnitt 3 Bildung des Schiedsgerichts  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1034 Zusammensetzung des Schiedsgerichts → `text/15-buch-10-schiedsrichterliches-verfahren.md`
@@ -1286,13 +1292,13 @@ Format: `heading → text/<file>`
 - § 1038 Untätigkeit oder Unmöglichkeit der Aufgabenerfüllung → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1039 Bestellung eines Ersatzschiedsrichters → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 4 - Zuständigkeit des Schiedsgerichts  
+## Abschnitt 4 Zuständigkeit des Schiedsgerichts  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1040 Befugnis des Schiedsgerichts zur Entscheidung über die eigene Zuständigkeit → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1041 Maßnahmen des einstweiligen Rechtsschutzes → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 5 - Durchführung des schiedsrichterlichen Verfahrens  
+## Abschnitt 5 Durchführung des schiedsrichterlichen Verfahrens  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1042 Allgemeine Verfahrensregeln → `text/15-buch-10-schiedsrichterliches-verfahren.md`
@@ -1305,7 +1311,7 @@ Format: `heading → text/<file>`
 - § 1049 Vom Schiedsgericht bestellter Sachverständiger → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1050 Gerichtliche Unterstützung bei der Beweisaufnahme und sonstige richterliche Handlungen → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 6 - Schiedsspruch und Beendigung des Verfahrens  
+## Abschnitt 6 Schiedsspruch und Beendigung des Verfahrens  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1051 Anwendbares Recht → `text/15-buch-10-schiedsrichterliches-verfahren.md`
@@ -1317,18 +1323,18 @@ Format: `heading → text/<file>`
 - § 1057 Entscheidung über die Kosten → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1058 Berichtigung, Auslegung und Ergänzung des Schiedsspruchs → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 7 - Rechtsbehelf gegen den Schiedsspruch  
+## Abschnitt 7 Rechtsbehelf gegen den Schiedsspruch  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1059 Aufhebungsantrag → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 8 - Voraussetzungen der Anerkennung und Vollstreckung von Schiedssprüchen  
+## Abschnitt 8 Voraussetzungen der Anerkennung und Vollstreckung von Schiedssprüchen  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1060 Inländische Schiedssprüche → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1061 Ausländische Schiedssprüche → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 9 - Gerichtliches Verfahren  
+## Abschnitt 9 Gerichtliches Verfahren  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1062 Zuständigkeit → `text/15-buch-10-schiedsrichterliches-verfahren.md`
@@ -1336,51 +1342,51 @@ Format: `heading → text/<file>`
 - § 1064 Besonderheiten bei der Vollstreckbarerklärung von Schiedssprüchen → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 - § 1065 Rechtsmittel → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-## Abschnitt 10 - Außervertragliche Schiedsgerichte  
+## Abschnitt 10 Außervertragliche Schiedsgerichte  
 `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
 - § 1066 Entsprechende Anwendung der Vorschriften des Buches 10 → `text/15-buch-10-schiedsrichterliches-verfahren.md`
 
-# Buch 11 - Justizielle Zusammenarbeit in der Europäischen Union  
+# Buch 11 Justizielle Zusammenarbeit in der Europäischen Union  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 
-## Abschnitt 1 - Zustellung nach der Verordnung (EG) Nr. 1393/2007  
+## Abschnitt 1 Zustellung nach der Verordnung (EU) 2020/1784  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-- § 1067 Zustellung durch diplomatische oder konsularische Vertretungen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
-- § 1068 Zustellung durch die Post → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
-- § 1069 Zuständigkeiten; Verordnungsermächtigungen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
-- § 1070 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
-- § 1071 (weggefallen) → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+- § 1067 Zustellung durch Auslandsvertretungen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+- § 1068 Elektronische Zustellung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+- § 1069 Zuständigkeiten nach der Verordnung (EU) 2020/1784; Verordnungsermächtigungen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+- § 1070 Sprache eingehender Anträge, Bescheinigungen und Mitteilungen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+- § 1071 Zustellung nach dem Abkommen zwischen der Europäischen Gemeinschaft und dem Königreich Dänemark vom 19. Oktober 2005 über die Zustellung gerichtlicher und außergerichtlicher Schriftstücke in Zivil- oder Handelssachen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 2 - Beweisaufnahme nach der Verordnung (EG) Nr. 1206/2001  
+## Abschnitt 2 Beweisaufnahme nach der Verordnung (EU) 2020/1783  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1072 Beweisaufnahme in den Mitgliedstaaten der Europäischen Union → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1073 Teilnahmerechte → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
-- § 1074 Zuständigkeiten nach der Verordnung (EG) Nr. 1206/2001 → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+- § 1074 Zuständigkeiten nach der Verordnung (EU) 2020/1783; Verordnungsermächtigung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1075 Sprache eingehender Ersuchen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 3 - Prozesskostenhilfe nach der Richtlinie 2003/8/EG  
+## Abschnitt 3 Prozesskostenhilfe nach der Richtlinie 2003/8/EG  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1076 Anwendbare Vorschriften → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1077 Ausgehende Ersuchen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1078 Eingehende Ersuchen → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 4 - Europäische Vollstreckungstitel nach der Verordnung (EG) Nr. 805/2004  
+## Abschnitt 4 Europäische Vollstreckungstitel nach der Verordnung (EG) Nr. 805/2004  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 
-### Titel 1 - Bestätigung inländischer Titel als Europäische Vollstreckungstitel  
+### Titel 1 Bestätigung inländischer Titel als Europäische Vollstreckungstitel  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1079 Zuständigkeit → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1080 Entscheidung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1081 Berichtigung und Widerruf → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-### Titel 2 - Zwangsvollstreckung aus Europäischen Vollstreckungstiteln im Inland  
+### Titel 2 Zwangsvollstreckung aus Europäischen Vollstreckungstiteln im Inland  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1082 Vollstreckungstitel → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
@@ -1389,30 +1395,30 @@ Format: `heading → text/<file>`
 - § 1085 Einstellung der Zwangsvollstreckung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1086 Vollstreckungsabwehrklage → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 5 - Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006  
+## Abschnitt 5 Europäisches Mahnverfahren nach der Verordnung (EG) Nr. 1896/2006  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 
-### Titel 1 - Allgemeine Vorschriften  
+### Titel 1 Allgemeine Vorschriften  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1087 Zuständigkeit → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1088 Maschinelle Bearbeitung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1089 Zustellung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-### Titel 2 - Einspruch gegen den Europäischen Zahlungsbefehl  
+### Titel 2 Einspruch gegen den Europäischen Zahlungsbefehl  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1090 Verfahren nach Einspruch → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1091 Einleitung des Streitverfahrens → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-### Titel 3 - Überprüfung des Europäischen Zahlungsbefehls in Ausnahmefällen  
+### Titel 3 Überprüfung des Europäischen Zahlungsbefehls in Ausnahmefällen  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1092 Verfahren → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1092a Rechtsbehelf bei Nichtzustellung oder bei nicht ordnungsgemäßer Zustellung des Europäischen Zahlungsbefehls → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-### Titel 4 - Zwangsvollstreckung aus dem Europäischen Zahlungsbefehl  
+### Titel 4 Zwangsvollstreckung aus dem Europäischen Zahlungsbefehl  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1093 Vollstreckungsklausel → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
@@ -1420,11 +1426,11 @@ Format: `heading → text/<file>`
 - § 1095 Vollstreckungsschutz und Vollstreckungsabwehrklage gegen den im Inland erlassenen Europäischen Zahlungsbefehl → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1096 Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 1896/2006; Vollstreckungsabwehrklage → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 6 - Europäisches Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007  
+## Abschnitt 6 Europäisches Verfahren für geringfügige Forderungen nach der Verordnung (EG) Nr. 861/2007  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 
-### Titel 1 - Erkenntnisverfahren  
+### Titel 1 Erkenntnisverfahren  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1097 Einleitung und Durchführung des Verfahrens → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
@@ -1437,7 +1443,7 @@ Format: `heading → text/<file>`
 - § 1104 Abhilfe bei unverschuldeter Säumnis des Beklagten → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1104a Gemeinsame Gerichte → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-### Titel 2 - Zwangsvollstreckung  
+### Titel 2 Zwangsvollstreckung  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1105 Zwangsvollstreckung inländischer Titel → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
@@ -1446,17 +1452,17 @@ Format: `heading → text/<file>`
 - § 1108 Übersetzung → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1109 Anträge nach den Artikeln 22 und 23 der Verordnung (EG) Nr. 861/2007; Vollstreckungsabwehrklage → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 7 - Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012  
+## Abschnitt 7 Anerkennung und Vollstreckung nach der Verordnung (EU) Nr. 1215/2012  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 
-### Titel 1 - Bescheinigung über inländische Titel  
+### Titel 1 Bescheinigung über inländische Titel  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1110 Zuständigkeit → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1111 Verfahren → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-### Titel 2 - Anerkennung und Vollstreckung ausländischer Titel im Inland  
+### Titel 2 Anerkennung und Vollstreckung ausländischer Titel im Inland  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1112 Entbehrlichkeit der Vollstreckungsklausel → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
@@ -1466,10 +1472,58 @@ Format: `heading → text/<file>`
 - § 1116 Wegfall oder Beschränkung der Vollstreckbarkeit im Ursprungsmitgliedstaat → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1117 Vollstreckungsabwehrklage → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
-## Abschnitt 8 - Beweis der Echtheit ausländischer öffentlicher Urkunden nach der Verordnung (EU) 2016/1191  
+## Abschnitt 8 Beweis der Echtheit ausländischer öffentlicher Urkunden nach der Verordnung (EU) 2016/1191  
 `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 
 - § 1118 Zentralbehörde → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1119 Verwaltungszusammenarbeit → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
 - § 1120 Mehrsprachige Formulare → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
-- Anhang EV - Sonderregelung für das Land Berlin - → `text/16-buch-11-justizielle-zusammenarbeit-in-der-europaischen-union.md`
+
+# Buch 12 Erprobung und Evaluierung  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+
+## Abschnitt 1 Allgemeine Vorschriften  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+- § 1121 Zielsetzung und Anwendungsbereich → `text/17-buch-12-erprobung-und-evaluierung.md`
+
+## Abschnitt 2 Erprobung eines Online-Verfahrens  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+
+### Titel 1 Anwendungsbereich  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+- § 1122 Umfang der Erprobung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1123 Verordnungsermächtigungen → `text/17-buch-12-erprobung-und-evaluierung.md`
+
+### Titel 2 Verfahren  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+- § 1124 Digitale Kommunikation; Verordnungsermächtigung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1125 Digitale Eingabesysteme im Online-Verfahren; Verordnungsermächtigung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1126 Digitale Strukturierung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1127 Verhandlung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1128 Versäumnisurteil → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1129 Beweisaufnahme → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1130 Benachrichtigung; Ersetzung der Verkündung → `text/17-buch-12-erprobung-und-evaluierung.md`
+
+### Titel 3 Kommunikationsplattform  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+- § 1131 Entwicklung und Bereitstellung; Verordnungsermächtigungen → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1132 Kommunikations-, Austausch- und Übermittlungsformen → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1133 Nutzungspflichten → `text/17-buch-12-erprobung-und-evaluierung.md`
+
+### Titel 4 Evaluierung  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+- § 1134 Evaluierung → `text/17-buch-12-erprobung-und-evaluierung.md`
+
+## Abschnitt 3 Erprobung weiterer digitaler Eingabesysteme  
+`text/17-buch-12-erprobung-und-evaluierung.md`
+
+- § 1135 Umfang der Erprobung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- § 1136 Evaluierung → `text/17-buch-12-erprobung-und-evaluierung.md`
+- Anhang EV Auszug aus EinigVtr Anlage I Kapitel III Sachgebiet A Abschnitte III und IV (BGBl. II 1990, 889, 927, 940) Abschnitt III - Maßgaben für das beigetretene Gebiet (Art. 3 EinigVtr) - Abschnitt IV - Sonderregelung für das Land Berlin - → `text/17-buch-12-erprobung-und-evaluierung.md`

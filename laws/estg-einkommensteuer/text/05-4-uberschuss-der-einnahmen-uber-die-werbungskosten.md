@@ -1,578 +1,116 @@
 # Einkommensteuergesetz (EStG)
-## Teil 5/21: II. - Einkommen › 4. - Überschuss der Einnahmen über die Werbungskosten
-*§ 8 – § 9b* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 3 G v. 3.6.2021 I 1498
+## Teil 5/21: II. Einkommen › 4. Überschuss der Einnahmen über die Werbungskosten
+*§ 8 – § 9b* · Quelle: https://www.gesetze-im-internet.de/estg/ · Stand: Art. 1 G v. 15.10.2026 I Nr. 307 · Abruf: 2026-11-03
 
-### 4. - Überschuss der Einnahmen über die Werbungskosten
+### 4. Überschuss der Einnahmen über die Werbungskosten
 
-
-
+<!-- norm id="BJNE005926123" -->
 #### § 8 Einnahmen
 
-(1)
-1             Einnahmen sind alle Güter, die in Geld oder Geldeswert
-bestehen und dem Steuerpflichtigen im Rahmen einer der Einkunftsarten
-des § 2 Absatz 1 Satz 1 Nummer 4 bis 7 zufließen.
-2             Zu den Einnahmen in Geld gehören auch zweckgebundene
-Geldleistungen, nachträgliche Kostenerstattungen, Geldsurrogate und
-andere Vorteile, die auf einen Geldbetrag lauten.
-3             Satz 2 gilt nicht bei Gutscheinen und Geldkarten, die
-ausschließlich zum Bezug von Waren oder Dienstleistungen berechtigen
-und die Kriterien des § 2 Absatz 1 Nummer 10 des
-Zahlungsdiensteaufsichtsgesetzes erfüllen.
+(1) ¹Einnahmen sind alle Güter, die in Geld oder Geldeswert bestehen und dem Steuerpflichtigen im Rahmen einer der Einkunftsarten des § 2 Absatz 1 Satz 1 Nummer 4 bis 7 zufließen. ²Zu den Einnahmen in Geld gehören auch zweckgebundene Geldleistungen, nachträgliche Kostenerstattungen, Geldsurrogate und andere Vorteile, die auf einen Geldbetrag lauten. ³Satz 2 gilt nicht bei Gutscheinen und Geldkarten, die ausschließlich zum Bezug von Waren oder Dienstleistungen berechtigen und die Kriterien des § 2 Absatz 1 Nummer 10 des Zahlungsdiensteaufsichtsgesetzes erfüllen.
 
-(2)
-1             Einnahmen, die nicht in Geld bestehen (Wohnung, Kost,
-Waren, Dienstleistungen und sonstige Sachbezüge), sind mit den um
-übliche Preisnachlässe geminderten üblichen Endpreisen am Abgabeort
-anzusetzen.
-2             Für die private Nutzung eines betrieblichen
-Kraftfahrzeugs zu privaten Fahrten gilt § 6 Absatz 1 Nummer 4 Satz 2
-entsprechend.
-3             Kann das Kraftfahrzeug auch für Fahrten zwischen Wohnung
-und erster Tätigkeitsstätte sowie Fahrten nach § 9 Absatz 1 Satz 3
-Nummer 4a Satz 3 genutzt werden, erhöht sich der Wert in Satz 2 für
-jeden Kalendermonat um 0,03 Prozent des Listenpreises im Sinne des § 6
-Absatz 1 Nummer 4 Satz 2 für jeden Kilometer der Entfernung zwischen
-Wohnung und erster Tätigkeitsstätte sowie der Fahrten nach § 9 Absatz
-1 Satz 3 Nummer 4a Satz 3.
-4             Der Wert nach den Sätzen 2 und 3 kann mit dem auf die
-private Nutzung und die Nutzung zu Fahrten zwischen Wohnung und erster
-Tätigkeitsstätte sowie Fahrten nach § 9 Absatz 1 Satz 3 Nummer 4a Satz
-3 entfallenden Teil der gesamten Kraftfahrzeugaufwendungen angesetzt
-werden, wenn die durch das Kraftfahrzeug insgesamt entstehenden
-Aufwendungen durch Belege und das Verhältnis der privaten Fahrten und
-der Fahrten zwischen Wohnung und erster Tätigkeitsstätte sowie Fahrten
-nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3 zu den übrigen Fahrten durch
-ein ordnungsgemäßes Fahrtenbuch nachgewiesen werden; § 6 Absatz 1
-Nummer 4 Satz 3 zweiter Halbsatz gilt entsprechend.
-5             Die Nutzung des Kraftfahrzeugs zu einer
-Familienheimfahrt im Rahmen einer doppelten Haushaltsführung ist mit
-0,002 Prozent des Listenpreises im Sinne des § 6 Absatz 1 Nummer 4
-Satz 2 für jeden Kilometer der Entfernung zwischen dem Ort des eigenen
-Hausstands und dem Beschäftigungsort anzusetzen; dies gilt nicht, wenn
-für diese Fahrt ein Abzug von Werbungskosten nach § 9 Absatz 1 Satz 3
-Nummer 5 Satz 5 und 6 in Betracht käme; Satz 4 ist sinngemäß
-anzuwenden.
-6             Bei Arbeitnehmern, für deren Sachbezüge durch
-Rechtsverordnung nach § 17 Absatz 1 Satz 1 Nummer 4 des Vierten Buches
-Sozialgesetzbuch Werte bestimmt worden sind, sind diese Werte
-maßgebend.
-7             Die Werte nach Satz 6 sind auch bei Steuerpflichtigen
-anzusetzen, die nicht der gesetzlichen Rentenversicherungspflicht
-unterliegen.
-8             Wird dem Arbeitnehmer während einer beruflichen
-Tätigkeit außerhalb seiner Wohnung und ersten Tätigkeitsstätte oder im
-Rahmen einer beruflich veranlassten doppelten Haushaltsführung vom
-Arbeitgeber oder auf dessen Veranlassung von einem Dritten eine
-Mahlzeit zur Verfügung gestellt, ist diese Mahlzeit mit dem Wert nach
-Satz 6 (maßgebender amtlicher Sachbezugswert nach der
-Sozialversicherungsentgeltverordnung) anzusetzen, wenn der Preis für
-die Mahlzeit 60 Euro nicht übersteigt.
-9             Der Ansatz einer nach Satz 8 bewerteten Mahlzeit
-unterbleibt, wenn beim Arbeitnehmer für ihm entstehende
-Mehraufwendungen für Verpflegung ein Werbungskostenabzug nach § 9
-Absatz 4a Satz 1 bis 7 in Betracht käme.
-10             Die oberste Finanzbehörde eines Landes kann mit
-Zustimmung des Bundesministeriums der Finanzen für weitere Sachbezüge
-der Arbeitnehmer Durchschnittswerte festsetzen.
-11             Sachbezüge, die nach Satz 1 zu bewerten sind, bleiben
-außer Ansatz, wenn die sich nach Anrechnung der vom Steuerpflichtigen
-gezahlten Entgelte ergebenden Vorteile insgesamt 50 Euro im
-Kalendermonat nicht übersteigen; die nach Absatz 1 Satz 3 nicht zu den
-Einnahmen in Geld gehörenden Gutscheine und Geldkarten bleiben nur
-dann außer Ansatz, wenn sie zusätzlich zum ohnehin geschuldeten
-Arbeitslohn gewährt werden.
-12             Der Ansatz eines Sachbezugs für eine dem Arbeitnehmer
-vom Arbeitgeber, auf dessen Veranlassung von einem verbundenen
-Unternehmen (§ 15 des Aktiengesetzes) oder bei einer juristischen
-Person des öffentlichen Rechts als Arbeitgeber auf dessen Veranlassung
-von einem entsprechend verbundenen Unternehmen zu eigenen Wohnzwecken
-überlassene Wohnung unterbleibt, soweit das vom Arbeitnehmer gezahlte
-Entgelt mindestens zwei Drittel des ortsüblichen Mietwerts und dieser
-nicht mehr als 25 Euro je Quadratmeter ohne umlagefähige Kosten im
-Sinne der Verordnung über die Aufstellung von Betriebskosten beträgt.
+(2) ¹Einnahmen, die nicht in Geld bestehen (Wohnung, Kost, Waren, Dienstleistungen und sonstige Sachbezüge), sind mit den um übliche Preisnachlässe geminderten üblichen Endpreisen am Abgabeort anzusetzen. ²Für die private Nutzung eines betrieblichen Kraftfahrzeugs zu privaten Fahrten gilt § 6 Absatz 1 Nummer 4 Satz 2 entsprechend. ³Kann das Kraftfahrzeug auch für Fahrten zwischen Wohnung und erster Tätigkeitsstätte sowie Fahrten nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3 genutzt werden, erhöht sich der Wert in Satz 2 für jeden Kalendermonat um 0,03 Prozent des Listenpreises im Sinne des § 6 Absatz 1 Nummer 4 Satz 2 für jeden Kilometer der Entfernung zwischen Wohnung und erster Tätigkeitsstätte sowie der Fahrten nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3. ⁴Der Wert nach den Sätzen 2 und 3 kann mit dem auf die private Nutzung und die Nutzung zu Fahrten zwischen Wohnung und erster Tätigkeitsstätte sowie Fahrten nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3 entfallenden Teil der gesamten Kraftfahrzeugaufwendungen angesetzt werden, wenn die durch das Kraftfahrzeug insgesamt entstehenden Aufwendungen durch Belege und das Verhältnis der privaten Fahrten und der Fahrten zwischen Wohnung und erster Tätigkeitsstätte sowie Fahrten nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3 zu den übrigen Fahrten durch ein ordnungsgemäßes Fahrtenbuch nachgewiesen werden; § 6 Absatz 1 Nummer 4 Satz 3 zweiter Halbsatz gilt entsprechend. ⁵Die Nutzung des Kraftfahrzeugs zu einer Familienheimfahrt im Rahmen einer doppelten Haushaltsführung ist mit 0,002 Prozent des Listenpreises im Sinne des § 6 Absatz 1 Nummer 4 Satz 2 für jeden Kilometer der Entfernung zwischen dem Ort des eigenen Hausstands und dem Beschäftigungsort anzusetzen; dies gilt nicht, wenn für diese Fahrt ein Abzug von Werbungskosten nach § 9 Absatz 1 Satz 3 Nummer 5 Satz 5 und 6 in Betracht käme; Satz 4 ist sinngemäß anzuwenden. ⁶Bei Arbeitnehmern, für deren Sachbezüge durch Rechtsverordnung nach § 17 Absatz 1 Satz 1 Nummer 4 des Vierten Buches Sozialgesetzbuch Werte bestimmt worden sind, sind diese Werte maßgebend. ⁷Die Werte nach Satz 6 sind auch bei Steuerpflichtigen anzusetzen, die nicht der gesetzlichen Rentenversicherungspflicht unterliegen. ⁸Wird dem Arbeitnehmer während einer beruflichen Tätigkeit außerhalb seiner Wohnung und ersten Tätigkeitsstätte oder im Rahmen einer beruflich veranlassten doppelten Haushaltsführung vom Arbeitgeber oder auf dessen Veranlassung von einem Dritten eine Mahlzeit zur Verfügung gestellt, ist diese Mahlzeit mit dem Wert nach Satz 6 (maßgebender amtlicher Sachbezugswert nach der Sozialversicherungsentgeltverordnung) anzusetzen, wenn der Preis für die Mahlzeit 60 Euro nicht übersteigt. ⁹Der Ansatz einer nach Satz 8 bewerteten Mahlzeit unterbleibt, wenn beim Arbeitnehmer für ihm entstehende Mehraufwendungen für Verpflegung ein Werbungskostenabzug nach § 9 Absatz 4a Satz 1 bis 7 in Betracht käme. ¹⁰Die oberste Finanzbehörde eines Landes kann mit Zustimmung des Bundesministeriums der Finanzen für weitere Sachbezüge der Arbeitnehmer Durchschnittswerte festsetzen. ¹¹Sachbezüge, die nach Satz 1 zu bewerten sind, bleiben außer Ansatz, wenn die sich nach Anrechnung der vom Steuerpflichtigen gezahlten Entgelte ergebenden Vorteile insgesamt 50 Euro im Kalendermonat nicht übersteigen; die nach Absatz 1 Satz 3 nicht zu den Einnahmen in Geld gehörenden Gutscheine und Geldkarten bleiben nur dann außer Ansatz, wenn sie zusätzlich zum ohnehin geschuldeten Arbeitslohn gewährt werden. ¹²Der Ansatz eines Sachbezugs für eine dem Arbeitnehmer vom Arbeitgeber, auf dessen Veranlassung von einem verbundenen Unternehmen (§ 15 des Aktiengesetzes) oder bei einer juristischen Person des öffentlichen Rechts als Arbeitgeber auf dessen Veranlassung von einem entsprechend verbundenen Unternehmen zu eigenen Wohnzwecken überlassene Wohnung unterbleibt, soweit das vom Arbeitnehmer gezahlte Entgelt mindestens zwei Drittel des ortsüblichen Mietwerts und dieser nicht mehr als 25 Euro je Quadratmeter ohne umlagefähige Kosten im Sinne der Verordnung über die Aufstellung von Betriebskosten beträgt.
 
-(3)
-1             Erhält ein Arbeitnehmer auf Grund seines
-Dienstverhältnisses Waren oder Dienstleistungen, die vom Arbeitgeber
-nicht überwiegend für den Bedarf seiner Arbeitnehmer hergestellt,
-vertrieben oder erbracht werden und deren Bezug nicht nach § 40
-pauschal versteuert wird, so gelten als deren Werte abweichend von
-Absatz 2 die um 4 Prozent geminderten Endpreise, zu denen der
-Arbeitgeber oder der dem Abgabeort nächstansässige Abnehmer die Waren
-oder Dienstleistungen fremden Letztverbrauchern im allgemeinen
-Geschäftsverkehr anbietet.
-2             Die sich nach Abzug der vom Arbeitnehmer gezahlten
-Entgelte ergebenden Vorteile sind steuerfrei, soweit sie aus dem
-Dienstverhältnis insgesamt 1 080 Euro im Kalenderjahr nicht
-übersteigen.
+(3) ¹Erhält ein Arbeitnehmer auf Grund seines Dienstverhältnisses Waren oder Dienstleistungen, die vom Arbeitgeber nicht überwiegend für den Bedarf seiner Arbeitnehmer hergestellt, vertrieben oder erbracht werden und deren Bezug nicht nach § 40 pauschal versteuert wird, so gelten als deren Werte abweichend von Absatz 2 die um 4 Prozent geminderten Endpreise, zu denen der Arbeitgeber oder der dem Abgabeort nächstansässige Abnehmer die Waren oder Dienstleistungen fremden Letztverbrauchern im allgemeinen Geschäftsverkehr anbietet. ²Die sich nach Abzug der vom Arbeitnehmer gezahlten Entgelte ergebenden Vorteile sind steuerfrei, soweit sie aus dem Dienstverhältnis insgesamt 1 080 Euro im Kalenderjahr nicht übersteigen.
 
-(4)
-1             Im Sinne dieses Gesetzes werden Leistungen des
-Arbeitgebers oder auf seine Veranlassung eines Dritten (Sachbezüge
-oder Zuschüsse) für eine Beschäftigung nur dann zusätzlich zum ohnehin
-geschuldeten Arbeitslohn erbracht, wenn
+(4) ¹Im Sinne dieses Gesetzes werden Leistungen des Arbeitgebers oder auf seine Veranlassung eines Dritten (Sachbezüge oder Zuschüsse) für eine Beschäftigung nur dann zusätzlich zum ohnehin geschuldeten Arbeitslohn erbracht, wenn
 
-1.  die Leistung nicht auf den Anspruch auf Arbeitslohn angerechnet,
+- 1\. die Leistung nicht auf den Anspruch auf Arbeitslohn angerechnet,
+- 2\. der Anspruch auf Arbeitslohn nicht zugunsten der Leistung herabgesetzt,
+- 3\. die verwendungs- oder zweckgebundene Leistung nicht anstelle einer bereits vereinbarten künftigen Erhöhung des Arbeitslohns gewährt und
+- 4\. bei Wegfall der Leistung der Arbeitslohn nicht erhöht
 
+wird. ²Unter den Voraussetzungen des Satzes 1 ist von einer zusätzlich zum ohnehin geschuldeten Arbeitslohn erbrachten Leistung auch dann auszugehen, wenn der Arbeitnehmer arbeitsvertraglich oder auf Grund einer anderen arbeits- oder dienstrechtlichen Rechtsgrundlage (wie Einzelvertrag, Betriebsvereinbarung, Tarifvertrag, Gesetz) einen Anspruch auf diese hat.
 
-2.  der Anspruch auf Arbeitslohn nicht zugunsten der Leistung
-    herabgesetzt,
+> **Fußnote**
+>
+> (+++ § 8: Zur Anwendung vgl. § 52 +++)
 
-
-3.  die verwendungs- oder zweckgebundene Leistung nicht anstelle einer
-    bereits vereinbarten künftigen Erhöhung des Arbeitslohns gewährt und
-
-
-4.  bei Wegfall der Leistung der Arbeitslohn nicht erhöht
-
-
-
-wird.
-2             Unter den Voraussetzungen des Satzes 1 ist von einer
-zusätzlich zum ohnehin geschuldeten Arbeitslohn erbrachten Leistung
-auch dann auszugehen, wenn der Arbeitnehmer arbeitsvertraglich oder
-auf Grund einer anderen arbeits- oder dienstrechtlichen
-Rechtsgrundlage (wie Einzelvertrag, Betriebsvereinbarung,
-Tarifvertrag, Gesetz) einen Anspruch auf diese hat.
-
-
+<!-- norm id="BJNE006052123" -->
 #### § 9 Werbungskosten
 
-(1)
-1             Werbungskosten sind Aufwendungen zur Erwerbung,
-Sicherung und Erhaltung der Einnahmen.
-2             Sie sind bei der Einkunftsart abzuziehen, bei der sie
-erwachsen sind.
-3             Werbungskosten sind auch
-
-1.  Schuldzinsen und auf besonderen Verpflichtungsgründen beruhende Renten
-    und dauernde Lasten, soweit sie mit einer Einkunftsart in
-    wirtschaftlichem Zusammenhang stehen.
-    2                   Bei Leibrenten kann nur der Anteil abgezogen
-    werden, der sich nach § 22 Nummer 1 Satz 3 Buchstabe a Doppelbuchstabe
-    bb ergibt;
-
-
-2.  Steuern vom Grundbesitz, sonstige öffentliche Abgaben und
-    Versicherungsbeiträge, soweit solche Ausgaben sich auf Gebäude oder
-    auf Gegenstände beziehen, die dem Steuerpflichtigen zur
-    Einnahmeerzielung dienen;
-
-
-3.  Beiträge zu Berufsständen und sonstigen Berufsverbänden, deren Zweck
-    nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist;
-
-
-4.  Aufwendungen des Arbeitnehmers für die Wege zwischen Wohnung und
-    erster Tätigkeitsstätte im Sinne des Absatzes 4.
-    2                   Zur Abgeltung dieser Aufwendungen ist für jeden
-    Arbeitstag, an dem der Arbeitnehmer die erste Tätigkeitsstätte
-    aufsucht eine Entfernungspauschale für jeden vollen Kilometer der
-    Entfernung zwischen Wohnung und erster Tätigkeitsstätte von 0,30 Euro
-    anzusetzen, höchstens jedoch 4 500 Euro im Kalenderjahr; ein höherer
-    Betrag als 4 500 Euro ist anzusetzen, soweit der Arbeitnehmer einen
-    eigenen oder ihm zur Nutzung überlassenen Kraftwagen benutzt.
-    3                   Die Entfernungspauschale gilt nicht für
-    Flugstrecken und Strecken mit steuerfreier Sammelbeförderung nach § 3
-    Nummer 32.
-    4                   Für die Bestimmung der Entfernung ist die kürzeste
-    Straßenverbindung zwischen Wohnung und erster Tätigkeitsstätte
-    maßgebend; eine andere als die kürzeste Straßenverbindung kann
-    zugrunde gelegt werden, wenn diese offensichtlich verkehrsgünstiger
-    ist und vom Arbeitnehmer regelmäßig für die Wege zwischen Wohnung und
-    erster Tätigkeitsstätte benutzt wird.
-    5                   Nach § 8 Absatz 2 Satz 11 oder Absatz 3
-    steuerfreie Sachbezüge für Fahrten zwischen Wohnung und erster
-    Tätigkeitsstätte mindern den nach Satz 2 abziehbaren Betrag; ist der
-    Arbeitgeber selbst der Verkehrsträger, ist der Preis anzusetzen, den
-    ein dritter Arbeitgeber an den Verkehrsträger zu entrichten hätte.
-    6                   Hat ein Arbeitnehmer mehrere Wohnungen, so sind
-    die Wege von einer Wohnung, die nicht der ersten Tätigkeitsstätte am
-    nächsten liegt, nur zu berücksichtigen, wenn sie den Mittelpunkt der
-    Lebensinteressen des Arbeitnehmers bildet und nicht nur gelegentlich
-    aufgesucht wird.
-    7                   Nach § 3 Nummer 37 steuerfreie Sachbezüge mindern
-    den nach Satz 2 abziehbaren Betrag nicht; § 3c Absatz 1 ist nicht
-    anzuwenden.
-    8                   Zur Abgeltung der Aufwendungen im Sinne des Satzes
-    1 ist für die Veranlagungszeiträume 2021 bis 2026 abweichend von Satz
-    2 für jeden Arbeitstag, an dem der Arbeitnehmer die erste
-    Tätigkeitsstätte aufsucht, eine Entfernungspauschale für jeden vollen
-    Kilometer der ersten 20 Kilometer der Entfernung zwischen Wohnung und
-    erster Tätigkeitsstätte von 0,30 Euro und für jeden weiteren vollen
-    Kilometer
-
-    a)  von 0,35 Euro für 2021 bis 2023,
-
-
-    b)  von 0,38 Euro für 2024 bis 2026
-
-
-
-    anzusetzen, höchstens 4 500 Euro im Kalenderjahr; ein höherer Betrag
-    als 4 500 Euro ist anzusetzen, soweit der Arbeitnehmer einen eigenen
-    oder ihm zur Nutzung überlassenen Kraftwagen benutzt.
-
-
-4a. Aufwendungen des Arbeitnehmers für beruflich veranlasste Fahrten, die
-    nicht Fahrten zwischen Wohnung und erster Tätigkeitsstätte im Sinne
-    des Absatzes 4 sowie keine Familienheimfahrten sind.
-    2                   Anstelle der tatsächlichen Aufwendungen, die dem
-    Arbeitnehmer durch die persönliche Benutzung eines Beförderungsmittels
-    entstehen, können die Fahrtkosten mit den pauschalen Kilometersätzen
-    angesetzt werden, die für das jeweils benutzte Beförderungsmittel
-    (Fahrzeug) als höchste Wegstreckenentschädigung nach dem
-    Bundesreisekostengesetz festgesetzt sind.
-    3                   Hat ein Arbeitnehmer keine erste Tätigkeitsstätte
-    (§ 9 Absatz 4) und hat er nach den dienst- oder arbeitsrechtlichen
-    Festlegungen sowie den diese ausfüllenden Absprachen und Weisungen zur
-    Aufnahme seiner beruflichen Tätigkeit dauerhaft denselben Ort oder
-    dasselbe weiträumige Tätigkeitsgebiet typischerweise arbeitstäglich
-    aufzusuchen, gilt Absatz 1 Satz 3 Nummer 4 und Absatz 2 für die
-    Fahrten von der Wohnung zu diesem Ort oder dem zur Wohnung
-    nächstgelegenen Zugang zum Tätigkeitsgebiet entsprechend.
-    4                   Für die Fahrten innerhalb des weiträumigen
-    Tätigkeitsgebietes gelten die Sätze 1 und 2 entsprechend.
-
-
-5.  notwendige Mehraufwendungen, die einem Arbeitnehmer wegen einer
-    beruflich veranlassten doppelten Haushaltsführung entstehen.
-    2                   Eine doppelte Haushaltsführung liegt nur vor, wenn
-    der Arbeitnehmer außerhalb des Ortes seiner ersten Tätigkeitsstätte
-    einen eigenen Hausstand unterhält und auch am Ort der ersten
-    Tätigkeitsstätte wohnt.
-    3                   Das Vorliegen eines eigenen Hausstandes setzt das
-    Innehaben einer Wohnung sowie eine finanzielle Beteiligung an den
-    Kosten der Lebensführung voraus.
-    4                   Als Unterkunftskosten für eine doppelte
-    Haushaltsführung können im Inland die tatsächlichen Aufwendungen für
-    die Nutzung der Unterkunft angesetzt werden, höchstens 1 000 Euro im
-    Monat.
-    5                   Aufwendungen für die Wege vom Ort der ersten
-    Tätigkeitsstätte zum Ort des eigenen Hausstandes und zurück
-    (Familienheimfahrt) können jeweils nur für eine Familienheimfahrt
-    wöchentlich abgezogen werden.
-    6                   Zur Abgeltung der Aufwendungen für eine
-    Familienheimfahrt ist eine Entfernungspauschale von 0,30 Euro für
-    jeden vollen Kilometer der Entfernung zwischen dem Ort des eigenen
-    Hausstandes und dem Ort der ersten Tätigkeitsstätte anzusetzen.
-    7                   Nummer 4 Satz 3 bis 5 ist entsprechend anzuwenden.
-    8                   Aufwendungen für Familienheimfahrten mit einem dem
-    Steuerpflichtigen im Rahmen einer Einkunftsart überlassenen
-    Kraftfahrzeug werden nicht berücksichtigt.
-    9                   Zur Abgeltung der Aufwendungen für eine
-    Familienheimfahrt ist für die Veranlagungszeiträume 2021 bis 2026
-    abweichend von Satz 6 eine Entfernungspauschale für jeden vollen
-    Kilometer der ersten 20 Kilometer der Entfernung zwischen dem Ort des
-    eigenen Hausstandes und dem Ort der ersten Tätigkeitsstätte von 0,30
-    Euro und für jeden weiteren vollen Kilometer
-
-    a)  von 0,35 Euro für 2021 bis 2023,
-
-
-    b)  von 0,38 Euro für 2024 bis 2026
-
-
-
-    anzusetzen.
-
-
-5a. notwendige Mehraufwendungen eines Arbeitnehmers für beruflich
-    veranlasste Übernachtungen an einer Tätigkeitsstätte, die nicht erste
-    Tätigkeitsstätte ist.
-    2                   Übernachtungskosten sind die tatsächlichen
-    Aufwendungen für die persönliche Inanspruchnahme einer Unterkunft zur
-    Übernachtung.
-    3                   Soweit höhere Übernachtungskosten anfallen, weil
-    der Arbeitnehmer eine Unterkunft gemeinsam mit Personen nutzt, die in
-    keinem Dienstverhältnis zum selben Arbeitgeber stehen, sind nur
-    diejenigen Aufwendungen anzusetzen, die bei alleiniger Nutzung durch
-    den Arbeitnehmer angefallen wären.
-    4                   Nach Ablauf von 48 Monaten einer längerfristigen
-    beruflichen Tätigkeit an derselben Tätigkeitsstätte, die nicht erste
-    Tätigkeitsstätte ist, können Unterkunftskosten nur noch bis zur Höhe
-    des Betrags nach Nummer 5 angesetzt werden.
-    5                   Eine Unterbrechung dieser beruflichen Tätigkeit an
-    derselben Tätigkeitsstätte führt zu einem Neubeginn, wenn die
-    Unterbrechung mindestens sechs Monate dauert.
-
-
-5b. notwendige Mehraufwendungen, die einem Arbeitnehmer während seiner
-    auswärtigen beruflichen Tätigkeit auf einem Kraftfahrzeug des
-    Arbeitgebers oder eines vom Arbeitgeber beauftragten Dritten im
-    Zusammenhang mit einer Übernachtung in dem Kraftfahrzeug für
-    Kalendertage entstehen, an denen der Arbeitnehmer eine
-    Verpflegungspauschale nach Absatz 4a Satz 3 Nummer 1 und 2 sowie Satz
-    5 zur Nummer 1 und 2 beanspruchen könnte.
-    2                   Anstelle der tatsächlichen Aufwendungen, die dem
-    Arbeitnehmer im Zusammenhang mit einer Übernachtung in dem
-    Kraftfahrzeug entstehen, kann im Kalenderjahr einheitlich eine
-    Pauschale von 8 Euro für jeden Kalendertag berücksichtigt werden, an
-    dem der Arbeitnehmer eine Verpflegungspauschale nach Absatz 4a Satz 3
-    Nummer 1 und 2 sowie Satz 5 zur Nummer 1 und 2 beanspruchen könnte,
-
-
-6.  Aufwendungen für Arbeitsmittel, zum Beispiel für Werkzeuge und
-    typische Berufskleidung.
-    2                   Nummer 7 bleibt unberührt;
-
-
-7.  Absetzungen für Abnutzung und für Substanzverringerung,
-    Sonderabschreibungen nach § 7b und erhöhte Absetzungen.
-    2                   § 6 Absatz 2 Satz 1 bis 3 ist in Fällen der
-    Anschaffung oder Herstellung von Wirtschaftsgütern entsprechend
-    anzuwenden.
-
-
-
-
-(2)
-1             Durch die Entfernungspauschalen sind sämtliche
-Aufwendungen abgegolten, die durch die Wege zwischen Wohnung und
-erster Tätigkeitsstätte im Sinne des Absatzes 4 und durch die
-Familienheimfahrten veranlasst sind.
-2             Aufwendungen für die Benutzung öffentlicher
-Verkehrsmittel können angesetzt werden, soweit sie den im Kalenderjahr
-insgesamt als Entfernungspauschale abziehbaren Betrag übersteigen.
-3             Menschen mit Behinderungen,
-
-1.  deren Grad der Behinderung mindestens 70 beträgt,
-
-
-2.  deren Grad der Behinderung weniger als 70, aber mindestens 50 beträgt
-    und die in ihrer Bewegungsfähigkeit im Straßenverkehr erheblich
-    beeinträchtigt sind,
-
-
-
-können anstelle der Entfernungspauschalen die tatsächlichen
-Aufwendungen für die Wege zwischen Wohnung und erster Tätigkeitsstätte
-und für Familienheimfahrten ansetzen.
-4             Die Voraussetzungen der Nummern 1 und 2 sind durch
-amtliche Unterlagen nachzuweisen.
-
-(3) Absatz 1 Satz 3 Nummer 4 bis 5a sowie die Absätze 2 und 4a gelten
-bei den Einkunftsarten im Sinne des § 2 Absatz 1 Satz 1 Nummer 5 bis 7
-entsprechend.
-
-(4)
-1             Erste Tätigkeitsstätte ist die ortsfeste betriebliche
-Einrichtung des Arbeitgebers, eines verbundenen Unternehmens (§ 15 des
-Aktiengesetzes) oder eines vom Arbeitgeber bestimmten Dritten, der der
-Arbeitnehmer dauerhaft zugeordnet ist.
-2             Die Zuordnung im Sinne des Satzes 1 wird durch die
-dienst- oder arbeitsrechtlichen Festlegungen sowie die diese
-ausfüllenden Absprachen und Weisungen bestimmt.
-3             Von einer dauerhaften Zuordnung ist insbesondere
-auszugehen, wenn der Arbeitnehmer unbefristet, für die Dauer des
-Dienstverhältnisses oder über einen Zeitraum von 48 Monaten hinaus an
-einer solchen Tätigkeitsstätte tätig werden soll.
-4             Fehlt eine solche dienst- oder arbeitsrechtliche
-Festlegung auf eine Tätigkeitsstätte oder ist sie nicht eindeutig, ist
-erste Tätigkeitsstätte die betriebliche Einrichtung, an der der
-Arbeitnehmer dauerhaft
-
-1.  typischerweise arbeitstäglich tätig werden soll oder
-
-
-2.  je Arbeitswoche zwei volle Arbeitstage oder mindestens ein Drittel
-    seiner vereinbarten regelmäßigen Arbeitszeit tätig werden soll.
-
-
-
-5             Je Dienstverhältnis hat der Arbeitnehmer höchstens eine
-erste Tätigkeitsstätte.
-6             Liegen die Voraussetzungen der Sätze 1 bis 4 für mehrere
-Tätigkeitsstätten vor, ist diejenige Tätigkeitsstätte erste
-Tätigkeitsstätte, die der Arbeitgeber bestimmt.
-7             Fehlt es an dieser Bestimmung oder ist sie nicht
-eindeutig, ist die der Wohnung örtlich am nächsten liegende
-Tätigkeitsstätte die erste Tätigkeitsstätte.
-8             Als erste Tätigkeitsstätte gilt auch eine
-Bildungseinrichtung, die außerhalb eines Dienstverhältnisses zum
-Zwecke eines Vollzeitstudiums oder einer vollzeitigen Bildungsmaßnahme
-aufgesucht wird; die Regelungen für Arbeitnehmer nach Absatz 1 Satz 3
-Nummer 4 und 5 sowie Absatz 4a sind entsprechend anzuwenden.
-
-(4a)
-1             Mehraufwendungen des Arbeitnehmers für die Verpflegung
-sind nur nach Maßgabe der folgenden Sätze als Werbungskosten
-abziehbar.
-2             Wird der Arbeitnehmer außerhalb seiner Wohnung und
-ersten Tätigkeitsstätte beruflich tätig (auswärtige berufliche
-Tätigkeit), ist zur Abgeltung der ihm tatsächlich entstandenen,
-beruflich veranlassten Mehraufwendungen eine Verpflegungspauschale
-anzusetzen.
-3             Diese beträgt
-
-1.  28 Euro für jeden Kalendertag, an dem der Arbeitnehmer 24 Stunden von
-    seiner Wohnung und ersten Tätigkeitsstätte abwesend ist,
-
-
-2.  jeweils 14 Euro für den An- und Abreisetag, wenn der Arbeitnehmer an
-    diesem, einem anschließenden oder vorhergehenden Tag außerhalb seiner
-    Wohnung übernachtet,
-
-
-3.  14 Euro für den Kalendertag, an dem der Arbeitnehmer ohne Übernachtung
-    außerhalb seiner Wohnung mehr als 8 Stunden von seiner Wohnung und der
-    ersten Tätigkeitsstätte abwesend ist; beginnt die auswärtige
-    berufliche Tätigkeit an einem Kalendertag und endet am nachfolgenden
-    Kalendertag ohne Übernachtung, werden 14 Euro für den Kalendertag
-    gewährt, an dem der Arbeitnehmer den überwiegenden Teil der insgesamt
-    mehr als 8 Stunden von seiner Wohnung und der ersten Tätigkeitsstätte
-    abwesend ist.
-
-
-
-4             Hat der Arbeitnehmer keine erste Tätigkeitsstätte,
-gelten die Sätze 2 und 3 entsprechend; Wohnung im Sinne der Sätze 2
-und 3 ist der Hausstand, der den Mittelpunkt der Lebensinteressen des
-Arbeitnehmers bildet sowie eine Unterkunft am Ort der ersten
-Tätigkeitsstätte im Rahmen der doppelten Haushaltsführung.
-5             Bei einer Tätigkeit im Ausland treten an die Stelle der
-Pauschbeträge nach Satz 3 länderweise unterschiedliche Pauschbeträge,
-die für die Fälle der Nummer 1 mit 120 sowie der Nummern 2 und 3 mit
-80 Prozent der Auslandstagegelder nach dem Bundesreisekostengesetz vom
-Bundesministerium der Finanzen im Einvernehmen mit den obersten
-Finanzbehörden der Länder aufgerundet auf volle Euro festgesetzt
-werden; dabei bestimmt sich der Pauschbetrag nach dem Ort, den der
-Arbeitnehmer vor 24 Uhr Ortszeit zuletzt erreicht, oder, wenn dieser
-Ort im Inland liegt, nach dem letzten Tätigkeitsort im Ausland.
-6             Der Abzug der Verpflegungspauschalen ist auf die ersten
-drei Monate einer längerfristigen beruflichen Tätigkeit an derselben
-Tätigkeitsstätte beschränkt.
-7             Eine Unterbrechung der beruflichen Tätigkeit an
-derselben Tätigkeitsstätte führt zu einem Neubeginn, wenn sie
-mindestens vier Wochen dauert.
-8             Wird dem Arbeitnehmer anlässlich oder während einer
-Tätigkeit außerhalb seiner ersten Tätigkeitsstätte vom Arbeitgeber
-oder auf dessen Veranlassung von einem Dritten eine Mahlzeit zur
-Verfügung gestellt, sind die nach den Sätzen 3 und 5 ermittelten
-Verpflegungspauschalen zu kürzen:
-
-1.  für Frühstück um 20 Prozent,
-
-
-2.  für Mittag- und Abendessen um jeweils 40 Prozent,
-
-
-
-der nach Satz 3 Nummer 1 gegebenenfalls in Verbindung mit Satz 5
-maßgebenden Verpflegungspauschale für einen vollen Kalendertag; die
-Kürzung darf die ermittelte Verpflegungspauschale nicht übersteigen.
-9             Satz 8 gilt auch, wenn Reisekostenvergütungen wegen der
-zur Verfügung gestellten Mahlzeiten einbehalten oder gekürzt werden
-oder die Mahlzeiten nach § 40 Absatz 2 Satz 1 Nummer 1a pauschal
-besteuert werden.
-10             Hat der Arbeitnehmer für die Mahlzeit ein Entgelt
-gezahlt, mindert dieser Betrag den Kürzungsbetrag nach Satz 8.
-11             Erhält der Arbeitnehmer steuerfreie Erstattungen für
-Verpflegung, ist ein Werbungskostenabzug insoweit ausgeschlossen.
-12             Die Verpflegungspauschalen nach den Sätzen 3 und 5, die
-Dreimonatsfrist nach den Sätzen 6 und 7 sowie die Kürzungsregelungen
-nach den Sätzen 8 bis 10 gelten entsprechend auch für den Abzug von
-Mehraufwendungen für Verpflegung, die bei einer beruflich veranlassten
-doppelten Haushaltsführung entstehen, soweit der Arbeitnehmer vom
-eigenen Hausstand im Sinne des § 9 Absatz 1 Satz 3 Nummer 5 abwesend
-ist; dabei ist für jeden Kalendertag innerhalb der Dreimonatsfrist, an
-dem gleichzeitig eine Tätigkeit im Sinne des Satzes 2 oder des Satzes
-4 ausgeübt wird, nur der jeweils höchste in Betracht kommende
-Pauschbetrag abziehbar.
-13             Die Dauer einer Tätigkeit im Sinne des Satzes 2 an dem
-Tätigkeitsort, an dem die doppelte Haushaltsführung begründet wurde,
-ist auf die Dreimonatsfrist anzurechnen, wenn sie ihr unmittelbar
-vorausgegangen ist.
-
-(5)
-1             § 4 Absatz 5 Satz 1 Nummer 1 bis 4, 6b bis 8a, 10, 12
-und Absatz 6 gilt sinngemäß.
-2             Die §§ 4j, 4k, 6 Absatz 1 Nummer 1a und § 6e gelten
-entsprechend.
-
-(6)
-1             Aufwendungen des Steuerpflichtigen für seine
-Berufsausbildung oder für sein Studium sind nur dann Werbungskosten,
-wenn der Steuerpflichtige zuvor bereits eine Erstausbildung
-(Berufsausbildung oder Studium) abgeschlossen hat oder wenn die
-Berufsausbildung oder das Studium im Rahmen eines Dienstverhältnisses
-stattfindet.
-2             Eine Berufsausbildung als Erstausbildung nach Satz 1
-liegt vor, wenn eine geordnete Ausbildung mit einer Mindestdauer von
-12 Monaten bei vollzeitiger Ausbildung und mit einer Abschlussprüfung
-durchgeführt wird.
-3             Eine geordnete Ausbildung liegt vor, wenn sie auf der
-Grundlage von Rechts- oder Verwaltungsvorschriften oder internen
-Vorschriften eines Bildungsträgers durchgeführt wird.
-4             Ist eine Abschlussprüfung nach dem Ausbildungsplan nicht
-vorgesehen, gilt die Ausbildung mit der tatsächlichen planmäßigen
-Beendigung als abgeschlossen.
-5             Eine Berufsausbildung als Erstausbildung hat auch
-abgeschlossen, wer die Abschlussprüfung einer durch Rechts- oder
-Verwaltungsvorschriften geregelten Berufsausbildung mit einer
-Mindestdauer von 12 Monaten bestanden hat, ohne dass er zuvor die
-entsprechende Berufsausbildung durchlaufen hat.
+(1) ¹Werbungskosten sind Aufwendungen zur Erwerbung, Sicherung und Erhaltung der Einnahmen. ²Sie sind bei der Einkunftsart abzuziehen, bei der sie erwachsen sind. ³Werbungskosten sind auch
 
+- 1\. Schuldzinsen und auf besonderen Verpflichtungsgründen beruhende Renten und dauernde Lasten, soweit sie mit einer Einkunftsart in wirtschaftlichem Zusammenhang stehen. ²Bei Leibrenten kann nur der Anteil abgezogen werden, der sich nach § 22 Nummer 1 Satz 3 Buchstabe a Doppelbuchstabe bb ergibt;
+- 2\. Steuern vom Grundbesitz, sonstige öffentliche Abgaben und Versicherungsbeiträge, soweit solche Ausgaben sich auf Gebäude oder auf Gegenstände beziehen, die dem Steuerpflichtigen zur Einnahmeerzielung dienen;
+- 3\. Beiträge zu Berufsständen und sonstigen Berufsverbänden, deren Zweck nicht auf einen wirtschaftlichen Geschäftsbetrieb gerichtet ist;
+- 4\. Aufwendungen des Arbeitnehmers für die Wege zwischen Wohnung und erster Tätigkeitsstätte im Sinne des Absatzes 4. ²Zur Abgeltung dieser Aufwendungen ist für jeden Arbeitstag, an dem der Arbeitnehmer die erste Tätigkeitsstätte aufsucht eine Entfernungspauschale für jeden vollen Kilometer der Entfernung zwischen Wohnung und erster Tätigkeitsstätte von 0,38 Euro anzusetzen, höchstens jedoch 4 500 Euro im Kalenderjahr; ein höherer Betrag als 4 500 Euro ist anzusetzen, soweit der Arbeitnehmer einen eigenen oder ihm zur Nutzung überlassenen Kraftwagen benutzt. ³Die Entfernungspauschale gilt nicht für Flugstrecken und Strecken mit steuerfreier Sammelbeförderung nach § 3 Nummer 32. ⁴Für die Bestimmung der Entfernung ist die kürzeste Straßenverbindung zwischen Wohnung und erster Tätigkeitsstätte maßgebend; eine andere als die kürzeste Straßenverbindung kann zugrunde gelegt werden, wenn diese offensichtlich verkehrsgünstiger ist und vom Arbeitnehmer regelmäßig für die Wege zwischen Wohnung und erster Tätigkeitsstätte benutzt wird. ⁵Nach § 8 Absatz 2 Satz 11 oder Absatz 3 steuerfreie Sachbezüge für Fahrten zwischen Wohnung und erster Tätigkeitsstätte mindern den nach Satz 2 abziehbaren Betrag; ist der Arbeitgeber selbst der Verkehrsträger, ist der Preis anzusetzen, den ein dritter Arbeitgeber an den Verkehrsträger zu entrichten hätte. ⁶Hat ein Arbeitnehmer mehrere Wohnungen, so sind die Wege von einer Wohnung, die nicht der ersten Tätigkeitsstätte am nächsten liegt, nur zu berücksichtigen, wenn sie den Mittelpunkt der Lebensinteressen des Arbeitnehmers bildet und nicht nur gelegentlich aufgesucht wird. ⁷Nach § 3 Nummer 37 steuerfreie Sachbezüge mindern den nach Satz 2 abziehbaren Betrag nicht; § 3c Absatz 1 ist nicht anzuwenden.
+- 4a\. Aufwendungen des Arbeitnehmers für beruflich veranlasste Fahrten, die nicht Fahrten zwischen Wohnung und erster Tätigkeitsstätte im Sinne des Absatzes 4 sowie keine Familienheimfahrten sind. ²Anstelle der tatsächlichen Aufwendungen, die dem Arbeitnehmer durch die persönliche Benutzung eines Beförderungsmittels entstehen, können die Fahrtkosten mit den pauschalen Kilometersätzen angesetzt werden, die für das jeweils benutzte Beförderungsmittel (Fahrzeug) als höchste Wegstreckenentschädigung nach dem Bundesreisekostengesetz festgesetzt sind. ³Hat ein Arbeitnehmer keine erste Tätigkeitsstätte (§ 9 Absatz 4) und hat er nach den dienst- oder arbeitsrechtlichen Festlegungen sowie den diese ausfüllenden Absprachen und Weisungen zur Aufnahme seiner beruflichen Tätigkeit dauerhaft denselben Ort oder dasselbe weiträumige Tätigkeitsgebiet typischerweise arbeitstäglich aufzusuchen, gilt Absatz 1 Satz 3 Nummer 4 und Absatz 2 für die Fahrten von der Wohnung zu diesem Ort oder dem zur Wohnung nächstgelegenen Zugang zum Tätigkeitsgebiet entsprechend. ⁴Für die Fahrten innerhalb des weiträumigen Tätigkeitsgebietes gelten die Sätze 1 und 2 entsprechend.
+- 5\. notwendige Mehraufwendungen, die einem Arbeitnehmer wegen einer beruflich veranlassten doppelten Haushaltsführung entstehen. ²Eine doppelte Haushaltsführung liegt nur vor, wenn der Arbeitnehmer außerhalb des Ortes seiner ersten Tätigkeitsstätte einen eigenen Hausstand unterhält und auch am Ort der ersten Tätigkeitsstätte wohnt. ³Das Vorliegen eines eigenen Hausstandes setzt das Innehaben einer Wohnung sowie eine finanzielle Beteiligung an den Kosten der Lebensführung voraus. ⁴Als Unterkunftskosten für eine doppelte Haushaltsführung können die tatsächlichen Aufwendungen für die Nutzung der Unterkunft angesetzt werden, höchstens 1 000 Euro im Monat bei einer Unterkunft im Inland und höchstens 2 000 Euro im Monat bei einer Unterkunft im Ausland; die Grenze von 2 000 Euro bei einer Unterkunft im Ausland gilt nicht, wenn eine Dienst- oder Werkswohnung verpflichtend und zweckgebunden genutzt werden muss oder deren Kosten für Zwecke des Mietzuschusses nach § 54 des Bundesbesoldungsgesetzes als notwendig anerkannt worden sind. ⁵Aufwendungen für die Wege vom Ort der ersten Tätigkeitsstätte zum Ort des eigenen Hausstandes und zurück (Familienheimfahrt) können jeweils nur für eine Familienheimfahrt wöchentlich abgezogen werden. ⁶Zur Abgeltung der Aufwendungen für eine Familienheimfahrt ist eine Entfernungspauschale von 0,38 Euro für jeden vollen Kilometer der Entfernung zwischen dem Ort des eigenen Hausstandes und dem Ort der ersten Tätigkeitsstätte anzusetzen. ⁷Nummer 4 Satz 3 bis 5 ist entsprechend anzuwenden. ⁸Aufwendungen für Familienheimfahrten mit einem dem Steuerpflichtigen im Rahmen einer Einkunftsart überlassenen Kraftfahrzeug werden nicht berücksichtigt.
+- 5a\. notwendige Mehraufwendungen eines Arbeitnehmers für beruflich veranlasste Übernachtungen an einer Tätigkeitsstätte, die nicht erste Tätigkeitsstätte ist. ²Übernachtungskosten sind die tatsächlichen Aufwendungen für die persönliche Inanspruchnahme einer Unterkunft zur Übernachtung. ³Soweit höhere Übernachtungskosten anfallen, weil der Arbeitnehmer eine Unterkunft gemeinsam mit Personen nutzt, die in keinem Dienstverhältnis zum selben Arbeitgeber stehen, sind nur diejenigen Aufwendungen anzusetzen, die bei alleiniger Nutzung durch den Arbeitnehmer angefallen wären. ⁴Nach Ablauf von 48 Monaten einer längerfristigen beruflichen Tätigkeit an derselben Tätigkeitsstätte, die nicht erste Tätigkeitsstätte ist, können Unterkunftskosten nur noch bis zur Höhe des Betrags nach Nummer 5 angesetzt werden. ⁵Eine Unterbrechung dieser beruflichen Tätigkeit an derselben Tätigkeitsstätte führt zu einem Neubeginn, wenn die Unterbrechung mindestens sechs Monate dauert.
+- 5b\. notwendige Mehraufwendungen, die einem Arbeitnehmer während seiner auswärtigen beruflichen Tätigkeit auf einem Kraftfahrzeug des Arbeitgebers oder eines vom Arbeitgeber beauftragten Dritten im Zusammenhang mit einer Übernachtung in dem Kraftfahrzeug für Kalendertage entstehen, an denen der Arbeitnehmer eine Verpflegungspauschale nach Absatz 4a Satz 3 Nummer 1 und 2 sowie Satz 5 zur Nummer 1 und 2 beanspruchen könnte. ²Anstelle der tatsächlichen Aufwendungen, die dem Arbeitnehmer im Zusammenhang mit einer Übernachtung in dem Kraftfahrzeug entstehen, kann im Kalenderjahr einheitlich eine Pauschale von 9 Euro für jeden Kalendertag berücksichtigt werden, an dem der Arbeitnehmer eine Verpflegungspauschale nach Absatz 4a Satz 3 Nummer 1 und 2 sowie Satz 5 zur Nummer 1 und 2 beanspruchen könnte,
+- 6\. Aufwendungen für Arbeitsmittel, zum Beispiel für Werkzeuge und typische Berufskleidung. ²Nummer 7 bleibt unberührt;
+- 7\. Absetzungen für Abnutzung und für Substanzverringerung, Sonderabschreibungen nach § 7b und erhöhte Absetzungen. ²§ 6 Absatz 2 Satz 1 bis 3 ist in Fällen der Anschaffung oder Herstellung von Wirtschaftsgütern entsprechend anzuwenden.
 
+(2) ¹Durch die Entfernungspauschalen sind sämtliche Aufwendungen abgegolten, die durch die Wege zwischen Wohnung und erster Tätigkeitsstätte im Sinne des Absatzes 4 und durch die Familienheimfahrten veranlasst sind. ²Aufwendungen für die Benutzung öffentlicher Verkehrsmittel können angesetzt werden, soweit sie den im Kalenderjahr insgesamt als Entfernungspauschale abziehbaren Betrag übersteigen. ³Menschen mit Behinderungen,
+
+- 1\. deren Grad der Behinderung mindestens 70 beträgt,
+- 2\. deren Grad der Behinderung weniger als 70, aber mindestens 50 beträgt und die in ihrer Bewegungsfähigkeit im Straßenverkehr erheblich beeinträchtigt sind,
+
+können anstelle der Entfernungspauschalen die tatsächlichen Aufwendungen für die Wege zwischen Wohnung und erster Tätigkeitsstätte und für Familienheimfahrten ansetzen. ⁴Die Voraussetzungen der Nummern 1 und 2 sind durch amtliche Unterlagen nachzuweisen.
+
+(3) Absatz 1 Satz 3 Nummer 4 bis 5a sowie die Absätze 2 und 4a gelten bei den Einkunftsarten im Sinne des § 2 Absatz 1 Satz 1 Nummer 5 bis 7 entsprechend.
+
+(4) ¹Erste Tätigkeitsstätte ist die ortsfeste betriebliche Einrichtung des Arbeitgebers, eines verbundenen Unternehmens (§ 15 des Aktiengesetzes) oder eines vom Arbeitgeber bestimmten Dritten, der der Arbeitnehmer dauerhaft zugeordnet ist. ²Die Zuordnung im Sinne des Satzes 1 wird durch die dienst- oder arbeitsrechtlichen Festlegungen sowie die diese ausfüllenden Absprachen und Weisungen bestimmt. ³Von einer dauerhaften Zuordnung ist insbesondere auszugehen, wenn der Arbeitnehmer unbefristet, für die Dauer des Dienstverhältnisses oder über einen Zeitraum von 48 Monaten hinaus an einer solchen Tätigkeitsstätte tätig werden soll. ⁴Fehlt eine solche dienst- oder arbeitsrechtliche Festlegung auf eine Tätigkeitsstätte oder ist sie nicht eindeutig, ist erste Tätigkeitsstätte die betriebliche Einrichtung, an der der Arbeitnehmer dauerhaft
+
+- 1\. typischerweise arbeitstäglich tätig werden soll oder
+- 2\. je Arbeitswoche zwei volle Arbeitstage oder mindestens ein Drittel seiner vereinbarten regelmäßigen Arbeitszeit tätig werden soll.
+
+⁵Je Dienstverhältnis hat der Arbeitnehmer höchstens eine erste Tätigkeitsstätte. ⁶Liegen die Voraussetzungen der Sätze 1 bis 4 für mehrere Tätigkeitsstätten vor, ist diejenige Tätigkeitsstätte erste Tätigkeitsstätte, die der Arbeitgeber bestimmt. ⁷Fehlt es an dieser Bestimmung oder ist sie nicht eindeutig, ist die der Wohnung örtlich am nächsten liegende Tätigkeitsstätte die erste Tätigkeitsstätte. ⁸Als erste Tätigkeitsstätte gilt auch eine Bildungseinrichtung, die außerhalb eines Dienstverhältnisses zum Zwecke eines Vollzeitstudiums oder einer vollzeitigen Bildungsmaßnahme aufgesucht wird; die Regelungen für Arbeitnehmer nach Absatz 1 Satz 3 Nummer 4 und 5 sowie Absatz 4a sind entsprechend anzuwenden.
+
+(4a) ¹Mehraufwendungen des Arbeitnehmers für die Verpflegung sind nur nach Maßgabe der folgenden Sätze als Werbungskosten abziehbar. ²Wird der Arbeitnehmer außerhalb seiner Wohnung und ersten Tätigkeitsstätte beruflich tätig (auswärtige berufliche Tätigkeit), ist zur Abgeltung der ihm tatsächlich entstandenen, beruflich veranlassten Mehraufwendungen eine Verpflegungspauschale anzusetzen. ³Diese beträgt
+
+- 1\. 28 Euro für jeden Kalendertag, an dem der Arbeitnehmer 24 Stunden von seiner Wohnung und ersten Tätigkeitsstätte abwesend ist,
+- 2\. jeweils 14 Euro für den An- und Abreisetag, wenn der Arbeitnehmer an diesem, einem anschließenden oder vorhergehenden Tag außerhalb seiner Wohnung übernachtet,
+- 3\. 14 Euro für den Kalendertag, an dem der Arbeitnehmer ohne Übernachtung außerhalb seiner Wohnung mehr als 8 Stunden von seiner Wohnung und der ersten Tätigkeitsstätte abwesend ist; beginnt die auswärtige berufliche Tätigkeit an einem Kalendertag und endet am nachfolgenden Kalendertag ohne Übernachtung, werden 14 Euro für den Kalendertag gewährt, an dem der Arbeitnehmer den überwiegenden Teil der insgesamt mehr als 8 Stunden von seiner Wohnung und der ersten Tätigkeitsstätte abwesend ist.
+
+⁴Hat der Arbeitnehmer keine erste Tätigkeitsstätte, gelten die Sätze 2 und 3 entsprechend; Wohnung im Sinne der Sätze 2 und 3 ist der Hausstand, der den Mittelpunkt der Lebensinteressen des Arbeitnehmers bildet sowie eine Unterkunft am Ort der ersten Tätigkeitsstätte im Rahmen der doppelten Haushaltsführung. ⁵Bei einer Tätigkeit im Ausland treten an die Stelle der Pauschbeträge nach Satz 3 länderweise unterschiedliche Pauschbeträge, die für die Fälle der Nummer 1 mit 120 sowie der Nummern 2 und 3 mit 80 Prozent der Auslandstagegelder nach dem Bundesreisekostengesetz vom Bundesministerium der Finanzen im Einvernehmen mit den obersten Finanzbehörden der Länder aufgerundet auf volle Euro festgesetzt werden; dabei bestimmt sich der Pauschbetrag nach dem Ort, den der Arbeitnehmer vor 24 Uhr Ortszeit zuletzt erreicht, oder, wenn dieser Ort im Inland liegt, nach dem letzten Tätigkeitsort im Ausland. ⁶Der Abzug der Verpflegungspauschalen ist auf die ersten drei Monate einer längerfristigen beruflichen Tätigkeit an derselben Tätigkeitsstätte beschränkt. ⁷Eine Unterbrechung der beruflichen Tätigkeit an derselben Tätigkeitsstätte führt zu einem Neubeginn, wenn sie mindestens vier Wochen dauert. ⁸Wird dem Arbeitnehmer anlässlich oder während einer Tätigkeit außerhalb seiner ersten Tätigkeitsstätte vom Arbeitgeber oder auf dessen Veranlassung von einem Dritten eine Mahlzeit zur Verfügung gestellt, sind die nach den Sätzen 3 und 5 ermittelten Verpflegungspauschalen zu kürzen:
+
+- 1\. für Frühstück um 20 Prozent,
+- 2\. für Mittag- und Abendessen um jeweils 40 Prozent,
+
+der nach Satz 3 Nummer 1 gegebenenfalls in Verbindung mit Satz 5 maßgebenden Verpflegungspauschale für einen vollen Kalendertag; die Kürzung darf die ermittelte Verpflegungspauschale nicht übersteigen. ⁹Satz 8 gilt auch, wenn Reisekostenvergütungen wegen der zur Verfügung gestellten Mahlzeiten einbehalten oder gekürzt werden oder die Mahlzeiten nach § 40 Absatz 2 Satz 1 Nummer 1a pauschal besteuert werden. ¹⁰Hat der Arbeitnehmer für die Mahlzeit ein Entgelt gezahlt, mindert dieser Betrag den Kürzungsbetrag nach Satz 8. ¹¹Erhält der Arbeitnehmer steuerfreie Erstattungen für Verpflegung, ist ein Werbungskostenabzug insoweit ausgeschlossen. ¹²Die Verpflegungspauschalen nach den Sätzen 3 und 5, die Dreimonatsfrist nach den Sätzen 6 und 7 sowie die Kürzungsregelungen nach den Sätzen 8 bis 10 gelten entsprechend auch für den Abzug von Mehraufwendungen für Verpflegung, die bei einer beruflich veranlassten doppelten Haushaltsführung entstehen, soweit der Arbeitnehmer vom eigenen Hausstand im Sinne des § 9 Absatz 1 Satz 3 Nummer 5 abwesend ist; dabei ist für jeden Kalendertag innerhalb der Dreimonatsfrist, an dem gleichzeitig eine Tätigkeit im Sinne des Satzes 2 oder des Satzes 4 ausgeübt wird, nur der jeweils höchste in Betracht kommende Pauschbetrag abziehbar. ¹³Die Dauer einer Tätigkeit im Sinne des Satzes 2 an dem Tätigkeitsort, an dem die doppelte Haushaltsführung begründet wurde, ist auf die Dreimonatsfrist anzurechnen, wenn sie ihr unmittelbar vorausgegangen ist.
+
+(5) ¹§ 4 Absatz 5 Satz 1 Nummer 1 bis 4, 6b bis 8a, 10, 12 und Absatz 6 gilt sinngemäß. ²Die §§ 4k, 6 Absatz 1 Nummer 1a und § 6e gelten entsprechend.
+
+(6) ¹Aufwendungen des Steuerpflichtigen für seine Berufsausbildung oder für sein Studium sind nur dann Werbungskosten, wenn der Steuerpflichtige zuvor bereits eine Erstausbildung (Berufsausbildung oder Studium) abgeschlossen hat oder wenn die Berufsausbildung oder das Studium im Rahmen eines Dienstverhältnisses stattfindet. ²Eine Berufsausbildung als Erstausbildung nach Satz 1 liegt vor, wenn eine geordnete Ausbildung mit einer Mindestdauer von 12 Monaten bei vollzeitiger Ausbildung und mit einer Abschlussprüfung durchgeführt wird. ³Eine geordnete Ausbildung liegt vor, wenn sie auf der Grundlage von Rechts- oder Verwaltungsvorschriften oder internen Vorschriften eines Bildungsträgers durchgeführt wird. ⁴Ist eine Abschlussprüfung nach dem Ausbildungsplan nicht vorgesehen, gilt die Ausbildung mit der tatsächlichen planmäßigen Beendigung als abgeschlossen. ⁵Eine Berufsausbildung als Erstausbildung hat auch abgeschlossen, wer die Abschlussprüfung einer durch Rechts- oder Verwaltungsvorschriften geregelten Berufsausbildung mit einer Mindestdauer von 12 Monaten bestanden hat, ohne dass er zuvor die entsprechende Berufsausbildung durchlaufen hat.
+
+> **Fußnote**
+>
+> (+++ § 9: Zur Anwendung vgl. § 52 +++)  
+> (+++ § 9 Abs. 1, 2, 4, 4a: Zur Anwendung vgl. § 10 Abs. 1 +++)  
+> (+++ § 9 Abs. 1 Satz 3 Nr. 5b: Zur Anwendung vgl. § 4 Abs. 10 +++)
+
+<!-- norm id="BJNE006125123" -->
 #### § 9a Pauschbeträge für Werbungskosten
 
-1             Für Werbungskosten sind bei der Ermittlung der Einkünfte
-die folgenden Pauschbeträge abzuziehen, wenn nicht höhere
-Werbungskosten nachgewiesen werden:
+¹Für Werbungskosten sind bei der Ermittlung der Einkünfte die folgenden Pauschbeträge abzuziehen, wenn nicht höhere Werbungskosten nachgewiesen werden:
 
-1.
-    a)  von den Einnahmen aus nichtselbständiger Arbeit vorbehaltlich
-        Buchstabe b:
+- 1\.
+  - a) von den Einnahmen aus nichtselbständiger Arbeit vorbehaltlich Buchstabe b: ein Arbeitnehmer-Pauschbetrag von 1 230 Euro;
+  - b) von den Einnahmen aus nichtselbständiger Arbeit, soweit es sich um Versorgungsbezüge im Sinne des § 19 Absatz 2 handelt: ein Pauschbetrag von 102 Euro;
+- 2\. (weggefallen)
+- 3\. von den Einnahmen im Sinne des § 22 Nummer 1, 1a und 5: ein Pauschbetrag von insgesamt 102 Euro.
 
-        ein Arbeitnehmer-Pauschbetrag von 1 000 Euro;
+²Der Pauschbetrag nach Satz 1 Nummer 1 Buchstabe b darf nur bis zur Höhe der um den Versorgungsfreibetrag einschließlich des Zuschlags zum Versorgungsfreibetrag (§ 19 Absatz 2) geminderten Einnahmen, die Pauschbeträge nach Satz 1 Nummer 1 Buchstabe a und Nummer 3 dürfen nur bis zur Höhe der Einnahmen abgezogen werden. ³Beitragszahlungen an Gewerkschaften als Werbungskosten im Sinne des § 9 Absatz 1 Satz 3 Nummer 3 werden neben den Pauschbeträgen im Sinne des Satzes 1 berücksichtigt.
 
+> **Fußnote**
+>
+> (+++ § 9a: Zur Anwendung vgl. § 52 +++)  
+> (+++ § 9a Satz 1: Zur Anwendung vgl. § 22 Nr. 5 +++)
 
-    b)  von den Einnahmen aus nichtselbständiger Arbeit, soweit es sich um
-        Versorgungsbezüge im Sinne des § 19 Absatz 2 handelt:
+<!-- gliederung id="BJNG000708140" ebene="2" -->
+### 4a. Umsatzsteuerrechtlicher Vorsteuerabzug
 
-        ein Pauschbetrag von 102 Euro;
-
-
-
-
-
-2.  (weggefallen)
-
-
-3.  von den Einnahmen im Sinne des § 22 Nummer 1, 1a und 5:
-
-    ein Pauschbetrag von insgesamt 102 Euro.
-
-
-
-2             Der Pauschbetrag nach Satz 1 Nummer 1 Buchstabe b darf
-nur bis zur Höhe der um den Versorgungsfreibetrag einschließlich des
-Zuschlags zum Versorgungsfreibetrag (§ 19 Absatz 2) geminderten
-Einnahmen, die Pauschbeträge nach Satz 1 Nummer 1 Buchstabe a und
-Nummer 3 dürfen nur bis zur Höhe der Einnahmen abgezogen werden.
-
-
-### 4a. - Umsatzsteuerrechtlicher Vorsteuerabzug
-
-
-
+<!-- norm id="BJNE006214119" -->
 #### § 9b
 
-(1) Der Vorsteuerbetrag nach § 15 des Umsatzsteuergesetzes gehört,
-soweit er bei der Umsatzsteuer abgezogen werden kann, nicht zu den
-Anschaffungs- oder Herstellungskosten des Wirtschaftsguts, auf dessen
-Anschaffung oder Herstellung er entfällt.
+(1) Der Vorsteuerbetrag nach § 15 des Umsatzsteuergesetzes gehört, soweit er bei der Umsatzsteuer abgezogen werden kann, nicht zu den Anschaffungs- oder Herstellungskosten des Wirtschaftsguts, auf dessen Anschaffung oder Herstellung er entfällt.
 
-(2)
-1             Wird der Vorsteuerabzug nach § 15a des
-Umsatzsteuergesetzes berichtigt, so sind die Mehrbeträge als
-Betriebseinnahmen oder Einnahmen zu behandeln, wenn sie im Rahmen
-einer der Einkunftsarten des § 2 Absatz 1 Satz 1 bezogen werden; die
-Minderbeträge sind als Betriebsausgaben oder Werbungskosten zu
-behandeln, wenn sie durch den Betrieb veranlasst sind oder der
-Erwerbung, Sicherung und Erhaltung von Einnahmen dienen.
-2             Die Anschaffungs- oder Herstellungskosten bleiben in den
-Fällen des Satzes 1 unberührt.
+(2) ¹Wird der Vorsteuerabzug nach § 15a des Umsatzsteuergesetzes berichtigt, so sind die Mehrbeträge als Betriebseinnahmen oder Einnahmen zu behandeln, wenn sie im Rahmen einer der Einkunftsarten des § 2 Absatz 1 Satz 1 bezogen werden; die Minderbeträge sind als Betriebsausgaben oder Werbungskosten zu behandeln, wenn sie durch den Betrieb veranlasst sind oder der Erwerbung, Sicherung und Erhaltung von Einnahmen dienen. ²Die Anschaffungs- oder Herstellungskosten bleiben in den Fällen des Satzes 1 unberührt.
 
+> **Fußnote**
+>
+> (+++ § 9b Abs. 2: Zur Anwendung vgl. § 52 +++)
 
+<!-- gliederung id="BJNG000808140" ebene="2" -->

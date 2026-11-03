@@ -1,329 +1,94 @@
 # Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
-## Teil 14/48: Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern › Zweiter Abschnitt - Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten › Vierter Titel - Zahntechnische Leistungen
-*§ 88 – § 89a* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 14 G v. 10.12.2021 I 5162
+## Teil 14/51: Viertes Kapitel Beziehungen der Krankenkassen zu den Leistungserbringern › Zweiter Abschnitt Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten › Vierter Titel Zahntechnische Leistungen
+*§ 87a – § 88* · Quelle: https://www.gesetze-im-internet.de/sgb_5/ · Stand: Art. 1 G v. 26.6.2026 I Nr. 195 · Abruf: 2026-11-03
 
-#### Vierter Titel - Zahntechnische Leistungen
+##### § 87a Regionale Euro-Gebührenordnung, Morbiditätsbedingte Gesamtvergütung, Behandlungsbedarf der Versicherten
 
+(1) Abweichend von § 82 Abs. 2 Satz 2 und § 85 gelten für die Vergütung vertragsärztlicher Leistungen die in Absatz 2 bis 6 getroffenen Regelungen; dies gilt nicht für vertragszahnärztliche Leistungen.
 
+(2) Die Kassenärztliche Vereinigung und die Landesverbände der Krankenkassen und die Ersatzkassen gemeinsam und einheitlich vereinbaren auf der Grundlage des Orientierungswertes gemäß § 87 Absatz 2e jeweils bis zum 31. Oktober eines jeden Jahres einen Punktwert, der zur Vergütung der vertragsärztlichen Leistungen im Folgejahr anzuwenden ist. Die Vertragspartner nach Satz 1 können dabei einen Zuschlag auf den oder einen Abschlag von dem Orientierungswert gemäß § 87 Absatz 2e vereinbaren, um insbesondere regionale Besonderheiten bei der Kosten- und Versorgungsstruktur zu berücksichtigen. Darüber hinaus können auf der Grundlage von durch den Bewertungsausschuss festzulegenden Kriterien zur Verbesserung der Versorgung der Versicherten, insbesondere in Planungsbereichen, für die Feststellungen nach § 100 Absatz 1 oder Absatz 3 getroffen wurden, Zuschläge auf den Orientierungswert nach § 87 Absatz 2e für besonders förderungswürdige Leistungen sowie für Leistungen von besonders zu fördernden Leistungserbringern vereinbart werden. Bei der Festlegung des Zu- oder Abschlags ist zu gewährleisten, dass die medizinisch notwendige Versorgung der Versicherten sichergestellt ist. Aus dem vereinbarten Punktwert nach diesem Absatz und dem einheitlichen Bewertungsmaßstab für ärztliche Leistungen gemäß § 87 Absatz 1 ist eine regionale Gebührenordnung mit Euro-Preisen (regionale Euro-Gebührenordnung) zu erstellen. Besonders förderungswürdige Leistungen nach Satz 3 können auch vertragsärztliche Leistungen sein, die telemedizinisch erbracht werden. Für die Vereinbarungen nach diesem Absatz gilt § 71 Absatz 1 bis 3.
 
+(3) Ebenfalls jährlich bis zum 31. Oktober vereinbaren die in Absatz 2 Satz 1 genannten Vertragsparteien gemeinsam und einheitlich für das Folgejahr mit Wirkung für die Krankenkassen die von den Krankenkassen mit befreiender Wirkung an die jeweilige Kassenärztliche Vereinigung zu zahlenden morbiditätsbedingten Gesamtvergütungen für die gesamte vertragsärztliche Versorgung der Versicherten mit Wohnort im Bezirk der Kassenärztlichen Vereinigung. Hierzu vereinbaren sie als Punktzahlvolumen auf der Grundlage des einheitlichen Bewertungsmaßstabes den mit der Zahl und der Morbiditätsstruktur der Versicherten verbundenen Behandlungsbedarf und bewerten diesen mit dem nach Absatz 2 Satz 1 vereinbarten Punktwert in Euro; der vereinbarte Behandlungsbedarf gilt als notwendige medizinische Versorgung gemäß § 71 Abs. 1 Satz 1. Die im Rahmen des Behandlungsbedarfs erbrachten Leistungen sind mit den Preisen der Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten. Darüber hinausgehende Leistungen, die sich aus einem bei der Vereinbarung der morbiditätsbedingten Gesamtvergütung nicht vorhersehbaren Anstieg des morbiditätsbedingten Behandlungsbedarfs ergeben, sind von den Krankenkassen zeitnah, spätestens im folgenden Abrechnungszeitraum unter Berücksichtigung der Empfehlungen nach Absatz 5 Satz 1 Nr. 1 ebenfalls mit den in der Euro-Gebührenordnung nach Absatz 2 Satz 5 enthaltenen Preisen zu vergüten. Von den Krankenkassen sind folgende Leistungen und Zuschläge außerhalb der nach Satz 1 vereinbarten Gesamtvergütungen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten:
+
+- 1\. Leistungen im Rahmen der Substitutionsbehandlung der Drogenabhängigkeit gemäß den Richtlinien des Gemeinsamen Bundesausschusses,
+- 2\. Zuschläge nach § 87 Absatz 2b Satz 3 sowie Absatz 2c Satz 3 und 4,
+- 3\. Leistungen im Behandlungsfall, die aufgrund der Vermittlung durch die Terminservicestelle nach § 75 Absatz 1a Satz 3 Nummer 1 und 4 erbracht werden, sofern es sich nicht um Fälle nach § 75 Absatz 1a Satz 8 handelt,
+- 4\. Leistungen im Behandlungsfall bei Weiterbehandlung eines Patienten durch einen an der fachärztlichen Versorgung teilnehmenden Leistungserbringer nach Vermittlung durch einen an der hausärztlichen Versorgung teilnehmenden Leistungserbringer nach § 73 Absatz 1 Satz 2 Nummer 2,
+- 5\. bis zum 31. Dezember 2022 Leistungen im Behandlungsfall, die von Ärzten, die an der grundversorgenden oder unmittelbaren medizinischen Versorgung teilnehmen, gegenüber Patienten erbracht werden, die in der jeweiligen Arztpraxis erstmals untersucht und behandelt werden oder die mindestens zwei Jahre nicht in der jeweiligen Arztpraxis untersucht und behandelt wurden,
+- 6\. Leistungen im Behandlungsfall, die im Rahmen von bis zu fünf offenen Sprechstunden je Kalenderwoche ohne vorherige Terminvereinbarung gemäß § 19a Absatz 1 Satz 3 der Zulassungsverordnung für Vertragsärzte erbracht werden; bei einem reduzierten Versorgungsauftrag ist die Vergütung außerhalb der Gesamtvergütung auf die jeweils anteilige Zeit offener Sprechstunden je Kalenderwoche gemäß § 19a Absatz 1 Satz 4 der Zulassungsverordnung für Vertragsärzte begrenzt,
+- 7\. die regelmäßige Beratung nach § 2 Absatz 1a des Transplantationsgesetzes und
+- 8\. ab dem 1. April 2023 kinder- und jugendpsychiatrische Grundversorgung, Gespräche, Beratungen, Erörterungen, Abklärungen, Anleitung von Bezugs- oder Kontaktpersonen, Betreuung sowie kontinuierliche Mitbetreuung in häuslicher Umgebung oder in beschützenden Einrichtungen oder Heimen.
+
+Darüber hinaus können Leistungen außerhalb der nach Satz 1 vereinbarten Gesamtvergütungen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vergütet werden, wenn sie besonders gefördert werden sollen oder wenn dies medizinisch oder aufgrund von Besonderheiten bei Veranlassung und Ausführung der Leistungserbringung erforderlich ist. Ab dem 1. Januar 2023 sind die in Satz 5 Nummer 3, 4 und 6 genannten Leistungen bei der Abrechnung zu kennzeichnen. Die in Absatz 2 Satz 1 genannten Vertragspartner haben ab dem Jahr 2023 in jedem Quartal die morbiditätsbedingte Gesamtvergütung in den Vereinbarungen nach Satz 1 unter Berücksichtigung der arztgruppenspezifischen Auszahlungsquoten des jeweiligen Vorjahresquartals zu bereinigen, wenn und soweit das arztgruppenspezifische Punktzahlvolumen der in Satz 5 Nummer 6 genannten Leistungen der einzelnen Arztgruppen das arztgruppenspezifische Punktzahlvolumen dieser Leistungen im Vorjahresquartal um 3 Prozent übersteigt. Die arztgruppenspezifischen Auszahlungsquoten sind von den Kassenärztlichen Vereinigungen gegenüber den Krankenkassen nachzuweisen. Der Bewertungsausschuss evaluiert, ob und wieweit durch die Vergütung der Leistungen nach Satz 5 Nummer 6 außerhalb der nach Satz 1 vereinbarten Gesamtvergütung im Zeitraum vom 1. Juli 2019 bis zum 30. Juni 2024 gegenüber dem zum Vergleich herangezogenen Zeitraum eine Verbesserung des Zugangs zur fachärztlichen Versorgung eingetreten ist. Das Verfahren der Evaluierung bestimmt der Bewertungsausschuss im Einvernehmen mit dem Bundesministerium für Gesundheit. Der Bewertungsausschuss hat dem Bundesministerium für Gesundheit bis zum 31. Dezember 2024 über die Ergebnisse der Evaluierung zu berichten. Die Evaluierung umfasst auch die Evaluierung der Zuschläge nach § 87 Absatz 2b Satz 3 und Absatz 2c Satz 3 und 4. Abweichend von Satz 12 hat der Bewertungsausschuss dem Bundesministerium für Gesundheit halbjährlich, erstmals bis zum 30. September 2023, über die Ergebnisse der Evaluierung der Zuschläge nach § 87 Absatz 2b Satz 3 Nummer 1 und Absatz 2c Satz 3 Nummer 1 zu berichten. Die in Absatz 2 Satz 1 genannten Vertragspartner haben die morbiditätsbedingte Gesamtvergütung in den Vereinbarungen nach Absatz 3 Satz 1 um die in Satz 5 Nummer 8 genannten Leistungen für vier Quartale zu bereinigen. Hierzu wird die Leistungsmenge der Leistungen nach Satz 5 Nummer 8 aus dem Vorjahresquartal unter Berücksichtigung der Auszahlungsquote dieser Leistungen im Vorjahresquartal ermittelt. Die Auszahlungsquote ist von der Kassenärztlichen Vereinigung gegenüber den Krankenkassen nachzuweisen. Die Bereinigung darf nicht zu Lasten anderer Arztgruppen gehen. In den Vereinbarungen zur Bereinigung ist auch über notwendige Korrekturverfahren zu entscheiden. Das Nähere regelt der Bewertungsausschuss.
+
+(3a) Für den Fall der überbezirklichen Durchführung der vertragsärztlichen Versorgung sind die Leistungen abweichend von Absatz 3 Satz 3 und 4 von den Krankenkassen mit den Preisen zu vergüten, die in der Kassenärztlichen Vereinigung gelten, deren Mitglied der Leistungserbringer ist. Weichen die nach Absatz 2 Satz 5 vereinbarten Preise von den Preisen nach Satz 1 ab, so ist die Abweichung zeitnah, spätestens bei der jeweils folgenden Vereinbarung der Veränderung der morbiditätsbedingten Gesamtvergütung zu berücksichtigen. Die Zahl der Versicherten nach Absatz 3 Satz 2 ist entsprechend der Zahl der auf den zugrunde gelegten Zeitraum entfallenden Versichertentage zu ermitteln. Weicht die bei der Vereinbarung der morbiditätsbedingten Gesamtvergütung zu Grunde gelegte Zahl der Versicherten von der tatsächlichen Zahl der Versicherten im Vereinbarungszeitraum ab, ist die Abweichung zeitnah, spätestens bei der jeweils folgenden Vereinbarung der Veränderung der morbiditätsbedingten Gesamtvergütung zu berücksichtigen. Ausgaben für Kostenerstattungsleistungen nach § 13 Abs. 2 und nach § 53 Abs. 4 mit Ausnahme der Kostenerstattungsleistungen nach § 13 Abs. 2 Satz 5 sind auf die nach Absatz 3 Satz 1 zu zahlende Gesamtvergütung anzurechnen.
+
+(3b) Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin sind von den Krankenkassen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vollständig zu vergüten, soweit sie aus der für diese Leistungen festgesetzten morbiditätsbedingten Gesamtvergütung vollständig vergütet werden können. Abweichend von Absatz 3 Satz 1 und § 85 Absatz 1 wird die auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung nicht mit befreiender Wirkung gezahlt. Wenn die vollständige Vergütung der in Satz 1 genannten Leistungen mit den Preisen der regionalen Euro-Gebührenordnung die festgesetzte morbiditätsbedingte Gesamtvergütung für die in Satz 1 genannten Leistungen über einen Zeitraum vom zweiten Kalenderquartal eines Kalenderjahres bis zum ersten Kalenderquartal des folgenden Kalenderjahres insgesamt unterschreitet, vereinbaren die in Absatz 2 Satz 1 genannten Vertragsparteien bis zum Ablauf des zweiten Kalenderquartal des letztgenannten Kalenderjahres jeweils Zuschläge zur Förderung der Kinder- und Jugendmedizin, deren Auszahlungshöhe in Summe der Höhe der genannten Unterschreitung entspricht. Sind im Zeitraum einer in Satz 3 genannten Unterschreitung nach Satz 13 Ausgleichszahlungen zu leisten, so sind diese Ausgleichszahlungen mit der Unterschreitung zu verrechnen. Für die nach Satz 10 in den Kalenderjahren 2027 und 2028 jeweils zu erfolgende quartalsweise Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung im Bezirk einer Kassenärztlichen Vereinigung, haben die Vertragspartner nach Absatz 2 Satz 1 jeweils den prozentualen Anteil des Honorarvolumens, das für die in Satz 1 genannten Leistungen in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des Zeitraums vom 1. April 2022 bis 31. März 2023 gemäß dem in § 87b Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, am Honorarvolumen, das für den Leistungsbedarf aller Arztgruppen innerhalb der morbiditätsbedingten Gesamtvergütung in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des Zeitraums vom 1. April 2022 bis 31. März 2023 gemäß dem in § 87b Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, zu bestimmen und diesen prozentualen Anteil mit der für das jeweilige Kalenderquartal vereinbarten und bereinigten morbiditätsbedingten Gesamtvergütung zu multiplizieren. Soweit aufgrund von Änderungen des nach Absatz 3 Satz 2 vereinbarten Behandlungsbedarfs einschließlich Abgrenzungsänderungen der nach Absatz 3 Satz 6 in der bis zum 29. Juli 2026 geltenden Fassung vergüteten Leistungen der Behandlungsbedarf für die in Satz 1 genannten Leistungen für das jeweilige Kalenderquartal gegenüber dem diesem Kalenderquartal entsprechenden Kalenderquartal des Zeitraums vom 1. April 2022 bis 31. März 2023 abweicht, ist der nach Satz 5 zu bestimmende prozentuale Anteil entsprechend anzupassen. Satz 6 gilt für die gesetzlich vorgesehenen Bereinigungen des Behandlungsbedarfs entsprechend. Sofern das Honorarvolumen für die in Satz 1 genannten Leistungen in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des Zeitraums vom 1. April 2022 bis 31. März 2023 leistungsbezogene und nicht leistungsbezogene Zuschläge und zusätzliche Honorarauszahlungen enthält, haben die Vertragsparteien nach Absatz 2 Satz 1 diese Zuschläge und zusätzlichen Honorarauszahlungen in der quartalsweise festzulegenden morbiditätsbedingten Gesamtvergütung für die in Satz 1 genannten Leistungen zu berücksichtigen. Für die in den Sätzen 3 und 8 genannten Zuschläge sowie für die in Absatz 2 Satz 2 und 3 genannten Zuschläge gilt Satz 2 nicht. Der Bewertungsausschuss beschließt bis zum 31. August 2026 Vorgaben für ein Verfahren zur Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung, die quartalsweise für die Kalenderquartale des Kalenderjahres 2027 und des Kalenderjahres 2028 bis zum ersten Tag des jeweiligen Kalenderquartals, erstmalig bis zum ersten Tag des auf den Beschluss des Bewertungsausschusses folgenden Kalenderquartals, und ab dem Kalenderjahr 2029 jährlich bis zum 1. Januar des jeweiligen Kalenderjahres zu erfolgen hat. Die Vorgaben des Bewertungsausschusses nach Satz 10 haben insbesondere die Anpassung des nach Absatz 2 Satz 1 zu vereinbarenden Punktwertes und die Veränderung des nach Absatz 3 Satz 2 zu vereinbarenden Behandlungsbedarfs für die in Satz 1 genannten Leistungen sowie die jeweils auf die Veränderung entfallenden Bereinigungen einzubeziehen. Zudem beschließt der Bewertungsausschuss Vorgaben für ein Verfahren zur Ermittlung des auf die jeweilige Krankenkasse entfallenden Anteils an den in Satz 13 genannten Ausgleichszahlungen, der sich nach ihrem jeweiligen leistungsmengenbezogenen Anteil an der Ausgleichszahlung zu bemessen hat. Wenn in dem Bezirk einer Kassenärztlichen Vereinigung die Differenz zwischen der festgesetzten, auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung und den mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 bewerteten in Satz 1 genannten Leistungen ausschließlich der in Satz 8 genannten Zuschläge und zusätzlichen Honorarauszahlungen in einem Kalenderquartal einen Wert von null unterschreitet, leisten die Krankenkassen an die jeweilige Kassenärztliche Vereinigung Ausgleichszahlungen in Höhe ihres jeweiligen nach dem in Satz 12 genannten Verfahren ermittelten Anteil an der Differenz, um die vollständige Vergütung der in Satz 1 genannten Leistungen zu gewährleisten. Sofern eine Ausgleichzahlung für ein Kalenderquartal zu leisten ist und in diesem Kalenderquartal mehr Leistungen erbracht wurden als im entsprechenden Kalenderquartal des Vorjahres, sind die Leistungen, deren Anzahl die Anzahl der Leistungen aus dem entsprechenden Kalenderquartal des Vorjahres übersteigt, mit den um einen Abschlag für die allgemeine Kostendegression bei Fallzahlsteigerungen geminderten Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten. Die geminderten Preise gelten auch bei einer Verrechnung nach Satz 4. Der Bewertungsausschuss hat bis zum 7. September 2026 die Höhe des Abschlags auf die regionale Euro-Gebührenordnung nach Absatz 2 Satz 5 festzusetzen. Der Bewertungsausschuss analysiert die Auswirkungen der Regelungen des § 87d Absatz 1 Nummer 4, dieses Absatzes sowie der Regelungen in § 87b Absatz 1 Satz 3 zweiter Halbsatz auf die Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin insbesondere auf die Versorgung der Kinder und Jugendlichen, die Honorare der Leistungserbringer sowie die Ausgaben der Krankenkassen quartalsweise und berichtet dem Bundesministerium für Gesundheit jährlich bis zum 31. Dezember 2029 über die Ergebnisse dieser Analyse. Er veröffentlicht die Ergebnisse der Analyse auf der Internetseite des Instituts des Bewertungsausschusses. Der Bewertungsausschuss beschließt bis zum 1. Oktober 2026 Vorgaben zu in Absatz 6 genannten Datenübermittlungen, mit denen die Kassenärztlichen Vereinigungen gegenüber den Krankenkassen die quartalsweise Festsetzung und ab dem Kalenderjahr 2029 die jährliche Fortschreibung der auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung, die Entwicklung des finanziellen Bedarfs für die in Satz 1 genannten Leistungen, eine etwaige in Satz 3 genannte Unterschreitung, die in den Sätzen 3 und 8 genannten Zuschläge sowie Ausgleichszahlungen nach Satz 13 nachweisen.
+
+(3c) Leistungen des Versorgungsbereichs der allgemeinen hausärztlichen Versorgung einschließlich der in Zusammenhang mit diesem Versorgungsbereich erbrachten Hausbesuche, soweit diese Leistungen nach sachlicher und rechnerischer Prüfung durch die Kassenärztliche Vereinigung anerkannt wurden (hausärztlicher Leistungsbedarf), sind von den Krankenkassen mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 vollständig zu vergüten, soweit sie aus der für diese Leistungen festgesetzten morbiditätsbedingten Gesamtvergütung vollständig vergütet werden können. Abweichend von Absatz 3 Satz 1 und § 85 Absatz 1 wird die auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung nicht mit befreiender Wirkung gezahlt. Für die nach Satz 7 in den Kalenderjahren 2025 und 2026 jeweils zu erfolgende quartalsweise Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung im Bezirk einer Kassenärztlichen Vereinigung haben die Vertragspartner nach Absatz 2 Satz 1 jeweils den prozentualen Anteil des Honorarvolumens, das für den hausärztlichen Leistungsbedarf einschließlich sämtlicher auf diesen entfallender leistungsbezogener und nicht leistungsbezogener Zuschläge und einschließlich zusätzlicher Honorarauszahlungen in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des Jahres 2023 gemäß dem in § 87b Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, am Honorarvolumen, das für den Leistungsbedarf aller Arztgruppen innerhalb der morbiditätsbedingten Gesamtvergütung in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des Jahres 2023 einschließlich sämtlicher auf diesen entfallender leistungsbezogener und nicht leistungsbezogener Zuschläge und einschließlich zusätzlicher Honorarauszahlungen gemäß dem in § 87b Absatz 1 Satz 2 genannten Verteilungsmaßstab ausgezahlt wurde, zu bestimmen und diesen prozentualen Anteil mit der für das jeweilige Kalenderquartal vereinbarten und bereinigten morbiditätsbedingten Gesamtvergütung zu multiplizieren. Soweit aufgrund von Änderungen des nach Absatz 3 Satz 2 vereinbarten Behandlungsbedarfs einschließlich Abgrenzungsänderungen der nach Absatz 3 Satz 6 in der bis zum 29. Juli 2026 geltenden Fassung vergüteten Leistungen der Behandlungsbedarf für die in Satz 1 genannten Leistungen für das jeweilige Kalenderquartal gegenüber dem diesem Kalenderquartal entsprechenden Kalenderquartal des Jahres 2023 abweicht, ist der nach Satz 3 zu bestimmende prozentuale Anteil entsprechend anzupassen. Satz 4 gilt für die gesetzlich vorgesehenen Bereinigungen des Behandlungsbedarfs entsprechend. Sofern das Honorarvolumen für die in Satz 1 genannten Leistungen in dem dem jeweiligen Kalenderquartal entsprechenden Kalenderquartal des Jahres 2023 leistungsbezogene und nicht leistungsbezogene Zuschläge und zusätzliche Honorarauszahlungen enthält, haben die Vertragsparteien nach Absatz 2 Satz 1 diese Zuschläge und zusätzlichen Honorarauszahlungen in der quartalsweise festzulegenden morbiditätsbedingten Gesamtvergütung für die in Satz 1 genannten Leistungen zu berücksichtigen. Der Bewertungsausschuss beschließt bis zum 31. Mai 2025 Vorgaben für ein Verfahren zur Festsetzung der auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung, die quartalsweise für die Kalenderquartale des Kalenderjahres 2025 und des Kalenderjahres 2026 bis zum ersten Tag des jeweiligen Kalenderquartals, erstmalig bis zum 1. Oktober 2025, und ab dem Kalenderjahr 2027 jährlich bis zum 1. Januar des jeweiligen Kalenderjahres zu erfolgen hat. Die Vorgaben des Bewertungsausschusses nach Satz 7 haben insbesondere die Anpassung des nach Absatz 2 Satz 1 zu vereinbarenden Punktwertes und die Veränderung des nach Absatz 3 Satz 2 zu vereinbarenden Behandlungsbedarfs für die in Satz 1 genannten Leistungen sowie die jeweils auf die Veränderung entfallenden Bereinigungen einzubeziehen. Wenn in dem Bezirk einer Kassenärztlichen Vereinigung die Differenz zwischen der festgesetzten, auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung und dem mit den Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 bewerteten hausärztlichen Leistungsbedarf ausschließlich der in Satz 6 genannten Zuschläge und zusätzlichen Honorarauszahlungen in einem Kalenderquartal einen Wert von null unterschreitet, leisten die Krankenkassen Ausgleichszahlungen an die jeweilige Kassenärztliche Vereinigung in Höhe ihres jeweiligen nach dem in Satz 15 genannten Verfahren ermittelten Anteil an der Differenz, um die vollständige Vergütung des hausärztlichen Leistungsbedarfs zu gewährleisten. Sofern eine Ausgleichszahlung für ein Kalenderquartal zu leisten ist und in diesem Kalenderquartal mehr Leistungen erbracht wurden als im entsprechenden Kalenderquartal des Vorjahres, sind die Leistungen, deren Anzahl die Anzahl der Leistungen aus dem entsprechenden Kalenderquartal des Vorjahres übersteigt, mit den um einen Abschlag für die allgemeine Kostendegression bei Fallzahlsteigerungen geminderten Preisen der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 zu vergüten. Die geminderten Preise gelten auch bei einer Verrechnung nach Satz 13. Der Bewertungsausschuss hat bis zum 7. September 2026 die Höhe des Abschlags auf die Preise der regionalen Euro-Gebührenordnung nach Absatz 2 Satz 5 festzusetzen. Die Ausgleichzahlungen sind mit einer Unterschreitung der festgesetzten, auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung durch den hausärztlichen Leistungsbedarf in den vorangegangenen Kalenderquartalen zu verrechnen. Wenn der hausärztliche Leistungsbedarf die festgesetzte, auf die in Satz 1 genannten Leistungen entfallende morbiditätsbedingte Gesamtvergütung über einen Zeitraum vom zweiten Kalenderquartal eines Kalenderjahres bis zum ersten Kalenderquartal des folgenden Kalenderjahres insgesamt unterschreitet, vereinbaren die in Absatz 2 Satz 1 genannten Vertragsparteien bis zum Ablauf des zweiten Kalenderquartals des letztgenannten Kalenderjahres jeweils Zuschläge zur Förderung der hausärztlichen Versorgung, deren Auszahlungshöhe in Summe der Höhe der genannten Unterschreitung entspricht. Der Bewertungsausschuss beschließt bis zum 1. Oktober 2025 Vorgaben für ein Verfahren zur Ermittlung des auf die jeweilige Krankenkasse entfallenden Anteils an den in Satz 9 genannten Ausgleichszahlungen, der sich nach ihrem jeweiligen leistungsmengenbezogenen Anteil an der Ausgleichszahlung zu bemessen hat. Für die in den Sätzen 6 und 14 genannten Zuschläge sowie für die in Absatz 2 Satz 2 und 3 genannten Zuschläge gilt Satz 2 nicht. Der Bewertungsausschuss beschließt bis zum 1. Mai 2025 Vorgaben zu in Absatz 6 genannten Datenübermittlungen, mit denen die Kassenärztlichen Vereinigungen gegenüber den Krankenkassen quartalsweise die erstmalige Festsetzung und ab dem Kalenderjahr 2027 die jährliche Fortschreibung der auf die in Satz 1 genannten Leistungen entfallenden morbiditätsbedingten Gesamtvergütung, die Entwicklung des hausärztlichen Leistungsbedarfs, eine etwaige in Satz 13 genannte Unterschreitung, die in den Sätzen 6 und 14 genannten Zuschläge sowie die Ausgleichszahlungen nach Satz 9 nachweisen. Der Bewertungsausschuss analysiert die Auswirkungen der Regelungen dieses Absatzes insbesondere im Hinblick auf die hausärztliche Versorgung der Versicherten, die Honorare der Leistungserbringer sowie die Ausgaben der Krankenkassen quartalsweise und berichtet jährlich dem Bundesministerium für Gesundheit, erstmals bis zum 30. September 2027 und letztmals bis zum 30. September 2029, über die Ergebnisse dieser Analyse. Er veröffentlicht die Ergebnisse der Analyse auf der Internetseite des Instituts des Bewertungsausschusses.
+
+(4) Grundlage der Vereinbarung über die Anpassung des Behandlungsbedarfs jeweils aufsetzend auf dem insgesamt für alle Versicherten mit Wohnort im Bezirk einer Kassenärztlichen Vereinigung für das Vorjahr nach Absatz 3 Satz 2 vereinbarten und bereinigten Behandlungsbedarf sind insbesondere Veränderungen
+
+- 1\. der Zahl der Versicherten der Krankenkasse mit Wohnort im Bezirk der jeweiligen Kassenärztlichen Vereinigung,
+- 2\. der Morbiditätsstruktur der Versicherten aller Krankenkassen mit Wohnort im Bezirk der jeweiligen Kassenärztlichen Vereinigung,
+- 3\. von Art und Umfang der ärztlichen Leistungen, soweit sie auf einer Veränderung des gesetzlichen oder satzungsmäßigen Leistungsumfangs der Krankenkassen oder auf Beschlüssen des Gemeinsamen Bundesausschusses nach § 135 Absatz 1 beruhen,
+- 4\. des Umfangs der vertragsärztlichen Leistungen aufgrund von Verlagerungen von Leistungen zwischen dem stationären und dem ambulanten Sektor und
+- 5\. des Umfangs der vertragsärztlichen Leistungen aufgrund der Ausschöpfung von Wirtschaftlichkeitsreserven bei der vertragsärztlichen Leistungserbringung;
+
+dabei sind die Empfehlungen und Vorgaben des Bewertungsausschusses gemäß Absatz 5 zu berücksichtigen. Bei der Ermittlung des Aufsatzwertes für den Behandlungsbedarf nach Satz 1 für eine Krankenkasse ist ihr jeweiliger Anteil an dem insgesamt für alle Versicherten mit Wohnort im Bezirk der Kassenärztlichen Vereinigung für das Vorjahr vereinbarten, bereinigten Behandlungsbedarf entsprechend ihres aktuellen Anteils an der Menge der für vier Quartale abgerechneten Leistungen jeweils nach sachlich-rechnerischer Richtigstellung anzupassen. Die jeweils jahresbezogene Veränderung der Morbiditätsstruktur im Bezirk einer Kassenärztlichen Vereinigung ist auf der Grundlage der vertragsärztlichen Behandlungsdiagnosen gemäß § 295 Absatz 1 Satz 2 einerseits sowie auf der Grundlage demografischer Kriterien (Alter und Geschlecht) andererseits durch eine gewichtete Zusammenfassung der vom Bewertungsausschuss als Empfehlungen nach Absatz 5 Satz 2 bis 4 mitgeteilten Raten zu vereinbaren. Falls erforderlich, können weitere für die ambulante Versorgung relevante Morbiditätskriterien herangezogen werden. Die jeweils jahresbezogene Veränderung der Morbiditätsstruktur im Bezirk einer Kassenärztlichen Vereinigung nach Satz 3 ist ab dem Jahr, in dem die nach Absatz 5 Satz 2 bis 4 mitgeteilte Veränderungsrate auf der Grundlage der Behandlungsdiagnosen der Jahre 2023 bis 2025 ermittelt wird, allein auf der Grundlage dieser Veränderungsrate zu vereinbaren.
+
+(4a) Über eine mit Wirkung ab dem 1. Januar 2017 einmalige basiswirksame Erhöhung des nach Absatz 4 Satz 1 für das Jahr 2016 angepassten Aufsatzwertes ist in den Vereinbarungen nach Absatz 3 Satz 1 im Jahr 2016 zu verhandeln, wenn die jeweils für das Jahr 2014 und jeweils einschließlich der Bereinigungen zu berechnende durchschnittliche an die Kassenärztliche Vereinigung entrichtete morbiditätsbedingte Gesamtvergütung je Versicherten mit Wohnort im Bezirk der Kassenärztlichen Vereinigung die durchschnittliche an alle Kassenärztlichen Vereinigungen im Bundesgebiet entrichtete morbiditätsbedingte Gesamtvergütung je Versicherten unterschreitet. Die Berechnungen nach Satz 1 werden durch das Institut nach § 87 Absatz 3b Satz 1 durchgeführt. Es teilt den Vertragsparteien nach Absatz 2 Satz 1 und dem Bundesministerium für Gesundheit das Ergebnis bis spätestens zum 15. September 2016 mit. Eine einmalige basiswirksame Erhöhung des Aufsatzwertes ist nur dann zu vereinbaren, wenn in den Verhandlungen nach Satz 1 festgestellt wird, dass der Aufsatzwert im Jahr 2014 unbegründet zu niedrig war. Ob und in welchem Umfang der Aufsatzwert im Jahr 2014 unbegründet zu niedrig war, ist von der Kassenärztlichen Vereinigung auch unter Berücksichtigung der Inanspruchnahme des stationären Sektors nachzuweisen. Der Aufsatzwert ist in dem Umfang zu erhöhen, wie der Aufsatzwert im Jahr 2014 unbegründet zu niedrig war. Die durch die vereinbarte Erhöhung des Aufsatzwertes einschließlich der Bereinigungen sich ergebende morbiditätsbedingte Gesamtvergütung je Versicherten mit Wohnort im Bezirk der betroffenen Kassenärztlichen Vereinigung im Jahr 2014 darf die für das Jahr 2014 berechnete durchschnittliche an alle Kassenärztlichen Vereinigungen im Bundesgebiet einschließlich der Bereinigung entrichtete morbiditätsbedingte Gesamtvergütung je Versicherten nicht übersteigen. Die Erhöhung erfolgt um einen im Bezirk der Kassenärztlichen Vereinigung für alle Krankenkassen einheitlichen Faktor. Die vereinbarte Erhöhung kann auch schrittweise über mehrere Jahre verteilt werden. Die zusätzlichen Mittel sind zur Verbesserung der Versorgungsstruktur einzusetzen. Umverteilungen zu Lasten anderer Kassenärztlicher Vereinigungen sind auszuschließen.
+
+(5) Der Bewertungsausschuss beschließt Empfehlungen
+
+- 1\. zur Vereinbarung des Umfangs des nicht vorhersehbaren Anstiegs des morbiditätsbedingten Behandlungsbedarfs nach Absatz 3 Satz 4,
+- 2\. zur Vereinbarung von Veränderungen der Morbiditätsstruktur nach Absatz 4 Satz 1 Nummer 2 sowie
+- 3\. zur Bestimmung von Vergütungen nach Absatz 3 Satz 6.
+
+Bei der Empfehlung teilt der Bewertungsausschuss den in Absatz 2 Satz 1 genannten Vertragspartnern die Ergebnisse der Berechnungen des Instituts des Bewertungsausschusses zu den Veränderungen der Morbiditätsstruktur nach Absatz 4 Satz 1 Nummer 2 mit. Das Institut des Bewertungsausschusses errechnet für jeden Bezirk einer Kassenärztlichen Vereinigung zwei einheitliche Veränderungsraten, wobei eine Rate insbesondere auf den Behandlungsdiagnosen gemäß § 295 Absatz 1 Satz 2 und die andere Rate auf demografischen Kriterien (Alter und Geschlecht) basiert. Die Veränderungsraten werden auf der Grundlage des Beschlusses des erweiterten Bewertungsausschusses vom 2. September 2009 Teil B Nummer 2.3 bestimmt mit der Maßgabe, die Datengrundlagen zu aktualisieren. Zur Ermittlung der diagnosenbezogenen Rate ist das geltende Modell des Klassifikationsverfahrens anzuwenden. Der Bewertungsausschuss kann das Modell in bestimmten Zeitabständen auf seine weitere Eignung für die Anwendung in der vertragsärztlichen Versorgung überprüfen und fortentwickeln. Der Bewertungsausschuss hat zudem Vorgaben für ein Verfahren zur Bereinigung des Behandlungsbedarfs in den durch dieses Gesetz vorgesehenen Fällen sowie zur Ermittlung der Aufsatzwerte nach Absatz 4 Satz 1 und der Anteile der einzelnen Krankenkassen nach Absatz 4 Satz 2 zu beschließen; er kann darüber hinaus insbesondere Empfehlungen zur Vereinbarung von Veränderungen nach Absatz 4 Satz 1 Nummer 3 bis 5 und Satz 3 und 4 sowie ein Verfahren zur Bereinigung der Relativgewichte des Klassifikationsverfahrens im Falle von Vergütungen nach Absatz 3 Satz 5 und 6 beschließen. Die Empfehlungen nach Satz 1 sowie die Vorgaben nach Satz 7 sind jährlich bis spätestens zum 31. August zu beschließen; die Mitteilungen nach Satz 2 erfolgen jährlich bis spätestens zum 15. September. Der Bewertungsausschuss beschließt geeignete pauschalierende Verfahren zur Bereinigung des Behandlungsbedarfs in den Fällen des § 73b Absatz 7 Satz 7 und 8. In den Vorgaben zur Ermittlung der Aufsatzwerte nach Absatz 4 Satz 1 sind auch Vorgaben zu beschließen, die die Aufsatzwerte einmalig und basiswirksam jeweils in dem Umfang erhöhen, der dem jeweiligen Betrag der Honorarerhöhung durch die Aufhebung des Investitionskostenabschlags nach § 120 Absatz 3 Satz 2 in der bis einschließlich 31. Dezember 2015 geltenden Fassung entspricht. Ab dem Jahr, in dem die Veränderungsraten auf der Grundlage der Behandlungsdiagnosen der Jahre 2020 bis 2022 durch das Institut des Bewertungsausschusses nach Satz 3 errechnet werden, sind Kodiereffekte, die insbesondere durch die Einführung und Aktualisierung der verbindlichen Regelungen nach § 295 Absatz 4 Satz 2 zur Vergabe und Übermittlung der Schlüssel nach § 295 Absatz 1 Satz 6 entstehen, in den Berechnungen zu bereinigen. Hierzu hat der Bewertungsausschuss ein entsprechendes Verfahren zu beschließen. Der Bewertungsausschuss hat bis zum 1. September 2019 Vorgaben zu beschließen, bei welchen Arztgruppen, die an der grundversorgenden oder unmittelbaren medizinischen Versorgung teilnehmen, eine Vergütung nach Absatz 3 Satz 5 Nummer 5 vorzusehen ist. Soweit erforderlich, beschließt der Bewertungsausschuss in der Zusammensetzung nach § 87 Absatz 5a für die von ihm beschlossenen Vergütungen für Leistungen die Empfehlungen zur Bestimmung von Vergütungen nach Absatz 3 Satz 6.
+
+(5a) Der Bewertungsausschuss erstellt zum Zwecke der Erhöhung der Transparenz über die der Empfehlung nach Absatz 5 Satz 1 Nummer 2 zugrunde liegenden Datengrundlagen einen Bericht über die Veränderungen der Behandlungsdiagnosen und den Einfluss der jeweiligen Behandlungsdiagnose auf die Veränderungsrate für jeden Bezirk einer Kassenärztlichen Vereinigung. Der Bericht ist dem Bundesministerium für Gesundheit zusammen mit der Empfehlung und den der Empfehlung zugrunde liegenden weiteren Beratungsunterlagen vorzulegen. § 87 Absatz 6 Satz 10 gilt entsprechend.
+
+(6) Der Bewertungsausschuss beschließt erstmals bis zum 31. März 2012 Vorgaben zu Art, Umfang, Zeitpunkt und Verfahren der für die Vereinbarungen und Berechnungen nach den Absätzen 2 bis 4 erforderlichen Datenübermittlungen von den Kassenärztlichen Vereinigungen und Krankenkassen an das Institut des Bewertungsausschusses, welches den Vertragspartnern nach Absatz 2 Satz 1 die jeweils erforderlichen Datengrundlagen bis zum 30. Juni eines jeden Jahres zur Verfügung stellt; § 87 Absatz 3f Satz 2 gilt entsprechend.
+
+<!-- norm id="BJNE053112126" -->
+##### § 87b Vergütung der Ärzte (Honorarverteilung)
+
+(1) Die Kassenärztliche Vereinigung verteilt die vereinbarten Gesamtvergütungen an die Ärzte, Psychotherapeuten, medizinischen Versorgungszentren sowie ermächtigten Einrichtungen, die an der vertragsärztlichen Versorgung teilnehmen, getrennt für die Bereiche der hausärztlichen und der fachärztlichen Versorgung; dabei sollen die von fachärztlich tätigen Ärzten erbrachten hausärztlichen Leistungen nicht den hausärztlichen Teil der Gesamtvergütungen und die von hausärztlich tätigen Ärzten erbrachten fachärztlichen Leistungen nicht den fachärztlichen Teil der Gesamtvergütungen mindern. Die Kassenärztliche Vereinigung wendet bei der Verteilung den Verteilungsmaßstab an, der im Benehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen festgesetzt worden ist. Die Vergütung der Leistungen im Notfall und im Notdienst erfolgt aus einem vor der Trennung für die Versorgungsbereiche gebildeten eigenen Honorarvolumen mit der Maßgabe, dass für diese Leistungen im Verteilungsmaßstab keine Maßnahmen zur Begrenzung oder Minderung des Honorars angewandt werden dürfen; im Verteilungsmaßstab dürfen für Leistungen des Versorgungsbereichs der Kinder- und Jugendmedizin und für Leistungen des Versorgungsbereichs der allgemeinen hausärztlichen Versorgung einschließlich der in Zusammenhang mit diesem Versorgungsbereich erbrachten Hausbesuche ebenfalls keine Maßnahmen zur Begrenzung oder Minderung des Honorars angewandt werden, sofern kein Fall von § 87a Absatz 3b Satz 14 oder Absatz 3c Satz 10 vorliegt. Bisherige Bestimmungen, insbesondere zur Zuweisung von arzt- und praxisbezogenen Regelleistungsvolumen, gelten bis zur Entscheidung über einen Verteilungsmaßstab vorläufig fort.
+
+(2) Der Verteilungsmaßstab hat Regelungen vorzusehen, die verhindern, dass die Tätigkeit des Leistungserbringers über seinen Versorgungsauftrag nach § 95 Absatz 3 oder seinen Ermächtigungsumfang hinaus übermäßig ausgedehnt wird; dabei soll dem Leistungserbringer eine Kalkulationssicherheit hinsichtlich der Höhe seines zu erwartenden Honorars ermöglicht werden. Der Verteilungsmaßstab hat der kooperativen Behandlung von Patienten in dafür gebildeten Versorgungsformen angemessen Rechnung zu tragen. Für Praxisnetze, die von den Kassenärztlichen Vereinigungen anerkannt sind, müssen gesonderte Vergütungsregelungen vorgesehen werden; für solche Praxisnetze können auch eigene Honorarvolumen als Teil der morbiditätsbedingten Gesamtvergütungen nach § 87a Absatz 3 gebildet werden. Im Verteilungsmaßstab sind Regelungen zur Vergütung psychotherapeutischer Leistungen der Psychotherapeuten, der Fachärzte für Kinder- und Jugendpsychiatrie und -psychotherapie, der Fachärzte für Psychiatrie und Psychotherapie, der Fachärzte für Nervenheilkunde, der Fachärzte für psychosomatische Medizin und Psychotherapie sowie der ausschließlich psychotherapeutisch tätigen Ärzte zu treffen, die eine angemessene Höhe der Vergütung je Zeiteinheit gewährleisten. Im Verteilungsmaßstab dürfen keine Maßnahmen zur Begrenzung oder Minderung des Honorars für anästhesiologische Leistungen angewandt werden, die im Zusammenhang mit vertragszahnärztlichen Behandlungen von Patienten mit mangelnder Kooperationsfähigkeit bei geistiger Behinderung oder schwerer Dyskinesie notwendig sind. Widerspruch und Klage gegen die Honorarfestsetzung sowie gegen deren Änderung oder Aufhebung haben keine aufschiebende Wirkung.
+
+(2a) Mindert sich die Fallzahl in einem die Fortführung der Arztpraxis gefährdenden Umfang infolge einer Pandemie, Epidemie, Endemie, Naturkatastrophe oder eines anderen Großschadensereignisses, soll die Kassenärztliche Vereinigung im Benehmen mit den Landesverbänden der Krankenkassen und den Ersatzkassen im Verteilungsmaßstab geeignete Regelungen zur Fortführung der vertragsärztlichen Tätigkeit des Leistungserbringers vorsehen. Regelungen nach Satz 1 können auch bei einer Minderung von Fallzahlen von Leistungen vorgesehen werden, die nach § 87a Absatz 3 Satz 5 Nummer 1, 3, 4, 5 und 6 und Satz 6 vergütet werden. In der Vergangenheit gebildete und noch nicht aufgelöste Rückstellungen im Rahmen der Honorarverteilung sollen ebenfalls verwendet werden. Eine weitere Voraussetzung für die Zahlung von Kompensationszahlungen ist, dass der vertragsärztliche Leistungserbringer die in § 19a Absatz 1 der Zulassungsverordnung für Vertragsärzte festgelegten Mindestsprechstunden einhält. Bei einer Unterschreitung der in § 19a Absatz 1 der Zulassungsverordnung für Vertragsärzte festgelegten Mindestsprechstunden können Kompensationszahlungen nur vorgenommen werden, wenn der vertragsärztliche Leistungserbringer durch eine Pandemie, Epidemie, Endemie, Naturkatastrophe oder ein anderes Großschadensereignis verursachte rechtfertigende Gründe für die Unterschreitung nachweist.
+
+(3) Hat der Landesausschuss der Ärzte und Krankenkassen einen Beschluss nach § 100 Absatz 1 oder 3 getroffen, dürfen für Ärzte der betroffenen Arztgruppe im Verteilungsmaßstab Maßnahmen zur Fallzahlbegrenzung oder -minderung nicht bei der Behandlung von Patienten des betreffenden Planungsbereiches angewendet werden. Darüber hinausgehend hat der Verteilungsmaßstab geeignete Regelungen vorzusehen, nach der die Kassenärztliche Vereinigung im Einzelfall verpflichtet ist, zu prüfen, ob und in welchem Umfang diese Maßnahme ausreichend ist, die Sicherstellung der medizinischen Versorgung zu gewährleisten. Die Kassenärztliche Vereinigung veröffentlicht einmal jährlich in geeigneter Form Informationen über die Grundsätze und Versorgungsziele des Honorarverteilungsmaßstabs.
+
+(4) Die Kassenärztliche Bundesvereinigung hat Vorgaben zur Festlegung und Anpassung des Vergütungsvolumens für die hausärztliche und fachärztliche Versorgung nach Absatz 1 Satz 1 sowie Kriterien und Qualitätsanforderungen für die Anerkennung besonders förderungswürdiger Praxisnetze nach Absatz 2 Satz 3 als Rahmenvorgabe für Richtlinien der Kassenärztlichen Vereinigungen, insbesondere zu Versorgungszielen, im Einvernehmen mit dem Spitzenverband Bund der Krankenkassen zu bestimmen. Darüber hinaus hat die Kassenärztliche Bundesvereinigung Vorgaben insbesondere zu den Regelungen des Absatzes 2 Satz 1 bis 4 und zur Durchführung geeigneter und neutraler Verfahren zur Honorarbereinigung zu bestimmen; dabei ist das Benehmen mit dem Spitzenverband Bund der Krankenkassen herzustellen. Die Vorgaben nach den Sätzen 1 und 2 sind von den Kassenärztlichen Vereinigungen zu beachten. Die Kassenärztlichen Vereinigungen haben bis spätestens zum 23. Oktober 2015 Richtlinien nach Satz 1 zu beschließen.
+
+(5) Die Regelungen der Absätze 1 bis 4 gelten nicht für vertragszahnärztliche Leistungen.
+
+<!-- norm id="BJNE053203126" -->
+##### § 87c Transparenz der Vergütung vertragsärztlicher Leistungen
+
+Die Kassenärztliche Bundesvereinigung veröffentlicht für jedes Quartal zeitnah nach Abschluss des jeweiligen Abrechnungszeitraumes sowie für jede Kassenärztliche Vereinigung einen Bericht über die Ergebnisse der Honorarverteilung, über die Gesamtvergütungen, über die Bereinigungssummen und über das Honorar je Arzt und je Arztgruppe. Zusätzlich ist über Arztzahlen, Fallzahlen und Leistungsmengen zu informieren, um mögliche regionale Honorarunterschiede zu erklären. Die Kassenärztlichen Vereinigungen übermitteln der Kassenärztlichen Bundesvereinigung hierzu die erforderlichen Daten. Das Bundesministerium für Gesundheit wird ermächtigt, durch Rechtsverordnung das Nähere zu Form, Inhalt, Umfang sowie zu den Fristen der Berichte und zu den Datenübermittlungen zu bestimmen.
+
+<!-- norm id="BJNE056802124" -->
+##### § 87d (weggefallen)
+
+<!-- norm id="BJNE045605124" -->
+##### § 87e Zahlungsanspruch bei Mehrkosten
+
+Abrechnungsgrundlage für die Mehrkosten nach § 28 Abs. 2 Satz 2, § 29 Absatz 5 Satz 1 und § 55 Abs. 4 ist die Gebührenordnung für Zahnärzte. Der Zahlungsanspruch des Vertragszahnarztes gegenüber dem Versicherten ist bei den für diese Mehrkosten zu Grunde liegenden Leistungen auf das 2,3fache des Gebührensatzes der Gebührenordnung für Zahnärzte begrenzt. Bei Mehrkosten für lichthärtende Composite-Füllungen in Schicht- und Ätztechnik im Seitenzahnbereich nach § 28 Abs. 2 Satz 2 ist höchstens das 3,5fache des Gebührensatzes der Gebührenordnung für Zahnärzte berechnungsfähig. Die Begrenzung nach den Sätzen 2 und 3 entfällt, wenn der Gemeinsame Bundesausschuss seinen Auftrag gemäß § 92 Abs. 1a und der Bewertungsausschuss seinen Auftrag gemäß § 87 Abs. 2h Satz 2 erfüllt hat. Maßgebend ist der Tag des Inkrafttretens der Richtlinien und der Tag des Beschlusses des Bewertungsausschusses.
+
+<!-- gliederung id="BJNG002600328" ebene="3" -->
+#### Vierter Titel Zahntechnische Leistungen
+
+<!-- norm id="BJNE017106126" -->
 ##### § 88 Bundesleistungsverzeichnis, Datenaustausch, Vergütungen
 
-(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem
-Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches
-Verzeichnis der abrechnungsfähigen zahntechnischen Leistungen. Die
-Vereinbarung nach Satz 1 umfasst auch Festlegungen zu Inhalt und
-Umfang der im Rahmen der Erbringung zahntechnischer Leistungen
-elektronisch auszutauschenden Daten sowie zu deren Übermittlung. Das
-bundeseinheitliche Verzeichnis ist im Benehmen mit der
-Kassenzahnärztlichen Bundesvereinigung zu vereinbaren.
+(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches Verzeichnis der abrechnungsfähigen zahntechnischen Leistungen. Die Vereinbarung nach Satz 1 umfasst auch Festlegungen zu Inhalt und Umfang der im Rahmen der Erbringung zahntechnischer Leistungen elektronisch auszutauschenden Daten sowie zu deren Übermittlung. Das bundeseinheitliche Verzeichnis ist im Benehmen mit der Kassenzahnärztlichen Bundesvereinigung zu vereinbaren.
 
-(2) Die Landesverbände der Krankenkassen und die Ersatzkassen
-vereinbaren mit den Innungsverbänden der Zahntechniker die Vergütungen
-für die nach dem bundeseinheitlichen Verzeichnis abrechnungsfähigen
-zahntechnischen Leistungen, ohne die zahntechnischen Leistungen beim
-Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen. Die
-vereinbarten Vergütungen sind Höchstpreise. Die Krankenkassen können
-die Versicherten sowie die Zahnärzte über preisgünstige
-Versorgungsmöglichkeiten informieren.
+(2) Die Landesverbände der Krankenkassen und die Ersatzkassen vereinbaren mit den Innungsverbänden der Zahntechniker die Vergütungen für die nach dem bundeseinheitlichen Verzeichnis abrechnungsfähigen zahntechnischen Leistungen, ohne die zahntechnischen Leistungen beim Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen. Die vereinbarten Vergütungen sind Höchstpreise. Die Krankenkassen können die Versicherten sowie die Zahnärzte über preisgünstige Versorgungsmöglichkeiten informieren.
 
-(3) Preise für zahntechnische Leistungen nach Absatz 1 ohne die
-zahntechnischen Leistungen beim Zahnersatz einschließlich Zahnkronen
-und Suprakonstruktionen, die von einem Zahnarzt erbracht werden, haben
-die Preise nach Absatz 2 Satz 1 und 2 um mindestens 5 vom Hundert zu
-unterschreiten. Hierzu können Verträge nach § 83 abgeschlossen werden.
+(3) Preise für zahntechnische Leistungen nach Absatz 1 ohne die zahntechnischen Leistungen beim Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen, die von einem Zahnarzt erbracht werden, haben die Preise nach Absatz 2 Satz 1 und 2 um mindestens 5 vom Hundert zu unterschreiten. Hierzu können Verträge nach § 83 abgeschlossen werden.
 
-
-#### Fünfter Titel - Schiedswesen
-
-
-
-##### § 89 Schiedsamt, Verordnungsermächtigungen
-
-(1) Die Kassenärztlichen Vereinigungen, die Landesverbände der
-Krankenkassen sowie die Ersatzkassen bilden je ein gemeinsames
-Schiedsamt für die vertragsärztliche Versorgung und ein gemeinsames
-Schiedsamt für die vertragszahnärztliche Versorgung
-(Landesschiedsämter).
-
-(2) Die Kassenärztlichen Bundesvereinigungen und der Spitzenverband
-Bund der Krankenkassen bilden ein gemeinsames Schiedsamt für die
-vertragsärztliche Versorgung und ein gemeinsames Schiedsamt für die
-vertragszahnärztliche Versorgung (Bundesschiedsämter).
-
-(3) Kommt ein Vertrag über die vertragsärztliche oder die
-vertragszahnärztliche Versorgung ganz oder teilweise nicht zustande,
-setzt das zuständige Schiedsamt mit der Mehrheit der Stimmen seiner
-Mitglieder innerhalb von drei Monaten den Vertragsinhalt fest. Wird
-ein für die Einleitung des Verfahrens erforderlicher Antrag nicht
-gestellt, können auch die für das jeweilige Schiedsamt oder die für
-die Vertragsparteien zuständigen Aufsichtsbehörden, nachdem sie den
-Organisationen, die das Schiedsamt bilden, eine Frist zur
-Antragstellung gesetzt haben und die Frist abgelaufen ist oder nach
-Ablauf einer für das Zustandekommen des Vertrages gesetzlich
-vorgeschriebenen Frist, das Schiedsamt mit Wirkung für die
-Vertragsparteien anrufen. Das Schiedsamtsverfahren beginnt mit dem bei
-dem Schiedsamt gestellten Antrag.
-
-(4) Kündigt eine Vertragspartei einen Vertrag, hat sie die Kündigung
-dem zuständigen Schiedsamt schriftlich oder elektronisch mitzuteilen.
-Kommt bis zum Ablauf des Vertrages kein neuer Vertrag zustande, setzt
-das zuständige Schiedsamt mit der Mehrheit der Stimmen seiner
-Mitglieder innerhalb von drei Monaten den Inhalt des neuen Vertrages
-fest. In diesem Fall gelten die Bestimmungen des bisherigen Vertrages
-bis zur Festsetzung des Inhalts des neuen Vertrages durch das
-Schiedsamt weiter. Das Schiedsamtsverfahren beginnt mit dem auf den
-Ablauf der Kündigungsfrist folgenden Tag.
-
-(5) Die Landesschiedsämter und die Bundesschiedsämter bestehen aus je
-vier Vertretern der Ärzte oder Zahnärzte und vier Vertretern der
-Krankenkassen sowie einem unparteiischen Vorsitzenden und zwei
-weiteren unparteiischen Mitgliedern. Bei der Festsetzung des Inhalts
-eines Vertrages, der nicht alle Kassenarten betrifft, wirken als
-Vertreter der Krankenkassen nur Vertreter der betroffenen Kassenarten
-im Schiedsamt mit. Die in Absatz 1 genannten Landesverbände der
-Krankenkassen und die Ersatzkassen können von Satz 2 abweichende
-Regelungen vereinbaren. Für jedes Mitglied gibt es zwei
-Stellvertreter. Die Amtsdauer der Mitglieder beträgt vier Jahre. Die
-Vertreter und Stellvertreter werden jeweils durch die Organisationen,
-die das jeweilige Schiedsamt bilden, bestellt. Kommt eine Bestellung
-durch die Organisationen nicht zustande, bestellt die für das
-jeweilige Schiedsamt zuständige Aufsichtsbehörde die Vertreter und
-Stellvertreter, nachdem sie den Organisationen eine Frist zur
-Bestellung gesetzt hat und diese Frist abgelaufen ist.
-
-(6) Über den unparteiischen Vorsitzenden und die zwei weiteren
-unparteiischen Mitglieder sowie deren Stellvertreter sollen sich die
-Vertragsparteien einigen. § 213 Absatz 2 in der bis zum 31. Dezember
-2008 geltenden Fassung gilt für die Landesverbände der Krankenkassen
-und die Ersatzkassen entsprechend. Kommt eine Einigung nicht zustande,
-erfolgt eine Bestellung des unparteiischen Vorsitzenden, der weiteren
-unparteiischen Mitglieder und deren Stellvertreter durch die für das
-jeweilige Schiedsamt zuständige Aufsichtsbehörde, nachdem sie den
-Vertragsparteien eine Frist zur Einigung gesetzt hat und diese Frist
-abgelaufen ist. Die unparteiischen Mitglieder und deren Stellvertreter
-gelten als bestellt, sobald sie sich den beteiligten Vertragsparteien
-gegenüber zur Amtsübernahme bereit erklärt haben.
-
-(7) Die Mitglieder des Schiedsamtes führen ihr Amt als Ehrenamt. Sie
-sind an Weisungen nicht gebunden. Die unparteiischen Mitglieder und
-ihre Stellvertreter können aus wichtigem Grund von der für das
-jeweilige Schiedsamt zuständigen Aufsichtsbehörde abberufen werden.
-Die Vertreter der Ärzte oder Zahnärzte und die Vertreter der
-Krankenkassen sowie ihre Stellvertreter können von den Organisationen,
-die sie bestellt haben, abberufen werden. Eine Amtsniederlegung ist
-gegenüber den Organisationen zu erklären, die das jeweilige Schiedsamt
-gebildet haben. Die Mitglieder sind verpflichtet, an den Sitzungen des
-Schiedsamtes teilzunehmen oder bei Verhinderung ihre Stellvertreter zu
-benachrichtigen. Eine Stimmenthaltung ist unzulässig. Jedes Mitglied
-hat eine Stimme.
-
-(8) Das Schiedsamt ist beschlussfähig, wenn alle Mitglieder oder deren
-Stellvertreter anwesend sind. Ist das Schiedsamt in einer Sitzung
-nicht beschlussfähig, ist innerhalb von 14 Kalendertagen nach dieser
-Sitzung eine erneute Sitzung einzuberufen. In dieser erneuten Sitzung
-ist die Beschlussfähigkeit gegeben, wenn die unparteiischen Mitglieder
-oder deren Stellvertreter und mehr als die Hälfte der weiteren
-Mitglieder des Schiedsamtes oder deren Stellvertreter anwesend sind.
-Ist auch in der erneuten Sitzung keine Beschlussfähigkeit nach Satz 3
-gegeben, setzen die unparteiischen Mitglieder des Schiedsamtes den
-Vertragsinhalt fest. Auf diese Folgen ist in der Einladung zur
-erneuten Sitzung ausdrücklich hinzuweisen.
-
-(9) Setzt das Schiedsamt innerhalb der Frist nach Absatz 3 Satz 1 oder
-Absatz 4 Satz 2 keinen Vertragsinhalt fest, setzt die für das
-jeweilige Schiedsamt zuständige Aufsichtsbehörde eine Frist zur
-Festsetzung des Vertragsinhalts. Nach Ablauf dieser Frist setzen die
-unparteiischen Mitglieder des Schiedsamtes den Vertragsinhalt fest.
-Die unparteiischen Mitglieder können auf Kosten der Vertragsparteien
-Datenerhebungen, Auswertungen oder Sachverständigengutachten in
-Auftrag geben. Klagen gegen Entscheidungen des Schiedsamtes sowie
-Klagen gegen Entscheidungen der Aufsichtsbehörden nach diesem
-Paragraphen haben keine aufschiebende Wirkung. Ein Vorverfahren findet
-in den Fällen des Satzes 4 nicht statt.
-
-(10) Die Aufsicht über die Landesschiedsämter führen die für die
-Sozialversicherung zuständigen obersten Verwaltungsbehörden der
-Länder. Die Landesregierungen können durch Rechtsverordnung eine
-andere Behörde als Aufsichtsbehörde bestimmen; die Landesregierungen
-können diese Ermächtigung auf die obersten Landesbehörden
-weiterübertragen. Die Aufsicht über die Bundesschiedsämter führt das
-Bundesministerium für Gesundheit. Die Aufsicht erstreckt sich auf die
-Beachtung von Gesetz und sonstigem Recht. Die Aufsicht umfasst auch
-das Recht zur Teilnahme an den Sitzungen der Schiedsämter; das Recht
-zur Teilnahme an den Sitzungen der Schiedsämter gilt auch für das
-Bundesversicherungsamt, sofern ihm die Entscheidungen der Schiedsämter
-gemäß Satz 6 vorzulegen sind. Die Entscheidungen der Schiedsämter über
-die Vergütung der Leistungen nach § 57 Absatz 1 und 2, den §§ 83, 85
-und 87a sind der jeweiligen zuständigen Aufsichtsbehörde vorzulegen.
-Die Aufsichtsbehörden können die Entscheidungen bei einem
-Rechtsverstoß innerhalb von zwei Monaten nach Vorlage beanstanden. Für
-Klagen der Vertragspartner gegen die Beanstandung gilt Absatz 9 Satz 4
-und 5 entsprechend.
-
-(11) Das Bundesministerium für Gesundheit bestimmt durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
-Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren
-Auslagen und die Entschädigung für Zeitaufwand der Mitglieder der
-Schiedsämter, die Geschäftsführung, das Verfahren, die Erhebung und
-die Höhe der Gebühren sowie über die Verteilung der Kosten.
-
-(12) Der Verband Deutscher Zahntechniker-Innungen und der
-Spitzenverband Bund der Krankenkassen bilden ein weiteres Schiedsamt
-auf Bundesebene. Das Schiedsamt besteht aus Vertretern des Verbandes
-Deutscher Zahntechniker-Innungen und des Spitzenverbandes Bund der
-Krankenkassen in gleicher Zahl sowie einem unparteiischen Vorsitzenden
-und zwei weiteren unparteiischen Mitgliedern. Im Übrigen gelten die
-Absätze 3, 4, 5 Satz 4 bis 7, die Absätze 6, 7, 8, 9 und 10 Satz 3, 4
-und 5 sowie die aufgrund des Absatzes 11 erlassene
-Schiedsamtsverordnung entsprechend.
-
-(13) Die Innungsverbände der Zahntechniker, die Landesverbände der
-Krankenkassen und die Ersatzkassen bilden ein weiteres Schiedsamt auf
-Landesebene. Das Schiedsamt besteht aus Vertretern der Innungsverbände
-der Zahntechniker und der Krankenkassen in gleicher Zahl sowie einem
-unparteiischen Vorsitzenden und zwei weiteren unparteiischen
-Mitgliedern. Im Übrigen gelten die Absätze 3, 4, 5 Satz 4 bis 7, die
-Absätze 6, 7, 8, 9 und 10 Satz 1, 2, 4 und 5 sowie die aufgrund des
-Absatzes 11 erlassene Verordnung entsprechend.
-
-
-##### § 89a Sektorenübergreifendes Schiedsgremium, Verordnungsermächtigungen
-
-(1) Die Kassenärztlichen Vereinigungen, die Landesverbände der
-Krankenkassen und die Ersatzkassen sowie die
-Landeskrankenhausgesellschaften oder die Vereinigungen der
-Krankenhausträger im Land bilden je ein sektorenübergreifendes
-Schiedsgremium.
-
-(2) Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der
-Krankenkassen und die Deutsche Krankenhausgesellschaft bilden ein
-sektorenübergreifendes Schiedsgremium auf Bundesebene.
-
-(3) Die sektorenübergreifenden Schiedsgremien nach den Absätzen 1 und
-2 entscheiden in den ihnen durch Gesetz oder aufgrund eines Gesetzes
-zugewiesenen Aufgaben mit einer Mehrheit von zwei Dritteln der Stimmen
-ihrer Mitglieder innerhalb von drei Monaten. Wird ein für die
-Einleitung des Verfahrens erforderlicher Antrag nicht gestellt, können
-auch die für das jeweilige sektorenübergreifende Schiedsgremium oder
-die für die Vertragsparteien zuständigen Aufsichtsbehörden, nachdem
-sie den Organisationen, die das sektorenübergreifende Schiedsgremium
-bilden, eine Frist zur Antragstellung gesetzt haben und die Frist
-abgelaufen ist oder nach Ablauf einer für das Zustandekommen des
-sektorenübergreifenden Vertrages gesetzlich vorgeschrieben Frist, das
-sektorenübergreifende Schiedsgremium mit Wirkung für die
-Vertragsparteien anrufen. Das Schiedsverfahren beginnt mit dem bei dem
-sektorenübergreifenden Schiedsgremium gestellten Antrag.
-
-(4) Kündigt eine Vertragspartei einen sektorenübergreifenden Vertrag,
-hat sie die Kündigung dem zuständigen sektorenübergreifenden
-Schiedsgremium schriftlich oder elektronisch mitzuteilen. Kommt bis
-zum Ablauf des Vertrages kein neuer Vertrag zustande, setzt das
-zuständige sektorenübergreifende Schiedsgremium mit einer Mehrheit von
-zwei Dritteln der Stimmen seiner Mitglieder innerhalb von drei Monaten
-den Inhalt des neuen Vertrages fest. In diesem Fall gelten die
-Bestimmungen des bisherigen Vertrages bis zur Festsetzung des Inhalts
-des neuen Vertrages durch das sektorenübergreifende Schiedsgremium
-weiter. Das Schiedsverfahren beginnt mit dem auf den Ablauf der
-Kündigungsfrist folgenden Tag.
-
-(5) Die sektorenübergreifenden Schiedsgremien nach den Absätzen 1 und
-2 bestehen aus je zwei Vertretern der Ärzte, der Krankenkassen und der
-zugelassenen Krankenhäuser sowie einem unparteiischen Vorsitzenden und
-einem weiteren unparteiischen Mitglied. Für jedes Mitglied gibt es
-zwei Stellvertreter. Die Amtsdauer der Mitglieder beträgt vier Jahre.
-Die Vertreter und Stellvertreter werden jeweils durch die
-Organisationen, die das jeweilige sektorenübergreifende Schiedsgremium
-bilden, bestellt. Kommt eine Bestellung durch die Organisationen nicht
-zustande, bestellt die für das sektorenübergreifende Schiedsgremium
-zuständige Aufsichtsbehörde die Vertreter und Stellvertreter, nachdem
-sie den Organisationen eine Frist zur Bestellung gesetzt hat und diese
-Frist abgelaufen ist.
-
-(6) Über den unparteiischen Vorsitzenden und das weitere unparteiische
-Mitglied sowie deren Stellvertreter sollen sich die Vertragsparteien
-einigen. Kommt eine Einigung nicht zustande, erfolgt eine Bestellung
-des unparteiischen Vorsitzenden, des weiteren unparteiischen Mitglieds
-und von deren Stellvertretern durch die für das sektorenübergreifende
-Schiedsgremium zuständige Aufsichtsbehörde, nachdem sie den
-Vertragsparteien eine Frist zur Einigung gesetzt hat und diese Frist
-abgelaufen ist. Die unparteiischen Mitglieder und deren Stellvertreter
-gelten als bestellt, sobald sie sich den beteiligten Vertragsparteien
-gegenüber zur Amtsübernahme bereit erklärt haben.
-
-(7) Die Mitglieder des sektorenübergreifenden Schiedsgremiums führen
-ihr Amt als Ehrenamt. Sie sind an Weisungen nicht gebunden. Die
-unparteiischen Mitglieder und ihre Stellvertreter können aus wichtigem
-Grund von der für das jeweilige sektorenübergreifende Schiedsgremium
-zuständigen Aufsichtsbehörde abberufen werden. Die Vertreter der
-Ärzte, der Krankenkassen und der zugelassenen Krankenhäuser sowie
-deren Stellvertreter können von den Organisationen, die sie bestellt
-haben, abberufen werden. Eine Amtsniederlegung ist gegenüber den
-Organisationen zu erklären, die das jeweilige sektorenübergreifende
-Schiedsgremium gebildet haben. Die Mitglieder sind verpflichtet, an
-den Sitzungen des sektorenübergreifenden Schiedsgremiums teilzunehmen
-oder bei Verhinderung ihre Stellvertreter zu benachrichtigen. Eine
-Stimmenthaltung ist unzulässig. Jedes Mitglied hat eine Stimme.
-
-(8) Das sektorenübergreifende Schiedsgremium ist beschlussfähig, wenn
-alle Mitglieder oder deren Stellvertreter anwesend sind. Ist das
-sektorenübergreifende Schiedsgremium in einer Sitzung nicht
-beschlussfähig, ist innerhalb von 14 Kalendertagen nach dieser Sitzung
-eine erneute Sitzung einzuberufen. In dieser erneuten Sitzung ist die
-Beschlussfähigkeit gegeben, wenn der unparteiische Vorsitzende und das
-weitere unparteiische Mitglied oder deren Stellvertreter und mehr als
-die Hälfte der weiteren Mitglieder des sektorenübergreifenden
-Schiedsgremiums oder deren Stellvertreter anwesend sind. Ist auch in
-der erneuten Sitzung keine Beschlussfähigkeit nach Satz 3 gegeben,
-setzen die beiden unparteiischen Mitglieder des sektorenübergreifenden
-Schiedsgremiums den Vertragsinhalt fest. Bei Stimmengleichheit gibt
-die Stimme des Vorsitzenden den Ausschlag. Auf diese Folgen ist in der
-Einladung zur erneuten Sitzung ausdrücklich hinzuweisen.
-
-(9) Setzt das sektorenübergreifende Schiedsgremium innerhalb der Frist
-nach Absatz 3 Satz 1 oder Absatz 4 Satz 2 keinen Vertragsinhalt fest,
-setzt die für das jeweilige sektorenübergreifende Schiedsgremium
-zuständige Aufsichtsbehörde eine Frist zur Festsetzung des
-Vertragsinhalts. Nach Ablauf dieser Frist setzen die beiden
-unparteiischen Mitglieder des sektorenübergreifenden Schiedsgremiums
-den Vertragsinhalt fest. Bei Stimmengleichheit gibt die Stimme des
-Vorsitzenden den Ausschlag. Die unparteiischen Mitglieder können auf
-Kosten der Vertragsparteien Datenerhebungen, Auswertungen oder
-Sachverständigengutachten in Auftrag geben. Klagen gegen
-Entscheidungen des sektorenübergreifenden Schiedsgremiums sowie Klagen
-gegen Entscheidungen der Aufsichtsbehörde nach diesem Paragraphen
-haben keine aufschiebende Wirkung. Ein Vorverfahren findet in den
-Fällen des Satzes 4 nicht statt.
-
-(10) Die Aufsicht über die sektorenübergreifenden Schiedsgremien nach
-Absatz 1 führen die für die Sozialversicherung zuständigen obersten
-Verwaltungsbehörden der Länder. Die Landesregierungen können durch
-Rechtsverordnung eine andere Behörde als Aufsichtsbehörde bestimmen;
-die Landesregierungen können diese Ermächtigung auf die obersten
-Landesbehörden weiterübertragen. Die Aufsicht über das
-sektorenübergreifende Schiedsgremium auf Bundesebene führt das
-Bundesministerium für Gesundheit. Die Aufsicht erstreckt sich auf die
-Beachtung von Gesetz und sonstigem Recht. Das Aufsichtsrecht umfasst
-auch das Recht zur Teilnahme an den Sitzungen; das Recht zur Teilnahme
-an den Sitzungen der Schiedsgremien gilt auch für das
-Bundesversicherungsamt, soweit ihm die Entscheidungen der
-Schiedsgremien gemäß Satz 6 vorzulegen sind. Die Entscheidungen der
-Schiedsgremien über die Vergütung der Leistungen nach § 116b Absatz 6
-sind der jeweiligen zuständigen Aufsichtsbehörde vorzulegen. Die
-Aufsichtsbehörden können die Entscheidungen bei einem Rechtsverstoß
-innerhalb von zwei Monaten nach Vorlage beanstanden. Für Klagen der
-Vertragspartner gegen die Beanstandung gilt Absatz 9 Satz 5 und 6
-entsprechend.
-
-(11) Das Bundesministerium für Gesundheit bestimmt durch
-Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
-Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren
-Auslagen und die Entschädigungen für Zeitaufwand der Mitglieder der
-sektorenübergreifenden Schiedsgremien, die Geschäftsführung, das
-Verfahren, die Erhebung und die Höhe der Gebühren sowie über die
-Verteilung der Kosten.
-
-(12) Die Regelungen der Absätze 1 bis 11 gelten nicht für die
-Kassenzahnärztlichen Vereinigungen und die Kassenzahnärztliche
-Bundesvereinigung.
-
-
+<!-- gliederung id="BJNG002700328" ebene="3" -->

@@ -38,7 +38,7 @@ Search this file for a word from the question in German, English or Arabic. Each
 - **EN:** discrimination, equal treatment, harassment, race, gender, religion, disability, age, sexual orientation, compensation
 - **AR:** تمييز، المساواة في المعاملة، تحرش، العرق، الجنس، الدين، الإعاقة، العمر، الميول الجنسية، تعويض عن التمييز
 
-## WoEigG – Gesetz über das Wohnungseigentum und das Dauerwohnrecht  →  `laws/weg-wohnungseigentum/`
+## WEG – Gesetz über das Wohnungseigentum und das Dauerwohnrecht  →  `laws/weg-wohnungseigentum/`
 
 - **DE:** Wohnungseigentum, Eigentümergemeinschaft, Hausgeld, Verwalter, Eigentümerversammlung, Sondereigentum, Gemeinschaftseigentum, Teilungserklärung
 - **EN:** condominium, apartment ownership, owners association, service charge, property manager, owners meeting, common property
@@ -284,31 +284,31 @@ Search this file for a word from the question in German, English or Arabic. Each
 - **EN:** data protection, GDPR supplement, personal data, data protection officer, employee data protection, video surveillance, credit scoring, right of access, erasure, data protection fine, supervisory authority, sensitive data processing
 - **AR:** حماية البيانات، اللائحة العامة لحماية البيانات، البيانات الشخصية، مسؤول حماية البيانات، حماية بيانات الموظفين، المراقبة بالفيديو، التقييم الائتماني، حق الوصول للبيانات، حذف البيانات، غرامة حماية البيانات، هيئة الرقابة، معالجة البيانات الحساسة
 
-## TTDSG – Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei Telemedien  →  `laws/ttdsg-telekommunikation-telemedien-datenschutz/`
+## TDDDG – Gesetz über den Datenschutz und den Schutz der Privatsphäre in der Telekommunikation und bei digitalen Diensten  →  `laws/ttdsg-telekommunikation-telemedien-datenschutz/`
 
 - **DE:** Cookies, Einwilligung Cookies, Cookie Banner, Fernmeldegeheimnis, Telekommunikation Datenschutz, Telemedien Datenschutz, Endeinrichtungen, Tracking, Standortdaten, Nachrichten Vertraulichkeit, digitales Erbe Account
 - **EN:** cookies, cookie consent, cookie banner, secrecy of telecommunications, telecommunications privacy, telemedia privacy, terminal equipment, tracking, location data, confidentiality of communications, digital legacy account
 - **AR:** الكوكيز، ملفات تعريف الارتباط، الموافقة على الكوكيز، سرية الاتصالات، خصوصية الاتصالات، خصوصية الإنترنت، الأجهزة الطرفية، التتبع، بيانات الموقع، سرية الرسائل
 
-## TMG – Telemediengesetz  →  `laws/tmg-telemedien/`
+## DDG – Digitale-Dienste-Gesetz  →  `laws/ddg-digitale-dienste/`
 
-- **DE:** Impressum, Anbieterkennzeichnung, Telemedien, Haftung Hosting, Haftung Links, Störerhaftung, Herkunftslandprinzip, kommerzielle Kommunikation, Website Pflichtangaben, Diensteanbieter
-- **EN:** imprint, legal notice website, provider identification, telemedia, hosting liability, liability for links, country of origin principle, commercial communication, website mandatory information, service provider
-- **AR:** بيانات الناشر، الإشعار القانوني للموقع، تعريف مقدم الخدمة، خدمات الإنترنت، مسؤولية الاستضافة، المسؤولية عن الروابط، مبدأ بلد المنشأ، التواصل التجاري، المعلومات الإلزامية للموقع، مقدم الخدمة
+- **DE:** Impressum, Anbieterkennzeichnung, digitale Dienste, Digital Services Act, DSA Durchsetzung, Haftung Hosting, Haftung Links, Plattformen, Koordinierungsstelle, Bundesnetzagentur, Telemediengesetz Nachfolger, Diensteanbieter, Website Pflichtangaben, Beschwerde Plattform
+- **EN:** imprint, legal notice website, provider identification, digital services, Digital Services Act, DSA enforcement, hosting liability, liability for links, platforms, digital services coordinator, federal network agency, telemedia act successor, service provider, website mandatory information, platform complaint
+- **AR:** بيانات الناشر، الإشعار القانوني للموقع، تعريف مقدم الخدمة، خدمات الإنترنت، مسؤولية الاستضافة، المسؤولية عن الروابط، مبدأ بلد المنشأ، التواصل التجاري، المعلومات الإلزامية للموقع، مقدم الخدمة، الخدمات الرقمية، قانون الخدمات الرقمية، تنفيذ قانون الخدمات الرقمية، المنصات، منسق الخدمات الرقمية، شكوى ضد منصة
 
-## AufenthG – und die Integration von Ausländern im Bundesgebiet  →  `laws/aufenthg-aufenthaltsrecht/`
+## AufenthG – Gesetz über den Aufenthalt, die Erwerbstätigkeit und die Integration von Ausländern im Bundesgebiet  →  `laws/aufenthg-aufenthaltsrecht/`
 
 - **DE:** Aufenthaltstitel, Aufenthaltserlaubnis, Visum, Niederlassungserlaubnis, Blaue Karte EU, Erlaubnis zum Daueraufenthalt EU, Fachkraft, Erwerbstätigkeit, Arbeitserlaubnis, Studium Aufenthalt, Ausbildung Aufenthalt, Arbeitsplatzsuche, Familiennachzug, Ehegattennachzug, Kindernachzug, Sprachnachweis, Lebensunterhalt gesichert, Ausweisung, Abschiebung, Duldung, Ausreisepflicht, Einreiseverbot, Ausländerbehörde, Fiktionsbescheinigung, Integrationskurs, humanitärer Aufenthalt, Aufenthalt aus humanitären Gründen, Chancenkarte, Selbständige, Au-pair, Forscher, Wohnsitzauflage, Verlängerung Aufenthaltserlaubnis, Passpflicht
 - **EN:** residence permit, residence title, visa, settlement permit, permanent residence, EU Blue Card, EU long-term residence, skilled worker, work permit, employment, student visa, vocational training visa, job seeker visa, family reunification, spouse visa, child reunification, language requirement, secured livelihood, expulsion, deportation, tolerated stay, obligation to leave, entry ban, foreigners office, immigration office, fiction certificate, integration course, humanitarian residence, self-employed visa, au pair, researcher visa, residence obligation, permit extension, passport requirement
 - **AR:** تصريح إقامة، سند إقامة، فيزا، تأشيرة، إقامة دائمة، البطاقة الزرقاء الأوروبية، إقامة طويلة الأمد في الاتحاد الأوروبي، عامل مؤهل، تصريح عمل، العمل، فيزا دراسة، إقامة دراسة، فيزا تدريب مهني، فيزا البحث عن عمل، لم شمل الأسرة، لم شمل الزوج، لم شمل الأطفال، شرط اللغة، تأمين المعيشة، الطرد، الترحيل، دولدونغ، الإقامة المتسامح بها، واجب المغادرة، منع الدخول، مكتب الأجانب، دائرة الهجرة، شهادة مؤقتة، دورة الاندماج، إقامة إنسانية، فيزا عمل حر، أو بير، فيزا باحث، تمديد الإقامة، شرط جواز السفر
 
-## RuStAG – Staatsangehörigkeitsgesetz  →  `laws/stag-staatsangehoerigkeit/`
+## StAG – Staatsangehörigkeitsgesetz  →  `laws/stag-staatsangehoerigkeit/`
 
 - **DE:** Staatsangehörigkeit, Einbürgerung, deutscher Pass, Einbürgerungsantrag, Einbürgerungstest, Sprachniveau B1, Aufenthaltsdauer Einbürgerung, Mehrstaatigkeit, doppelte Staatsbürgerschaft, Verlust Staatsangehörigkeit, Geburt in Deutschland, Abstammung, Optionspflicht, Ermessenseinbürgerung, Anspruchseinbürgerung, Einbürgerungsurkunde, Loyalitätserklärung, Unterhaltsfähigkeit
 - **EN:** citizenship, nationality, naturalisation, naturalization, German passport, citizenship application, citizenship test, language level B1, years of residence for citizenship, dual citizenship, multiple nationality, loss of citizenship, birth in Germany, descent, discretionary naturalisation, entitlement to naturalisation, certificate of naturalisation, declaration of loyalty
 - **AR:** الجنسية، التجنس، الجنسية الألمانية، الجواز الألماني، طلب التجنس، اختبار التجنس، مستوى اللغة B1، مدة الإقامة للتجنس، ازدواج الجنسية، جنسية مزدوجة، فقدان الجنسية، الولادة في ألمانيا، النسب، التجنس التقديري، الحق في التجنس، شهادة التجنس، إعلان الولاء
 
-## AsylVfG – Asylgesetz  →  `laws/asylg-asyl/`
+## AsylG – Asylgesetz  →  `laws/asylg-asyl/`
 
 - **DE:** Asyl, Asylantrag, Asylverfahren, BAMF, Flüchtling, Flüchtlingseigenschaft, subsidiärer Schutz, Abschiebungsverbot, Anhörung Asyl, Dublin-Verfahren, sicherer Herkunftsstaat, sicherer Drittstaat, Aufenthaltsgestattung, Erstaufnahmeeinrichtung, Ablehnung Asyl, offensichtlich unbegründet, Klage Asyl, Folgeantrag, Widerruf Flüchtlingsstatus, Familienasyl, Residenzpflicht, Ankunftsnachweis
 - **EN:** asylum, asylum application, asylum procedure, federal office for migration, refugee, refugee status, subsidiary protection, deportation ban, asylum interview, Dublin procedure, safe country of origin, safe third country, permission to stay, reception centre, asylum rejection, manifestly unfounded, asylum appeal, follow-up application, revocation of refugee status, family asylum, residence requirement, arrival certificate
@@ -320,7 +320,7 @@ Search this file for a word from the question in German, English or Arabic. Each
 - **EN:** social benefits principles, social rights, duty to cooperate, information duty, counselling, benefit application, benefit provider, limitation period social benefits, garnishment of benefits, offsetting, advance payment
 - **AR:** مبادئ المساعدات الاجتماعية، الحقوق الاجتماعية، واجب التعاون، واجب الإعلام، الاستشارة، طلب المساعدة الاجتماعية، جهة تقديم المساعدة، تقادم المساعدات الاجتماعية، الحجز على المساعدات، المقاصة، دفعة مقدمة
 
-## SGB 2 – Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende - (Artikel 1 des Gesetzes vom 24. Dezember 2003, BGBl. I S. 2954)  →  `laws/sgb-2-grundsicherung/`
+## SGB 2 – Sozialgesetzbuch (SGB) Zweites Buch (II) - Grundsicherung für Arbeitsuchende  →  `laws/sgb-2-grundsicherung/`
 
 - **DE:** Bürgergeld, Hartz IV, Arbeitslosengeld II, Grundsicherung für Arbeitsuchende, Jobcenter, Regelbedarf, Regelsatz, Kosten der Unterkunft, Miete Jobcenter, Bedarfsgemeinschaft, Mehrbedarf, Einkommen Anrechnung, Vermögen Schonvermögen, Sanktionen, Leistungsminderung, Eingliederungsvereinbarung, Kooperationsplan, Zumutbare Arbeit, Erstausstattung, Bildung und Teilhabe, Erwerbsfähigkeit, Hilfebedürftigkeit, Aufstocker, Umzug Jobcenter, Darlehen Jobcenter, Ausländer Leistungsausschluss, Widerspruch Jobcenter
 - **EN:** citizen's income, Bürgergeld, unemployment benefit II, basic income support, job center, standard rate, housing costs, rent job center, benefit community, additional needs, income deduction, assets allowance, sanctions, benefit reduction, integration agreement, reasonable work, initial furnishing, education and participation, capacity to work, need for assistance, top-up benefits, moving job center, loan job center, exclusion of foreigners, objection job center
@@ -362,13 +362,13 @@ Search this file for a word from the question in German, English or Arabic. Each
 - **EN:** youth welfare office, child and youth welfare, daycare, kindergarten, childcare, right to daycare place, childminder, child-rearing assistance, parenting counselling, taking into care, child endangerment, foster family, foster child, residential care, guardianship youth office, legal assistance, youth social work, school social work, unaccompanied minor refugees, integration assistance children, cost contribution youth welfare, youth protection, daycare fees, early intervention, family support
 - **AR:** مكتب رعاية الشباب، اليوغند أمت، رعاية الأطفال والشباب، الحضانة، روضة الأطفال، رعاية الأطفال، الحق في مكان في الحضانة، مربية أطفال، المساعدة في التربية، استشارات تربوية، أخذ الطفل تحت الرعاية، تعريض الطفل للخطر، عائلة حاضنة، طفل متبنى حضانة، الرعاية في دار، وصاية مكتب الشباب، المساندة القانونية، العمل الاجتماعي للشباب، العمل الاجتماعي المدرسي، اللاجئون القاصرون غير المصحوبين، مساعدة الإدماج للأطفال، مساهمة في تكاليف رعاية الشباب، حماية الشباب، رسوم الحضانة، التدخل المبكر، دعم الأسرة
 
-## SGB 9 – Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)  →  `laws/sgb-9-rehabilitation-behinderung/`
+## SGB IX – Sozialgesetzbuch Neuntes Buch – Rehabilitation und Teilhabe von Menschen mit Behinderungen – (Artikel 1 des Gesetzes v. 23. Dezember 2016, BGBl. I S. 3234)  →  `laws/sgb-9-rehabilitation-behinderung/`
 
 - **DE:** Behinderung, Schwerbehinderung, Grad der Behinderung, GdB, Schwerbehindertenausweis, Merkzeichen, Rehabilitation, Teilhabe, Eingliederungshilfe, Teilhabe am Arbeitsleben, Werkstatt für behinderte Menschen, Schwerbehindertenvertretung, Kündigungsschutz Schwerbehinderte, Integrationsamt, Inklusionsamt, Zusatzurlaub Schwerbehinderte, Beschäftigungspflicht, Ausgleichsabgabe, Gleichstellung, Nachteilsausgleich, Persönliches Budget, Assistenz, Teilhabeplan, Reha-Antrag, Medizinische Rehabilitation, berufliche Rehabilitation, Budget für Arbeit, Blindengeld, Barrierefreiheit
 - **EN:** disability, severe disability, degree of disability, disability card, disability markers, rehabilitation, participation, integration assistance, participation in working life, sheltered workshop, disabled employees representation, dismissal protection disabled, integration office, inclusion office, additional leave disabled, employment quota disabled, compensatory levy, equal status, disadvantage compensation, personal budget, personal assistance, participation plan, rehabilitation application, medical rehabilitation, vocational rehabilitation, budget for work, accessibility
 - **AR:** الإعاقة، إعاقة شديدة، درجة الإعاقة، بطاقة الإعاقة، علامات الإعاقة، إعادة التأهيل، المشاركة، مساعدة الإدماج، المشاركة في الحياة العملية، ورشة عمل لذوي الإعاقة، تمثيل الموظفين ذوي الإعاقة، الحماية من الفصل لذوي الإعاقة، مكتب الإدماج، إجازة إضافية لذوي الإعاقة، حصة توظيف ذوي الإعاقة، رسم التعويض، المساواة في الوضع، تعويض الحرمان، الميزانية الشخصية، المساعدة الشخصية، خطة المشاركة، طلب إعادة التأهيل، إعادة التأهيل الطبي، إعادة التأهيل المهني، ميزانية العمل، إمكانية الوصول
 
-## SGB 10 – Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -  →  `laws/sgb-10-verwaltungsverfahren-sozialdaten/`
+## SGB X – Zehntes Buch Sozialgesetzbuch - Sozialverwaltungsverfahren und Sozialdatenschutz -  →  `laws/sgb-10-verwaltungsverfahren-sozialdaten/`
 
 - **DE:** Verwaltungsverfahren Sozialleistungen, Sozialdaten, Sozialgeheimnis, Bescheid Sozialleistung, Rücknahme Bescheid, Aufhebung Bescheid, Erstattung Sozialleistungen, Rückforderung, Überzahlung, Verjährung Erstattung, Anhörung Sozialbehörde, Akteneinsicht Sozialamt, Wiedereinsetzung Frist, Überprüfungsantrag, Erstattungsanspruch zwischen Leistungsträgern, Datenübermittlung Behörden, Auskunft Sozialdaten, Vertrauensschutz, Zustellung Bescheid, Bekanntgabe Bescheid
 - **EN:** administrative procedure social benefits, social data, social secrecy, benefit decision, withdrawal of decision, revocation of decision, repayment of benefits, recovery claim, overpayment, limitation repayment, hearing social authority, access to files social office, reinstatement deadline, review application, reimbursement between providers, data transfer authorities, information social data, protection of legitimate expectations, service of decision, notification of decision

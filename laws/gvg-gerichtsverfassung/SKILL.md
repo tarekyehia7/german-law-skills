@@ -6,19 +6,20 @@ metadata:
   title: "Gerichtsverfassungsgesetz"
   area: Prozessrecht
   ausfertigungsdatum: 1950-09-12
-  stand: "Art. 8 G v. 7.7.2021 I 2363"
+  stand: "Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95"
   source: https://www.gesetze-im-internet.de/gvg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/g/gvg
-  paragraphs: 216
-  chunks: 4
-  size_bytes: 162269
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/gv/gvg.md
+  snapshot: 2026-11-03
+  paragraphs: 220
+  chunks: 5
+  size_bytes: 182882
 ---
 
 # Gerichtsverfassungsgesetz (GVG)
 
 **Area:** Prozessrecht  
 **Covers:** Courts Constitution Act: court system, jurisdiction of Amtsgericht, Landgericht, OLG, BGH  
-**Text state:** Art. 8 G v. 7.7.2021 I 2363 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 2 Abs. 6 G v. 20.3.2026 I Nr. 95 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,9 +41,10 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-erster-titel-gerichtsbarkeit.md` | Erster Titel - Gerichtsbarkeit | § 1 – § 27 | 32 KB |
-| 2 | `text/2-vierter-titel-schoffengerichte.md` | Vierter Titel - Schöffengerichte | § 28 – §§ 79 | 47 KB |
-| 3 | `text/3-siebenter-titel-kammern-fur-handelssachen.md` | Siebenter Titel - Kammern für Handelssachen | § 93 – § 155 | 48 KB |
-| 4 | `text/4-dreizehnter-titel-rechtshilfe.md` | Dreizehnter Titel - Rechtshilfe | § 156 – § 201 | 33 KB |
+| 1 | `text/1-erster-titel-gerichtsbarkeit.md` | Erster Titel Gerichtsbarkeit | § 1 – § 27 | 34 KB |
+| 2 | `text/2-vierter-titel-schoffengerichte.md` | Vierter Titel Schöffengerichte | § 28 – § 78 | 48 KB |
+| 3 | `text/3-5a-titel-strafvollstreckungskammern.md` | 5a. Titel Strafvollstreckungskammern | § 78a – § 140a | 44 KB |
+| 4 | `text/4-zehnter-titel-staatsanwaltschaft.md` | Zehnter Titel Staatsanwaltschaft | § 141 – § 197 | 49 KB |
+| 5 | `text/5-siebzehnter-titel-rechtsschutz-bei-uberlangen-gerichtsverfah.md` | Siebzehnter Titel Rechtsschutz bei überlangen Gerichtsverfahren und strafrechtlichen Ermittlungsverfahren | § 198 – § 201 | 6 KB |
 
-Full paragraph index: `toc.md` (216 paragraphs).
+Full paragraph index: `toc.md` (220 paragraphs).

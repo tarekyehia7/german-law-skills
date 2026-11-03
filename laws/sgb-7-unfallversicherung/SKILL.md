@@ -6,19 +6,20 @@ metadata:
   title: "Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254)"
   area: Sozialrecht
   ausfertigungsdatum: 1996-08-07
-  stand: "Art. 14a G v. 10.12.2021 I 5162"
+  stand: "Art. 3 G v. 12.5.2026 I Nr. 140"
   source: https://www.gesetze-im-internet.de/sgb_7/
-  mirror: https://github.com/bundestag/gesetze/tree/master/s/sgb_7
-  paragraphs: 252
-  chunks: 8
-  size_bytes: 333746
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/sg/sgb_7.md
+  snapshot: 2026-11-03
+  paragraphs: 254
+  chunks: 9
+  size_bytes: 350501
 ---
 
 # Siebtes Buch Sozialgesetzbuch - Gesetzliche Unfallversicherung - (Artikel 1 des Gesetzes vom 7. August 1996, BGBl. I S. 1254) (SGB 7)
 
 **Area:** Sozialrecht  
 **Covers:** Social Code VII: statutory accident insurance, work accidents, occupational diseases  
-**Text state:** Art. 14a G v. 10.12.2021 I 5162 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 3 G v. 12.5.2026 I Nr. 140 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,13 +41,14 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-erstes-kapitel-aufgaben-versicherter-personenkreis-versicher.md` | Erstes Kapitel - Aufgaben, versicherter Personenkreis, Versicherungsfall | § 1 – § 13 | 35 KB |
-| 2 | `text/2-zweites-kapitel-pravention.md` | Zweites Kapitel - Prävention | § 14 – § 25 | 21 KB |
-| 3 | `text/3-drittes-kapitel-leistungen-nach-eintritt-eines-versicherungs.md` | Drittes Kapitel - Leistungen nach Eintritt eines Versicherungsfalls | § 26 – § 103 | 96 KB |
-| 4 | `text/4-viertes-kapitel-haftung-von-unternehmern-unternehmensangehor.md` | Viertes Kapitel - Haftung von Unternehmern, Unternehmensangehörigen und anderen Personen | § 104 – § 113 | 8 KB |
-| 5 | `text/5-funftes-kapitel-organisation.md` | Fünftes Kapitel - Organisation | § 114 – § 149 | 53 KB |
-| 6 | `text/6-sechstes-kapitel-aufbringung-der-mittel.md` | Sechstes Kapitel - Aufbringung der Mittel | § 150 – § 187a | 53 KB |
-| 7 | `text/7-siebtes-kapitel-zusammenarbeit-der-unfallversicherungstrager.md` | Siebtes Kapitel - Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten | § 188 – § 211 | 36 KB |
-| 8 | `text/8-zehntes-kapitel-ubergangsrecht.md` | Zehntes Kapitel - Übergangsrecht | § 212 – Anlage 2 | 28 KB |
+| 1 | `text/1-erstes-kapitel-aufgaben-versicherter-personenkreis-versicher.md` | Erstes Kapitel Aufgaben, versicherter Personenkreis, Versicherungsfall | § 1 – § 13 | 34 KB |
+| 2 | `text/2-zweites-kapitel-pravention.md` | Zweites Kapitel Prävention | § 14 – § 25 | 23 KB |
+| 3 | `text/3-drittes-kapitel-leistungen-nach-eintritt-eines-versicherungs.md` | Drittes Kapitel Leistungen nach Eintritt eines Versicherungsfalls | § 26 – § 55a | 39 KB |
+| 4 | `text/4-zweiter-abschnitt-renten-beihilfen-abfindungen.md` | Drittes Kapitel Leistungen nach Eintritt eines Versicherungsfalls › Zweiter Abschnitt Renten, Beihilfen, Abfindungen | § 56 – § 93 | 49 KB |
+| 5 | `text/5-vierter-abschnitt-mehrleistungen.md` | Drittes Kapitel Leistungen nach Eintritt eines Versicherungsfalls › Vierter Abschnitt Mehrleistungen | § 94 – § 113 | 21 KB |
+| 6 | `text/6-funftes-kapitel-organisation.md` | Fünftes Kapitel Organisation | § 114 – § 149 | 63 KB |
+| 7 | `text/7-sechstes-kapitel-aufbringung-der-mittel.md` | Sechstes Kapitel Aufbringung der Mittel | § 150 – § 187a | 53 KB |
+| 8 | `text/8-siebtes-kapitel-zusammenarbeit-der-unfallversicherungstrager.md` | Siebtes Kapitel Zusammenarbeit der Unfallversicherungsträger mit anderen Leistungsträgern und ihre Beziehungen zu Dritten | § 188 – § 211 | 37 KB |
+| 9 | `text/9-zehntes-kapitel-ubergangsrecht.md` | Zehntes Kapitel Übergangsrecht | § 212 – Anlage 2 | 26 KB |
 
-Full paragraph index: `toc.md` (252 paragraphs).
+Full paragraph index: `toc.md` (254 paragraphs).

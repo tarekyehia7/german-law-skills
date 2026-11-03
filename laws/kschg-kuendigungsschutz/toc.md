@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Allgemeiner Kündigungsschutz  
+# Erster Abschnitt Allgemeiner Kündigungsschutz  
 `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
 - § 1 Sozial ungerechtfertigte Kündigungen → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
@@ -22,13 +22,13 @@ Format: `heading → text/<file>`
 - § 13 Außerordentliche, sittenwidrige und sonstige Kündigungen → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 - § 14 Angestellte in leitender Stellung → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
-# Zweiter Abschnitt - Kündigungsschutz im Rahmen der Betriebsverfassung und Personalvertretung  
+# Zweiter Abschnitt Kündigungsschutz im Rahmen der Betriebsverfassung und Personalvertretung  
 `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
 - § 15 Unzulässigkeit der Kündigung → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 - § 16 Neues Arbeitsverhältnis, Auflösung des alten Arbeitsverhältnisses → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
-# Dritter Abschnitt - Anzeigepflichtige Entlassungen  
+# Dritter Abschnitt Anzeigepflichtige Entlassungen  
 `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
 - § 17 Anzeigepflicht → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
@@ -38,7 +38,7 @@ Format: `heading → text/<file>`
 - § 21 Entscheidungen der Zentrale der Bundesagentur für Arbeit → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 - § 22 Ausnahmebetriebe → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
-# Vierter Abschnitt - Schlußbestimmungen  
+# Vierter Abschnitt Schlußbestimmungen  
 `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`
 
 - § 23 Geltungsbereich → `text/1-erster-abschnitt-allgemeiner-kundigungsschutz.md`

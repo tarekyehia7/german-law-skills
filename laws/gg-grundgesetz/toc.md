@@ -5,7 +5,7 @@ Format: `heading → text/<file>`
 - Eingangsformel → `text/1-i-die-grundrechte.md`
 - Präambel → `text/1-i-die-grundrechte.md`
 
-# I. - Die Grundrechte  
+# I. Die Grundrechte  
 `text/1-i-die-grundrechte.md`
 
 - Art 1 → `text/1-i-die-grundrechte.md`
@@ -31,7 +31,7 @@ Format: `heading → text/<file>`
 - Art 18 → `text/1-i-die-grundrechte.md`
 - Art 19 → `text/1-i-die-grundrechte.md`
 
-# II. - Der Bund und die Länder  
+# II. Der Bund und die Länder  
 `text/1-i-die-grundrechte.md`
 
 - Art 20 → `text/1-i-die-grundrechte.md`
@@ -54,7 +54,7 @@ Format: `heading → text/<file>`
 - Art 36 → `text/1-i-die-grundrechte.md`
 - Art 37 → `text/1-i-die-grundrechte.md`
 
-# III. - Der Bundestag  
+# III. Der Bundestag  
 `text/1-i-die-grundrechte.md`
 
 - Art 38 → `text/1-i-die-grundrechte.md`
@@ -74,7 +74,7 @@ Format: `heading → text/<file>`
 - Art 48 → `text/1-i-die-grundrechte.md`
 - Art 49 (weggefallen) → `text/1-i-die-grundrechte.md`
 
-# IV. - Der Bundesrat  
+# IV. Der Bundesrat  
 `text/1-i-die-grundrechte.md`
 
 - Art 50 → `text/1-i-die-grundrechte.md`
@@ -82,12 +82,12 @@ Format: `heading → text/<file>`
 - Art 52 → `text/1-i-die-grundrechte.md`
 - Art 53 → `text/1-i-die-grundrechte.md`
 
-# IV a. - Gemeinsamer Ausschuß  
+# IV a. Gemeinsamer Ausschuß  
 `text/1-i-die-grundrechte.md`
 
 - Art 53a → `text/1-i-die-grundrechte.md`
 
-# V. - Der Bundespräsident  
+# V. Der Bundespräsident  
 `text/2-v-der-bundesprasident.md`
 
 - Art 54 → `text/2-v-der-bundesprasident.md`
@@ -100,7 +100,7 @@ Format: `heading → text/<file>`
 - Art 60 → `text/2-v-der-bundesprasident.md`
 - Art 61 → `text/2-v-der-bundesprasident.md`
 
-# VI. - Die Bundesregierung  
+# VI. Die Bundesregierung  
 `text/2-v-der-bundesprasident.md`
 
 - Art 62 → `text/2-v-der-bundesprasident.md`
@@ -113,7 +113,7 @@ Format: `heading → text/<file>`
 - Art 68 → `text/2-v-der-bundesprasident.md`
 - Art 69 → `text/2-v-der-bundesprasident.md`
 
-# VII. - Die Gesetzgebung des Bundes  
+# VII. Die Gesetzgebung des Bundes  
 `text/2-v-der-bundesprasident.md`
 
 - Art 70 → `text/2-v-der-bundesprasident.md`
@@ -131,7 +131,7 @@ Format: `heading → text/<file>`
 - Art 81 → `text/2-v-der-bundesprasident.md`
 - Art 82 → `text/2-v-der-bundesprasident.md`
 
-# VIII. - Die Ausführung der Bundesgesetze und die Bundesverwaltung  
+# VIII. Die Ausführung der Bundesgesetze und die Bundesverwaltung  
 `text/2-v-der-bundesprasident.md`
 
 - Art 83 → `text/2-v-der-bundesprasident.md`
@@ -150,7 +150,7 @@ Format: `heading → text/<file>`
 - Art 90 → `text/2-v-der-bundesprasident.md`
 - Art 91 → `text/2-v-der-bundesprasident.md`
 
-# VIIIa. - Gemeinschaftsaufgaben, Verwaltungszusammenarbeit  
+# VIIIa. Gemeinschaftsaufgaben, Verwaltungszusammenarbeit  
 `text/2-v-der-bundesprasident.md`
 
 - Art 91a → `text/2-v-der-bundesprasident.md`
@@ -159,7 +159,7 @@ Format: `heading → text/<file>`
 - Art 91d → `text/2-v-der-bundesprasident.md`
 - Art 91e → `text/2-v-der-bundesprasident.md`
 
-# IX. - Die Rechtsprechung  
+# IX. Die Rechtsprechung  
 `text/3-ix-die-rechtsprechung.md`
 
 - Art 92 → `text/3-ix-die-rechtsprechung.md`
@@ -176,7 +176,7 @@ Format: `heading → text/<file>`
 - Art 103 → `text/3-ix-die-rechtsprechung.md`
 - Art 104 → `text/3-ix-die-rechtsprechung.md`
 
-# X. - Das Finanzwesen  
+# X. Das Finanzwesen  
 `text/3-ix-die-rechtsprechung.md`
 
 - Art 104a → `text/3-ix-die-rechtsprechung.md`
@@ -198,67 +198,68 @@ Format: `heading → text/<file>`
 - Art 114 → `text/3-ix-die-rechtsprechung.md`
 - Art 115 → `text/3-ix-die-rechtsprechung.md`
 
-# X a. - Verteidigungsfall  
-`text/3-ix-die-rechtsprechung.md`
+# X a. Verteidigungsfall  
+`text/4-x-a-verteidigungsfall.md`
 
-- Art 115a → `text/3-ix-die-rechtsprechung.md`
-- Art 115b → `text/3-ix-die-rechtsprechung.md`
-- Art 115c → `text/3-ix-die-rechtsprechung.md`
-- Art 115d → `text/3-ix-die-rechtsprechung.md`
-- Art 115e → `text/3-ix-die-rechtsprechung.md`
-- Art 115f → `text/3-ix-die-rechtsprechung.md`
-- Art 115g → `text/3-ix-die-rechtsprechung.md`
-- Art 115h → `text/3-ix-die-rechtsprechung.md`
-- Art 115i → `text/3-ix-die-rechtsprechung.md`
-- Art 115k → `text/3-ix-die-rechtsprechung.md`
-- Art 115l → `text/3-ix-die-rechtsprechung.md`
+- Art 115a → `text/4-x-a-verteidigungsfall.md`
+- Art 115b → `text/4-x-a-verteidigungsfall.md`
+- Art 115c → `text/4-x-a-verteidigungsfall.md`
+- Art 115d → `text/4-x-a-verteidigungsfall.md`
+- Art 115e → `text/4-x-a-verteidigungsfall.md`
+- Art 115f → `text/4-x-a-verteidigungsfall.md`
+- Art 115g → `text/4-x-a-verteidigungsfall.md`
+- Art 115h → `text/4-x-a-verteidigungsfall.md`
+- Art 115i → `text/4-x-a-verteidigungsfall.md`
+- Art 115k → `text/4-x-a-verteidigungsfall.md`
+- Art 115l → `text/4-x-a-verteidigungsfall.md`
 
-# XI. - Übergangs- und Schlußbestimmungen  
-`text/4-xi-ubergangs-und-schlussbestimmungen.md`
+# XI. Übergangs- und Schlußbestimmungen  
+`text/4-x-a-verteidigungsfall.md`
 
-- Art 116 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 117 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 118 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 118a → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 119 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 120 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 120a → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 121 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 122 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 123 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 124 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 125 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 125a → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 125b → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 125c → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 126 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 127 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 128 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 129 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 130 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 131 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 132 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 133 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 134 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 135 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 135a → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 136 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 137 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 138 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 139 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 140 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 141 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 142 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 142a (weggefallen) → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143a → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143b → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143c → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143d → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143e → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143f → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 143g → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 144 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 145 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Art 146 → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
-- Anhang EV → `text/4-xi-ubergangs-und-schlussbestimmungen.md`
+- Art 116 → `text/4-x-a-verteidigungsfall.md`
+- Art 117 → `text/4-x-a-verteidigungsfall.md`
+- Art 118 → `text/4-x-a-verteidigungsfall.md`
+- Art 118a → `text/4-x-a-verteidigungsfall.md`
+- Art 119 → `text/4-x-a-verteidigungsfall.md`
+- Art 120 → `text/4-x-a-verteidigungsfall.md`
+- Art 120a → `text/4-x-a-verteidigungsfall.md`
+- Art 121 → `text/4-x-a-verteidigungsfall.md`
+- Art 122 → `text/4-x-a-verteidigungsfall.md`
+- Art 123 → `text/4-x-a-verteidigungsfall.md`
+- Art 124 → `text/4-x-a-verteidigungsfall.md`
+- Art 125 → `text/4-x-a-verteidigungsfall.md`
+- Art 125a → `text/4-x-a-verteidigungsfall.md`
+- Art 125b → `text/4-x-a-verteidigungsfall.md`
+- Art 125c → `text/4-x-a-verteidigungsfall.md`
+- Art 126 → `text/4-x-a-verteidigungsfall.md`
+- Art 127 → `text/4-x-a-verteidigungsfall.md`
+- Art 128 → `text/4-x-a-verteidigungsfall.md`
+- Art 129 → `text/4-x-a-verteidigungsfall.md`
+- Art 130 → `text/4-x-a-verteidigungsfall.md`
+- Art 131 → `text/4-x-a-verteidigungsfall.md`
+- Art 132 → `text/4-x-a-verteidigungsfall.md`
+- Art 133 → `text/4-x-a-verteidigungsfall.md`
+- Art 134 → `text/4-x-a-verteidigungsfall.md`
+- Art 135 → `text/4-x-a-verteidigungsfall.md`
+- Art 135a → `text/4-x-a-verteidigungsfall.md`
+- Art 136 → `text/4-x-a-verteidigungsfall.md`
+- Art 137 → `text/4-x-a-verteidigungsfall.md`
+- Art 138 → `text/4-x-a-verteidigungsfall.md`
+- Art 139 → `text/4-x-a-verteidigungsfall.md`
+- Art 140 → `text/4-x-a-verteidigungsfall.md`
+- Art 141 → `text/4-x-a-verteidigungsfall.md`
+- Art 142 → `text/4-x-a-verteidigungsfall.md`
+- Art 142a (weggefallen) → `text/4-x-a-verteidigungsfall.md`
+- Art 143 → `text/4-x-a-verteidigungsfall.md`
+- Art 143a → `text/4-x-a-verteidigungsfall.md`
+- Art 143b → `text/4-x-a-verteidigungsfall.md`
+- Art 143c → `text/4-x-a-verteidigungsfall.md`
+- Art 143d → `text/4-x-a-verteidigungsfall.md`
+- Art 143e → `text/4-x-a-verteidigungsfall.md`
+- Art 143f → `text/4-x-a-verteidigungsfall.md`
+- Art 143g → `text/4-x-a-verteidigungsfall.md`
+- Art 143h → `text/4-x-a-verteidigungsfall.md`
+- Art 144 → `text/4-x-a-verteidigungsfall.md`
+- Art 145 → `text/4-x-a-verteidigungsfall.md`
+- Art 146 → `text/4-x-a-verteidigungsfall.md`
+- Anhang EV → `text/4-x-a-verteidigungsfall.md`

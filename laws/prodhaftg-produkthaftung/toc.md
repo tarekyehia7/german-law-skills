@@ -20,4 +20,4 @@ Format: `heading → text/<file>`
 - § 16 Übergangsvorschrift → `text/1-1-bis-19.md`
 - § 17 Erlaß von Rechtsverordnungen → `text/1-1-bis-19.md`
 - § 18 Berlin-Klausel → `text/1-1-bis-19.md`
-- § 19 Inkrafttreten → `text/1-1-bis-19.md`
+- § 19 Außerkrafttreten → `text/1-1-bis-19.md`

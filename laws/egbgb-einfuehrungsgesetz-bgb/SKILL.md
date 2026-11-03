@@ -6,19 +6,20 @@ metadata:
   title: "Einführungsgesetz zum Bürgerlichen Gesetzbuche"
   area: Zivilrecht
   ausfertigungsdatum: 1896-08-18
-  stand: "Art. 10 G v. 22.12.2020 I 3328"
+  stand: "Art. 16 G v. 22.10.2026 I Nr. 321"
   source: https://www.gesetze-im-internet.de/bgbeg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/b/bgbeg
-  paragraphs: 461
-  chunks: 11
-  size_bytes: 629041
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/bg/bgbeg.md
+  snapshot: 2026-11-03
+  paragraphs: 470
+  chunks: 8
+  size_bytes: 568747
 ---
 
 # Einführungsgesetz zum Bürgerlichen Gesetzbuche (BGBEG)
 
 **Area:** Zivilrecht  
 **Covers:** Introductory Act to the Civil Code: private international law (which country's law applies), transitional rules, consumer information duties  
-**Text state:** Art. 10 G v. 22.12.2020 I 3328 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 16 G v. 22.10.2026 I Nr. 321 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,16 +41,13 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/01-erster-teil-allgemeine-vorschriften.md` | Erster Teil - Allgemeine Vorschriften | Art 1 – Art 54 | 43 KB |
-| 2 | `text/02-dritter-teil-verhaltnis-des-burgerlichen-gesetzbuchs-zu-den.md` | Dritter Teil - Verhältnis des Bürgerlichen Gesetzbuchs zu den Landesgesetzen | Art 55 – Art 218 | 49 KB |
-| 3 | `text/03-funfter-teil-ubergangsvorschriften-aus-anlass-jungerer-ander.md` | Fünfter Teil - Übergangsvorschriften aus Anlaß jüngerer Änderungen des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes | Art 219 – § 63 | 72 KB |
-| 4 | `text/04-sechster-teil-inkrafttreten-und-ubergangsrecht-aus-anlass-de.md` | Sechster Teil - Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet | Art 230 – § 2 | 87 KB |
-| 5 | `text/05-siebter-teil-durchfuhrung-des-burgerlichen-gesetzbuchs-veror.md` | Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten | Art 238 – Art 248 | 80 KB |
-| 6 | `text/06-abschnitt-1-allgemeine-vorschriften.md` | Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten › Abschnitt 1 - Allgemeine Vorschriften | § 1 – § 16 | 20 KB |
-| 7 | `text/07-abschnitt-4-informationspflichten-von-zahlungsempfangern-bar.md` | Siebter Teil - Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten › Abschnitt 4 - Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten | § 17 – Anlage 3b | 97 KB |
-| 8 | `text/08-teil-a.md` | Teil A | Anlage 4 – Anlage 6 | 48 KB |
-| 9 | `text/09-abschnitt-6-hohe-der-einzelnen-raten.md` | Abschnitt „6. Höhe der einzelnen Raten“ |  | 20 KB |
-| 10 | `text/10-abschnitt-15-aufsichtsbehorde.md` | Abschnitt „15. Aufsichtsbehörde“ | Anlage 7 – Anlage 9 | 46 KB |
-| 11 | `text/11-gestaltungshinweise.md` | Gestaltungshinweise: | Anlage 10 – Anlage 18 | 62 KB |
+| 1 | `text/1-erster-teil-allgemeine-vorschriften.md` | Erster Teil Allgemeine Vorschriften | Art 1 – Art 54 | 47 KB |
+| 2 | `text/2-dritter-teil-verhaltnis-des-burgerlichen-gesetzbuchs-zu-den.md` | Dritter Teil Verhältnis des Bürgerlichen Gesetzbuchs zu den Landesgesetzen | Art 55 – Art 152 | 30 KB |
+| 3 | `text/3-vierter-teil-ubergangsvorschriften.md` | Vierter Teil Übergangsvorschriften | Art 153 – Art 218 | 26 KB |
+| 4 | `text/4-funfter-teil-ubergangsvorschriften-aus-anlass-jungerer-ander.md` | Fünfter Teil Übergangsvorschriften aus Anlaß jüngerer Änderungen des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes | Art 219 – Art 229 | 84 KB |
+| 5 | `text/5-sechster-teil-inkrafttreten-und-ubergangsrecht-aus-anlass-de.md` | Sechster Teil Inkrafttreten und Übergangsrecht aus Anlaß der Einführung des Bürgerlichen Gesetzbuchs und dieses Einführungsgesetzes in dem in Art 3 des Einigungsvertrages genannten Gebiet | Art 230 – Art 237 | 88 KB |
+| 6 | `text/6-siebter-teil-durchfuhrung-des-burgerlichen-gesetzbuchs-veror.md` | Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten | Art 238 – Art 248 | 91 KB |
+| 7 | `text/7-abschnitt-1-allgemeine-vorschriften.md` | Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten › Abschnitt 1 Allgemeine Vorschriften | Art 248 – Art 248 | 19 KB |
+| 8 | `text/8-abschnitt-4-informationspflichten-von-zahlungsempfangern-bar.md` | Siebter Teil Durchführung des Bürgerlichen Gesetzbuchs, Verordnungsermächtigungen, Länderöffnungsklauseln, Informationspflichten › Abschnitt 4 Informationspflichten von Zahlungsempfängern, Bargeldabhebungsdienstleistern und Dritten | Art 248 – Art 253 | 180 KB |
 
-Full paragraph index: `toc.md` (461 paragraphs).
+Full paragraph index: `toc.md` (470 paragraphs).

@@ -3,17 +3,17 @@
 Format: `heading → text/<file>`
 
 
-# Abschnitt 1 - Allgemeine Vorschriften  
+# Abschnitt 1 Allgemeine Vorschriften  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 1 Anwendungsbereich, Ziel des Mutterschutzes → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 2 Begriffsbestimmungen → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 2 - Gesundheitsschutz  
+# Abschnitt 2 Gesundheitsschutz  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 
-## Unterabschnitt 1 - Arbeitszeitlicher Gesundheitsschutz  
+## Unterabschnitt 1 Arbeitszeitlicher Gesundheitsschutz  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 3 Schutzfristen vor und nach der Entbindung → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -23,7 +23,7 @@ Format: `heading → text/<file>`
 - § 7 Freistellung für Untersuchungen und zum Stillen → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 8 Beschränkung von Heimarbeit → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-## Unterabschnitt 2 - Betrieblicher Gesundheitsschutz  
+## Unterabschnitt 2 Betrieblicher Gesundheitsschutz  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 9 Gestaltung der Arbeitsbedingungen; unverantwortbare Gefährdung → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -34,17 +34,17 @@ Format: `heading → text/<file>`
 - § 14 Dokumentation und Information durch den Arbeitgeber → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 15 Mitteilungen und Nachweise der schwangeren und stillenden Frauen → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-## Unterabschnitt 3 - Ärztlicher Gesundheitsschutz  
+## Unterabschnitt 3 Ärztlicher Gesundheitsschutz  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 16 Ärztliches Beschäftigungsverbot → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 3 - Kündigungsschutz  
+# Abschnitt 3 Kündigungsschutz  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 17 Kündigungsverbot → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 4 - Leistungen  
+# Abschnitt 4 Leistungen  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 18 Mutterschutzlohn → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -56,7 +56,7 @@ Format: `heading → text/<file>`
 - § 24 Fortbestehen des Erholungsurlaubs bei Beschäftigungsverboten → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 25 Beschäftigung nach dem Ende des Beschäftigungsverbots → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 5 - Durchführung des Gesetzes  
+# Abschnitt 5 Durchführung des Gesetzes  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 26 Aushang des Gesetzes → `text/1-abschnitt-1-allgemeine-vorschriften.md`
@@ -66,13 +66,13 @@ Format: `heading → text/<file>`
 - § 30 Ausschuss für Mutterschutz → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 31 Erlass von Rechtsverordnungen → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 6 - Bußgeldvorschriften, Strafvorschriften  
+# Abschnitt 6 Bußgeldvorschriften, Strafvorschriften  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 32 Bußgeldvorschriften → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 - § 33 Strafvorschriften → `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
-# Abschnitt 7 - Schlussvorschriften  
+# Abschnitt 7 Schlussvorschriften  
 `text/1-abschnitt-1-allgemeine-vorschriften.md`
 
 - § 34 Evaluationsbericht → `text/1-abschnitt-1-allgemeine-vorschriften.md`

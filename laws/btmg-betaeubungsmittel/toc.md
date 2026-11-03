@@ -3,13 +3,13 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Begriffsbestimmungen  
+# Erster Abschnitt Begriffsbestimmungen  
 `text/1-erster-abschnitt-begriffsbestimmungen.md`
 
 - § 1 Betäubungsmittel → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 - § 2 Sonstige Begriffe → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 
-# Zweiter Abschnitt - Erlaubnis und Erlaubnisverfahren  
+# Zweiter Abschnitt Erlaubnis und Erlaubnisverfahren  
 `text/1-erster-abschnitt-begriffsbestimmungen.md`
 
 - § 3 Erlaubnis zum Verkehr mit Betäubungsmitteln → `text/1-erster-abschnitt-begriffsbestimmungen.md`
@@ -21,8 +21,9 @@ Format: `heading → text/<file>`
 - § 9 Beschränkungen, Befristung, Bedingungen und Auflagen → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 - § 10 Rücknahme und Widerruf → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 - § 10a Erlaubnis für den Betrieb von Drogenkonsumräumen → `text/1-erster-abschnitt-begriffsbestimmungen.md`
+- § 10b Erlaubnis für die Durchführung von Modellvorhaben zu Substanzanalysen → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 
-# Dritter Abschnitt - Pflichten im Betäubungsmittelverkehr  
+# Dritter Abschnitt Pflichten im Betäubungsmittelverkehr  
 `text/1-erster-abschnitt-begriffsbestimmungen.md`
 
 - § 11 Einfuhr, Ausfuhr und Durchfuhr → `text/1-erster-abschnitt-begriffsbestimmungen.md`
@@ -34,7 +35,7 @@ Format: `heading → text/<file>`
 - § 17 Aufzeichnungen → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 - § 18 Meldungen → `text/1-erster-abschnitt-begriffsbestimmungen.md`
 
-# Vierter Abschnitt - Überwachung  
+# Vierter Abschnitt Überwachung  
 `text/2-vierter-abschnitt-uberwachung.md`
 
 - § 19 Durchführende Behörde → `text/2-vierter-abschnitt-uberwachung.md`
@@ -43,17 +44,16 @@ Format: `heading → text/<file>`
 - § 22 Überwachungsmaßnahmen → `text/2-vierter-abschnitt-uberwachung.md`
 - § 23 Probenahme → `text/2-vierter-abschnitt-uberwachung.md`
 - § 24 Duldungs- und Mitwirkungspflicht → `text/2-vierter-abschnitt-uberwachung.md`
-- § 24a Anzeige des Anbaus von Nutzhanf → `text/2-vierter-abschnitt-uberwachung.md`
 - § 25 (weggefallen) → `text/2-vierter-abschnitt-uberwachung.md`
 
-# Fünfter Abschnitt - Vorschriften für Behörden  
+# Fünfter Abschnitt Vorschriften für Behörden  
 `text/2-vierter-abschnitt-uberwachung.md`
 
 - § 26 Bundeswehr, Bundespolizei, Bereitschaftspolizei und Zivilschutz → `text/2-vierter-abschnitt-uberwachung.md`
 - § 27 Meldungen und Auskünfte → `text/2-vierter-abschnitt-uberwachung.md`
 - § 28 Jahresbericht an die Vereinten Nationen → `text/2-vierter-abschnitt-uberwachung.md`
 
-# Sechster Abschnitt - Straftaten und Ordnungswidrigkeiten  
+# Sechster Abschnitt Straftaten und Ordnungswidrigkeiten  
 `text/2-vierter-abschnitt-uberwachung.md`
 
 - § 29 Straftaten → `text/2-vierter-abschnitt-uberwachung.md`
@@ -67,7 +67,7 @@ Format: `heading → text/<file>`
 - § 33 Einziehung → `text/2-vierter-abschnitt-uberwachung.md`
 - § 34 Führungsaufsicht → `text/2-vierter-abschnitt-uberwachung.md`
 
-# Siebenter Abschnitt - Betäubungsmittelabhängige Straftäter  
+# Siebenter Abschnitt Betäubungsmittelabhängige Straftäter  
 `text/2-vierter-abschnitt-uberwachung.md`
 
 - § 35 Zurückstellung der Strafvollstreckung → `text/2-vierter-abschnitt-uberwachung.md`
@@ -75,13 +75,13 @@ Format: `heading → text/<file>`
 - § 37 Absehen von der Erhebung der öffentlichen Klage → `text/2-vierter-abschnitt-uberwachung.md`
 - § 38 Jugendliche und Heranwachsende → `text/2-vierter-abschnitt-uberwachung.md`
 
-# Achter Abschnitt - Übergangs- und Schlußvorschriften  
+# Achter Abschnitt Übergangs- und Schlußvorschriften  
 `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
 
 - § 39 Übergangsregelung → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
 - § 39a Übergangsregelung aus Anlass des Gesetzes zur Änderung arzneimittelrechtlicher und anderer Vorschriften → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
 - §§ 40 und 40a (gegenstandslos) → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
 - § 41 → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
-- Anlage I (nicht verkehrsfähige Betäubungsmittel) → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
-- Anlage II (verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel) → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
-- Anlage III verkehrsfähige und verschreibungsfähige Betäubungsmittel → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
+- Anlage I (zu § 1 Abs. 1)(nicht verkehrsfähige Betäubungsmittel) → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
+- Anlage II (zu § 1 Abs. 1)(verkehrsfähige, aber nicht verschreibungsfähige Betäubungsmittel) → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`
+- Anlage III (zu § 1 Abs. 1)verkehrsfähige und verschreibungsfähige Betäubungsmittel → `text/3-achter-abschnitt-ubergangs-und-schlussvorschriften.md`

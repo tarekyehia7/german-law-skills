@@ -6,19 +6,20 @@ metadata:
   title: "Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022)"
   area: Sozialrecht
   ausfertigungsdatum: 2003-12-27
-  stand: "Art. 16 G v. 10.12.2021 I 5162"
+  stand: "Art. 2d G v. 24.7.2026 I Nr. 228"
   source: https://www.gesetze-im-internet.de/sgb_12/
-  mirror: https://github.com/bundestag/gesetze/tree/master/s/sgb_12
-  paragraphs: 195
-  chunks: 7
-  size_bytes: 286595
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/sg/sgb_12.md
+  snapshot: 2026-11-03
+  paragraphs: 197
+  chunks: 8
+  size_bytes: 302834
 ---
 
 # Sozialgesetzbuch (SGB) Zwölftes Buch (XII) - Sozialhilfe - (Artikel 1 des Gesetzes vom 27. Dezember 2003, BGBl. I S. 3022) (SGB 12)
 
 **Area:** Sozialrecht  
 **Covers:** Social Code XII: social assistance, basic income in old age and reduced earning capacity  
-**Text state:** Art. 16 G v. 10.12.2021 I 5162 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 2d G v. 24.7.2026 I Nr. 228 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,12 +41,13 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-inhaltsverzeichnis.md` | Inhaltsverzeichnis | § 1 – § 26 | 45 KB |
-| 2 | `text/2-drittes-kapitel-hilfe-zum-lebensunterhalt.md` | Drittes Kapitel - Hilfe zum Lebensunterhalt | § 27 – § 40 | 51 KB |
-| 3 | `text/3-viertes-kapitel-grundsicherung-im-alter-und-bei-erwerbsminde.md` | Viertes Kapitel - Grundsicherung im Alter und bei Erwerbsminderung | § 41 – §§ 53 | 39 KB |
-| 4 | `text/4-siebtes-kapitel-hilfe-zur-pflege.md` | Siebtes Kapitel - Hilfe zur Pflege | § 61 – § 81 | 49 KB |
-| 5 | `text/5-elftes-kapitel-einsatz-des-einkommens-und-des-vermogens.md` | Elftes Kapitel - Einsatz des Einkommens und des Vermögens | § 82 – § 115 | 44 KB |
-| 6 | `text/6-vierzehntes-kapitel-verfahrensbestimmungen.md` | Vierzehntes Kapitel - Verfahrensbestimmungen | § 116 – § 129 | 30 KB |
-| 7 | `text/7-sechzehntes-kapitel-ubergangs-und-schlussbestimmungen.md` | Sechzehntes Kapitel - Übergangs- und Schlussbestimmungen | § 130 – Anlage Ausstattung | 25 KB |
+| 1 | `text/1-inhaltsverzeichnis.md` | Inhaltsverzeichnis | § 1 – § 26 | 41 KB |
+| 2 | `text/2-drittes-kapitel-hilfe-zum-lebensunterhalt.md` | Drittes Kapitel Hilfe zum Lebensunterhalt | § 27 – § 40 | 60 KB |
+| 3 | `text/3-viertes-kapitel-grundsicherung-im-alter-und-bei-erwerbsminde.md` | Viertes Kapitel Grundsicherung im Alter und bei Erwerbsminderung | § 41 – §§ 53 | 40 KB |
+| 4 | `text/4-siebtes-kapitel-hilfe-zur-pflege.md` | Siebtes Kapitel Hilfe zur Pflege | § 61 – § 74 | 30 KB |
+| 5 | `text/5-zehntes-kapitel-vertragsrecht.md` | Zehntes Kapitel Vertragsrecht | § 75 – § 81 | 20 KB |
+| 6 | `text/6-elftes-kapitel-einsatz-des-einkommens-und-des-vermogens.md` | Elftes Kapitel Einsatz des Einkommens und des Vermögens | § 82 – § 115 | 48 KB |
+| 7 | `text/7-vierzehntes-kapitel-verfahrensbestimmungen.md` | Vierzehntes Kapitel Verfahrensbestimmungen | § 116 – § 129 | 33 KB |
+| 8 | `text/8-sechzehntes-kapitel-ubergangs-und-schlussbestimmungen.md` | Sechzehntes Kapitel Übergangs- und Schlussbestimmungen | § 130 – Anlage (zu | 26 KB |
 
-Full paragraph index: `toc.md` (195 paragraphs).
+Full paragraph index: `toc.md` (197 paragraphs).

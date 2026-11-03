@@ -3,17 +3,17 @@
 Format: `heading → text/<file>`
 
 
-# Teil 1 - Anwendungsbereich  
+# Teil 1 Anwendungsbereich  
 `text/1-teil-1-anwendungsbereich.md`
 
 - § 1 Geschützte Marken und sonstige Kennzeichen → `text/1-teil-1-anwendungsbereich.md`
 - § 2 Anwendung anderer Vorschriften → `text/1-teil-1-anwendungsbereich.md`
 
-# Teil 2 - Voraussetzungen, Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen, Übertragung und Lizenz  
+# Teil 2 Voraussetzungen; Inhalt und Schranken des Schutzes von Marken und geschäftlichen Bezeichnungen; weitere Zeichen; Übertragung und Lizenz  
 `text/1-teil-1-anwendungsbereich.md`
 
 
-## Abschnitt 1 - Marken und geschäftliche Bezeichnungen, Vorrang und Zeitrang  
+## Abschnitt 1 Marken und geschäftliche Bezeichnungen, Vorrang und Zeitrang  
 `text/1-teil-1-anwendungsbereich.md`
 
 - § 3 Als Marke schutzfähige Zeichen → `text/1-teil-1-anwendungsbereich.md`
@@ -21,7 +21,12 @@ Format: `heading → text/<file>`
 - § 5 Geschäftliche Bezeichnungen → `text/1-teil-1-anwendungsbereich.md`
 - § 6 Vorrang und Zeitrang → `text/1-teil-1-anwendungsbereich.md`
 
-## Abschnitt 2 - Voraussetzungen für den Schutz von Marken durch Eintragung  
+## Abschnitt 1a Wappen, Flaggen, Hoheitszeichen, amtliche Prüf- und Gewährzeichen, Kennzeichen, Siegel und Bezeichnungen internationaler zwischenstaatlicher Organisationen  
+`text/1-teil-1-anwendungsbereich.md`
+
+- § 6a Verbot des Gebrauchs → `text/1-teil-1-anwendungsbereich.md`
+
+## Abschnitt 2 Voraussetzungen für den Schutz von Marken durch Eintragung  
 `text/1-teil-1-anwendungsbereich.md`
 
 - § 7 Inhaberschaft → `text/1-teil-1-anwendungsbereich.md`
@@ -32,7 +37,7 @@ Format: `heading → text/<file>`
 - § 12 Durch Benutzung erworbene Marken und geschäftliche Bezeichnungen mit älterem Zeitrang → `text/1-teil-1-anwendungsbereich.md`
 - § 13 Sonstige ältere Rechte → `text/1-teil-1-anwendungsbereich.md`
 
-## Abschnitt 3 - Schutzinhalt, Rechtsverletzungen  
+## Abschnitt 3 Schutzinhalt, Rechtsverletzungen  
 `text/1-teil-1-anwendungsbereich.md`
 
 - § 14 Ausschließliches Recht des Inhabers einer Marke, Unterlassungsanspruch, Schadensersatzanspruch → `text/1-teil-1-anwendungsbereich.md`
@@ -47,7 +52,7 @@ Format: `heading → text/<file>`
 - § 19c Urteilsbekanntmachung → `text/1-teil-1-anwendungsbereich.md`
 - § 19d Ansprüche aus anderen gesetzlichen Vorschriften → `text/1-teil-1-anwendungsbereich.md`
 
-## Abschnitt 4 - Schranken des Schutzes  
+## Abschnitt 4 Schranken des Schutzes  
 `text/1-teil-1-anwendungsbereich.md`
 
 - § 20 Verjährung → `text/1-teil-1-anwendungsbereich.md`
@@ -58,7 +63,7 @@ Format: `heading → text/<file>`
 - § 25 Ausschluss von Ansprüchen bei mangelnder Benutzung → `text/1-teil-1-anwendungsbereich.md`
 - § 26 Benutzung der Marke → `text/1-teil-1-anwendungsbereich.md`
 
-## Abschnitt 5 - Marken als Gegenstand des Vermögens  
+## Abschnitt 5 Marken als Gegenstand des Vermögens  
 `text/1-teil-1-anwendungsbereich.md`
 
 - § 27 Rechtsübergang → `text/1-teil-1-anwendungsbereich.md`
@@ -67,11 +72,11 @@ Format: `heading → text/<file>`
 - § 30 Lizenzen → `text/1-teil-1-anwendungsbereich.md`
 - § 31 Angemeldete Marken → `text/1-teil-1-anwendungsbereich.md`
 
-# Teil 3 - Verfahren in Markenangelegenheiten  
+# Teil 3 Verfahren in Markenangelegenheiten  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 
-## Abschnitt 1 - Eintragungsverfahren  
+## Abschnitt 1 Eintragungsverfahren  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 32 Erfordernisse der Anmeldung → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
@@ -88,14 +93,14 @@ Format: `heading → text/<file>`
 - § 43 Einrede mangelnder Benutzung, Entscheidung über den Widerspruch → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 44 Eintragungsbewilligungsklage → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-## Abschnitt 2 - Berichtigung, Teilung, Schutzdauer und Verlängerung  
+## Abschnitt 2 Berichtigung, Teilung, Schutzdauer und Verlängerung  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 45 Berichtigung des Registers und von Veröffentlichungen → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 46 Teilung der Eintragung → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 47 Schutzdauer und Verlängerung → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-## Abschnitt 3 - Verzicht; Verfalls- und Nichtigkeitsverfahren  
+## Abschnitt 3 Verzicht; Verfalls- und Nichtigkeitsverfahren  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 48 Verzicht → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
@@ -107,7 +112,7 @@ Format: `heading → text/<file>`
 - § 54 Beitritt zum Verfalls- und Nichtigkeitsverfahren → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 55 Verfalls- und Nichtigkeitsverfahren vor den ordentlichen Gerichten → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-## Abschnitt 4 - Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt  
+## Abschnitt 4 Allgemeine Vorschriften für das Verfahren vor dem Deutschen Patent- und Markenamt  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 56 Zuständigkeiten im Deutschen Patent- und Markenamt → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
@@ -124,7 +129,7 @@ Format: `heading → text/<file>`
 - § 65 Rechtsverordnungsermächtigung → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 65a Verwaltungszusammenarbeit → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-## Abschnitt 5 - Verfahren vor dem Bundespatentgericht  
+## Abschnitt 5 Verfahren vor dem Bundespatentgericht  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 66 Beschwerde → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
@@ -146,7 +151,7 @@ Format: `heading → text/<file>`
 - § 81a Verfahrenskostenhilfe → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 82 Anwendung weiterer Vorschriften, Anfechtbarkeit, Akteneinsicht → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-## Abschnitt 6 - Verfahren vor dem Bundesgerichtshof  
+## Abschnitt 6 Verfahren vor dem Bundesgerichtshof  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 83 Zugelassene und zulassungsfreie Rechtsbeschwerde → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
@@ -159,7 +164,7 @@ Format: `heading → text/<file>`
 - § 89a Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 90 Kostenentscheidung → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-## Abschnitt 7 - Gemeinsame Vorschriften  
+## Abschnitt 7 Gemeinsame Vorschriften  
 `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
 - § 91 Wiedereinsetzung → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
@@ -173,13 +178,13 @@ Format: `heading → text/<file>`
 - § 96 Inlandsvertreter → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 - § 96a Rechtsschutz bei überlangen Gerichtsverfahren → `text/2-teil-3-verfahren-in-markenangelegenheiten.md`
 
-# Teil 4 - Kollektivmarken  
+# Teil 4 Kollektivmarken  
 `text/3-teil-4-kollektivmarken.md`
 
 - § 97 Kollektivmarken → `text/3-teil-4-kollektivmarken.md`
 - § 98 Inhaberschaft → `text/3-teil-4-kollektivmarken.md`
-- § 99 Eintragbarkeit von geographischen Herkunftsangaben als Kollektivmarken → `text/3-teil-4-kollektivmarken.md`
-- § 100 Schranken des Schutzes, Benutzung → `text/3-teil-4-kollektivmarken.md`
+- § 99 Geografische Herkunftsangaben als Kollektivmarken → `text/3-teil-4-kollektivmarken.md`
+- § 100 Benutzung → `text/3-teil-4-kollektivmarken.md`
 - § 101 Klagebefugnis, Schadensersatz → `text/3-teil-4-kollektivmarken.md`
 - § 102 Kollektivmarkensatzung → `text/3-teil-4-kollektivmarken.md`
 - § 103 Prüfung der Anmeldung → `text/3-teil-4-kollektivmarken.md`
@@ -187,7 +192,7 @@ Format: `heading → text/<file>`
 - § 105 Verfall → `text/3-teil-4-kollektivmarken.md`
 - § 106 Nichtigkeit wegen absoluter Schutzhindernisse → `text/3-teil-4-kollektivmarken.md`
 
-# Teil 5 - Gewährleistungsmarken  
+# Teil 5 Gewährleistungsmarken  
 `text/3-teil-4-kollektivmarken.md`
 
 - § 106a Gewährleistungsmarken → `text/3-teil-4-kollektivmarken.md`
@@ -199,55 +204,43 @@ Format: `heading → text/<file>`
 - § 106g Verfall → `text/3-teil-4-kollektivmarken.md`
 - § 106h Nichtigkeit wegen absoluter Schutzhindernisse → `text/3-teil-4-kollektivmarken.md`
 
-# Teil 6 - Schutz von Marken nach dem Madrider Markenabkommen und nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken  
+# Teil 6 Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen; Unionsmarken  
 `text/3-teil-4-kollektivmarken.md`
 
 
-## Abschnitt 1 - Schutz von Marken nach dem Madrider Markenabkommen  
+## Abschnitt 1 Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen  
 `text/3-teil-4-kollektivmarken.md`
 
-- § 107 Entsprechende Anwendung der Vorschriften dieses Gesetzes; Sprache → `text/3-teil-4-kollektivmarken.md`
+- § 107 Anwendung der Vorschriften dieses Gesetzes; Sprachen → `text/3-teil-4-kollektivmarken.md`
 - § 108 Antrag auf internationale Registrierung → `text/3-teil-4-kollektivmarken.md`
 - § 109 Gebühren → `text/3-teil-4-kollektivmarken.md`
-- § 110 Eintragung im Register → `text/3-teil-4-kollektivmarken.md`
+- § 110 Vermerk in den Akten, Eintragung im Register → `text/3-teil-4-kollektivmarken.md`
 - § 111 Nachträgliche Schutzerstreckung → `text/3-teil-4-kollektivmarken.md`
-- § 112 Wirkung der internationalen Registrierung → `text/3-teil-4-kollektivmarken.md`
+- § 112 Wirkung der internationalen Registrierung und der nachträglichen Schutzerstreckung → `text/3-teil-4-kollektivmarken.md`
 - § 113 Prüfung auf absolute Schutzhindernisse → `text/3-teil-4-kollektivmarken.md`
 - § 114 Widerspruch gegen eine international registrierte Marke → `text/3-teil-4-kollektivmarken.md`
 - § 115 Schutzentziehung → `text/3-teil-4-kollektivmarken.md`
-- § 116 Widerspruch aufgrund einer international registrierten Marke und Antrag auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke → `text/3-teil-4-kollektivmarken.md`
-- § 117 Ausschluß von Ansprüchen wegen mangelnder Benutzung → `text/3-teil-4-kollektivmarken.md`
-- § 118 Zustimmung bei Übertragungen international registrierter Marken → `text/3-teil-4-kollektivmarken.md`
+- § 116 Widerspruch aufgrund einer international registrierten Marke und Antrag oder Klage auf Erklärung der Nichtigkeit aufgrund einer international registrierten Marke → `text/3-teil-4-kollektivmarken.md`
+- § 117 Ausschluss von Ansprüchen wegen mangelnder Benutzung → `text/3-teil-4-kollektivmarken.md`
+- § 118 Umwandlung einer internationalen Registrierung → `text/3-teil-4-kollektivmarken.md`
 
-## Abschnitt 2 - Schutz von Marken nach dem Protokoll zum Madrider Markenabkommen  
+## Abschnitt 2 Unionsmarken  
 `text/3-teil-4-kollektivmarken.md`
 
-- § 119 Anwendung der Vorschriften dieses Gesetzes; Sprachen → `text/3-teil-4-kollektivmarken.md`
-- § 120 Antrag auf internationale Registrierung → `text/3-teil-4-kollektivmarken.md`
-- § 121 Gebühren → `text/3-teil-4-kollektivmarken.md`
-- § 122 Vermerk in den Akten, Eintragung im Register → `text/3-teil-4-kollektivmarken.md`
-- § 123 Nachträgliche Schutzerstreckung → `text/3-teil-4-kollektivmarken.md`
-- § 124 Entsprechende Anwendung der Vorschriften über die Wirkung der nach dem Madrider Markenabkommen international registrierten Marken → `text/3-teil-4-kollektivmarken.md`
-- § 125 Umwandlung einer internationalen Registrierung → `text/3-teil-4-kollektivmarken.md`
+- § 119 Anwendung der Vorschriften dieses Gesetzes → `text/3-teil-4-kollektivmarken.md`
+- § 120 Nachträgliche Feststellung der Ungültigkeit einer Marke → `text/3-teil-4-kollektivmarken.md`
+- § 121 Umwandlung von Unionsmarken → `text/3-teil-4-kollektivmarken.md`
+- § 122 Unionsmarkenstreitsachen; Unionsmarkengerichte → `text/3-teil-4-kollektivmarken.md`
+- § 123 Unterrichtung der Kommission → `text/3-teil-4-kollektivmarken.md`
+- § 124 Örtliche Zuständigkeit der Unionsmarkengerichte → `text/3-teil-4-kollektivmarken.md`
+- § 125 Insolvenzverfahren → `text/3-teil-4-kollektivmarken.md`
+- § 125a Erteilung der Vollstreckungsklausel → `text/3-teil-4-kollektivmarken.md`
 
-## Abschnitt 3 - Unionsmarken  
-`text/3-teil-4-kollektivmarken.md`
-
-- § 125a (weggefallen) → `text/3-teil-4-kollektivmarken.md`
-- § 125b Anwendung der Vorschriften dieses Gesetzes → `text/3-teil-4-kollektivmarken.md`
-- § 125c Nachträgliche Feststellung der Ungültigkeit einer Marke → `text/3-teil-4-kollektivmarken.md`
-- § 125d Umwandlung von Unionsmarken → `text/3-teil-4-kollektivmarken.md`
-- § 125e Unionsmarkenstreitsachen; Unionsmarkengerichte → `text/3-teil-4-kollektivmarken.md`
-- § 125f Unterrichtung der Kommission → `text/3-teil-4-kollektivmarken.md`
-- § 125g Örtliche Zuständigkeit der Unionsmarkengerichte → `text/3-teil-4-kollektivmarken.md`
-- § 125h Insolvenzverfahren → `text/3-teil-4-kollektivmarken.md`
-- § 125i Erteilung der Vollstreckungsklausel → `text/3-teil-4-kollektivmarken.md`
-
-# Teil 7 - Geographische Herkunftsangaben  
+# Teil 7 Geographische Herkunftsangaben  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
 
-## Abschnitt 1 - Schutz geographischer Herkunftsangaben  
+## Abschnitt 1 Schutz geographischer Herkunftsangaben  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
 - § 126 Als geographische Herkunftsangaben geschützte Namen, Angaben oder Zeichen → `text/4-teil-7-geographische-herkunftsangaben.md`
@@ -255,44 +248,52 @@ Format: `heading → text/<file>`
 - § 128 Ansprüche wegen Verletzung → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 129 Verjährung → `text/4-teil-7-geographische-herkunftsangaben.md`
 
-## Abschnitt 2 - Schutz von geographischen Angaben und Ursprungsbezeichnungen gemäß der Verordnung (EU) Nr. 1151/2012  
+## Abschnitt 2 Schutz von geografischen Angaben gemäß der Verordnung (EU) 2023/2411  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
+- § 129a Geltungsbereich → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 130 Verfahren vor dem Deutschen Patent- und Markenamt; nationales Einspruchsverfahren → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 131 Zwischenstaatliches Einspruchsverfahren → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 132 Antrag auf Änderung der Spezifikation, Löschungsverfahren → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 131 Unionsphase → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 132 Antrag auf Änderung der Produktspezifikation; Löschungsverfahren → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 132a Internationale Registrierung → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 133 Rechtsmittel → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 134 Überwachung → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 134 Kontrolle → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 134a Datenverarbeitung im Zusammenhang mit Kontrollen → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 134b Amtshilfe für Behörden anderer Mitgliedstaaten → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 135 Ansprüche wegen Verletzung → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 136 Verjährung → `text/4-teil-7-geographische-herkunftsangaben.md`
 
-## Abschnitt 3 - Ermächtigungen zum Erlaß von Rechtsverordnungen  
+## Abschnitt 3 Schutz von geografischen Angaben für handwerkliche und industrielle Erzeugnisse auf der Grundlage internationaler Übereinkünfte  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
-- § 137 Nähere Bestimmungen zum Schutz einzelner geographischer Herkunftsangaben → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) Nr. 1151/2012 → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 139 Durchführungsbestimmungen zur Verordnung (EU) Nr. 1151/2012; Verordnungsermächtigung → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 137 Schutzumfang, Kontrolle und Durchsetzung → `text/4-teil-7-geographische-herkunftsangaben.md`
 
-# Teil 8 - Verfahren in Kennzeichenstreitsachen  
+## Abschnitt 4 Ermächtigungen zum Erlass von Rechtsverordnungen  
+`text/4-teil-7-geographische-herkunftsangaben.md`
+
+- § 138 Sonstige Vorschriften für das Verfahren bei Anträgen und Einsprüchen nach der Verordnung (EU) 2023/2411; Verordnungsermächtigung → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 139 Durchführungsbestimmungen zur Verordnung (EU) 2023/2411; Verordnungsermächtigung → `text/4-teil-7-geographische-herkunftsangaben.md`
+
+# Teil 8 Verfahren in Kennzeichenstreitsachen  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
 - § 140 Kennzeichenstreitsachen → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 141 Gerichtsstand bei Ansprüchen nach diesem Gesetz und dem Gesetz gegen den unlauteren Wettbewerb → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 142 Streitwertbegünstigung → `text/4-teil-7-geographische-herkunftsangaben.md`
 
-# Teil 9 - Straf- und Bußgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr  
+# Teil 9 Straf- und Bußgeldvorschriften, Beschlagnahme bei der Einfuhr und Ausfuhr  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
 
-## Abschnitt 1 - Straf- und Bußgeldvorschriften  
+## Abschnitt 1 Straf- und Bußgeldvorschriften  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
 - § 143 Strafbare Kennzeichenverletzung → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 143a Strafbare Verletzung der Unionsmarke → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 144 Strafbare Benutzung geographischer Herkunftsangaben → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 144 Strafbare Verletzung der Unionsmarke → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 145 Bußgeldvorschriften → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 145a Beseitigung von Kennzeichnungen und Vernichtung von Gegenständen im Bußgeldverfahren → `text/4-teil-7-geographische-herkunftsangaben.md`
 
-## Abschnitt 2 - Beschlagnahme von Waren bei der Einfuhr und Ausfuhr  
+## Abschnitt 2 Beschlagnahme von Waren bei der Einfuhr und Ausfuhr  
 `text/4-teil-7-geographische-herkunftsangaben.md`
 
 - § 146 Beschlagnahme bei der Verletzung von Kennzeichenrechten → `text/4-teil-7-geographische-herkunftsangaben.md`
@@ -302,16 +303,17 @@ Format: `heading → text/<file>`
 - § 150 Verfahren nach der Verordnung (EU) Nr. 608/2013 → `text/4-teil-7-geographische-herkunftsangaben.md`
 - § 151 Verfahren nach deutschem Recht bei geographischen Herkunftsangaben → `text/4-teil-7-geographische-herkunftsangaben.md`
 
-# Teil 10 - Übergangsvorschriften  
-`text/4-teil-7-geographische-herkunftsangaben.md`
+# Teil 10 Übergangsvorschriften  
+`text/5-teil-10-ubergangsvorschriften.md`
 
-- § 152 Anwendung dieses Gesetzes → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 153 Schranken für die Geltendmachung von Verletzungsansprüchen → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 154 Dingliche Rechte, Zwangsvollstreckung, Konkursverfahren → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 155 Lizenzen → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 156 Löschung einer eingetragenen Marke wegen absoluter Schutzhindernisse → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 157 Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 158 Übergangsvorschriften → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 159 Schutzdauer und Verlängerung → `text/4-teil-7-geographische-herkunftsangaben.md`
-- §§ 160 bis 163 (weggefallen) → `text/4-teil-7-geographische-herkunftsangaben.md`
-- § 164 (weggefallen) → `text/4-teil-7-geographische-herkunftsangaben.md`
+- § 152 Anwendung dieses Gesetzes → `text/5-teil-10-ubergangsvorschriften.md`
+- § 153 Schranken für die Geltendmachung von Verletzungsansprüchen → `text/5-teil-10-ubergangsvorschriften.md`
+- § 154 Dingliche Rechte, Zwangsvollstreckung, Konkursverfahren → `text/5-teil-10-ubergangsvorschriften.md`
+- § 155 Lizenzen → `text/5-teil-10-ubergangsvorschriften.md`
+- § 156 Löschung einer eingetragenen Marke wegen absoluter Schutzhindernisse → `text/5-teil-10-ubergangsvorschriften.md`
+- § 157 Löschung einer eingetragenen Marke wegen des Bestehens älterer Rechte → `text/5-teil-10-ubergangsvorschriften.md`
+- § 158 Übergangsvorschriften → `text/5-teil-10-ubergangsvorschriften.md`
+- § 159 Schutzdauer und Verlängerung → `text/5-teil-10-ubergangsvorschriften.md`
+- § 160 Geändertes Unionsrecht → `text/5-teil-10-ubergangsvorschriften.md`
+- §§ 161 bis 163 (weggefallen) → `text/5-teil-10-ubergangsvorschriften.md`
+- § 164 (weggefallen) → `text/5-teil-10-ubergangsvorschriften.md`

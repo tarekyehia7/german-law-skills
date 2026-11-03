@@ -3,11 +3,12 @@
 Format: `heading → text/<file>`
 
 
-# Abschnitt 1 - Steuerpflicht  
+# Abschnitt 1 Steuerpflicht  
 `text/1-abschnitt-1-steuerpflicht.md`
 
 - § 1 Steuerpflichtige Vorgänge → `text/1-abschnitt-1-steuerpflicht.md`
 - § 2 Persönliche Steuerpflicht → `text/1-abschnitt-1-steuerpflicht.md`
+- § 2a Rechtsfähige Personengesellschaft → `text/1-abschnitt-1-steuerpflicht.md`
 - § 3 Erwerb von Todes wegen → `text/1-abschnitt-1-steuerpflicht.md`
 - § 4 Fortgesetzte Gütergemeinschaft → `text/1-abschnitt-1-steuerpflicht.md`
 - § 5 Zugewinngemeinschaft → `text/1-abschnitt-1-steuerpflicht.md`
@@ -16,7 +17,7 @@ Format: `heading → text/<file>`
 - § 8 Zweckzuwendungen → `text/1-abschnitt-1-steuerpflicht.md`
 - § 9 Entstehung der Steuer → `text/1-abschnitt-1-steuerpflicht.md`
 
-# Abschnitt 2 - Wertermittlung  
+# Abschnitt 2 Wertermittlung  
 `text/2-abschnitt-2-wertermittlung.md`
 
 - § 10 Steuerpflichtiger Erwerb → `text/2-abschnitt-2-wertermittlung.md`
@@ -28,7 +29,7 @@ Format: `heading → text/<file>`
 - § 13c Verschonungsabschlag bei Großerwerben von begünstigtem Vermögen → `text/2-abschnitt-2-wertermittlung.md`
 - § 13d Steuerbefreiung für zu Wohnzwecken vermietete Grundstücke → `text/2-abschnitt-2-wertermittlung.md`
 
-# Abschnitt 3 - Berechnung der Steuer  
+# Abschnitt 3 Berechnung der Steuer  
 `text/3-abschnitt-3-berechnung-der-steuer.md`
 
 - § 14 Berücksichtigung früherer Erwerbe → `text/3-abschnitt-3-berechnung-der-steuer.md`
@@ -39,7 +40,7 @@ Format: `heading → text/<file>`
 - § 19 Steuersätze → `text/3-abschnitt-3-berechnung-der-steuer.md`
 - § 19a Tarifbegrenzung beim Erwerb von Betriebsvermögen, von Betrieben der Land- und Forstwirtschaft und von Anteilen an Kapitalgesellschaften → `text/3-abschnitt-3-berechnung-der-steuer.md`
 
-# Abschnitt 4 - Steuerfestsetzung und Erhebung  
+# Abschnitt 4 Steuerfestsetzung und Erhebung  
 `text/3-abschnitt-3-berechnung-der-steuer.md`
 
 - § 20 Steuerschuldner → `text/3-abschnitt-3-berechnung-der-steuer.md`
@@ -60,7 +61,7 @@ Format: `heading → text/<file>`
 - § 34 Anzeigepflicht der Gerichte, Behörden, Beamten und Notare → `text/3-abschnitt-3-berechnung-der-steuer.md`
 - § 35 Örtliche Zuständigkeit → `text/3-abschnitt-3-berechnung-der-steuer.md`
 
-# Abschnitt 5 - Ermächtigungs- und Schlussvorschriften  
+# Abschnitt 5 Ermächtigungs- und Schlussvorschriften  
 `text/4-abschnitt-5-ermachtigungs-und-schlussvorschriften.md`
 
 - § 36 Ermächtigungen → `text/4-abschnitt-5-ermachtigungs-und-schlussvorschriften.md`

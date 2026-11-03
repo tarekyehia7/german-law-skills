@@ -1,4 +1,4 @@
-# Staatsangehörigkeitsgesetz (RuStAG) – Inhaltsverzeichnis
+# Staatsangehörigkeitsgesetz (StAG) – Inhaltsverzeichnis
 
 Format: `heading → text/<file>`
 
@@ -13,7 +13,7 @@ Format: `heading → text/<file>`
 - § 9 → `text/1-1-bis-42.md`
 - § 10 → `text/1-1-bis-42.md`
 - § 11 → `text/1-1-bis-42.md`
-- § 12 → `text/1-1-bis-42.md`
+- § 12 (weggefallen) → `text/1-1-bis-42.md`
 - § 12a → `text/1-1-bis-42.md`
 - § 12b → `text/1-1-bis-42.md`
 - § 13 → `text/1-1-bis-42.md`
@@ -21,32 +21,30 @@ Format: `heading → text/<file>`
 - § 15 → `text/1-1-bis-42.md`
 - § 16 → `text/1-1-bis-42.md`
 - § 17 → `text/1-1-bis-42.md`
-- § 18 → `text/1-1-bis-42.md`
-- § 19 → `text/1-1-bis-42.md`
+- §§ 18 und 19 (weggefallen) → `text/1-1-bis-42.md`
 - §§ 20 und 21 (weggefallen) → `text/1-1-bis-42.md`
-- § 22 → `text/1-1-bis-42.md`
-- § 23 → `text/1-1-bis-42.md`
-- § 24 → `text/1-1-bis-42.md`
-- § 25 → `text/1-1-bis-42.md`
+- §§ 22 und 23 (weggefallen) → `text/1-1-bis-42.md`
+- § 24 (weggefallen) → `text/1-1-bis-42.md`
+- § 25 (weggefallen) → `text/1-1-bis-42.md`
 - § 26 → `text/1-1-bis-42.md`
-- § 27 → `text/1-1-bis-42.md`
+- § 27 (weggefallen) → `text/1-1-bis-42.md`
 - § 28 → `text/1-1-bis-42.md`
-- § 29 → `text/1-1-bis-42.md`
+- § 29 (weggefallen) → `text/1-1-bis-42.md`
 - § 30 → `text/1-1-bis-42.md`
 - § 31 → `text/1-1-bis-42.md`
 - § 32 → `text/1-1-bis-42.md`
 - § 32a → `text/1-1-bis-42.md`
+- § 32b → `text/1-1-bis-42.md`
 - § 33 → `text/1-1-bis-42.md`
 - § 34 → `text/1-1-bis-42.md`
 - § 35 → `text/1-1-bis-42.md`
+- § 35a Sperrfrist → `text/1-1-bis-42.md`
 - § 36 → `text/1-1-bis-42.md`
 - § 37 → `text/1-1-bis-42.md`
 - § 38 → `text/1-1-bis-42.md`
 - § 38a → `text/1-1-bis-42.md`
 - § 39 → `text/1-1-bis-42.md`
 - § 40 (weggefallen) → `text/1-1-bis-42.md`
-- § 40a (weggefallen) → `text/1-1-bis-42.md`
-- § 40b → `text/1-1-bis-42.md`
-- § 40c → `text/1-1-bis-42.md`
+- § 40a → `text/1-1-bis-42.md`
 - § 41 → `text/1-1-bis-42.md`
 - § 42 → `text/1-1-bis-42.md`

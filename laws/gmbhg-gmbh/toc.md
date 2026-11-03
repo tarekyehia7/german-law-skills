@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Abschnitt 1 - Errichtung der Gesellschaft  
+# Abschnitt 1 Errichtung der Gesellschaft  
 `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
 
 - § 1 Zweck; Gründerzahl → `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
@@ -24,7 +24,7 @@ Format: `heading → text/<file>`
 - § 11 Rechtszustand vor der Eintragung → `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
 - § 12 Bekanntmachungen der Gesellschaft → `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
 
-# Abschnitt 2 - Rechtsverhältnisse der Gesellschaft und der Gesellschafter  
+# Abschnitt 2 Rechtsverhältnisse der Gesellschaft und der Gesellschafter  
 `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
 
 - § 13 Juristische Person; Handelsgesellschaft → `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
@@ -52,7 +52,7 @@ Format: `heading → text/<file>`
 - § 33 Erwerb eigener Geschäftsanteile → `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
 - § 34 Einziehung von Geschäftsanteilen → `text/1-abschnitt-1-errichtung-der-gesellschaft.md`
 
-# Abschnitt 3 - Vertretung und Geschäftsführung  
+# Abschnitt 3 Vertretung und Geschäftsführung  
 `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
 
 - § 35 Vertretung der Gesellschaft → `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
@@ -79,7 +79,7 @@ Format: `heading → text/<file>`
 - § 51b Gerichtliche Entscheidung über das Auskunfts- und Einsichtsrecht → `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
 - § 52 Aufsichtsrat → `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
 
-# Abschnitt 4 - Abänderungen des Gesellschaftsvertrags  
+# Abschnitt 4 Abänderungen des Gesellschaftsvertrags  
 `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
 
 - § 53 Form der Satzungsänderung → `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
@@ -113,7 +113,7 @@ Format: `heading → text/<file>`
 - § 58f Kapitalherabsetzung bei gleichzeitiger Erhöhung des Stammkapitals → `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
 - § 59 (weggefallen) → `text/2-abschnitt-3-vertretung-und-geschaftsfuhrung.md`
 
-# Abschnitt 5 - Auflösung und Nichtigkeit der Gesellschaft  
+# Abschnitt 5 Auflösung und Nichtigkeit der Gesellschaft  
 `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 
 - § 60 Auflösungsgründe → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
@@ -135,16 +135,12 @@ Format: `heading → text/<file>`
 - § 76 Heilung von Mängeln durch Gesellschafterbeschluss → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 - § 77 Wirkung der Nichtigkeit → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 
-# Abschnitt 6 - Sondervorschriften bei Beteiligung des Bundes  
+# Abschnitt 6 Sondervorschriften bei Beteiligung des Bundes  
 `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 
 - § 77a Besetzung von Organen bei Gesellschaften mit Mehrheitsbeteiligung des Bundes → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 
-# Abschnitt 6 - Ordnungs-, Straf- und Bußgeldvorschriften  
-`text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
-
-
-# Abschnitt 7 - Ordnungs-, Straf- und Bußgeldvorschriften  
+# Abschnitt 7 Ordnungs-, Straf- und Bußgeldvorschriften  
 `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 
 - § 78 Anmeldepflichtige → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
@@ -158,4 +154,5 @@ Format: `heading → text/<file>`
 - § 86 Verletzung der Pflichten bei Abschlussprüfungen → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 - § 87 Bußgeldvorschriften → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
 - § 88 Mitteilungen an die Abschlussprüferaufsichtsstelle → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
-- Anlage (zu § 2 Abs. 1a) → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
+- Anlage 1 (zu § 2 Abs. 1a) → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`
+- Anlage 2 (zu § 2 Absatz 3) → `text/3-abschnitt-5-auflosung-und-nichtigkeit-der-gesellschaft.md`

@@ -20,7 +20,7 @@ Format: `heading → text/<file>`
 - § 11a Verordnungsermächtigung → `text/1-1-bis-20.md`
 - § 12 Rechtsbeziehungen zwischen Verleiher und Entleiher → `text/1-1-bis-20.md`
 - § 13 Auskunftsanspruch des Leiharbeitnehmers → `text/1-1-bis-20.md`
-- § 13a Informationspflicht des Entleihers über freie Arbeitsplätze → `text/1-1-bis-20.md`
+- § 13a Informationspflicht des Entleihers über freie Arbeitsplätze und Übernahmegesuch des Leiharbeitnehmers → `text/1-1-bis-20.md`
 - § 13b Zugang des Leiharbeitnehmers zu Gemeinschaftseinrichtungen oder -diensten → `text/1-1-bis-20.md`
 - § 14 Mitwirkungs- und Mitbestimmungsrechte → `text/1-1-bis-20.md`
 - § 15 Ausländische Leiharbeitnehmer ohne Genehmigung → `text/1-1-bis-20.md`

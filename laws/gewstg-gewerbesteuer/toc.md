@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Abschnitt I - Allgemeines  
+# Abschnitt I Allgemeines  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 1 Steuerberechtigte → `text/1-abschnitt-i-allgemeines.md`
@@ -14,7 +14,7 @@ Format: `heading → text/<file>`
 - § 5 Steuerschuldner → `text/1-abschnitt-i-allgemeines.md`
 - § 6 Besteuerungsgrundlage → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt II - Bemessung der Gewerbesteuer  
+# Abschnitt II Bemessung der Gewerbesteuer  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 7 Gewerbeertrag → `text/1-abschnitt-i-allgemeines.md`
@@ -27,12 +27,12 @@ Format: `heading → text/<file>`
 - § 10a Gewerbeverlust → `text/1-abschnitt-i-allgemeines.md`
 - § 11 Steuermesszahl und Steuermessbetrag → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt III -  
+# Abschnitt III  
 `text/1-abschnitt-i-allgemeines.md`
 
 - §§ 12 und 13 (weggefallen) → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt IV - Steuermessbetrag  
+# Abschnitt IV Steuermessbetrag  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 14 Festsetzung des Steuermessbetrags → `text/1-abschnitt-i-allgemeines.md`
@@ -40,7 +40,7 @@ Format: `heading → text/<file>`
 - § 14b Verspätungszuschlag → `text/1-abschnitt-i-allgemeines.md`
 - § 15 Pauschfestsetzung → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt V - Entstehung, Festsetzung und Erhebung der Steuer  
+# Abschnitt V Entstehung, Festsetzung und Erhebung der Steuer  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 16 Hebesatz → `text/1-abschnitt-i-allgemeines.md`
@@ -51,7 +51,7 @@ Format: `heading → text/<file>`
 - § 21 Entstehung der Vorauszahlungen → `text/1-abschnitt-i-allgemeines.md`
 - §§ 22 bis 27 (weggefallen) → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt VI - Zerlegung  
+# Abschnitt VI Zerlegung  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 28 Allgemeines → `text/1-abschnitt-i-allgemeines.md`
@@ -63,22 +63,22 @@ Format: `heading → text/<file>`
 - § 34 Kleinbeträge → `text/1-abschnitt-i-allgemeines.md`
 - § 35 → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt VII - Gewerbesteuer der Reisegewerbebetriebe  
+# Abschnitt VII Gewerbesteuer der Reisegewerbebetriebe  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 35a → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt VIII - Änderung des Gewerbesteuermessbescheids von Amts wegen  
+# Abschnitt VIII Änderung des Gewerbesteuermessbescheids von Amts wegen  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 35b → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt IX - Durchführung  
+# Abschnitt IX Durchführung  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 35c Ermächtigung → `text/1-abschnitt-i-allgemeines.md`
 
-# Abschnitt X - Schlussvorschriften  
+# Abschnitt X Schlussvorschriften  
 `text/1-abschnitt-i-allgemeines.md`
 
 - § 36 Zeitlicher Anwendungsbereich → `text/1-abschnitt-i-allgemeines.md`

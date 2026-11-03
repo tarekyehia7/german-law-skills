@@ -6,19 +6,20 @@ metadata:
   title: "Umsatzsteuergesetz"
   area: Steuerrecht
   ausfertigungsdatum: 1979-11-26
-  stand: "Art. 1 G v. 21.12.2021 I 5250"
+  stand: "Art. 5 G v. 29.6.2026 I Nr. 197"
   source: https://www.gesetze-im-internet.de/ustg_1980/
-  mirror: https://github.com/bundestag/gesetze/tree/master/u/ustg_1980
-  paragraphs: 88
-  chunks: 7
-  size_bytes: 373005
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/us/ustg_1980.md
+  snapshot: 2026-11-03
+  paragraphs: 93
+  chunks: 8
+  size_bytes: 387317
 ---
 
 # Umsatzsteuergesetz (UStG)
 
 **Area:** Steuerrecht  
 **Covers:** Value Added Tax Act: VAT rates, exemptions, invoices, small business rule  
-**Text state:** Art. 1 G v. 21.12.2021 I 5250 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 5 G v. 29.6.2026 I Nr. 197 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,12 +41,13 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-erster-abschnitt-steuergegenstand-und-geltungsbereich.md` | Erster Abschnitt - Steuergegenstand und Geltungsbereich | § 1 – § 3g | 49 KB |
-| 2 | `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md` | Zweiter Abschnitt - Steuerbefreiungen und Steuervergütungen | § 4 – § 9 | 69 KB |
-| 3 | `text/3-dritter-abschnitt-bemessungsgrundlagen.md` | Dritter Abschnitt - Bemessungsgrundlagen | § 10 – § 11 | 7 KB |
-| 4 | `text/4-vierter-abschnitt-steuer-und-vorsteuer.md` | Vierter Abschnitt - Steuer und Vorsteuer | § 12 – § 15a | 55 KB |
-| 5 | `text/5-funfter-abschnitt-besteuerung.md` | Fünfter Abschnitt - Besteuerung | § 16 – § 21a | 92 KB |
-| 6 | `text/6-sechster-abschnitt-sonderregelungen.md` | Sechster Abschnitt - Sonderregelungen | § 22 – § 25f | 44 KB |
-| 7 | `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md` | Siebenter Abschnitt - Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften | § 26 – Anlage 4 | 54 KB |
+| 1 | `text/1-erster-abschnitt-steuergegenstand-und-geltungsbereich.md` | Erster Abschnitt Steuergegenstand und Geltungsbereich | § 1 – § 3g | 49 KB |
+| 2 | `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md` | Zweiter Abschnitt Steuerbefreiungen und Steuervergütungen | § 4 – § 9 | 65 KB |
+| 3 | `text/3-dritter-abschnitt-bemessungsgrundlagen.md` | Dritter Abschnitt Bemessungsgrundlagen | § 10 – § 11 | 7 KB |
+| 4 | `text/4-vierter-abschnitt-steuer-und-vorsteuer.md` | Vierter Abschnitt Steuer und Vorsteuer | § 12 – § 15a | 58 KB |
+| 5 | `text/5-funfter-abschnitt-besteuerung.md` | Fünfter Abschnitt Besteuerung | § 16 – § 21a | 97 KB |
+| 6 | `text/6-21b-22g.md` | Fünfter Abschnitt Besteuerung › § 21b – § 22g | § 21b – § 22g | 30 KB |
+| 7 | `text/7-sechster-abschnitt-sonderregelungen.md` | Sechster Abschnitt Sonderregelungen | § 23 – § 25f | 24 KB |
+| 8 | `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md` | Siebenter Abschnitt Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften | § 26 – Anlage 5 | 54 KB |
 
-Full paragraph index: `toc.md` (88 paragraphs).
+Full paragraph index: `toc.md` (93 paragraphs).

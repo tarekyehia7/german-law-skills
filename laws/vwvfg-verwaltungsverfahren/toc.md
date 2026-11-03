@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Teil I - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit  
+# Teil I Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation, Amtshilfe, europäische Verwaltungszusammenarbeit  
 `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
 
-## Abschnitt 1 - Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation  
+## Abschnitt 1 Anwendungsbereich, örtliche Zuständigkeit, elektronische Kommunikation  
 `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
 - § 1 Anwendungsbereich → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
@@ -15,7 +15,7 @@ Format: `heading → text/<file>`
 - § 3 Örtliche Zuständigkeit → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 - § 3a Elektronische Kommunikation → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
-## Abschnitt 2 - Amtshilfe  
+## Abschnitt 2 Amtshilfe  
 `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
 - § 4 Amtshilfepflicht → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
@@ -24,7 +24,7 @@ Format: `heading → text/<file>`
 - § 7 Durchführung der Amtshilfe → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 - § 8 Kosten der Amtshilfe → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
-## Abschnitt 3 - Europäische Verwaltungszusammenarbeit  
+## Abschnitt 3 Europäische Verwaltungszusammenarbeit  
 `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
 - § 8a Grundsätze der Hilfeleistung → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
@@ -33,11 +33,11 @@ Format: `heading → text/<file>`
 - § 8d Mitteilungen von Amts wegen → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 - § 8e Anwendbarkeit → `text/1-teil-i-anwendungsbereich-ortliche-zustandigkeit-elektronisch.md`
 
-# Teil II - Allgemeine Vorschriften über das Verwaltungsverfahren  
+# Teil II Allgemeine Vorschriften über das Verwaltungsverfahren  
 `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
 
-## Abschnitt 1 - Verfahrensgrundsätze  
+## Abschnitt 1 Verfahrensgrundsätze  
 `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
 - § 9 Begriff des Verwaltungsverfahrens → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
@@ -59,28 +59,30 @@ Format: `heading → text/<file>`
 - § 25 Beratung, Auskunft, frühe Öffentlichkeitsbeteiligung → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 26 Beweismittel → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 27 Versicherung an Eides statt → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
-- § 27a Öffentliche Bekanntmachung im Internet → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
+- § 27a Bekanntmachung im Internet → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
+- § 27b Auslegung von Dokumenten → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
+- § 27c Erörterung mit Verfahrensbeteiligten oder der Öffentlichkeit → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 28 Anhörung Beteiligter → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 29 Akteneinsicht durch Beteiligte → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 30 Geheimhaltung → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
-## Abschnitt 2 - Fristen, Termine, Wiedereinsetzung  
+## Abschnitt 2 Fristen, Termine, Wiedereinsetzung  
 `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
 - § 31 Fristen und Termine → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 32 Wiedereinsetzung in den vorigen Stand → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
-## Abschnitt 3 - Amtliche Beglaubigung  
+## Abschnitt 3 Amtliche Beglaubigung  
 `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
 - § 33 Beglaubigung von Dokumenten → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 - § 34 Beglaubigung von Unterschriften → `text/2-teil-ii-allgemeine-vorschriften-uber-das-verwaltungsverfahre.md`
 
-# Teil III - Verwaltungsakt  
+# Teil III Verwaltungsakt  
 `text/3-teil-iii-verwaltungsakt.md`
 
 
-## Abschnitt 1 - Zustandekommen des Verwaltungsaktes  
+## Abschnitt 1 Zustandekommen des Verwaltungsaktes  
 `text/3-teil-iii-verwaltungsakt.md`
 
 - § 35 Begriff des Verwaltungsaktes → `text/3-teil-iii-verwaltungsakt.md`
@@ -94,7 +96,7 @@ Format: `heading → text/<file>`
 - § 42 Offenbare Unrichtigkeiten im Verwaltungsakt → `text/3-teil-iii-verwaltungsakt.md`
 - § 42a Genehmigungsfiktion → `text/3-teil-iii-verwaltungsakt.md`
 
-## Abschnitt 2 - Bestandskraft des Verwaltungsaktes  
+## Abschnitt 2 Bestandskraft des Verwaltungsaktes  
 `text/3-teil-iii-verwaltungsakt.md`
 
 - § 43 Wirksamkeit des Verwaltungsaktes → `text/3-teil-iii-verwaltungsakt.md`
@@ -109,12 +111,12 @@ Format: `heading → text/<file>`
 - § 51 Wiederaufgreifen des Verfahrens → `text/3-teil-iii-verwaltungsakt.md`
 - § 52 Rückgabe von Urkunden und Sachen → `text/3-teil-iii-verwaltungsakt.md`
 
-## Abschnitt 3 - Verjährungsrechtliche Wirkungen des Verwaltungsaktes  
+## Abschnitt 3 Verjährungsrechtliche Wirkungen des Verwaltungsaktes  
 `text/3-teil-iii-verwaltungsakt.md`
 
 - § 53 Hemmung der Verjährung durch Verwaltungsakt → `text/3-teil-iii-verwaltungsakt.md`
 
-# Teil IV - Öffentlich-rechtlicher Vertrag  
+# Teil IV Öffentlich-rechtlicher Vertrag  
 `text/3-teil-iii-verwaltungsakt.md`
 
 - § 54 Zulässigkeit des öffentlich-rechtlichen Vertrags → `text/3-teil-iii-verwaltungsakt.md`
@@ -127,11 +129,11 @@ Format: `heading → text/<file>`
 - § 61 Unterwerfung unter die sofortige Vollstreckung → `text/3-teil-iii-verwaltungsakt.md`
 - § 62 Ergänzende Anwendung von Vorschriften → `text/3-teil-iii-verwaltungsakt.md`
 
-# Teil V - Besondere Verfahrensarten  
+# Teil V Besondere Verfahrensarten  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 
-## Abschnitt 1 - Förmliches Verwaltungsverfahren  
+## Abschnitt 1 Förmliches Verwaltungsverfahren  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 63 Anwendung der Vorschriften über das förmliche Verwaltungsverfahren → `text/4-teil-v-besondere-verfahrensarten.md`
@@ -144,7 +146,7 @@ Format: `heading → text/<file>`
 - § 70 Anfechtung der Entscheidung → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 71 Besondere Vorschriften für das förmliche Verfahren vor Ausschüssen → `text/4-teil-v-besondere-verfahrensarten.md`
 
-## Abschnitt 1a - Verfahren über eine einheitliche Stelle  
+## Abschnitt 1a Verfahren über eine einheitliche Stelle  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 71a Anwendbarkeit → `text/4-teil-v-besondere-verfahrensarten.md`
@@ -153,28 +155,36 @@ Format: `heading → text/<file>`
 - § 71d Gegenseitige Unterstützung → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 71e Elektronisches Verfahren → `text/4-teil-v-besondere-verfahrensarten.md`
 
-## Abschnitt 2 - Planfeststellungsverfahren  
+## Abschnitt 2 Planfeststellungsverfahren  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 72 Anwendung der Vorschriften über das Planfeststellungsverfahren → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 72a Einreichung des Plans und Ausgestaltung des Verfahrens → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 73 Anhörungsverfahren → `text/4-teil-v-besondere-verfahrensarten.md`
-- § 74 Planfeststellungsbeschluss, Plangenehmigung → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 73a Behördenbeteiligung → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 73b Erörterungstermin → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 73c Planänderung im Verfahren → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 73d Projektmanager → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 74 Planfeststellungsbeschluss → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 74a Plangenehmigung → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 74b Entfallen von Planfeststellung und Plangenehmigung → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 75 Rechtswirkungen der Planfeststellung → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 75a Außerkrafttreten des Plans → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 76 Planänderungen vor Fertigstellung des Vorhabens → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 77 Aufhebung des Planfeststellungsbeschlusses → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 78 Zusammentreffen mehrerer Vorhaben → `text/4-teil-v-besondere-verfahrensarten.md`
 
-# Teil VI - Rechtsbehelfsverfahren  
+# Teil VI Rechtsbehelfsverfahren  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 79 Rechtsbehelfe gegen Verwaltungsakte → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 80 Erstattung von Kosten im Vorverfahren → `text/4-teil-v-besondere-verfahrensarten.md`
 
-# Teil VII - Ehrenamtliche Tätigkeit, Ausschüsse  
+# Teil VII Ehrenamtliche Tätigkeit, Ausschüsse  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 
-## Abschnitt 1 - Ehrenamtliche Tätigkeit  
+## Abschnitt 1 Ehrenamtliche Tätigkeit  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 81 Anwendung der Vorschriften über die ehrenamtliche Tätigkeit → `text/4-teil-v-besondere-verfahrensarten.md`
@@ -185,7 +195,7 @@ Format: `heading → text/<file>`
 - § 86 Abberufung → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 87 Ordnungswidrigkeiten → `text/4-teil-v-besondere-verfahrensarten.md`
 
-## Abschnitt 2 - Ausschüsse  
+## Abschnitt 2 Ausschüsse  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 88 Anwendung der Vorschriften über Ausschüsse → `text/4-teil-v-besondere-verfahrensarten.md`
@@ -195,7 +205,7 @@ Format: `heading → text/<file>`
 - § 92 Wahlen durch Ausschüsse → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 93 Niederschrift → `text/4-teil-v-besondere-verfahrensarten.md`
 
-# Teil VIII - Schlussvorschriften  
+# Teil VIII Schlussvorschriften  
 `text/4-teil-v-besondere-verfahrensarten.md`
 
 - § 94 Übertragung gemeindlicher Aufgaben → `text/4-teil-v-besondere-verfahrensarten.md`
@@ -207,4 +217,6 @@ Format: `heading → text/<file>`
 - § 100 Landesgesetzliche Regelungen → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 101 Stadtstaatenklausel → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 102 Übergangsvorschrift zu § 53 → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 102a Übergangsregelung für die Durchführung von Verwaltungsverfahren → `text/4-teil-v-besondere-verfahrensarten.md`
+- § 102b Übergangsvorschrift zu den §§ 72 bis 78 → `text/4-teil-v-besondere-verfahrensarten.md`
 - § 103 → `text/4-teil-v-besondere-verfahrensarten.md`

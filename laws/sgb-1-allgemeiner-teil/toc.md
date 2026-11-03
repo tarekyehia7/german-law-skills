@@ -3,25 +3,25 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Aufgaben des Sozialgesetzbuchs und soziale Rechte  
+# Erster Abschnitt Aufgaben des Sozialgesetzbuchs und soziale Rechte  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 1 Aufgaben des Sozialgesetzbuchs → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 2 Soziale Rechte → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 3 Bildungs- und Arbeitsförderung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 4 Sozialversicherung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
-- § 5 Soziale Entschädigung bei Gesundheitsschäden → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
+- § 5 Soziale Entschädigung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 6 Minderung des Familienaufwands → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 7 Zuschuß für eine angemessene Wohnung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 8 Kinder- und Jugendhilfe → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 9 Sozialhilfe → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 10 Teilhabe behinderter Menschen → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
-# Zweiter Abschnitt - Einweisungsvorschriften  
+# Zweiter Abschnitt Einweisungsvorschriften  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 
-## Erster Titel - Allgemeines über Sozialleistungen und Leistungsträger  
+## Erster Titel Allgemeines über Sozialleistungen und Leistungsträger  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 11 Leistungsarten → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
@@ -32,7 +32,7 @@ Format: `heading → text/<file>`
 - § 16 Antragstellung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 17 Ausführung der Sozialleistungen → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
-## Zweiter Titel - Einzelne Sozialleistungen und zuständige Leistungsträger  
+## Zweiter Titel Einzelne Sozialleistungen und zuständige Leistungsträger  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 18 Leistungen der Ausbildungsförderung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
@@ -45,7 +45,8 @@ Format: `heading → text/<file>`
 - § 21b Leistungen bei Schwangerschaftsabbrüchen → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 22 Leistungen der gesetzlichen Unfallversicherung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 23 Leistungen der gesetzlichen Rentenversicherung einschließlich der Alterssicherung der Landwirte → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
-- § 24 Versorgungsleistungen bei Gesundheitsschäden → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
+- § 24 Leistungen der Sozialen Entschädigung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
+- § 24a Leistungen der Soldatenentschädigung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 25 Kindergeld, Kinderzuschlag, Elterngeld und Leistungen für Bildung und Teilhabe → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 26 Wohngeld → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 27 Leistungen der Kinder- und Jugendhilfe → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
@@ -53,11 +54,11 @@ Format: `heading → text/<file>`
 - § 28a Leistungen der Eingliederungshilfe → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 29 Leistungen zur Rehabilitation und Teilhabe behinderter Menschen → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
-# Dritter Abschnitt - Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs  
+# Dritter Abschnitt Gemeinsame Vorschriften für alle Sozialleistungsbereiche dieses Gesetzbuchs  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 
-## Erster Titel - Allgemeine Grundsätze  
+## Erster Titel Allgemeine Grundsätze  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 30 Geltungsbereich → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
@@ -73,7 +74,7 @@ Format: `heading → text/<file>`
 - § 36a Elektronische Kommunikation → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 37 Vorbehalt abweichender Regelungen → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
-## Zweiter Titel - Grundsätze des Leistungsrechts  
+## Zweiter Titel Grundsätze des Leistungsrechts  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 38 Rechtsanspruch → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
@@ -99,7 +100,7 @@ Format: `heading → text/<file>`
 - § 58 Vererbung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 59 Ausschluß der Rechtsnachfolge → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
-## Dritter Titel - Mitwirkung des Leistungsberechtigten  
+## Dritter Titel Mitwirkung des Leistungsberechtigten  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 60 Angabe von Tatsachen → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
@@ -112,10 +113,11 @@ Format: `heading → text/<file>`
 - § 66 Folgen fehlender Mitwirkung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 67 Nachholung der Mitwirkung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
-# Vierter Abschnitt - Übergangs- und Schlussvorschriften  
+# Vierter Abschnitt Übergangs- und Schlussvorschriften  
 `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 
 - § 68 Besondere Teile dieses Gesetzbuches → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 69 Stadtstaaten-Klausel → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 70 Überleitungsvorschrift zum Verjährungsrecht → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
 - § 71 Überleitungsvorschrift zur Übertragung, Verpfändung und Pfändung → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`
+- § 72 (weggefallen) → `text/1-erster-abschnitt-aufgaben-des-sozialgesetzbuchs-und-soziale.md`

@@ -6,19 +6,20 @@ metadata:
   title: "Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594)"
   area: Sozialrecht
   ausfertigungsdatum: 1997-03-24
-  stand: "Art. 12a G v. 10.12.2021 I 5162"
+  stand: "Art. 1a G v. 24.7.2026 I Nr. 228"
   source: https://www.gesetze-im-internet.de/sgb_3/
-  mirror: https://github.com/bundestag/gesetze/tree/master/s/sgb_3
-  paragraphs: 385
-  chunks: 12
-  size_bytes: 484044
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/sg/sgb_3.md
+  snapshot: 2026-11-03
+  paragraphs: 405
+  chunks: 14
+  size_bytes: 522894
 ---
 
 # Sozialgesetzbuch (SGB) Drittes Buch (III) - Arbeitsförderung - (Artikel 1 des Gesetzes vom 24. März 1997, BGBl. I S. 594) (SGB 3)
 
 **Area:** Sozialrecht  
 **Covers:** Social Code III: unemployment insurance, unemployment benefit (Arbeitslosengeld I), job promotion  
-**Text state:** Art. 12a G v. 10.12.2021 I 5162 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 1a G v. 24.7.2026 I Nr. 228 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,17 +41,19 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/01-erstes-kapitel-allgemeine-vorschriften.md` | Erstes Kapitel - Allgemeine Vorschriften | § 1 – § 28a | 44 KB |
-| 2 | `text/02-erster-abschnitt-beratung-und-vermittlung.md` | Drittes Kapitel - Aktive Arbeitsförderung › Erster Abschnitt - Beratung und Vermittlung | § 29 – § 47 | 29 KB |
-| 3 | `text/03-dritter-abschnitt-berufswahl-und-berufsausbildung.md` | Drittes Kapitel - Aktive Arbeitsförderung › Dritter Abschnitt - Berufswahl und Berufsausbildung | § 48 – § 80b | 42 KB |
-| 4 | `text/04-vierter-abschnitt-berufliche-weiterbildung.md` | Drittes Kapitel - Aktive Arbeitsförderung › Vierter Abschnitt - Berufliche Weiterbildung | § 81 – § 94 | 21 KB |
-| 5 | `text/05-sechster-abschnitt-verbleib-in-beschaftigung.md` | Drittes Kapitel - Aktive Arbeitsförderung › Sechster Abschnitt - Verbleib in Beschäftigung | § 95 – § 111a | 37 KB |
-| 6 | `text/06-siebter-abschnitt-teilhabe-von-menschen-mit-behinderungen-am.md` | Drittes Kapitel - Aktive Arbeitsförderung › Siebter Abschnitt - Teilhabe von Menschen mit Behinderungen am Arbeitsleben | § 112 – § 135 | 19 KB |
-| 7 | `text/07-viertes-kapitel-arbeitslosengeld-und-insolvenzgeld.md` | Viertes Kapitel - Arbeitslosengeld und Insolvenzgeld | § 136 – § 175 | 68 KB |
-| 8 | `text/08-funftes-kapitel-zulassung-von-tragern-und-massnahmen.md` | Fünftes Kapitel - Zulassung von Trägern und Maßnahmen | § 176 – §§ 304 | 49 KB |
-| 9 | `text/09-achtes-kapitel-pflichten.md` | Achtes Kapitel - Pflichten | § 309 – § 339 | 45 KB |
-| 10 | `text/10-zehntes-kapitel-finanzierung.md` | Zehntes Kapitel - Finanzierung | § 340 – § 366a | 35 KB |
-| 11 | `text/11-elftes-kapitel-organisation-und-datenschutz.md` | Elftes Kapitel - Organisation und Datenschutz | § 367 – §§ 399 | 41 KB |
-| 12 | `text/12-zwolftes-kapitel-bussgeldvorschriften.md` | Zwölftes Kapitel - Bußgeldvorschriften | § 404 – § 451 | 47 KB |
+| 1 | `text/01-erstes-kapitel-allgemeine-vorschriften.md` | Erstes Kapitel Allgemeine Vorschriften | § 1 – § 28a | 44 KB |
+| 2 | `text/02-drittes-kapitel-aktive-arbeitsforderung.md` | Drittes Kapitel Aktive Arbeitsförderung | § 29 – § 47 | 30 KB |
+| 3 | `text/03-dritter-abschnitt-berufswahl-und-berufsausbildung.md` | Drittes Kapitel Aktive Arbeitsförderung › Dritter Abschnitt Berufswahl und Berufsausbildung | § 48 – § 80b | 48 KB |
+| 4 | `text/04-vierter-abschnitt-berufliche-weiterbildung.md` | Drittes Kapitel Aktive Arbeitsförderung › Vierter Abschnitt Berufliche Weiterbildung | § 81 – § 94 | 30 KB |
+| 5 | `text/05-sechster-abschnitt-verbleib-in-beschaftigung.md` | Drittes Kapitel Aktive Arbeitsförderung › Sechster Abschnitt Verbleib in Beschäftigung | § 95 – § 111a | 39 KB |
+| 6 | `text/06-siebter-abschnitt-teilhabe-von-menschen-mit-behinderungen-am.md` | Drittes Kapitel Aktive Arbeitsförderung › Siebter Abschnitt Teilhabe von Menschen mit Behinderungen am Arbeitsleben | § 112 – § 135 | 20 KB |
+| 7 | `text/07-viertes-kapitel-arbeitslosengeld-und-insolvenzgeld.md` | Viertes Kapitel Arbeitslosengeld und Insolvenzgeld | § 136 – § 175 | 72 KB |
+| 8 | `text/08-funftes-kapitel-zulassung-von-tragern-und-massnahmen.md` | Fünftes Kapitel Zulassung von Trägern und Maßnahmen | § 176 – §§ 240 | 19 KB |
+| 9 | `text/09-siebtes-kapitel-weitere-aufgaben-der-bundesagentur.md` | Siebtes Kapitel Weitere Aufgaben der Bundesagentur | § 280 – §§ 304 | 31 KB |
+| 10 | `text/10-achtes-kapitel-pflichten.md` | Achtes Kapitel Pflichten | § 309 – § 339 | 49 KB |
+| 11 | `text/11-zehntes-kapitel-finanzierung.md` | Zehntes Kapitel Finanzierung | § 340 – § 366a | 37 KB |
+| 12 | `text/12-elftes-kapitel-organisation-und-datenschutz.md` | Elftes Kapitel Organisation und Datenschutz | § 367 – §§ 399 | 45 KB |
+| 13 | `text/13-zwolftes-kapitel-bussgeldvorschriften.md` | Zwölftes Kapitel Bußgeldvorschriften | § 404 – §§ 406 | 8 KB |
+| 14 | `text/14-dreizehntes-kapitel-sonderregelungen.md` | Dreizehntes Kapitel Sonderregelungen | § 408 – § 460 | 45 KB |
 
-Full paragraph index: `toc.md` (385 paragraphs).
+Full paragraph index: `toc.md` (405 paragraphs).

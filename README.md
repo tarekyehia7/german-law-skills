@@ -39,7 +39,7 @@ Every file is plain Markdown, so the pack works wherever an AI can read files.
 | Strafrecht | StGB, StPO, OWiG, BtMG, WaffG |
 | Prozessrecht | ZPO, FamFG, GVG, ZVG, GKG, RVG |
 | Verwaltungsrecht | VwVfG, VwGO, GewO, IFG |
-| Datenschutz und Digitales | BDSG, TTDSG, TMG |
+| Datenschutz und Digitales | BDSG, TTDSG, DDG (successor of the TMG) |
 | Migrationsrecht | AufenthG, StAG, AsylG |
 | Sozialrecht | SGB I–XII (I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII), WoGG, BAföG |
 | Steuerrecht | AO, EStG, KStG, GewStG, UStG, ErbStG, GrEStG, FGO |
@@ -74,20 +74,20 @@ Give the agent file-read access to the repo and tell it: *"Read `SKILL.md` first
 
 ## Important: text state and limits
 
-- **Source:** official texts from [gesetze-im-internet.de](https://www.gesetze-im-internet.de/) via the Markdown mirror [bundestag/gesetze](https://github.com/bundestag/gesetze).
-- **Snapshot date: 26 March 2022.** Amendments after that date (e.g. the 2023 BGB/StGB changes, Bürgergeld reform of SGB II, Fachkräfteeinwanderungsgesetz 2023 in AufenthG, Staatsangehörigkeitsreform 2024) are **not** in the text. Every `SKILL.md` carries the exact *Zuletzt geändert durch* line of its law so you can tell what is covered.
+- **Source:** official texts from [gesetze-im-internet.de](https://www.gesetze-im-internet.de/) via the Markdown mirror [Gesetze-fuer-KI/bundesrecht](https://github.com/Gesetze-fuer-KI/bundesrecht), which syncs with the official site every night.
+- **Text state:** each `SKILL.md` carries its law's official *Zuletzt geändert durch* line and the `snapshot` date the text was retrieved (see the root `SKILL.md` for the pack-wide date). Laws change; rebuild to refresh.
 - **Statute text only.** No case law, no commentary, no translation. German language.
 - **Not legal advice.** The skills instruct the AI to say so and to recommend checking the current version at the source link.
 
 ## Rebuilding / updating
 
 ```bash
-git clone --depth 1 https://github.com/bundestag/gesetze.git /tmp/gesetze
-python3 scripts/build.py /tmp/gesetze scripts/codes.json .
+git clone --depth 1 https://github.com/Gesetze-fuer-KI/bundesrecht.git /tmp/bundesrecht
+python3 scripts/build.py /tmp/bundesrecht scripts/codes.json .
 ```
 
-To add a law, append an entry to `scripts/codes.json` (`slug` = folder name in the mirror, e.g. `b/bgb` → `bgb`). To update the text to the current state, run the official XML through a Markdown conversion (or wait for the mirror to update) and rebuild. The build is deterministic, so a rebuild on the same input produces no diff.
+The mirror is updated nightly, so rerunning these two commands refreshes every law to the current official text. To add a law, append an entry to `scripts/codes.json` (`slug` = file name in the mirror, e.g. `bg/bgb.md` → `bgb`) and its keywords to `scripts/keywords.json`. The build is deterministic, so a rebuild on the same input produces no diff.
 
 ## License
 
-German statutes and regulations are public domain under § 5 UrhG. The mirror is released into the public domain (Unlicense). The build scripts and skill files in this repository are released under the same terms: use them for anything.
+German statutes and regulations are public domain under § 5 UrhG. The mirror's maintainers publish the texts under the same public-domain terms. The build scripts and skill files in this repository are released under the same terms: use them for anything.

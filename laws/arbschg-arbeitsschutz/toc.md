@@ -3,13 +3,13 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Allgemeine Vorschriften  
+# Erster Abschnitt Allgemeine Vorschriften  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 1 Zielsetzung und Anwendungsbereich → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 2 Begriffsbestimmungen → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Zweiter Abschnitt - Pflichten des Arbeitgebers  
+# Zweiter Abschnitt Pflichten des Arbeitgebers  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 3 Grundpflichten des Arbeitgebers → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
@@ -25,27 +25,27 @@ Format: `heading → text/<file>`
 - § 13 Verantwortliche Personen → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 14 Unterrichtung und Anhörung der Beschäftigten des öffentlichen Dienstes → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Dritter Abschnitt - Pflichten und Rechte der Beschäftigten  
+# Dritter Abschnitt Pflichten und Rechte der Beschäftigten  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 15 Pflichten der Beschäftigten → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 16 Besondere Unterstützungspflichten → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 17 Rechte der Beschäftigten → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Vierter Abschnitt - Verordnungsermächtigungen  
+# Vierter Abschnitt Verordnungsermächtigungen  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 18 Verordnungsermächtigungen → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 19 Rechtsakte der Europäischen Gemeinschaften und zwischenstaatliche Vereinbarungen → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 20 Regelungen für den öffentlichen Dienst → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Fünfter Abschnitt - Gemeinsame deutsche Arbeitsschutzstrategie  
+# Fünfter Abschnitt Gemeinsame deutsche Arbeitsschutzstrategie  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 20a Gemeinsame deutsche Arbeitsschutzstrategie → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 - § 20b Nationale Arbeitsschutzkonferenz → `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
-# Sechster Abschnitt - Schlußvorschriften  
+# Sechster Abschnitt Schlußvorschriften  
 `text/1-erster-abschnitt-allgemeine-vorschriften.md`
 
 - § 21 Zuständige Behörden, Zusammenwirken mit den Trägern der gesetzlichen Unfallversicherung → `text/1-erster-abschnitt-allgemeine-vorschriften.md`

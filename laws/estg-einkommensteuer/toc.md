@@ -3,23 +3,23 @@
 Format: `heading → text/<file>`
 
 
-# I. - Steuerpflicht  
+# I. Steuerpflicht  
 `text/01-i-steuerpflicht.md`
 
 - § 1 Steuerpflicht → `text/01-i-steuerpflicht.md`
 - § 1a → `text/01-i-steuerpflicht.md`
 
-# II. - Einkommen  
+# II. Einkommen  
 `text/01-i-steuerpflicht.md`
 
 
-## 1. - Sachliche Voraussetzungen für die Besteuerung  
+## 1. Sachliche Voraussetzungen für die Besteuerung  
 `text/01-i-steuerpflicht.md`
 
 - § 2 Umfang der Besteuerung, Begriffsbestimmungen → `text/01-i-steuerpflicht.md`
 - § 2a Negative Einkünfte mit Bezug zu Drittstaaten → `text/01-i-steuerpflicht.md`
 
-## 2. - Steuerfreie Einnahmen  
+## 2. Steuerfreie Einnahmen  
 `text/02-2-steuerfreie-einnahmen.md`
 
 - § 3 → `text/02-2-steuerfreie-einnahmen.md`
@@ -27,7 +27,7 @@ Format: `heading → text/<file>`
 - § 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit → `text/02-2-steuerfreie-einnahmen.md`
 - § 3c Anteilige Abzüge → `text/02-2-steuerfreie-einnahmen.md`
 
-## 3. - Gewinn  
+## 3. Gewinn  
 `text/03-3-gewinn.md`
 
 - § 4 Gewinnbegriff im Allgemeinen → `text/03-3-gewinn.md`
@@ -40,7 +40,7 @@ Format: `heading → text/<file>`
 - § 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3 → `text/03-3-gewinn.md`
 - § 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke) → `text/03-3-gewinn.md`
 - § 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug → `text/03-3-gewinn.md`
-- § 4j Aufwendungen für Rechteüberlassungen → `text/03-3-gewinn.md`
+- § 4j (weggefallen) → `text/03-3-gewinn.md`
 - § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen → `text/03-3-gewinn.md`
 - § 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden → `text/03-3-gewinn.md`
 - § 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr → `text/03-3-gewinn.md`
@@ -62,19 +62,19 @@ Format: `heading → text/<file>`
 - § 7i Erhöhte Absetzungen bei Baudenkmalen → `text/04-6a-7k.md`
 - § 7k (weggefallen) → `text/04-6a-7k.md`
 
-## 4. - Überschuss der Einnahmen über die Werbungskosten  
+## 4. Überschuss der Einnahmen über die Werbungskosten  
 `text/05-4-uberschuss-der-einnahmen-uber-die-werbungskosten.md`
 
 - § 8 Einnahmen → `text/05-4-uberschuss-der-einnahmen-uber-die-werbungskosten.md`
 - § 9 Werbungskosten → `text/05-4-uberschuss-der-einnahmen-uber-die-werbungskosten.md`
 - § 9a Pauschbeträge für Werbungskosten → `text/05-4-uberschuss-der-einnahmen-uber-die-werbungskosten.md`
 
-## 4a. - Umsatzsteuerrechtlicher Vorsteuerabzug  
+## 4a. Umsatzsteuerrechtlicher Vorsteuerabzug  
 `text/05-4-uberschuss-der-einnahmen-uber-die-werbungskosten.md`
 
 - § 9b → `text/05-4-uberschuss-der-einnahmen-uber-die-werbungskosten.md`
 
-## 5. - Sonderausgaben  
+## 5. Sonderausgaben  
 `text/06-5-sonderausgaben.md`
 
 - § 10 → `text/06-5-sonderausgaben.md`
@@ -88,31 +88,32 @@ Format: `heading → text/<file>`
 - § 10h (weggefallen) → `text/06-5-sonderausgaben.md`
 - § 10i (weggefallen) → `text/06-5-sonderausgaben.md`
 
-## 6. - Vereinnahmung und Verausgabung  
+## 6. Vereinnahmung und Verausgabung  
 `text/07-6-vereinnahmung-und-verausgabung.md`
 
 - § 11 → `text/07-6-vereinnahmung-und-verausgabung.md`
 - § 11a Sonderbehandlung von Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und städtebaulichen Entwicklungsbereichen → `text/07-6-vereinnahmung-und-verausgabung.md`
 - § 11b Sonderbehandlung von Erhaltungsaufwand bei Baudenkmalen → `text/07-6-vereinnahmung-und-verausgabung.md`
 
-## 7. - Nicht abzugsfähige Ausgaben  
+## 7. Nicht abzugsfähige Ausgaben  
 `text/07-6-vereinnahmung-und-verausgabung.md`
 
 - § 12 → `text/07-6-vereinnahmung-und-verausgabung.md`
 
-## 8. - Die einzelnen Einkunftsarten  
+## 8. Die einzelnen Einkunftsarten  
 `text/07-6-vereinnahmung-und-verausgabung.md`
 
 
-### a) - Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)  
+### a) Land- und Forstwirtschaft (§ 2 Absatz 1 Satz 1 Nummer 1)  
 `text/07-6-vereinnahmung-und-verausgabung.md`
 
 - § 13 Einkünfte aus Land- und Forstwirtschaft → `text/07-6-vereinnahmung-und-verausgabung.md`
 - § 13a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen → `text/07-6-vereinnahmung-und-verausgabung.md`
+- § 13b Gemeinschaftliche Tierhaltung → `text/07-6-vereinnahmung-und-verausgabung.md`
 - § 14 Veräußerung des Betriebs → `text/07-6-vereinnahmung-und-verausgabung.md`
 - § 14a Vergünstigungen bei der Veräußerung bestimmter land- und forstwirtschaftlicher Betriebe → `text/07-6-vereinnahmung-und-verausgabung.md`
 
-### b) - Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)  
+### b) Gewerbebetrieb (§ 2 Absatz 1 Satz 1 Nummer 2)  
 `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 
 - § 15 Einkünfte aus Gewerbebetrieb → `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
@@ -121,42 +122,42 @@ Format: `heading → text/<file>`
 - § 16 Veräußerung des Betriebs → `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 - § 17 Veräußerung von Anteilen an Kapitalgesellschaften → `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 
-### c) - Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)  
+### c) Selbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 3)  
 `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 
 - § 18 → `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 
-### d) - Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)  
+### d) Nichtselbständige Arbeit (§ 2 Absatz 1 Satz 1 Nummer 4)  
 `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 
 - § 19 → `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 - § 19a Sondervorschrift für Einkünfte aus nichtselbständiger Arbeit bei Vermögensbeteiligungen → `text/08-b-gewerbebetrieb-2-absatz-1-satz-1-nummer-2.md`
 
-### e) - Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)  
+### e) Kapitalvermögen (§ 2 Absatz 1 Satz 1 Nummer 5)  
 `text/09-e-kapitalvermogen-2-absatz-1-satz-1-nummer-5.md`
 
 - § 20 → `text/09-e-kapitalvermogen-2-absatz-1-satz-1-nummer-5.md`
 
-### f) - Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)  
+### f) Vermietung und Verpachtung (§ 2 Absatz 1 Satz 1 Nummer 6)  
 `text/09-e-kapitalvermogen-2-absatz-1-satz-1-nummer-5.md`
 
 - § 21 → `text/09-e-kapitalvermogen-2-absatz-1-satz-1-nummer-5.md`
 
-### g) - Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)  
+### g) Sonstige Einkünfte (§ 2 Absatz 1 Satz 1 Nummer 7)  
 `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 
 - § 22 Arten der sonstigen Einkünfte → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 - § 22a Rentenbezugsmitteilungen an die zentrale Stelle → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 - § 23 Private Veräußerungsgeschäfte → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 
-### h) - Gemeinsame Vorschriften  
+### h) Gemeinsame Vorschriften  
 `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 
 - § 24 → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 - § 24a Altersentlastungsbetrag → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 - § 24b Entlastungsbetrag für Alleinerziehende → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 
-# III. - Veranlagung  
+# III. Veranlagung  
 `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 
 - § 25 Veranlagungszeitraum, Steuererklärungspflicht → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
@@ -167,7 +168,7 @@ Format: `heading → text/<file>`
 - § 28 Besteuerung bei fortgesetzter Gütergemeinschaft → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 - §§ 29 und 30 (weggefallen) → `text/10-g-sonstige-einkunfte-2-absatz-1-satz-1-nummer-7.md`
 
-# IV. - Tarif  
+# IV. Tarif  
 `text/11-iv-tarif.md`
 
 - § 31 Familienleistungsausgleich → `text/11-iv-tarif.md`
@@ -183,56 +184,56 @@ Format: `heading → text/<file>`
 - § 34a Begünstigung der nicht entnommenen Gewinne → `text/11-iv-tarif.md`
 - § 34b Steuersätze bei Einkünften aus außerordentlichen Holznutzungen → `text/11-iv-tarif.md`
 
-# V. - Steuerermäßigungen  
+# V. Steuerermäßigungen  
 `text/12-v-steuerermassigungen.md`
 
 
-## 1. - Steuerermäßigung bei ausländischen Einkünften  
+## 1. Steuerermäßigung bei ausländischen Einkünften  
 `text/12-v-steuerermassigungen.md`
 
 - § 34c → `text/12-v-steuerermassigungen.md`
 - § 34d Ausländische Einkünfte → `text/12-v-steuerermassigungen.md`
 
-## 2. - Steuerermäßigung bei Einkünften aus Land- und Forstwirtschaft  
+## 2. Steuerermäßigung bei Einkünften aus Land- und Forstwirtschaft  
 `text/12-v-steuerermassigungen.md`
 
 - § 34e (weggefallen) → `text/12-v-steuerermassigungen.md`
 
-### 2a. - Steuerermäßigung für Steuerpflichtige mit Kindern bei Inanspruchnahme erhöhter Absetzungen für Wohngebäude oder der Steuerbegünstigungen für eigengenutztes Wohneigentum  
+### 2a. Steuerermäßigung für Steuerpflichtige mit Kindern bei Inanspruchnahme erhöhter Absetzungen für Wohngebäude oder der Steuerbegünstigungen für eigengenutztes Wohneigentum  
 `text/12-v-steuerermassigungen.md`
 
 - § 34f → `text/12-v-steuerermassigungen.md`
 
-### 2b. - Steuerermäßigung bei Zuwendungen an politische Parteien und an unabhängige Wählervereinigungen  
+### 2b. Steuerermäßigung bei Zuwendungen an politische Parteien und an unabhängige Wählervereinigungen  
 `text/12-v-steuerermassigungen.md`
 
 - § 34g → `text/12-v-steuerermassigungen.md`
 
-## 3. - Steuerermäßigung bei Einkünften aus Gewerbebetrieb  
+## 3. Steuerermäßigung bei Einkünften aus Gewerbebetrieb  
 `text/12-v-steuerermassigungen.md`
 
 - § 35 → `text/12-v-steuerermassigungen.md`
 
-## 4. - Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse und für die Inanspruchnahme haushaltsnaher Dienstleistungen  
+## 4. Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse und für die Inanspruchnahme haushaltsnaher Dienstleistungen  
 `text/12-v-steuerermassigungen.md`
 
 - § 35a Steuerermäßigung bei Aufwendungen für haushaltsnahe Beschäftigungsverhältnisse, haushaltsnahe Dienstleistungen und Handwerkerleistungen → `text/12-v-steuerermassigungen.md`
 
-## 5. - Steuerermäßigung bei Belastung mit Erbschaftsteuer  
+## 5. Steuerermäßigung bei Belastung mit Erbschaftsteuer  
 `text/12-v-steuerermassigungen.md`
 
 - § 35b Steuerermäßigung bei Belastung mit Erbschaftsteuer → `text/12-v-steuerermassigungen.md`
 
-## 6. - Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden  
+## 6. Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden  
 `text/12-v-steuerermassigungen.md`
 
 - § 35c Steuerermäßigung für energetische Maßnahmen bei zu eigenen Wohnzwecken genutzten Gebäuden → `text/12-v-steuerermassigungen.md`
 
-# VI. - Steuererhebung  
+# VI. Steuererhebung  
 `text/12-v-steuerermassigungen.md`
 
 
-## 1. - Erhebung der Einkommensteuer  
+## 1. Erhebung der Einkommensteuer  
 `text/12-v-steuerermassigungen.md`
 
 - § 36 Entstehung und Tilgung der Einkommensteuer → `text/12-v-steuerermassigungen.md`
@@ -241,7 +242,7 @@ Format: `heading → text/<file>`
 - § 37a Pauschalierung der Einkommensteuer durch Dritte → `text/12-v-steuerermassigungen.md`
 - § 37b Pauschalierung der Einkommensteuer bei Sachzuwendungen → `text/12-v-steuerermassigungen.md`
 
-## 2. - Steuerabzug vom Arbeitslohn (Lohnsteuer)  
+## 2. Steuerabzug vom Arbeitslohn (Lohnsteuer)  
 `text/13-2-steuerabzug-vom-arbeitslohn-lohnsteuer.md`
 
 - § 38 Erhebung der Lohnsteuer → `text/13-2-steuerabzug-vom-arbeitslohn-lohnsteuer.md`
@@ -269,7 +270,7 @@ Format: `heading → text/<file>`
 - § 42f Lohnsteuer-Außenprüfung → `text/14-42d-42g.md`
 - § 42g Lohnsteuer-Nachschau → `text/14-42d-42g.md`
 
-## 3. - Steuerabzug vom Kapitalertrag (Kapitalertragsteuer)  
+## 3. Steuerabzug vom Kapitalertrag (Kapitalertragsteuer)  
 `text/15-3-steuerabzug-vom-kapitalertrag-kapitalertragsteuer.md`
 
 - § 43 Kapitalerträge mit Steuerabzug → `text/15-3-steuerabzug-vom-kapitalertrag-kapitalertragsteuer.md`
@@ -285,13 +286,13 @@ Format: `heading → text/<file>`
 - § 45d Mitteilungen an das Bundeszentralamt für Steuern → `text/15-3-steuerabzug-vom-kapitalertrag-kapitalertragsteuer.md`
 - § 45e Ermächtigung für Zinsinformationsverordnung → `text/15-3-steuerabzug-vom-kapitalertrag-kapitalertragsteuer.md`
 
-## 4. - Veranlagung von Steuerpflichtigen mit steuerabzugspflichtigen Einkünften  
+## 4. Veranlagung von Steuerpflichtigen mit steuerabzugspflichtigen Einkünften  
 `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 
 - § 46 Veranlagung bei Bezug von Einkünften aus nichtselbständiger Arbeit → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 - § 47 (weggefallen) → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 
-# VII. - Steuerabzug bei Bauleistungen  
+# VII. Steuerabzug bei Bauleistungen  
 `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 
 - § 48 Steuerabzug → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
@@ -300,14 +301,14 @@ Format: `heading → text/<file>`
 - § 48c Anrechnung → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 - § 48d Besonderheiten im Fall von Doppelbesteuerungsabkommen → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 
-# VIII. - Besteuerung beschränkt Steuerpflichtiger  
+# VIII. Besteuerung beschränkt Steuerpflichtiger  
 `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 
 - § 49 Beschränkt steuerpflichtige Einkünfte → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 - § 50 Sondervorschriften für beschränkt Steuerpflichtige → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 - § 50a Steuerabzug bei beschränkt Steuerpflichtigen → `text/16-4-veranlagung-von-steuerpflichtigen-mit-steuerabzugspflichti.md`
 
-# IX. - Sonstige Vorschriften, Bußgeld-, Ermächtigungs- und Schlussvorschriften  
+# IX. Sonstige Vorschriften, Bußgeld-, Ermächtigungs- und Schlussvorschriften  
 `text/17-ix-sonstige-vorschriften-bussgeld-ermachtigungs-und-schlussv.md`
 
 - § 50b Prüfungsrecht → `text/17-ix-sonstige-vorschriften-bussgeld-ermachtigungs-und-schlussv.md`
@@ -332,7 +333,7 @@ Format: `heading → text/<file>`
 - § 58 Weitere Anwendung von Rechtsvorschriften, die vor Herstellung der Einheit Deutschlands in dem in Artikel 3 des Einigungsvertrages genannten Gebiet gegolten haben → `text/18-52-59.md`
 - §§ 59 bis 61 (weggefallen) → `text/18-52-59.md`
 
-# X. - Kindergeld  
+# X. Kindergeld  
 `text/19-x-kindergeld.md`
 
 - § 62 Anspruchsberechtigte → `text/19-x-kindergeld.md`
@@ -345,7 +346,7 @@ Format: `heading → text/<file>`
 - § 69 Datenübermittlung an die Familienkassen → `text/19-x-kindergeld.md`
 - § 70 Festsetzung und Zahlung des Kindergeldes → `text/19-x-kindergeld.md`
 - § 71 Vorläufige Einstellung der Zahlung des Kindergeldes → `text/19-x-kindergeld.md`
-- § 72 Festsetzung und Zahlung des Kindergeldes an Angehörige des öffentlichen Dienstes → `text/19-x-kindergeld.md`
+- § 72 (weggefallen) → `text/19-x-kindergeld.md`
 - § 73 (weggefallen) → `text/19-x-kindergeld.md`
 - § 74 Zahlung des Kindergeldes in Sonderfällen → `text/19-x-kindergeld.md`
 - § 75 Aufrechnung → `text/19-x-kindergeld.md`
@@ -354,7 +355,7 @@ Format: `heading → text/<file>`
 - § 77 Erstattung von Kosten im Vorverfahren → `text/19-x-kindergeld.md`
 - § 78 Übergangsregelungen → `text/19-x-kindergeld.md`
 
-# XI. - Altersvorsorgezulage  
+# XI. Altersvorsorgezulage  
 `text/20-xi-altersvorsorgezulage.md`
 
 - § 79 Zulageberechtigte → `text/20-xi-altersvorsorgezulage.md`
@@ -382,12 +383,12 @@ Format: `heading → text/<file>`
 - § 98 Rechtsweg → `text/20-xi-altersvorsorgezulage.md`
 - § 99 Ermächtigung → `text/20-xi-altersvorsorgezulage.md`
 
-# XII. - Förderbetrag zur betrieblichen Altersversorgung  
+# XII. Förderbetrag zur betrieblichen Altersversorgung  
 `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 
 - § 100 Förderbetrag zur betrieblichen Altersversorgung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 
-# XIII. - Mobilitätsprämie  
+# XIII. Mobilitätsprämie  
 `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 
 - § 101 Bemessungsgrundlage und Höhe der Mobilitätsprämie → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
@@ -400,12 +401,27 @@ Format: `heading → text/<file>`
 - § 108 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 - § 109 Verordnungsermächtigung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 
-# XIV. - Sondervorschriften zur Bewältigung der Corona-Pandemie  
+# XIV. Sondervorschriften zur Bewältigung der Corona-Pandemie  
 `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 
 - § 110 Anpassung von Vorauszahlungen für den Veranlagungszeitraum 2019 → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 - § 111 Vorläufiger Verlustrücktrag für 2020 und 2021 → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
-- Anlage 1 Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
-- Anlage 1a Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+
+# XV. Energiepreispauschale  
+`text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+
+- § 112 Veranlagungszeitraum, Höhe → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 113 Anspruchsberechtigung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 114 Entstehung des Anspruchs → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 115 Festsetzung mit der Einkommensteuerveranlagung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 116 Anrechnung auf die Einkommensteuer → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 117 Auszahlung an Arbeitnehmer → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 118 Energiepreispauschale im Einkommensteuer-Vorauszahlungsverfahren → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 119 Steuerpflicht → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 120 Anwendung der Abgabenordnung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 121 Anwendung von Straf- und Bußgeldvorschriften der Abgabenordnung → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- § 122 Nichtberücksichtigung als Einkommen bei Sozialleistungen, Unpfändbarkeit → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- Anlage 1 (zu § 4d Absatz 1)Tabelle für die Errechnung des Deckungskapitals für lebenslänglich laufende Leistungen von Unterstützungskassen → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
+- Anlage 1a (zu § 13a)Ermittlung des Gewinns aus Land- und Forstwirtschaft nach Durchschnittssätzen → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 - Anlage 2 (zu § 43b) Gesellschaften im Sinne der Richtlinie Nr. 2011/96/EU → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`
 - Anlage 3 (zu § 50g) → `text/21-xii-forderbetrag-zur-betrieblichen-altersversorgung.md`

@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Das Patent  
+# Erster Abschnitt Das Patent  
 `text/1-erster-abschnitt-das-patent.md`
 
 - § 1 → `text/1-erster-abschnitt-das-patent.md`
@@ -37,7 +37,7 @@ Format: `heading → text/<file>`
 - § 24 → `text/1-erster-abschnitt-das-patent.md`
 - § 25 → `text/1-erster-abschnitt-das-patent.md`
 
-# Zweiter Abschnitt - Deutsches Patent- und Markenamt  
+# Zweiter Abschnitt Deutsches Patent- und Markenamt  
 `text/2-zweiter-abschnitt-deutsches-patent-und-markenamt.md`
 
 - § 26 → `text/2-zweiter-abschnitt-deutsches-patent-und-markenamt.md`
@@ -52,7 +52,7 @@ Format: `heading → text/<file>`
 - § 32 → `text/2-zweiter-abschnitt-deutsches-patent-und-markenamt.md`
 - § 33 → `text/2-zweiter-abschnitt-deutsches-patent-und-markenamt.md`
 
-# Dritter Abschnitt - Verfahren vor dem Deutschen Patent- und Markenamt  
+# Dritter Abschnitt Verfahren vor dem Deutschen Patent- und Markenamt  
 `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
 
 - § 34 → `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
@@ -90,7 +90,7 @@ Format: `heading → text/<file>`
 - § 63 → `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
 - § 64 → `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
 
-# Vierter Abschnitt - Patentgericht  
+# Vierter Abschnitt Patentgericht  
 `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
 
 - § 65 → `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
@@ -102,11 +102,11 @@ Format: `heading → text/<file>`
 - § 71 → `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
 - § 72 → `text/3-dritter-abschnitt-verfahren-vor-dem-deutschen-patent-und-mar.md`
 
-# Fünfter Abschnitt - Verfahren vor dem Patentgericht  
+# Fünfter Abschnitt Verfahren vor dem Patentgericht  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 
-## 1. - Beschwerdeverfahren  
+## 1. Beschwerdeverfahren  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 73 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
@@ -118,7 +118,7 @@ Format: `heading → text/<file>`
 - § 79 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 - § 80 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-## 2. - Nichtigkeits- und Zwangslizenzverfahren  
+## 2. Nichtigkeits- und Zwangslizenzverfahren  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 81 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
@@ -128,7 +128,7 @@ Format: `heading → text/<file>`
 - § 85 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 - § 85a → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-## 3. - Gemeinsame Verfahrensvorschriften  
+## 3. Gemeinsame Verfahrensvorschriften  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 86 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
@@ -146,11 +146,11 @@ Format: `heading → text/<file>`
 - § 98 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 - § 99 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-# Sechster Abschnitt - Verfahren vor dem Bundesgerichtshof  
+# Sechster Abschnitt Verfahren vor dem Bundesgerichtshof  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 
-## 1. - Rechtsbeschwerdeverfahren  
+## 1. Rechtsbeschwerdeverfahren  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 100 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
@@ -164,7 +164,7 @@ Format: `heading → text/<file>`
 - § 108 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 - § 109 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-## 2. - Berufungsverfahren  
+## 2. Berufungsverfahren  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 110 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
@@ -180,74 +180,74 @@ Format: `heading → text/<file>`
 - § 120 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 - § 121 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-## 3. - Beschwerdeverfahren  
+## 3. Beschwerdeverfahren  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 122 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-## 4. - Gemeinsame Verfahrensvorschriften  
+## 4. Gemeinsame Verfahrensvorschriften  
 `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
 - § 122a → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
 
-# Siebenter Abschnitt - Gemeinsame Vorschriften  
-`text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
+# Siebenter Abschnitt Gemeinsame Vorschriften  
+`text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-- § 123 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 123a → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 124 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 125 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 125a → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 126 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 127 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 128 → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 128a → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
-- § 128b → `text/4-funfter-abschnitt-verfahren-vor-dem-patentgericht.md`
+- § 123 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 123a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 124 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 125 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 125a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 126 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 127 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 128 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 128a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 128b → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-# Achter Abschnitt - Verfahrenskostenhilfe  
-`text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+# Achter Abschnitt Verfahrenskostenhilfe  
+`text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-- § 129 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 130 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 131 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 132 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 133 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 134 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 135 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 136 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 137 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 138 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+- § 129 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 130 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 131 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 132 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 133 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 134 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 135 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 136 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 137 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 138 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-# Neunter Abschnitt - Rechtsverletzungen  
-`text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+# Neunter Abschnitt Rechtsverletzungen  
+`text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-- § 139 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 140 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 140a → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 140b → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 140c → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 140d → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 140e → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 141 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 141a → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 142 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 142a → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 142b → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+- § 139 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 140 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 140a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 140b → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 140c → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 140d → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 140e → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 141 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 141a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 142 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 142a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 142b → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-# Zehnter Abschnitt - Verfahren in Patentstreitsachen  
-`text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+# Zehnter Abschnitt Verfahren in Patentstreitsachen  
+`text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-- § 143 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 144 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 145 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
-- § 145a → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+- § 143 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 144 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 145 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
+- § 145a → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-# Elfter Abschnitt - Patentberühmung  
-`text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+# Elfter Abschnitt Patentberühmung  
+`text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-- § 146 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+- § 146 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-# Zwölfter Abschnitt - Übergangsvorschriften  
-`text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+# Zwölfter Abschnitt Übergangsvorschriften  
+`text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`
 
-- § 147 → `text/5-achter-abschnitt-verfahrenskostenhilfe.md`
+- § 147 → `text/5-siebenter-abschnitt-gemeinsame-vorschriften.md`

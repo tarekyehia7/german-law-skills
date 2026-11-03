@@ -6,19 +6,20 @@ metadata:
   title: "Bundesdatenschutzgesetz"
   area: Datenschutz und Digitales
   ausfertigungsdatum: 2017-06-30
-  stand: ""
+  stand: "Art. 3 G v. 12.5.2026 I Nr. 139"
   source: https://www.gesetze-im-internet.de/bdsg_2018/
-  mirror: https://github.com/bundestag/gesetze/tree/master/b/bdsg_2018
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/bd/bdsg_2018.md
+  snapshot: 2026-11-03
   paragraphs: 86
   chunks: 4
-  size_bytes: 160390
+  size_bytes: 163141
 ---
 
 # Bundesdatenschutzgesetz (BDSG)
 
 **Area:** Datenschutz und Digitales  
 **Covers:** Federal Data Protection Act: national supplement to the GDPR, employee data, data protection officers  
-**Text state:** unknown (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 3 G v. 12.5.2026 I Nr. 139 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,9 +41,9 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-teil-1-gemeinsame-bestimmungen.md` | Teil 1 - Gemeinsame Bestimmungen | § 1 – § 21 | 43 KB |
-| 2 | `text/2-teil-2-durchfuhrungsbestimmungen-fur-verarbeitungen-zu-zweck.md` | Teil 2 - Durchführungsbestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 2 der Verordnung (EU) 2016/679 | § 22 – § 44 | 46 KB |
-| 3 | `text/3-teil-3-bestimmungen-fur-verarbeitungen-zu-zwecken-gemass-art.md` | Teil 3 - Bestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680 | § 45 – § 84 | 66 KB |
-| 4 | `text/4-teil-4-besondere-bestimmungen-fur-verarbeitungen-im-rahmen-v.md` | Teil 4 - Besondere Bestimmungen für Verarbeitungen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten | § 85 – § 86 | 3 KB |
+| 1 | `text/1-teil-1-gemeinsame-bestimmungen.md` | Teil 1 Gemeinsame Bestimmungen | § 1 – § 21 | 44 KB |
+| 2 | `text/2-teil-2-durchfuhrungsbestimmungen-fur-verarbeitungen-zu-zweck.md` | Teil 2 Durchführungsbestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 2 der Verordnung (EU) 2016/679 | § 22 – § 44 | 47 KB |
+| 3 | `text/3-teil-3-bestimmungen-fur-verarbeitungen-zu-zwecken-gemass-art.md` | Teil 3 Bestimmungen für Verarbeitungen zu Zwecken gemäß Artikel 1 Absatz 1 der Richtlinie (EU) 2016/680 | § 45 – § 84 | 67 KB |
+| 4 | `text/4-teil-4-besondere-bestimmungen-fur-verarbeitungen-im-rahmen-v.md` | Teil 4 Besondere Bestimmungen für Verarbeitungen im Rahmen von nicht in die Anwendungsbereiche der Verordnung (EU) 2016/679 und der Richtlinie (EU) 2016/680 fallenden Tätigkeiten | § 85 – § 86 | 3 KB |
 
 Full paragraph index: `toc.md` (86 paragraphs).

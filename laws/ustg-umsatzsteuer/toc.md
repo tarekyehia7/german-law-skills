@@ -3,7 +3,7 @@
 Format: `heading → text/<file>`
 
 
-# Erster Abschnitt - Steuergegenstand und Geltungsbereich  
+# Erster Abschnitt Steuergegenstand und Geltungsbereich  
 `text/1-erster-abschnitt-steuergegenstand-und-geltungsbereich.md`
 
 - § 1 Steuerbare Umsätze → `text/1-erster-abschnitt-steuergegenstand-und-geltungsbereich.md`
@@ -22,7 +22,7 @@ Format: `heading → text/<file>`
 - § 3f (weggefallen) → `text/1-erster-abschnitt-steuergegenstand-und-geltungsbereich.md`
 - § 3g Ort der Lieferung von Gas, Elektrizität, Wärme oder Kälte → `text/1-erster-abschnitt-steuergegenstand-und-geltungsbereich.md`
 
-# Zweiter Abschnitt - Steuerbefreiungen und Steuervergütungen  
+# Zweiter Abschnitt Steuerbefreiungen und Steuervergütungen  
 `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
 
 - § 4 Steuerbefreiungen bei Lieferungen und sonstigen Leistungen → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
@@ -34,16 +34,16 @@ Format: `heading → text/<file>`
 - § 6a Innergemeinschaftliche Lieferung → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
 - § 6b Konsignationslagerregelung → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
 - § 7 Lohnveredelung an Gegenständen der Ausfuhr → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
-- § 8 Umsätze für die Seeschiffahrt und für die Luftfahrt → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
+- § 8 Umsätze für die Seeschifffahrt und für die Luftfahrt → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
 - § 9 Verzicht auf Steuerbefreiungen → `text/2-zweiter-abschnitt-steuerbefreiungen-und-steuervergutungen.md`
 
-# Dritter Abschnitt - Bemessungsgrundlagen  
+# Dritter Abschnitt Bemessungsgrundlagen  
 `text/3-dritter-abschnitt-bemessungsgrundlagen.md`
 
 - § 10 Bemessungsgrundlage für Lieferungen, sonstige Leistungen und innergemeinschaftliche Erwerbe → `text/3-dritter-abschnitt-bemessungsgrundlagen.md`
 - § 11 Bemessungsgrundlage für die Einfuhr → `text/3-dritter-abschnitt-bemessungsgrundlagen.md`
 
-# Vierter Abschnitt - Steuer und Vorsteuer  
+# Vierter Abschnitt Steuer und Vorsteuer  
 `text/4-vierter-abschnitt-steuer-und-vorsteuer.md`
 
 - § 12 Steuersätze → `text/4-vierter-abschnitt-steuer-und-vorsteuer.md`
@@ -59,7 +59,7 @@ Format: `heading → text/<file>`
 - § 15 Vorsteuerabzug → `text/4-vierter-abschnitt-steuer-und-vorsteuer.md`
 - § 15a Berichtigung des Vorsteuerabzugs → `text/4-vierter-abschnitt-steuer-und-vorsteuer.md`
 
-# Fünfter Abschnitt - Besteuerung  
+# Fünfter Abschnitt Besteuerung  
 `text/5-funfter-abschnitt-besteuerung.md`
 
 - § 16 Steuerberechnung, Besteuerungszeitraum und Einzelbesteuerung → `text/5-funfter-abschnitt-besteuerung.md`
@@ -77,44 +77,49 @@ Format: `heading → text/<file>`
 - § 18j Besonderes Besteuerungsverfahren für den innergemeinschaftlichen Fernverkauf, für Lieferungen innerhalb eines Mitgliedstaates über eine elektronische Schnittstelle und für von im Gemeinschaftsgebiet, nicht aber im Mitgliedstaat des Verbrauchs ansässigen Unternehmern erbrachte sonstige Leistungen → `text/5-funfter-abschnitt-besteuerung.md`
 - § 18k Besonderes Besteuerungsverfahren für Fernverkäufe von aus dem Drittlandsgebiet eingeführten Gegenständen in Sendungen mit einem Sachwert von höchstens 150 Euro → `text/5-funfter-abschnitt-besteuerung.md`
 - § 19 Besteuerung der Kleinunternehmer → `text/5-funfter-abschnitt-besteuerung.md`
+- § 19a Besonderes Meldeverfahren für die Anwendung der Steuerbefreiung in einem anderen Mitgliedstaat → `text/5-funfter-abschnitt-besteuerung.md`
 - § 20 Berechnung der Steuer nach vereinnahmten Entgelten → `text/5-funfter-abschnitt-besteuerung.md`
 - § 21 Besondere Vorschriften für die Einfuhrumsatzsteuer → `text/5-funfter-abschnitt-besteuerung.md`
 - § 21a Sonderregelungen bei der Einfuhr von Sendungen mit einem Sachwert von höchstens 150 Euro → `text/5-funfter-abschnitt-besteuerung.md`
-- § 22 Aufzeichnungspflichten → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 22a Fiskalvertretung → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 22b Rechte und Pflichten des Fiskalvertreters → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 22c Ausstellung von Rechnungen im Falle der Fiskalvertretung → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 22d Steuernummer und zuständiges Finanzamt → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 22e Untersagung der Fiskalvertretung → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 22f Besondere Pflichten für Betreiber einer elektronischen Schnittstelle → `text/6-sechster-abschnitt-sonderregelungen.md`
+- § 21b Sonderregelungen bei der Nutzung der zentralen Zollabwicklung nach Artikel 179 des Zollkodex der Union → `text/6-21b-22g.md`
+- § 22 Aufzeichnungspflichten → `text/6-21b-22g.md`
+- § 22a Fiskalvertretung → `text/6-21b-22g.md`
+- § 22b Rechte und Pflichten des Fiskalvertreters → `text/6-21b-22g.md`
+- § 22c Ausstellung von Rechnungen im Falle der Fiskalvertretung → `text/6-21b-22g.md`
+- § 22d Steuernummer und zuständiges Finanzamt → `text/6-21b-22g.md`
+- § 22e Untersagung der Fiskalvertretung → `text/6-21b-22g.md`
+- § 22f Besondere Pflichten für Betreiber einer elektronischen Schnittstelle → `text/6-21b-22g.md`
+- § 22g Besondere Pflichten für Zahlungsdienstleister, Verordnungsermächtigung → `text/6-21b-22g.md`
 
-# Sechster Abschnitt - Sonderregelungen  
-`text/6-sechster-abschnitt-sonderregelungen.md`
+# Sechster Abschnitt Sonderregelungen  
+`text/7-sechster-abschnitt-sonderregelungen.md`
 
-- § 23 Allgemeine Durchschnittsätze → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 24 Durchschnittssätze für land- und forstwirtschaftliche Betriebe → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25 Besteuerung von Reiseleistungen → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25a Differenzbesteuerung → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25b Innergemeinschaftliche Dreiecksgeschäfte → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25c Besteuerung von Umsätzen mit Anlagegold → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25d (weggefallen) → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25e Haftung beim Handel über eine elektronische Schnittstelle → `text/6-sechster-abschnitt-sonderregelungen.md`
-- § 25f Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung → `text/6-sechster-abschnitt-sonderregelungen.md`
+- § 23 (weggefallen) → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 23a Durchschnittssatz für Körperschaften, Personenvereinigungen und Vermögensmassen im Sinne des § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 24 Durchschnittssätze für land- und forstwirtschaftliche Betriebe → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25 Besteuerung von Reiseleistungen → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25a Differenzbesteuerung → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25b Innergemeinschaftliche Dreiecksgeschäfte → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25c Besteuerung von Umsätzen mit Anlagegold → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25d (weggefallen) → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25e Haftung beim Handel über eine elektronische Schnittstelle → `text/7-sechster-abschnitt-sonderregelungen.md`
+- § 25f Versagung des Vorsteuerabzugs und der Steuerbefreiung bei Beteiligung an einer Steuerhinterziehung → `text/7-sechster-abschnitt-sonderregelungen.md`
 
-# Siebenter Abschnitt - Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften  
-`text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+# Siebenter Abschnitt Durchführung, Bußgeld-, Straf-, Verfahrens-, Übergangs- und Schlussvorschriften  
+`text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
 
-- § 26 Durchführung, Erstattung in Sonderfällen → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 26a Bußgeldvorschriften → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 26b (weggefallen) → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 26c Strafvorschriften → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 27 Allgemeine Übergangsvorschriften → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 27a Umsatzsteuer-Identifikationsnummer → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 27b Umsatzsteuer-Nachschau → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 28 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- § 29 Umstellung langfristiger Verträge → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- Anlage 1 Liste der Gegenstände, die der Umsatzsteuerlagerregelung unterliegen können → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- Anlage 2 Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- Anlage 3 Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7 → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
-- Anlage 4 Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet → `text/7-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 26 Durchführung, Erstattung in Sonderfällen → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 26a Bußgeldvorschriften → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 26b (weggefallen) → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 26c Strafvorschriften → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 27 Allgemeine Übergangsvorschriften → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 27a Umsatzsteuer-Identifikationsnummer → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 27b Umsatzsteuer-Nachschau → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 28 Zeitlich begrenzte Fassungen einzelner Gesetzesvorschriften → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 29 Umstellung langfristiger Verträge → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- § 30 Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus der Europäischen Union → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- Anlage 1 (weggefallen) → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- Anlage 2 (zu § 12 Absatz 2 Nummer 1, 2 und 14)Liste der dem ermäßigten Steuersatz unterliegenden Gegenstände → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- Anlage 3 (zu § 13b Absatz 2 Nummer 7) Liste der Gegenstände im Sinne des § 13b Absatz 2 Nummer 7 → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- Anlage 4 (zu § 13b Absatz 2 Nummer 11)Liste der Gegenstände, für deren Lieferung der Leistungsempfänger die Steuer schuldet → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`
+- Anlage 5 (zu § 24 Absatz 5)Berechnung des Durchschnittssatzes für Land- und Forstwirte im Sinne des § 24 Absatz 1 Satz 1 Nummer 3 → `text/8-siebenter-abschnitt-durchfuhrung-bussgeld-straf-verfahrens-u.md`

@@ -8,17 +8,18 @@ metadata:
   ausfertigungsdatum: 2009-04-03
   stand: "Art. 1 G v. 12.5.2021 I 1085"
   source: https://www.gesetze-im-internet.de/versausglg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/v/versausglg
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/ve/versausglg.md
+  snapshot: 2026-11-03
   paragraphs: 55
   chunks: 1
-  size_bytes: 41916
+  size_bytes: 44563
 ---
 
 # Gesetz über den Versorgungsausgleich (VersAusglG)
 
 **Area:** Familien- und Personenrecht  
 **Covers:** Pension Rights Adjustment Act: splitting pension rights on divorce  
-**Text state:** Art. 1 G v. 12.5.2021 I 1085 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 1 G v. 12.5.2021 I 1085 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,6 +41,6 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-teil-1-der-versorgungsausgleich.md` | Teil 1 - Der Versorgungsausgleich | § 1 – § 54 | 41 KB |
+| 1 | `text/1-teil-1-der-versorgungsausgleich.md` | Teil 1 Der Versorgungsausgleich | § 1 – § 54 | 44 KB |
 
 Full paragraph index: `toc.md` (55 paragraphs).

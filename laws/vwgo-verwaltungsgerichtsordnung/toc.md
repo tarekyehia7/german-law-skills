@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Teil I - Gerichtsverfassung  
+# Teil I Gerichtsverfassung  
 `text/1-teil-i-gerichtsverfassung.md`
 
 
-## 1. Abschnitt - Gerichte  
+## 1. Abschnitt Gerichte  
 `text/1-teil-i-gerichtsverfassung.md`
 
 - § 1 → `text/1-teil-i-gerichtsverfassung.md`
@@ -24,7 +24,7 @@ Format: `heading → text/<file>`
 - § 13 → `text/1-teil-i-gerichtsverfassung.md`
 - § 14 → `text/1-teil-i-gerichtsverfassung.md`
 
-## 2. Abschnitt - Richter  
+## 2. Abschnitt Richter  
 `text/1-teil-i-gerichtsverfassung.md`
 
 - § 15 → `text/1-teil-i-gerichtsverfassung.md`
@@ -32,7 +32,7 @@ Format: `heading → text/<file>`
 - § 17 → `text/1-teil-i-gerichtsverfassung.md`
 - § 18 → `text/1-teil-i-gerichtsverfassung.md`
 
-## 3. Abschnitt - Ehrenamtliche Richter  
+## 3. Abschnitt Ehrenamtliche Richter  
 `text/1-teil-i-gerichtsverfassung.md`
 
 - § 19 → `text/1-teil-i-gerichtsverfassung.md`
@@ -52,20 +52,20 @@ Format: `heading → text/<file>`
 - § 33 → `text/1-teil-i-gerichtsverfassung.md`
 - § 34 → `text/1-teil-i-gerichtsverfassung.md`
 
-## 4. Abschnitt - Vertreter des öffentlichen Interesses  
+## 4. Abschnitt Vertreter des öffentlichen Interesses  
 `text/1-teil-i-gerichtsverfassung.md`
 
 - § 35 → `text/1-teil-i-gerichtsverfassung.md`
 - § 36 → `text/1-teil-i-gerichtsverfassung.md`
 - § 37 → `text/1-teil-i-gerichtsverfassung.md`
 
-## 5. Abschnitt - Gerichtsverwaltung  
+## 5. Abschnitt Gerichtsverwaltung  
 `text/1-teil-i-gerichtsverfassung.md`
 
 - § 38 → `text/1-teil-i-gerichtsverfassung.md`
 - § 39 → `text/1-teil-i-gerichtsverfassung.md`
 
-## 6. Abschnitt - Verwaltungsrechtsweg und Zuständigkeit  
+## 6. Abschnitt Verwaltungsrechtsweg und Zuständigkeit  
 `text/1-teil-i-gerichtsverfassung.md`
 
 - § 40 → `text/1-teil-i-gerichtsverfassung.md`
@@ -84,11 +84,11 @@ Format: `heading → text/<file>`
 - § 52 → `text/1-teil-i-gerichtsverfassung.md`
 - § 53 → `text/1-teil-i-gerichtsverfassung.md`
 
-# Teil II - Verfahren  
+# Teil II Verfahren  
 `text/2-teil-ii-verfahren.md`
 
 
-## 7. Abschnitt - Allgemeine Verfahrensvorschriften  
+## 7. Abschnitt Allgemeine Verfahrensvorschriften  
 `text/2-teil-ii-verfahren.md`
 
 - § 54 → `text/2-teil-ii-verfahren.md`
@@ -96,7 +96,7 @@ Format: `heading → text/<file>`
 - § 55a → `text/2-teil-ii-verfahren.md`
 - § 55b → `text/2-teil-ii-verfahren.md`
 - § 55c Formulare; Verordnungsermächtigung → `text/2-teil-ii-verfahren.md`
-- § 55d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Personen → `text/2-teil-ii-verfahren.md`
+- § 55d Nutzungspflicht für Rechtsanwälte, Behörden und vertretungsberechtigte Bevollmächtigte → `text/2-teil-ii-verfahren.md`
 - § 56 → `text/2-teil-ii-verfahren.md`
 - § 56a → `text/2-teil-ii-verfahren.md`
 - § 57 → `text/2-teil-ii-verfahren.md`
@@ -112,7 +112,7 @@ Format: `heading → text/<file>`
 - § 67 → `text/2-teil-ii-verfahren.md`
 - § 67a → `text/2-teil-ii-verfahren.md`
 
-## 8. Abschnitt - Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen  
+## 8. Abschnitt Besondere Vorschriften für Anfechtungs- und Verpflichtungsklagen  
 `text/2-teil-ii-verfahren.md`
 
 - § 68 → `text/2-teil-ii-verfahren.md`
@@ -130,8 +130,9 @@ Format: `heading → text/<file>`
 - § 80 → `text/2-teil-ii-verfahren.md`
 - § 80a → `text/2-teil-ii-verfahren.md`
 - § 80b → `text/2-teil-ii-verfahren.md`
+- § 80c → `text/2-teil-ii-verfahren.md`
 
-## 9. Abschnitt - Verfahren im ersten Rechtszug  
+## 9. Abschnitt Verfahren im ersten Rechtszug  
 `text/2-teil-ii-verfahren.md`
 
 - § 81 → `text/2-teil-ii-verfahren.md`
@@ -144,6 +145,7 @@ Format: `heading → text/<file>`
 - § 87 → `text/2-teil-ii-verfahren.md`
 - § 87a → `text/2-teil-ii-verfahren.md`
 - § 87b → `text/2-teil-ii-verfahren.md`
+- § 87c → `text/2-teil-ii-verfahren.md`
 - § 88 → `text/2-teil-ii-verfahren.md`
 - § 89 → `text/2-teil-ii-verfahren.md`
 - § 90 → `text/2-teil-ii-verfahren.md`
@@ -166,7 +168,7 @@ Format: `heading → text/<file>`
 - § 105 → `text/2-teil-ii-verfahren.md`
 - § 106 → `text/2-teil-ii-verfahren.md`
 
-## 10. Abschnitt - Urteile und andere Entscheidungen  
+## 10. Abschnitt Urteile und andere Entscheidungen  
 `text/2-teil-ii-verfahren.md`
 
 - § 107 → `text/2-teil-ii-verfahren.md`
@@ -186,16 +188,16 @@ Format: `heading → text/<file>`
 - § 121 → `text/2-teil-ii-verfahren.md`
 - § 122 → `text/2-teil-ii-verfahren.md`
 
-## 11. Abschnitt - Einstweilige Anordnung  
+## 11. Abschnitt Einstweilige Anordnung  
 `text/2-teil-ii-verfahren.md`
 
 - § 123 → `text/2-teil-ii-verfahren.md`
 
-# Teil III - Rechtsmittel und Wiederaufnahme des Verfahrens  
+# Teil III Rechtsmittel und Wiederaufnahme des Verfahrens  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 
-## 12. Abschnitt - Berufung  
+## 12. Abschnitt Berufung  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 - § 124 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
@@ -211,7 +213,7 @@ Format: `heading → text/<file>`
 - § 130b → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 - § 131 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
-## 13. Abschnitt - Revision  
+## 13. Abschnitt Revision  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 - § 132 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
@@ -229,7 +231,7 @@ Format: `heading → text/<file>`
 - § 144 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 - § 145 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
-## 14. Abschnitt - Beschwerde, Erinnerung, Anhörungsrüge  
+## 14. Abschnitt Beschwerde, Erinnerung, Anhörungsrüge  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 - § 146 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
@@ -241,16 +243,16 @@ Format: `heading → text/<file>`
 - § 152 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 - § 152a → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
-## 15. Abschnitt - Wiederaufnahme des Verfahrens  
+## 15. Abschnitt Wiederaufnahme des Verfahrens  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 - § 153 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
-# Teil IV - Kosten und Vollstreckung  
+# Teil IV Kosten und Vollstreckung  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 
-## 16. Abschnitt - Kosten  
+## 16. Abschnitt Kosten  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 - § 154 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
@@ -268,7 +270,7 @@ Format: `heading → text/<file>`
 - § 165a → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 - § 166 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
-## 17. Abschnitt - Vollstreckung  
+## 17. Abschnitt Vollstreckung  
 `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
 - § 167 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
@@ -278,29 +280,29 @@ Format: `heading → text/<file>`
 - § 171 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 - § 172 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
 
-# Teil V - Schluß- und Übergangsbestimmungen  
-`text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
+# Teil V Schluß- und Übergangsbestimmungen  
+`text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
 
-- § 173 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 174 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 175 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 176 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 177 (weggefallen) → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- §§ 178 und 179 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 180 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- §§ 181 und 182 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 183 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 184 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 185 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 186 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 187 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 188 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 188a → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 188b → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 189 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 190 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 191 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 192 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 193 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 194 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
-- § 195 → `text/3-teil-iii-rechtsmittel-und-wiederaufnahme-des-verfahrens.md`
+- § 173 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 174 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 175 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 176 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 177 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- §§ 178 und 179 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 180 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- §§ 181 und 182 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 183 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 184 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 185 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 186 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 187 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 188 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 188a → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 188b → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 189 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 190 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 191 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 192 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 193 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 194 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`
+- § 195 → `text/4-teil-v-schluss-und-ubergangsbestimmungen.md`

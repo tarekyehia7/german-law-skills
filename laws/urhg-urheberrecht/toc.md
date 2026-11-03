@@ -3,16 +3,16 @@
 Format: `heading → text/<file>`
 
 
-# Teil 1 - Urheberrecht  
+# Teil 1 Urheberrecht  
 `text/1-teil-1-urheberrecht.md`
 
 
-## Abschnitt 1 - Allgemeines  
+## Abschnitt 1 Allgemeines  
 `text/1-teil-1-urheberrecht.md`
 
 - § 1 Allgemeines → `text/1-teil-1-urheberrecht.md`
 
-## Abschnitt 2 - Das Werk  
+## Abschnitt 2 Das Werk  
 `text/1-teil-1-urheberrecht.md`
 
 - § 2 Geschützte Werke → `text/1-teil-1-urheberrecht.md`
@@ -21,7 +21,7 @@ Format: `heading → text/<file>`
 - § 5 Amtliche Werke → `text/1-teil-1-urheberrecht.md`
 - § 6 Veröffentlichte und erschienene Werke → `text/1-teil-1-urheberrecht.md`
 
-## Abschnitt 3 - Der Urheber  
+## Abschnitt 3 Der Urheber  
 `text/1-teil-1-urheberrecht.md`
 
 - § 7 Urheber → `text/1-teil-1-urheberrecht.md`
@@ -29,23 +29,23 @@ Format: `heading → text/<file>`
 - § 9 Urheber verbundener Werke → `text/1-teil-1-urheberrecht.md`
 - § 10 Vermutung der Urheber- oder Rechtsinhaberschaft → `text/1-teil-1-urheberrecht.md`
 
-## Abschnitt 4 - Inhalt des Urheberrechts  
+## Abschnitt 4 Inhalt des Urheberrechts  
 `text/1-teil-1-urheberrecht.md`
 
 
-### Unterabschnitt 1 - Allgemeines  
+### Unterabschnitt 1 Allgemeines  
 `text/1-teil-1-urheberrecht.md`
 
 - § 11 Allgemeines → `text/1-teil-1-urheberrecht.md`
 
-### Unterabschnitt 2 - Urheberpersönlichkeitsrecht  
+### Unterabschnitt 2 Urheberpersönlichkeitsrecht  
 `text/1-teil-1-urheberrecht.md`
 
 - § 12 Veröffentlichungsrecht → `text/1-teil-1-urheberrecht.md`
 - § 13 Anerkennung der Urheberschaft → `text/1-teil-1-urheberrecht.md`
 - § 14 Entstellung des Werkes → `text/1-teil-1-urheberrecht.md`
 
-### Unterabschnitt 3 - Verwertungsrechte  
+### Unterabschnitt 3 Verwertungsrechte  
 `text/1-teil-1-urheberrecht.md`
 
 - § 15 Allgemeines → `text/1-teil-1-urheberrecht.md`
@@ -64,25 +64,25 @@ Format: `heading → text/<file>`
 - § 23 Bearbeitungen und Umgestaltungen → `text/1-teil-1-urheberrecht.md`
 - § 24 (weggefallen) → `text/1-teil-1-urheberrecht.md`
 
-### Unterabschnitt 4 - Sonstige Rechte des Urhebers  
+### Unterabschnitt 4 Sonstige Rechte des Urhebers  
 `text/1-teil-1-urheberrecht.md`
 
 - § 25 Zugang zu Werkstücken → `text/1-teil-1-urheberrecht.md`
 - § 26 Folgerecht → `text/1-teil-1-urheberrecht.md`
 - § 27 Vergütung für Vermietung und Verleihen → `text/1-teil-1-urheberrecht.md`
 
-## Abschnitt 5 - Rechtsverkehr im Urheberrecht  
+## Abschnitt 5 Rechtsverkehr im Urheberrecht  
 `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 
 
-### Unterabschnitt 1 - Rechtsnachfolge in das Urheberrecht  
+### Unterabschnitt 1 Rechtsnachfolge in das Urheberrecht  
 `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 
 - § 28 Vererbung des Urheberrechts → `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 - § 29 Rechtsgeschäfte über das Urheberrecht → `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 - § 30 Rechtsnachfolger des Urhebers → `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 
-### Unterabschnitt 2 - Nutzungsrechte  
+### Unterabschnitt 2 Nutzungsrechte  
 `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 
 - § 31 Einräumung von Nutzungsrechten → `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
@@ -115,11 +115,11 @@ Format: `heading → text/<file>`
 - § 43 Urheber in Arbeits- oder Dienstverhältnissen → `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 - § 44 Veräußerung des Originals des Werkes → `text/2-abschnitt-5-rechtsverkehr-im-urheberrecht.md`
 
-## Abschnitt 6 - Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen  
+## Abschnitt 6 Schranken des Urheberrechts durch gesetzlich erlaubte Nutzungen  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 
-### Unterabschnitt 1 - Gesetzlich erlaubte Nutzungen  
+### Unterabschnitt 1 Gesetzlich erlaubte Nutzungen  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 44a Vorübergehende Vervielfältigungshandlungen → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
@@ -141,7 +141,7 @@ Format: `heading → text/<file>`
 - § 53 Vervielfältigungen zum privaten und sonstigen eigenen Gebrauch → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 53a (weggefallen) → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-### Unterabschnitt 2 - Vergütung der nach den §§ 53, 60a bis 60f erlaubten Vervielfältigungen  
+### Unterabschnitt 2 Vergütung der nach den §§ 53, 60a bis 60f erlaubten Vervielfältigungen  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 54 Vergütungspflicht → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
@@ -154,7 +154,7 @@ Format: `heading → text/<file>`
 - § 54g Kontrollbesuch → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 54h Verwertungsgesellschaften; Handhabung der Mitteilungen → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-### Unterabschnitt 3 - Weitere gesetzlich erlaubte Nutzungen  
+### Unterabschnitt 3 Weitere gesetzlich erlaubte Nutzungen  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 55 Vervielfältigung durch Sendeunternehmen → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
@@ -165,7 +165,7 @@ Format: `heading → text/<file>`
 - § 59 Werke an öffentlichen Plätzen → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 60 Bildnisse → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-### Unterabschnitt 4 - Gesetzlich erlaubte Nutzungen für Unterricht, Wissenschaft und Institutionen  
+### Unterabschnitt 4 Gesetzlich erlaubte Nutzungen für Unterricht, Wissenschaft und Institutionen  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 60a Unterricht und Lehre → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
@@ -177,7 +177,7 @@ Format: `heading → text/<file>`
 - § 60g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 60h Angemessene Vergütung der gesetzlich erlaubten Nutzungen → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-### Unterabschnitt 5 - Besondere gesetzlich erlaubte Nutzungen verwaister Werke  
+### Unterabschnitt 5 Besondere gesetzlich erlaubte Nutzungen verwaister Werke  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 61 Verwaiste Werke → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
@@ -185,7 +185,7 @@ Format: `heading → text/<file>`
 - § 61b Beendigung der Nutzung und Vergütungspflicht der nutzenden Institution → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 61c Nutzung verwaister Werke durch öffentlich-rechtliche Rundfunkanstalten → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-### Unterabschnitt 5a - Besondere gesetzlich erlaubte Nutzungen nicht verfügbarer Werke  
+### Unterabschnitt 5a Besondere gesetzlich erlaubte Nutzungen nicht verfügbarer Werke  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 61d Nicht verfügbare Werke → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
@@ -193,14 +193,14 @@ Format: `heading → text/<file>`
 - § 61f Information über nicht verfügbare Werke → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 61g Gesetzlich erlaubte Nutzung und vertragliche Nutzungsbefugnis → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-### Unterabschnitt 6 - Gemeinsame Vorschriften für gesetzlich erlaubte Nutzungen  
+### Unterabschnitt 6 Gemeinsame Vorschriften für gesetzlich erlaubte Nutzungen  
 `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
 - § 62 Änderungsverbot → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 63 Quellenangabe → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 - § 63a Gesetzliche Vergütungsansprüche → `text/3-abschnitt-6-schranken-des-urheberrechts-durch-gesetzlich-erl.md`
 
-## Abschnitt 7 - Dauer des Urheberrechts  
+## Abschnitt 7 Dauer des Urheberrechts  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 64 Allgemeines → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
@@ -210,7 +210,7 @@ Format: `heading → text/<file>`
 - § 68 Vervielfältigungen gemeinfreier visueller Werke → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 69 Berechnung der Fristen → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 8 - Besondere Bestimmungen für Computerprogramme  
+## Abschnitt 8 Besondere Bestimmungen für Computerprogramme  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 69a Gegenstand des Schutzes → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
@@ -221,22 +221,22 @@ Format: `heading → text/<file>`
 - § 69f Rechtsverletzungen; ergänzende Schutzbestimmungen → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 69g Anwendung sonstiger Rechtsvorschriften, Vertragsrecht → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-# Teil 2 - Verwandte Schutzrechte  
+# Teil 2 Verwandte Schutzrechte  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 
-## Abschnitt 1 - Schutz bestimmter Ausgaben  
+## Abschnitt 1 Schutz bestimmter Ausgaben  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 70 Wissenschaftliche Ausgaben → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 71 Nachgelassene Werke → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 2 - Schutz der Lichtbilder  
+## Abschnitt 2 Schutz der Lichtbilder  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 72 Lichtbilder → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 3 - Schutz des ausübenden Künstlers  
+## Abschnitt 3 Schutz des ausübenden Künstlers  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 73 Ausübender Künstler → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
@@ -254,18 +254,18 @@ Format: `heading → text/<file>`
 - § 83 Schranken der Verwertungsrechte → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 84 (weggefallen) → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 4 - Schutz des Herstellers von Tonträgern  
+## Abschnitt 4 Schutz des Herstellers von Tonträgern  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 85 Verwertungsrechte → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 86 Anspruch auf Beteiligung → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 5 - Schutz des Sendeunternehmens  
+## Abschnitt 5 Schutz des Sendeunternehmens  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 87 Sendeunternehmen → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 6 - Schutz des Datenbankherstellers  
+## Abschnitt 6 Schutz des Datenbankherstellers  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 87a Begriffsbestimmungen → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
@@ -274,7 +274,7 @@ Format: `heading → text/<file>`
 - § 87d Dauer der Rechte → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 87e Verträge über die Benutzung einer Datenbank → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 7 - Schutz des Presseverlegers  
+## Abschnitt 7 Schutz des Presseverlegers  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 87f Begriffsbestimmungen → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
@@ -284,11 +284,11 @@ Format: `heading → text/<file>`
 - § 87j Dauer der Rechte des Presseverlegers → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 87k Beteiligungsanspruch → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-# Teil 3 - Besondere Bestimmungen für Filme  
+# Teil 3 Besondere Bestimmungen für Filme  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 
-## Abschnitt 1 - Filmwerke  
+## Abschnitt 1 Filmwerke  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 88 Recht zur Verfilmung → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
@@ -299,16 +299,16 @@ Format: `heading → text/<file>`
 - § 93 Schutz gegen Entstellung; Namensnennung → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 - § 94 Schutz des Filmherstellers → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-## Abschnitt 2 - Laufbilder  
+## Abschnitt 2 Laufbilder  
 `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
 - § 95 Laufbilder → `text/4-abschnitt-7-dauer-des-urheberrechts.md`
 
-# Teil 4 - Gemeinsame Bestimmungen für Urheberrecht und verwandte Schutzrechte  
+# Teil 4 Gemeinsame Bestimmungen für Urheberrecht und verwandte Schutzrechte  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 
-## Abschnitt 1 - Ergänzende Schutzbestimmungen  
+## Abschnitt 1 Ergänzende Schutzbestimmungen  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 95a Schutz technischer Maßnahmen → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
@@ -317,11 +317,11 @@ Format: `heading → text/<file>`
 - § 95d Kennzeichnungspflichten → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 96 Verwertungsverbot → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-## Abschnitt 2 - Rechtsverletzungen  
+## Abschnitt 2 Rechtsverletzungen  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 
-### Unterabschnitt 1 - Bürgerlich-rechtliche Vorschriften; Rechtsweg  
+### Unterabschnitt 1 Bürgerlich-rechtliche Vorschriften; Rechtsweg  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 97 Anspruch auf Unterlassung und Schadensersatz → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
@@ -339,7 +339,7 @@ Format: `heading → text/<file>`
 - § 104a Gerichtsstand → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 105 Gerichte für Urheberrechtsstreitsachen → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-### Unterabschnitt 2 - Straf- und Bußgeldvorschriften  
+### Unterabschnitt 2 Straf- und Bußgeldvorschriften  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 106 Unerlaubte Verwertung urheberrechtlich geschützter Werke → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
@@ -352,53 +352,53 @@ Format: `heading → text/<file>`
 - § 111 Bekanntgabe der Verurteilung → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 111a Bußgeldvorschriften → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-### Unterabschnitt 3 - Vorschriften über Maßnahmen der Zollbehörde  
+### Unterabschnitt 3 Vorschriften über Maßnahmen der Zollbehörde  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 111b Verfahren nach deutschem Recht → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 111c Verfahren nach der Verordnung (EU) Nr. 608/2013 → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-## Abschnitt 3 - Zwangsvollstreckung  
+## Abschnitt 3 Zwangsvollstreckung  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 
-### Unterabschnitt 1 - Allgemeines  
+### Unterabschnitt 1 Allgemeines  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 112 Allgemeines → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-### Unterabschnitt 2 - Zwangsvollstreckung wegen Geldforderungen gegen den Urheber  
+### Unterabschnitt 2 Zwangsvollstreckung wegen Geldforderungen gegen den Urheber  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 113 Urheberrecht → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 114 Originale von Werken → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-### Unterabschnitt 3 - Zwangsvollstreckung wegen Geldforderungen gegen den Rechtsnachfolger des Urhebers  
+### Unterabschnitt 3 Zwangsvollstreckung wegen Geldforderungen gegen den Rechtsnachfolger des Urhebers  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 115 Urheberrecht → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 116 Originale von Werken → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 - § 117 Testamentsvollstrecker → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-### Unterabschnitt 4 - Zwangsvollstreckung wegen Geldforderungen gegen den Verfasser wissenschaftlicher Ausgaben und gegen den Lichtbildner  
+### Unterabschnitt 4 Zwangsvollstreckung wegen Geldforderungen gegen den Verfasser wissenschaftlicher Ausgaben und gegen den Lichtbildner  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 118 Entsprechende Anwendung → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-### Unterabschnitt 5 - Zwangsvollstreckung wegen Geldforderungen in bestimmte Vorrichtungen  
+### Unterabschnitt 5 Zwangsvollstreckung wegen Geldforderungen in bestimmte Vorrichtungen  
 `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
 - § 119 Zwangsvollstreckung in bestimmte Vorrichtungen → `text/5-teil-4-gemeinsame-bestimmungen-fur-urheberrecht-und-verwandt.md`
 
-# Teil 5 - Anwendungsbereich, Übergangs- und Schlussbestimmungen  
+# Teil 5 Anwendungsbereich, Übergangs- und Schlussbestimmungen  
 `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
 
-## Abschnitt 1 - Anwendungsbereich des Gesetzes  
+## Abschnitt 1 Anwendungsbereich des Gesetzes  
 `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
 
-### Unterabschnitt 1 - Urheberrecht  
+### Unterabschnitt 1 Urheberrecht  
 `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
 - § 120 Deutsche Staatsangehörige und Staatsangehörige anderer EU-Staaten und EWR-Staaten → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
@@ -406,7 +406,7 @@ Format: `heading → text/<file>`
 - § 122 Staatenlose → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 - § 123 Ausländische Flüchtlinge → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
-### Unterabschnitt 2 - Verwandte Schutzrechte  
+### Unterabschnitt 2 Verwandte Schutzrechte  
 `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
 - § 124 Wissenschaftliche Ausgaben und Lichtbilder → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
@@ -417,7 +417,7 @@ Format: `heading → text/<file>`
 - § 127b Schutz des Presseverlegers → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 - § 128 Schutz des Filmherstellers → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
-## Abschnitt 2 - Übergangsbestimmungen  
+## Abschnitt 2 Übergangsbestimmungen  
 `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
 - § 129 Werke → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
@@ -449,7 +449,7 @@ Format: `heading → text/<file>`
 - § 137q Übergangsregelung zur Verlegerbeteiligung → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 - § 137r Übergangsregelung zum Schutz des Presseverlegers → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
-## Abschnitt 3 - Schlussbestimmungen  
+## Abschnitt 3 Schlussbestimmungen  
 `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`
 
 - § 138 Register anonymer und pseudonymer Werke → `text/6-teil-5-anwendungsbereich-ubergangs-und-schlussbestimmungen.md`

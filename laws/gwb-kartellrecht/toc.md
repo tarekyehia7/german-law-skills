@@ -3,11 +3,11 @@
 Format: `heading → text/<file>`
 
 
-# Teil 1 - Wettbewerbsbeschränkungen  
+# Teil 1 Wettbewerbsbeschränkungen  
 `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
 
-## Kapitel 1 - Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen  
+## Kapitel 1 Wettbewerbsbeschränkende Vereinbarungen, Beschlüsse und abgestimmte Verhaltensweisen  
 `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
 - § 1 Verbot wettbewerbsbeschränkender Vereinbarungen → `text/01-teil-1-wettbewerbsbeschrankungen.md`
@@ -15,7 +15,7 @@ Format: `heading → text/<file>`
 - § 3 Mittelstandskartelle → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - §§ 4 bis 17 (weggefallen) → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
-## Kapitel 2 - Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten  
+## Kapitel 2 Marktbeherrschung, sonstiges wettbewerbsbeschränkendes Verhalten  
 `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
 - § 18 Marktbeherrschung → `text/01-teil-1-wettbewerbsbeschrankungen.md`
@@ -24,13 +24,13 @@ Format: `heading → text/<file>`
 - § 20 Verbotenes Verhalten von Unternehmen mit relativer oder überlegener Marktmacht → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 21 Boykottverbot, Verbot sonstigen wettbewerbsbeschränkenden Verhaltens → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
-## Kapitel 3 - Anwendung des europäischen Wettbewerbsrechts  
+## Kapitel 3 Anwendung des europäischen Wettbewerbsrechts  
 `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
 - § 22 Verhältnis dieses Gesetzes zu den Artikeln 101 und 102 des Vertrages über die Arbeitsweise der Europäischen Union → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 23 (weggefallen) → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
-## Kapitel 4 - Wettbewerbsregeln  
+## Kapitel 4 Wettbewerbsregeln  
 `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
 - § 24 Begriff, Antrag auf Anerkennung → `text/01-teil-1-wettbewerbsbeschrankungen.md`
@@ -38,21 +38,22 @@ Format: `heading → text/<file>`
 - § 26 Anerkennung → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 27 Veröffentlichung von Wettbewerbsregeln, Bekanntmachungen → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
-## Kapitel 5 - Sonderregeln für bestimmte Wirtschaftsbereiche  
+## Kapitel 5 Sonderregeln für bestimmte Wirtschaftsbereiche  
 `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
 - § 28 Landwirtschaft → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 29 Energiewirtschaft → `text/01-teil-1-wettbewerbsbeschrankungen.md`
+- § 29a Kraftstoffmärkte → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 30 Presse → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 31 Verträge der Wasserwirtschaft → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 31a Wasserwirtschaft, Meldepflicht → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 - § 31b Wasserwirtschaft, Aufgaben und Befugnisse der Kartellbehörde, Sanktionen → `text/01-teil-1-wettbewerbsbeschrankungen.md`
 
-## Kapitel 6 - Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung  
+## Kapitel 6 Befugnisse der Kartellbehörden, Schadensersatz und Vorteilsabschöpfung  
 `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 
 
-### Abschnitt 1 - Befugnisse der Kartellbehörden  
+### Abschnitt 1 Befugnisse der Kartellbehörden  
 `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 
 - § 32 Abstellung und nachträgliche Feststellung von Zuwiderhandlungen → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
@@ -61,8 +62,10 @@ Format: `heading → text/<file>`
 - § 32c Kein Anlass zum Tätigwerden → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 - § 32d Entzug der Freistellung → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 - § 32e Untersuchungen einzelner Wirtschaftszweige und einzelner Arten von Vereinbarungen → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
+- § 32f Maßnahmen nach einer Sektoruntersuchung → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
+- § 32g Untersuchung von möglichen Verstößen gegen die Verordnung (EU) 2022/1925 (Digital Markets Act) → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 
-### Abschnitt 2 - Schadensersatz und Vorteilsabschöpfung  
+### Abschnitt 2 Schadensersatz und Vorteilsabschöpfung  
 `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 
 - § 33 Beseitigungs- und Unterlassungsanspruch → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
@@ -77,7 +80,7 @@ Format: `heading → text/<file>`
 - § 34 Vorteilsabschöpfung durch die Kartellbehörde → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 - § 34a Vorteilsabschöpfung durch Verbände → `text/02-kapitel-6-befugnisse-der-kartellbehorden-schadensersatz-und.md`
 
-## Kapitel 7 - Zusammenschlusskontrolle  
+## Kapitel 7 Zusammenschlusskontrolle  
 `text/03-kapitel-7-zusammenschlusskontrolle.md`
 
 - § 35 Geltungsbereich der Zusammenschlusskontrolle → `text/03-kapitel-7-zusammenschlusskontrolle.md`
@@ -85,14 +88,14 @@ Format: `heading → text/<file>`
 - § 37 Zusammenschluss → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 38 Berechnung der Umsatzerlöse, der Marktanteile und des Wertes der Gegenleistung → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 39 Anmelde- und Anzeigepflicht → `text/03-kapitel-7-zusammenschlusskontrolle.md`
-- § 39a Aufforderung zur Anmeldung künftiger Zusammenschlüsse → `text/03-kapitel-7-zusammenschlusskontrolle.md`
+- § 39a (weggefallen) → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 40 Verfahren der Zusammenschlusskontrolle → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 41 Vollzugsverbot, Entflechtung → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 42 Ministererlaubnis → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 43 Bekanntmachungen → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 43a Evaluierung → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 
-## Kapitel 8 - Monopolkommission  
+## Kapitel 8 Monopolkommission  
 `text/03-kapitel-7-zusammenschlusskontrolle.md`
 
 - § 44 Aufgaben → `text/03-kapitel-7-zusammenschlusskontrolle.md`
@@ -100,11 +103,11 @@ Format: `heading → text/<file>`
 - § 46 Beschlüsse, Organisation, Rechte und Pflichten der Mitglieder → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 - § 47 Übermittlung statistischer Daten → `text/03-kapitel-7-zusammenschlusskontrolle.md`
 
-## Kapitel 9 - Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe  
+## Kapitel 9 Markttransparenzstellen für den Großhandel mit Strom und Gas und für Kraftstoffe  
 `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
 
-### Abschnitt 1 - Markttransparenzstelle für den Großhandel im Bereich Strom und Gas  
+### Abschnitt 1 Markttransparenzstelle für den Großhandel im Bereich Strom und Gas  
 `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
 - § 47a Einrichtung, Zuständigkeit, Organisation → `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
@@ -118,28 +121,28 @@ Format: `heading → text/<file>`
 - § 47i Zusammenarbeit mit anderen Behörden und Aufsichtsstellen → `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 - § 47j Vertrauliche Informationen, operationelle Zuverlässigkeit, Datenschutz → `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
-### Abschnitt 2 - Markttransparenzstelle für Kraftstoffe  
+### Abschnitt 2 Markttransparenzstelle für Kraftstoffe  
 `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
 - § 47k Marktbeobachtung im Bereich Kraftstoffe → `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
-### Abschnitt 3 - Evaluierung  
+### Abschnitt 3 Evaluierung  
 `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
 - § 47l Evaluierung der Markttransparenzstellen → `text/04-kapitel-9-markttransparenzstellen-fur-den-grosshandel-mit-st.md`
 
-# Teil 2 - Kartellbehörden  
+# Teil 2 Kartellbehörden  
 `text/05-teil-2-kartellbehorden.md`
 
 
-## Kapitel 1 - Allgemeine Vorschriften  
+## Kapitel 1 Allgemeine Vorschriften  
 `text/05-teil-2-kartellbehorden.md`
 
 - § 48 Zuständigkeit → `text/05-teil-2-kartellbehorden.md`
 - § 49 Bundeskartellamt und oberste Landesbehörde → `text/05-teil-2-kartellbehorden.md`
 - § 50 Vollzug des europäischen Rechts → `text/05-teil-2-kartellbehorden.md`
 
-## Kapitel 2 - Behördenzusammenarbeit  
+## Kapitel 2 Behördenzusammenarbeit  
 `text/05-teil-2-kartellbehorden.md`
 
 - § 50a Ermittlungen im Netzwerk der europäischen Wettbewerbsbehörden → `text/05-teil-2-kartellbehorden.md`
@@ -149,71 +152,71 @@ Format: `heading → text/<file>`
 - § 50e Sonstige Zusammenarbeit mit ausländischen Wettbewerbsbehörden → `text/05-teil-2-kartellbehorden.md`
 - § 50f Zusammenarbeit mit anderen Behörden → `text/05-teil-2-kartellbehorden.md`
 
-## Kapitel 3 - Bundeskartellamt  
+## Kapitel 3 Bundeskartellamt  
 `text/05-teil-2-kartellbehorden.md`
 
 - § 51 Sitz, Organisation → `text/05-teil-2-kartellbehorden.md`
 - § 52 Veröffentlichung allgemeiner Weisungen → `text/05-teil-2-kartellbehorden.md`
 - § 53 Tätigkeitsbericht und Monitoringberichte → `text/05-teil-2-kartellbehorden.md`
 
-# Teil 3 - Verfahren  
-`text/05-teil-2-kartellbehorden.md`
+# Teil 3 Verfahren  
+`text/06-teil-3-verfahren.md`
 
 
-## Kapitel 1 - Verwaltungssachen  
-`text/06-kapitel-1-verwaltungssachen.md`
+## Kapitel 1 Verwaltungssachen  
+`text/06-teil-3-verfahren.md`
 
 
-### Abschnitt 1 - Verfahren vor den Kartellbehörden  
-`text/06-kapitel-1-verwaltungssachen.md`
+### Abschnitt 1 Verfahren vor den Kartellbehörden  
+`text/06-teil-3-verfahren.md`
 
-- § 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit → `text/06-kapitel-1-verwaltungssachen.md`
-- § 55 Vorabentscheidung über Zuständigkeit → `text/06-kapitel-1-verwaltungssachen.md`
-- § 56 Anhörung, Akteneinsicht, mündliche Verhandlung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 57 Ermittlungen, Beweiserhebung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 58 Beschlagnahme → `text/06-kapitel-1-verwaltungssachen.md`
-- § 59 Auskunftsverlangen → `text/06-kapitel-1-verwaltungssachen.md`
-- § 59a Prüfung von geschäftlichen Unterlagen → `text/06-kapitel-1-verwaltungssachen.md`
-- § 59b Durchsuchungen → `text/06-kapitel-1-verwaltungssachen.md`
-- § 60 Einstweilige Anordnungen → `text/06-kapitel-1-verwaltungssachen.md`
-- § 61 Verfahrensabschluss, Begründung der Verfügung, Zustellung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 62 Gebührenpflichtige Handlungen → `text/06-kapitel-1-verwaltungssachen.md`
+- § 54 Einleitung des Verfahrens, Beteiligte, Beteiligtenfähigkeit → `text/06-teil-3-verfahren.md`
+- § 55 Vorabentscheidung über Zuständigkeit → `text/06-teil-3-verfahren.md`
+- § 56 Anhörung, Akteneinsicht, mündliche Verhandlung → `text/06-teil-3-verfahren.md`
+- § 57 Ermittlungen, Beweiserhebung → `text/06-teil-3-verfahren.md`
+- § 58 Beschlagnahme → `text/06-teil-3-verfahren.md`
+- § 59 Auskunftsverlangen → `text/06-teil-3-verfahren.md`
+- § 59a Prüfung von geschäftlichen Unterlagen → `text/06-teil-3-verfahren.md`
+- § 59b Durchsuchungen → `text/06-teil-3-verfahren.md`
+- § 60 Einstweilige Anordnungen → `text/06-teil-3-verfahren.md`
+- § 61 Verfahrensabschluss, Begründung der Verfügung, Zustellung → `text/06-teil-3-verfahren.md`
+- § 62 Gebührenpflichtige Handlungen → `text/06-teil-3-verfahren.md`
 
-### Abschnitt 2 - Gemeinsame Bestimmungen für Rechtsbehelfsverfahren  
-`text/06-kapitel-1-verwaltungssachen.md`
+### Abschnitt 2 Gemeinsame Bestimmungen für Rechtsbehelfsverfahren  
+`text/06-teil-3-verfahren.md`
 
-- § 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit → `text/06-kapitel-1-verwaltungssachen.md`
-- § 64 Anwaltszwang → `text/06-kapitel-1-verwaltungssachen.md`
-- § 65 Mündliche Verhandlung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 66 Aufschiebende Wirkung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 67 Anordnung der sofortigen Vollziehung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren → `text/06-kapitel-1-verwaltungssachen.md`
-- § 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör → `text/06-kapitel-1-verwaltungssachen.md`
-- § 70 Akteneinsicht → `text/06-kapitel-1-verwaltungssachen.md`
-- § 71 Kostentragung und -festsetzung → `text/06-kapitel-1-verwaltungssachen.md`
-- § 72 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung → `text/06-kapitel-1-verwaltungssachen.md`
+- § 63 Beteiligte am Rechtsbehelfsverfahren, Beteiligtenfähigkeit → `text/06-teil-3-verfahren.md`
+- § 64 Anwaltszwang → `text/06-teil-3-verfahren.md`
+- § 65 Mündliche Verhandlung → `text/06-teil-3-verfahren.md`
+- § 66 Aufschiebende Wirkung → `text/06-teil-3-verfahren.md`
+- § 67 Anordnung der sofortigen Vollziehung → `text/06-teil-3-verfahren.md`
+- § 68 Einstweilige Anordnungen im Rechtsbehelfsverfahren → `text/06-teil-3-verfahren.md`
+- § 69 Abhilfe bei Verletzung des Anspruchs auf rechtliches Gehör → `text/06-teil-3-verfahren.md`
+- § 70 Akteneinsicht → `text/06-teil-3-verfahren.md`
+- § 71 Kostentragung und -festsetzung → `text/06-teil-3-verfahren.md`
+- § 72 Geltung von Vorschriften des Gerichtsverfassungsgesetzes und der Zivilprozessordnung → `text/06-teil-3-verfahren.md`
 
-### Abschnitt 3 - Beschwerde  
-`text/06-kapitel-1-verwaltungssachen.md`
+### Abschnitt 3 Beschwerde  
+`text/06-teil-3-verfahren.md`
 
-- § 73 Zulässigkeit, Zuständigkeit → `text/06-kapitel-1-verwaltungssachen.md`
-- § 74 Frist und Form → `text/06-kapitel-1-verwaltungssachen.md`
-- § 75 Untersuchungsgrundsatz → `text/06-kapitel-1-verwaltungssachen.md`
-- § 76 Beschwerdeentscheidung → `text/06-kapitel-1-verwaltungssachen.md`
+- § 73 Zulässigkeit, Zuständigkeit → `text/06-teil-3-verfahren.md`
+- § 74 Frist und Form → `text/06-teil-3-verfahren.md`
+- § 75 Untersuchungsgrundsatz → `text/06-teil-3-verfahren.md`
+- § 76 Beschwerdeentscheidung → `text/06-teil-3-verfahren.md`
 
-### Abschnitt 4 - Rechtsbeschwerde und Nichtzulassungsbeschwerde  
-`text/06-kapitel-1-verwaltungssachen.md`
+### Abschnitt 4 Rechtsbeschwerde und Nichtzulassungsbeschwerde  
+`text/06-teil-3-verfahren.md`
 
-- § 77 Zulassung, absolute Rechtsbeschwerdegründe → `text/06-kapitel-1-verwaltungssachen.md`
-- § 78 Nichtzulassungsbeschwerde → `text/06-kapitel-1-verwaltungssachen.md`
-- § 79 Rechtsbeschwerdeberechtigte, Form und Frist → `text/06-kapitel-1-verwaltungssachen.md`
-- § 80 Rechtsbeschwerdeentscheidung → `text/06-kapitel-1-verwaltungssachen.md`
+- § 77 Zulassung, absolute Rechtsbeschwerdegründe → `text/06-teil-3-verfahren.md`
+- § 78 Nichtzulassungsbeschwerde → `text/06-teil-3-verfahren.md`
+- § 79 Rechtsbeschwerdeberechtigte, Form und Frist → `text/06-teil-3-verfahren.md`
+- § 80 Rechtsbeschwerdeentscheidung → `text/06-teil-3-verfahren.md`
 
-## Kapitel 2 - Bußgeldsachen  
+## Kapitel 2 Bußgeldsachen  
 `text/07-kapitel-2-bussgeldsachen.md`
 
 
-### Abschnitt 1 - Bußgeldvorschriften  
+### Abschnitt 1 Bußgeldvorschriften  
 `text/07-kapitel-2-bussgeldsachen.md`
 
 - § 81 Bußgeldtatbestände → `text/07-kapitel-2-bussgeldsachen.md`
@@ -225,7 +228,7 @@ Format: `heading → text/<file>`
 - § 81f Verzinsung der Geldbuße → `text/07-kapitel-2-bussgeldsachen.md`
 - § 81g Verjährung der Geldbuße → `text/07-kapitel-2-bussgeldsachen.md`
 
-### Abschnitt 2 - Kronzeugenprogramm  
+### Abschnitt 2 Kronzeugenprogramm  
 `text/07-kapitel-2-bussgeldsachen.md`
 
 - § 81h Ziel und Anwendungsbereich → `text/07-kapitel-2-bussgeldsachen.md`
@@ -236,7 +239,7 @@ Format: `heading → text/<file>`
 - § 81m Marker → `text/07-kapitel-2-bussgeldsachen.md`
 - § 81n Kurzantrag → `text/07-kapitel-2-bussgeldsachen.md`
 
-### Abschnitt 3 - Bußgeldverfahren  
+### Abschnitt 3 Bußgeldverfahren  
 `text/07-kapitel-2-bussgeldsachen.md`
 
 - § 82 Zuständigkeiten in Kartellbußgeldsachen → `text/07-kapitel-2-bussgeldsachen.md`
@@ -247,12 +250,12 @@ Format: `heading → text/<file>`
 - § 85 Wiederaufnahmeverfahren gegen Bußgeldbescheid → `text/07-kapitel-2-bussgeldsachen.md`
 - § 86 Gerichtliche Entscheidungen bei der Vollstreckung → `text/07-kapitel-2-bussgeldsachen.md`
 
-## Kapitel 3 - Vollstreckung  
+## Kapitel 3 Vollstreckung  
 `text/07-kapitel-2-bussgeldsachen.md`
 
 - § 86a Vollstreckung → `text/07-kapitel-2-bussgeldsachen.md`
 
-## Kapitel 4 - Bürgerliche Rechtsstreitigkeiten  
+## Kapitel 4 Bürgerliche Rechtsstreitigkeiten  
 `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
 
 - § 87 Ausschließliche Zuständigkeit der Landgerichte → `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
@@ -264,7 +267,7 @@ Format: `heading → text/<file>`
 - § 89d Beweisregeln → `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
 - § 89e Gemeinsame Vorschriften für die §§ 33g und 89b bis 89d → `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
 
-## Kapitel 5 - Gemeinsame Bestimmungen  
+## Kapitel 5 Gemeinsame Bestimmungen  
 `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
 
 - § 90 Benachrichtigung und Beteiligung der Kartellbehörden → `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
@@ -276,41 +279,42 @@ Format: `heading → text/<file>`
 - § 95 Ausschließliche Zuständigkeit → `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
 - § 96 (weggefallen) → `text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
 
-# Teil 4 - Vergabe von öffentlichen Aufträgen und Konzessionen  
-`text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
+# Teil 4 Vergabe von öffentlichen Aufträgen und Konzessionen  
+`text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
 
 
-## Kapitel 1 - Vergabeverfahren  
-`text/08-kapitel-4-burgerliche-rechtsstreitigkeiten.md`
+## Kapitel 1 Vergabeverfahren  
+`text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
 
 
-### Abschnitt 1 - Grundsätze, Definitionen und Anwendungsbereich  
-`text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
+### Abschnitt 1 Grundsätze, Definitionen und Anwendungsbereich  
+`text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
 
-- § 97 Grundsätze der Vergabe → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 98 Auftraggeber → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 99 Öffentliche Auftraggeber → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 100 Sektorenauftraggeber → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 101 Konzessionsgeber → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 102 Sektorentätigkeiten → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 105 Konzessionen → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 106 Schwellenwerte → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 107 Allgemeine Ausnahmen → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 108 Ausnahmen bei öffentlich-öffentlicher Zusammenarbeit → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 113 Verordnungsermächtigung → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
-- § 114 Monitoring und Vergabestatistik → `text/09-abschnitt-1-grundsatze-definitionen-und-anwendungsbereich.md`
+- § 97 Grundsätze der Vergabe → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 97a Losgrundsatz → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 98 Auftraggeber → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 99 Öffentliche Auftraggeber → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 100 Sektorenauftraggeber → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 101 Konzessionsgeber → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 102 Sektorentätigkeiten → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 103 Öffentliche Aufträge, Rahmenvereinbarungen und Wettbewerbe → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 104 Verteidigungs- oder sicherheitsspezifische öffentliche Aufträge → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 105 Konzessionen → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 106 Schwellenwerte → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 107 Allgemeine Ausnahmen → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 108 Anwendbarkeit bei öffentlich-öffentlicher Zusammenarbeit → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 109 Ausnahmen für Vergaben auf der Grundlage internationaler Verfahrensregeln → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 110 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Leistungen zum Gegenstand haben → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 111 Vergabe von öffentlichen Aufträgen und Konzessionen, deren Teile unterschiedlichen rechtlichen Regelungen unterliegen → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 112 Vergabe von öffentlichen Aufträgen und Konzessionen, die verschiedene Tätigkeiten umfassen → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 113 Verordnungsermächtigung → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
+- § 114 Monitoring; Vergabestatistik; Datenservice Öffentlicher Einkauf → `text/09-teil-4-vergabe-von-offentlichen-auftragen-und-konzessionen.md`
 
-### Abschnitt 2 - Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber  
+### Abschnitt 2 Vergabe von öffentlichen Aufträgen durch öffentliche Auftraggeber  
 `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 
 
-#### Unterabschnitt 1 - Anwendungsbereich  
+#### Unterabschnitt 1 Anwendungsbereich  
 `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 
 - § 115 Anwendungsbereich → `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
@@ -318,7 +322,7 @@ Format: `heading → text/<file>`
 - § 117 Besondere Ausnahmen für Vergaben, die Verteidigungs- oder Sicherheitsaspekte umfassen → `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 - § 118 Bestimmten Auftragnehmern vorbehaltene öffentliche Aufträge → `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 
-#### Unterabschnitt 2 - Vergabeverfahren und Auftragsausführung  
+#### Unterabschnitt 2 Vergabeverfahren und Auftragsausführung  
 `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 
 - § 119 Verfahrensarten → `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
@@ -339,11 +343,11 @@ Format: `heading → text/<file>`
 - § 134 Informations- und Wartepflicht → `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 - § 135 Unwirksamkeit → `text/10-abschnitt-2-vergabe-von-offentlichen-auftragen-durch-offentl.md`
 
-### Abschnitt 3 - Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen  
+### Abschnitt 3 Vergabe von öffentlichen Aufträgen in besonderen Bereichen und von Konzessionen  
 `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
 
-#### Unterabschnitt 1 - Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber  
+#### Unterabschnitt 1 Vergabe von öffentlichen Aufträgen durch Sektorenauftraggeber  
 `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
 - § 136 Anwendungsbereich → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
@@ -355,7 +359,7 @@ Format: `heading → text/<file>`
 - § 142 Sonstige anwendbare Vorschriften → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 - § 143 Regelung für Auftraggeber nach dem Bundesberggesetz → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
-#### Unterabschnitt 2 - Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen  
+#### Unterabschnitt 2 Vergabe von verteidigungs- oder sicherheitsspezifischen öffentlichen Aufträgen  
 `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
 - § 144 Anwendungsbereich → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
@@ -363,7 +367,7 @@ Format: `heading → text/<file>`
 - § 146 Verfahrensarten → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 - § 147 Sonstige anwendbare Vorschriften → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
-#### Unterabschnitt 3 - Vergabe von Konzessionen  
+#### Unterabschnitt 3 Vergabe von Konzessionen  
 `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
 - § 148 Anwendungsbereich → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
@@ -374,20 +378,20 @@ Format: `heading → text/<file>`
 - § 153 Vergabe von Konzessionen über soziale und andere besondere Dienstleistungen → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 - § 154 Sonstige anwendbare Vorschriften → `text/11-abschnitt-3-vergabe-von-offentlichen-auftragen-in-besonderen.md`
 
-## Kapitel 2 - Nachprüfungsverfahren  
+## Kapitel 2 Nachprüfungsverfahren  
 `text/12-kapitel-2-nachprufungsverfahren.md`
 
 
-### Abschnitt 1 - Nachprüfungsbehörden  
+### Abschnitt 1 Nachprüfungsbehörden  
 `text/12-kapitel-2-nachprufungsverfahren.md`
 
 - § 155 Grundsatz → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 156 Vergabekammern → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 157 Besetzung, Unabhängigkeit → `text/12-kapitel-2-nachprufungsverfahren.md`
-- § 158 Einrichtung, Organisation → `text/12-kapitel-2-nachprufungsverfahren.md`
+- § 158 Einrichtung, Organisation, Form → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 159 Abgrenzung der Zuständigkeit der Vergabekammern → `text/12-kapitel-2-nachprufungsverfahren.md`
 
-### Abschnitt 2 - Verfahren vor der Vergabekammer  
+### Abschnitt 2 Verfahren vor der Vergabekammer  
 `text/12-kapitel-2-nachprufungsverfahren.md`
 
 - § 160 Einleitung, Antrag → `text/12-kapitel-2-nachprufungsverfahren.md`
@@ -402,7 +406,7 @@ Format: `heading → text/<file>`
 - § 169 Aussetzung des Vergabeverfahrens → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 170 Ausschluss von abweichendem Landesrecht → `text/12-kapitel-2-nachprufungsverfahren.md`
 
-### Abschnitt 3 - Sofortige Beschwerde  
+### Abschnitt 3 Sofortige Beschwerde  
 `text/12-kapitel-2-nachprufungsverfahren.md`
 
 - § 171 Zulässigkeit, Zuständigkeit → `text/12-kapitel-2-nachprufungsverfahren.md`
@@ -411,7 +415,7 @@ Format: `heading → text/<file>`
 - § 174 Beteiligte am Beschwerdeverfahren → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 175 Verfahrensvorschriften → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 176 Vorabentscheidung über den Zuschlag → `text/12-kapitel-2-nachprufungsverfahren.md`
-- § 177 Ende des Vergabeverfahrens nach Entscheidung des Beschwerdegerichts → `text/12-kapitel-2-nachprufungsverfahren.md`
+- § 177 (weggefallen) → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 178 Beschwerdeentscheidung → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 179 Bindungswirkung und Vorlagepflicht → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 180 Schadensersatz bei Rechtsmissbrauch → `text/12-kapitel-2-nachprufungsverfahren.md`
@@ -420,12 +424,14 @@ Format: `heading → text/<file>`
 - § 183 Korrekturmechanismus der Kommission → `text/12-kapitel-2-nachprufungsverfahren.md`
 - § 184 Unterrichtungspflichten der Nachprüfungsinstanzen → `text/12-kapitel-2-nachprufungsverfahren.md`
 
-# Teil 5 - Anwendungsbereich der Teile 1 bis 3  
+# Teil 5 Anwendungsbereich der Teile 1 bis 3  
 `text/12-kapitel-2-nachprufungsverfahren.md`
 
 - § 185 Unternehmen der öffentlichen Hand, Geltungsbereich → `text/12-kapitel-2-nachprufungsverfahren.md`
 
-# Teil 6 - Übergangs- und Schlussbestimmungen  
-`text/12-kapitel-2-nachprufungsverfahren.md`
+# Teil 6 Übergangs- und Schlussbestimmungen  
+`text/13-teil-6-ubergangs-und-schlussbestimmungen.md`
 
-- § 186 Übergangsbestimmungen → `text/12-kapitel-2-nachprufungsverfahren.md`
+- § 186 Anwendungsbestimmung zu § 47k → `text/13-teil-6-ubergangs-und-schlussbestimmungen.md`
+- § 186a Fusionskontrolle im Krankenhausbereich → `text/13-teil-6-ubergangs-und-schlussbestimmungen.md`
+- § 187 Übergangs- und Schlussbestimmungen → `text/13-teil-6-ubergangs-und-schlussbestimmungen.md`

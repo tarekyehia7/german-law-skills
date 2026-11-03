@@ -1,171 +1,108 @@
 # Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
-## Teil 10/48: Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern
-*§ 69 – § 71* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 14 G v. 10.12.2021 I 5162
+## Teil 10/51: Viertes Kapitel Beziehungen der Krankenkassen zu den Leistungserbringern
+*§ 67 – § 71* · Quelle: https://www.gesetze-im-internet.de/sgb_5/ · Stand: Art. 1 G v. 26.6.2026 I Nr. 195 · Abruf: 2026-11-03
 
-## Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern
+#### § 67 Elektronische Kommunikation
 
+(1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der Versorgung soll die Kommunikation sowie der Daten- und Informationsfluss unter den Leistungserbringern, zwischen den Krankenkassen und Leistungserbringern sowie im Verhältnis von Krankenkassen und Leistungserbringern zu den Versicherten durch vernetzte digitale Anwendungen und Dienste ausgebaut werden, insbesondere zur
 
+- 1\. elektronischen und maschinell verwertbaren Übermittlung von Befunden, Diagnosen, Therapieempfehlungen, Behandlungsberichten und Unterlagen in Genehmigungsverfahren,
+- 2\. Förderung der aktiven und informierten Mitwirkung der Versicherten am Behandlungs- und Rehabilitationsprozess sowie
+- 3\. Unterstützung der Versicherten bei einer gesundheitsbewussten Lebensführung.
 
-### Erster Abschnitt - Allgemeine Grundsätze
+(2) Die Krankenkassen und Leistungserbringer sowie ihre Verbände sollen den Übergang zur elektronischen Kommunikation nach Absatz 1 finanziell unterstützen.
 
+(3) Krankenkassen und ihre Verbände dürfen im Rahmen von Pilotprojekten für die Dauer von bis zu zwei Jahren, längstens bis zu dem in Satz 4 genannten Zeitpunkt, Verfahren zur elektronischen Übermittlung von Verordnungen und zur Abrechnung von Leistungen nach § 33a erproben, bei denen eine Übermittlung von Verordnungen in Textform erfolgt. Die Pilotvorhaben müssen den Anforderungen der Richtlinie nach § 217f Absatz 4b entsprechen. Im Rahmen der Verfahren nach Satz 1 darf nicht in die ärztliche Therapiefreiheit eingegriffen oder die Wahlfreiheit der Versicherten beschränkt werden. Für die elektronische Übermittlung von Verordnungen von Leistungen nach § 33a sind ausschließlich geeignete Dienste der Telematikinfrastruktur zu verwenden, sobald diese zur Verfügung stehen. Im Rahmen der Pilotvorhaben ist zu gewährleisten, dass den Versicherten eine Nutzung einer digitalen Gesundheitsanwendung in der Regel innerhalb von zwei Arbeitstagen ab dem Zeitpunkt des Eingangs einer Verordnung bei der Krankenkasse ermöglicht wird.
 
+<!-- norm id="BJNE048801126" -->
+#### § 68 (weggefallen)
 
+<!-- norm id="BJNE070600126" -->
+#### § 68a Förderung der Entwicklung digitaler Innovationen durch Krankenkassen
+
+(1) Zur Verbesserung der Qualität und der Wirtschaftlichkeit der Versorgung können Krankenkassen die Entwicklung digitaler Innovationen fördern. Die Förderung muss möglichst bedarfsgerecht und zielgerichtet sein und soll insbesondere zur Verbesserung der Versorgungsqualität und Versorgungseffizienz, zur Behebung von Versorgungsdefiziten sowie zur verbesserten Patientenorientierung in der Versorgung beitragen.
+
+(2) Digitale Innovationen im Sinne des Absatzes 1 sind insbesondere
+
+- 1\. digitale Medizinprodukte,
+- 2\. telemedizinische Verfahren oder
+- 3\. IT-gestützte Verfahren in der Versorgung.
+
+(3) Krankenkassen können digitale Innovationen in Zusammenarbeit mit Dritten entwickeln oder von diesen entwickeln lassen. Dritte sind insbesondere
+
+- 1\. Hersteller von Medizinprodukten,
+- 2\. Unternehmen aus dem Bereich der Informationstechnologie,
+- 3\. Forschungseinrichtungen sowie
+- 4\. Leistungserbringer und Gemeinschaften von Leistungserbringern.
+
+(4) Die Förderung erfolgt entweder durch eine fachlich-inhaltliche Kooperation mit Dritten nach Absatz 3 oder durch einen Erwerb von Anteilen an Investmentvermögen nach § 263a, soweit sie mit einer fachlich-inhaltlichen Kooperation zwischen Krankenkasse und Kapitalverwaltungsgesellschaft verbunden wird.
+
+(5) Um den konkreten Versorgungsbedarf und den möglichen Einfluss digitaler Innovationen auf die Versorgung zu ermitteln und um positive Versorgungseffekte digitaler Anwendungen zu evaluieren, können Krankenkassen die versichertenbezogenen Daten, die sie nach § 284 Absatz 1 rechtmäßig erhoben und gespeichert haben, im erforderlichen Umfang auswerten. Vor der Auswertung sind die Daten zu pseudonymisieren. Die Krankenkasse hat die pseudonymisierten Daten zu anonymisieren, wenn den Zwecken der Datenauswertung auch mit anonymisierten Daten entsprochen werden kann. Eine Übermittlung dieser Daten an Dritte nach den Absätzen 3 und 4 ist ausgeschlossen.
+
+<!-- norm id="BJNE070702126" -->
+#### § 68b Förderung von Versorgungsinnovationen
+
+(1) Die Krankenkassen können Versorgungsinnovationen fördern. Diese sollen insbesondere ermöglichen,
+
+- 1\. die Versorgung der Versicherten anhand des Bedarfs, der aufgrund der Datenauswertung ermittelt worden ist, weiterzuentwickeln und
+- 2\. Verträge mit Leistungserbringern unter Berücksichtigung der Erkenntnisse nach Nummer 1 abzuschließen.
+
+Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wahlfreiheit der Versicherten im Rahmen von Maßnahmen nach Satz 1 ist unzulässig. Für die Vorbereitung von Versorgungsinnovationen nach Satz 1 und für die Gewinnung von Versicherten für diese Versorgungsinnovationen können Krankenkassen die versichertenbezogenen Daten, die sie nach § 284 Absatz 1 rechtmäßig erhoben und gespeichert haben, im erforderlichen Umfang auswerten. Vor der Auswertung sind die Daten zu pseudonymisieren. Die Krankenkasse hat die pseudonymisierten Daten zu anonymisieren, wenn den Zwecken der Datenauswertung auch mit anonymisierten Daten entsprochen werden kann. Eine Übermittlung dieser Daten an Dritte ist ausgeschlossen.
+
+(2) Die Krankenkassen können ihren Versicherten Informationen zu individuell geeigneten Versorgungsinnovationen und zu sonstigen individuell geeigneten Versorgungsleistungen zur Verfügung stellen und individuell geeignete Versorgungsinnovationen oder sonstige individuell geeignete Versorgungsleistungen anbieten. Ein Eingreifen in die ärztliche Therapiefreiheit oder eine Beschränkung der Wahlfreiheit der Versicherten im Rahmen von Maßnahmen nach Satz 1 ist unzulässig.
+
+(3) Die Teilnahme an Maßnahmen nach Absatz 2 ist freiwillig. Die Versicherten können der gezielten Information oder der Unterbreitung von Angeboten nach Absatz 2 durch die Krankenkassen jederzeit schriftlich oder elektronisch widersprechen. Die Krankenkassen informieren die Versicherten bei der ersten Kontaktaufnahme zum Zwecke der Information oder des Unterbreitens von Angeboten nach Absatz 2 über die Möglichkeit des Widerspruchs.
+
+(4) Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit jährlich, jeweils zum 1. April eines Kalenderjahres, wie und in welchem Umfang seine Mitglieder Versorgungsinnovationen fördern und welche Auswirkungen die geförderten Versorgungsinnovationen auf die Versorgung haben. Der Spitzenverband Bund der Krankenkassen bestimmt zu diesem Zweck die von seinen Mitgliedern zu übermittelnden statistischen Informationen.
+
+<!-- norm id="BJNE076601126" -->
+#### § 68c Förderung digitaler Innovationen durch die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen
+
+(1) Zur Verbesserung der Qualität und Wirtschaftlichkeit der vertragsärztlichen und der vertragszahnärztlichen Versorgung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen die Entwicklung digitaler Innovationen im Sinne des § 68a Absatz 1 und 2 fördern. Die Förderung muss möglichst bedarfsgerecht und zielgerichtet sein und soll insbesondere zur Verbesserung der Versorgungsqualität und Versorgungseffizienz, zur Behebung von Versorgungsdefiziten sowie zur verbesserten Patientenorientierung in der vertragsärztlichen und vertragszahnärztlichen Versorgung beitragen. Im Rahmen der Förderung können die Kassenärztlichen Vereinigungen und die Kassenärztlichen Bundesvereinigungen digitale Innovationen in Zusammenarbeit mit Dritten im Sinne des § 68a Absatz 3 Satz 2 entwickeln oder von diesen entwickeln lassen.
+
+(2) Um den Bedarf für eine Förderung digitaler Innovationen in der vertragsärztlichen und der vertragszahnärztlichen Versorgung und den möglichen Einfluss digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu ermitteln sowie die Auswirkungen digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu evaluieren, dürfen die Kassenärztlichen Vereinigungen die versichertenbezogenen Daten, die sie nach § 285 Absatz 1 rechtmäßig erhoben und gespeichert haben, im erforderlichen Umfang auswerten. Vor der Auswertung sind die Daten zu pseudonymisieren. Die Kassenärztlichen Vereinigungen haben die pseudonymisierten Daten zu anonymisieren, wenn den Zwecken der Datenauswertung auch mit anonymisierten Daten entsprochen werden kann. Eine Übermittlung der Daten an Dritte im Sinne des Absatzes 1 ist ausgeschlossen.
+
+(3) Um den Bedarf für eine Förderung digitaler Innovationen in der vertragsärztlichen und der vertragszahnärztlichen Versorgung und den möglichen Einfluss digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu ermitteln sowie die Auswirkungen digitaler Innovationen auf die vertragsärztliche und die vertragszahnärztliche Versorgung zu evaluieren, dürfen die Kassenärztlichen Bundesvereinigungen versichertenbezogene Daten im erforderlichen Umfang auswerten. Für die Bedarfsermittlung durch die Kassenärztlichen Bundesvereinigungen übermitteln die Kassenärztlichen Vereinigungen an die Kassenärztlichen Bundesvereinigungen die für diesen Zweck erforderlichen anonymisierten Daten. Absatz 2 Satz 4 gilt entsprechend.
+
+<!-- gliederung id="BJNG002000328" ebene="1" -->
+## Viertes Kapitel Beziehungen der Krankenkassen zu den Leistungserbringern
+
+<!-- gliederung id="BJNG002100328" ebene="2" -->
+### Erster Abschnitt Allgemeine Grundsätze
+
+<!-- norm id="BJNE015210311" -->
 #### § 69 Anwendungsbereich
 
-(1) Dieses Kapitel sowie die §§ 63 und 64 regeln abschließend die
-Rechtsbeziehungen der Krankenkassen und ihrer Verbände zu Ärzten,
-Zahnärzten, Psychotherapeuten, Apotheken sowie sonstigen
-Leistungserbringern und ihren Verbänden, einschließlich der Beschlüsse
-des Gemeinsamen Bundesausschusses und der Landesausschüsse nach den §§
-90 bis 94. Die Rechtsbeziehungen der Krankenkassen und ihrer Verbände
-zu den Krankenhäusern und ihren Verbänden werden abschließend in
-diesem Kapitel, in den §§ 63, 64 und in dem
-Krankenhausfinanzierungsgesetz, dem Krankenhausentgeltgesetz sowie den
-hiernach erlassenen Rechtsverordnungen geregelt. Für die
-Rechtsbeziehungen nach den Sätzen 1 und 2 gelten im Übrigen die
-Vorschriften des Bürgerlichen Gesetzbuches entsprechend, soweit sie
-mit den Vorgaben des § 70 und den übrigen Aufgaben und Pflichten der
-Beteiligten nach diesem Kapitel vereinbar sind. Die Sätze 1 bis 3
-gelten auch, soweit durch diese Rechtsbeziehungen Rechte Dritter
-betroffen sind.
+(1) Dieses Kapitel sowie die §§ 63 und 64 regeln abschließend die Rechtsbeziehungen der Krankenkassen und ihrer Verbände zu Ärzten, Zahnärzten, Psychotherapeuten, Apotheken sowie sonstigen Leistungserbringern und ihren Verbänden, einschließlich der Beschlüsse des Gemeinsamen Bundesausschusses und der Landesausschüsse nach den §§ 90 bis 94. Die Rechtsbeziehungen der Krankenkassen und ihrer Verbände zu den Krankenhäusern und ihren Verbänden werden abschließend in diesem Kapitel, in den §§ 63, 64 und in dem Krankenhausfinanzierungsgesetz, dem Krankenhausentgeltgesetz sowie den hiernach erlassenen Rechtsverordnungen geregelt. Für die Rechtsbeziehungen nach den Sätzen 1 und 2 gelten im Übrigen die Vorschriften des Bürgerlichen Gesetzbuches entsprechend, soweit sie mit den Vorgaben des § 70 und den übrigen Aufgaben und Pflichten der Beteiligten nach diesem Kapitel vereinbar sind. Die Sätze 1 bis 3 gelten auch, soweit durch diese Rechtsbeziehungen Rechte Dritter betroffen sind.
 
-(2) Die §§ 1 bis 3 Absatz 1, die §§ 19 bis 21, 32 bis 34a, 48 bis 81
-Absatz 2 Nummer 1, 2 Buchstabe a und Nummer 6 bis 11, Absatz 3 Nummer
-1 und 2 sowie die §§ 81a bis 95 des Gesetzes gegen
-Wettbewerbsbeschränkungen gelten für die in Absatz 1 genannten
-Rechtsbeziehungen entsprechend. Satz 1 gilt nicht für Verträge und
-sonstige Vereinbarungen von Krankenkassen oder deren Verbänden mit
-Leistungserbringern oder deren Verbänden, zu deren Abschluss die
-Krankenkassen oder deren Verbände gesetzlich verpflichtet sind. Satz 1
-gilt auch nicht für Beschlüsse, Empfehlungen, Richtlinien oder
-sonstige Entscheidungen der Krankenkassen oder deren Verbände, zu
-denen sie gesetzlich verpflichtet sind, sowie für Beschlüsse,
-Richtlinien und sonstige Entscheidungen des Gemeinsamen
-Bundesausschusses, zu denen er gesetzlich verpflichtet ist.
+(2) Die §§ 1 bis 3 Absatz 1, die §§ 19 bis 21, 32 bis 34a, 48 bis 81 Absatz 2 Nummer 1, 2 Buchstabe a und Nummer 6 bis 11, Absatz 3 Nummer 1 und 2 sowie die §§ 81a bis 95 des Gesetzes gegen Wettbewerbsbeschränkungen gelten für die in Absatz 1 genannten Rechtsbeziehungen entsprechend. Satz 1 gilt nicht für Verträge und sonstige Vereinbarungen von Krankenkassen oder deren Verbänden mit Leistungserbringern oder deren Verbänden, zu deren Abschluss die Krankenkassen oder deren Verbände gesetzlich verpflichtet sind. Satz 1 gilt auch nicht für Beschlüsse, Empfehlungen, Richtlinien oder sonstige Entscheidungen der Krankenkassen oder deren Verbände, zu denen sie gesetzlich verpflichtet sind, sowie für Beschlüsse, Richtlinien und sonstige Entscheidungen des Gemeinsamen Bundesausschusses, zu denen er gesetzlich verpflichtet ist.
 
-(3) Auf öffentliche Aufträge nach diesem Buch sind die Vorschriften
-des Teils 4 des Gesetzes gegen Wettbewerbsbeschränkungen anzuwenden.
+(3) Auf öffentliche Aufträge nach diesem Buch sind die Vorschriften des Teils 4 des Gesetzes gegen Wettbewerbsbeschränkungen anzuwenden.
 
-(4) Bei der Vergabe öffentlicher Dienstleistungsaufträge nach den §§
-63 und 140a über soziale und andere besondere Dienstleistungen im
-Sinne des Anhangs XIV der Richtlinie 2014/24/EU des Europäischen
-Parlaments und des Rates vom 26. Februar 2014, die im Rahmen einer
-heilberuflichen Tätigkeit erbracht werden, kann der öffentliche
-Auftraggeber abweichend von § 119 Absatz 1 und § 130 Absatz 1 Satz 1
-des Gesetzes gegen Wettbewerbsbeschränkungen sowie von § 14 Absatz 1
-bis 3 der Vergabeverordnung andere Verfahren vorsehen, die die
-Grundsätze der Transparenz und der Gleichbehandlung gewährleisten. Ein
-Verfahren ohne Teilnahmewettbewerb und ohne vorherige Veröffentlichung
-nach § 66 der Vergabeverordnung darf der öffentliche Auftraggeber nur
-in den Fällen des § 14 Absatz 4 und 6 der Vergabeverordnung vorsehen.
-Von den Vorgaben der §§ 15 bis 36 und 42 bis 65 der Vergabeverordnung,
-mit Ausnahme der §§ 53, 58, 60 und 63, kann abgewichen werden. Der
-Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium
-für Gesundheit bis zum 17. April 2019 über die Anwendung dieses
-Absatzes durch seine Mitglieder.
+(4) Bei der Vergabe öffentlicher Dienstleistungsaufträge nach den §§ 63 und 140a über soziale und andere besondere Dienstleistungen im Sinne des Anhangs XIV der Richtlinie 2014/24/EU des Europäischen Parlaments und des Rates vom 26. Februar 2014, die im Rahmen einer heilberuflichen Tätigkeit erbracht werden, kann der öffentliche Auftraggeber abweichend von § 119 Absatz 1 und § 130 Absatz 1 Satz 1 des Gesetzes gegen Wettbewerbsbeschränkungen sowie von § 14 Absatz 1 bis 3 der Vergabeverordnung andere Verfahren vorsehen, die die Grundsätze der Transparenz und der Gleichbehandlung gewährleisten. Ein Verfahren ohne Teilnahmewettbewerb und ohne vorherige Veröffentlichung nach § 66 der Vergabeverordnung darf der öffentliche Auftraggeber nur in den Fällen des § 14 Absatz 4 und 6 der Vergabeverordnung vorsehen. Von den Vorgaben der §§ 15 bis 36 und 42 bis 65 der Vergabeverordnung, mit Ausnahme der §§ 53, 58, 60 und 63, kann abgewichen werden. Der Spitzenverband Bund der Krankenkassen berichtet dem Bundesministerium für Gesundheit bis zum 17. April 2019 über die Anwendung dieses Absatzes durch seine Mitglieder.
 
-
+<!-- norm id="BJNE015302126" -->
 #### § 70 Qualität, Humanität und Wirtschaftlichkeit
 
-(1) Die Krankenkassen und die Leistungserbringer haben eine
-bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand der
-medizinischen Erkenntnisse entsprechende Versorgung der Versicherten
-zu gewährleisten. Die Versorgung der Versicherten muß ausreichend und
-zweckmäßig sein, darf das Maß des Notwendigen nicht überschreiten und
-muß in der fachlich gebotenen Qualität sowie wirtschaftlich erbracht
-werden.
+(1) Die Krankenkassen und die Leistungserbringer haben eine bedarfsgerechte und gleichmäßige, dem allgemein anerkannten Stand der medizinischen und pflegewissenschaftlichen Erkenntnisse entsprechende Versorgung der Versicherten zu gewährleisten. Die Versorgung der Versicherten muß ausreichend und zweckmäßig sein, darf das Maß des Notwendigen nicht überschreiten und muß in der fachlich gebotenen Qualität sowie wirtschaftlich erbracht werden.
 
-(2) Die Krankenkassen und die Leistungserbringer haben durch geeignete
-Maßnahmen auf eine humane Krankenbehandlung ihrer Versicherten
-hinzuwirken.
+(2) Die Krankenkassen und die Leistungserbringer haben durch geeignete Maßnahmen auf eine humane Krankenbehandlung ihrer Versicherten hinzuwirken.
 
-
+<!-- norm id="BJNE015429126" -->
 #### § 71 Beitragssatzstabilität, besondere Aufsichtsmittel
 
-(1) Die Vertragspartner auf Seiten der Krankenkassen und der
-Leistungserbringer haben die Vereinbarungen über die Vergütungen nach
-diesem Buch so zu gestalten, dass Beitragserhöhungen ausgeschlossen
-werden, es sei denn, die notwendige medizinische Versorgung ist auch
-nach Ausschöpfung von Wirtschaftlichkeitsreserven nicht zu
-gewährleisten (Grundsatz der Beitragssatzstabilität).
-Ausgabensteigerungen auf Grund von gesetzlich vorgeschriebenen
-Vorsorge- und Früherkennungsmaßnahmen oder für zusätzliche Leistungen,
-die im Rahmen zugelassener strukturierter Behandlungsprogramme (§
-137g) auf Grund der Anforderungen der Richtlinien des Gemeinsamen
-Bundesausschusses nach § 137f oder der Rechtsverordnung nach § 266
-Absatz 8 Satz 1 erbracht werden, verletzen nicht den Grundsatz der
-Beitragssatzstabilität.
+(1) Die Vertragspartner auf Seiten der Krankenkassen und der Leistungserbringer haben die Vereinbarungen über die Vergütungen nach diesem Buch so zu gestalten, dass Beitragserhöhungen ausgeschlossen werden, es sei denn, die notwendige medizinische Versorgung ist auch nach Ausschöpfung von Wirtschaftlichkeitsreserven nicht zu gewährleisten (Grundsatz der Beitragssatzstabilität). Ausgabensteigerungen auf Grund von gesetzlich vorgeschriebenen Vorsorge- und Früherkennungsmaßnahmen oder für zusätzliche Leistungen, die im Rahmen zugelassener strukturierter Behandlungsprogramme (§ 137g) auf Grund der Anforderungen der Richtlinien des Gemeinsamen Bundesausschusses nach § 137f oder der Rechtsverordnung nach § 266 Absatz 8 Satz 1 erbracht werden, verletzen nicht den Grundsatz der Beitragssatzstabilität.
 
-(2) Um den Vorgaben nach Absatz 1 Satz 1 Halbsatz 1 zu entsprechen,
-darf die vereinbarte Veränderung der jeweiligen Vergütung die sich bei
-Anwendung der Veränderungsrate für das gesamte Bundesgebiet nach
-Absatz 3 ergebende Veränderung der Vergütung nicht überschreiten.
-Abweichend von Satz 1 ist eine Überschreitung zulässig, wenn die damit
-verbundenen Mehrausgaben durch vertraglich abgesicherte oder bereits
-erfolgte Einsparungen in anderen Leistungsbereichen ausgeglichen
-werden.
+(2) Um den Vorgaben nach Absatz 1 Satz 1 Halbsatz 1 zu entsprechen, darf die vereinbarte Veränderung der jeweiligen Vergütung die sich bei Anwendung der Veränderungsrate für das gesamte Bundesgebiet nach Absatz 3 ergebende Veränderung der Vergütung nicht überschreiten.
 
-(3) Das Bundesministerium für Gesundheit stellt bis zum 15. September
-eines jeden Jahres für die Vereinbarungen der Vergütungen des jeweils
-folgenden Kalenderjahres die nach den Absätzen 1 und 2 anzuwendende
-durchschnittliche Veränderungsrate der beitragspflichtigen Einnahmen
-aller Mitglieder der Krankenkassen je Mitglied für den gesamten
-Zeitraum der zweiten Hälfte des Vorjahres und der ersten Hälfte des
-laufenden Jahres gegenüber dem entsprechenden Zeitraum der jeweiligen
-Vorjahre fest. Grundlage sind die monatlichen Erhebungen der
-Krankenkassen und die vierteljährlichen Rechnungsergebnisse des
-Gesundheitsfonds, die die beitragspflichtigen Einnahmen aller
-Mitglieder der Krankenkassen ausweisen. Die Feststellung wird durch
-Veröffentlichung im Bundesanzeiger bekannt gemacht. Bei der Ermittlung
-der durchschnittlichen Veränderungsrate nach Satz 1 werden für die
-Jahre 2017 und 2018 die Mitglieder nicht berücksichtigt, die nach § 5
-Absatz 1 Nummer 2a in der am 31. Dezember 2015 geltenden Fassung
-vorrangig familienversichert gewesen wären.
+(3) Das Bundesministerium für Gesundheit stellt bis zum 15. September eines jeden Jahres für die Vereinbarungen der Vergütungen des jeweils folgenden Kalenderjahres die nach den Absätzen 1 und 2 anzuwendende durchschnittliche Veränderungsrate der beitragspflichtigen Einnahmen aller Mitglieder der Krankenkassen je Mitglied für den gesamten Zeitraum der zweiten Hälfte des Vorjahres und der ersten Hälfte des laufenden Jahres gegenüber dem entsprechenden Zeitraum der jeweiligen Vorjahre fest. Grundlage sind die monatlichen Erhebungen der Krankenkassen und die vierteljährlichen Rechnungsergebnisse des Gesundheitsfonds, die die beitragspflichtigen Einnahmen aller Mitglieder der Krankenkassen ausweisen. Bei der Feststellung der durchschnittlichen Veränderungsrate nach Satz 1 werden für die Jahre 2028 und 2029 nicht die beitragspflichtigen Einnahmen berücksichtigt, die im Jahr 2027 allein aufgrund der Erhöhung der Beitragsbemessungsgrenze nach § 223 Absatz 4 Satz 1 nicht nach § 223 Absatz 3 Satz 2 außer Ansatz geblieben sind. Das nach Satz 1 bis 3 für die Jahre 2027, 2028 und 2029 ermittelte Ergebnis der durchschnittlichen Veränderungsrate wird jeweils um einen Prozentpunkt verringert. Die durchschnittliche Veränderungsrate wird für jedes Kalenderjahr durch Veröffentlichung im Bundesanzeiger bekannt gemacht.
 
 (3a) (weggefallen)
 
-(4) Die Vereinbarungen über die Vergütung der Leistungen nach § 57
-Abs. 1 und 2, §§ 83 und 85 sind den für die Vertragsparteien
-zuständigen Aufsichtsbehörden vorzulegen. Die Aufsichtsbehörden können
-die Vereinbarungen bei einem Rechtsverstoß innerhalb von zwei Monaten
-nach Vorlage beanstanden. Klagen der Vertragspartner gegen die
-Beanstandung haben keine aufschiebende Wirkung.
+(4) Die Vereinbarungen über die Vergütung der Leistungen nach § 57 Abs. 1 und 2, §§ 83 und 85 sind den für die Vertragsparteien zuständigen Aufsichtsbehörden vorzulegen. Die Aufsichtsbehörden können die Vereinbarungen bei einem Rechtsverstoß innerhalb von zwei Monaten nach Vorlage beanstanden. Klagen der Vertragspartner gegen die Beanstandung haben keine aufschiebende Wirkung.
 
-(5) Die Vereinbarungen nach Absatz 4 Satz 1 und die Verträge nach den
-§§ 73b und 140a sind unabhängig von Absatz 4 auch den für die
-Sozialversicherung zuständigen obersten Verwaltungsbehörden der
-Länder, in denen sie wirksam werden, zu übermitteln, soweit diese
-nicht die Aufsicht über die vertragsschließende Krankenkasse führen.
+(5) Die Vereinbarungen nach Absatz 4 Satz 1 und die Verträge nach den §§ 73b und 140a sind unabhängig von Absatz 4 auch den für die Sozialversicherung zuständigen obersten Verwaltungsbehörden der Länder, in denen sie wirksam werden, zu übermitteln, soweit diese nicht die Aufsicht über die vertragsschließende Krankenkasse führen.
 
-(6) Wird durch einen der in den §§ 73b, 127 und 140a genannten
-Verträge das Recht erheblich verletzt, kann die Aufsichtsbehörde
-abweichend von § 89 Absatz 1 Satz 1 und 2 des Vierten Buches alle
-Anordnungen treffen, die für eine sofortige Behebung der
-Rechtsverletzung geeignet und erforderlich sind. Sie kann gegenüber
-der Krankenkasse oder der Arbeitsgemeinschaft der Krankenkassen
-insbesondere anordnen, den Vertrag dafür zu ändern oder aufzuheben.
-Die Krankenkasse oder Arbeitsgemeinschaft der Krankenkassen kann bei
-einer solchen Anordnung den Vertrag auch außerordentlich kündigen.
-Besteht die Gefahr eines schweren, nicht wieder gutzumachenden
-Schadens insbesondere für die Belange der Versicherten, kann die
-Aufsichtsbehörde einstweilige Maßnahmen anordnen. Ein Zwangsgeld kann
-bis zu einer Höhe von 10 Millionen Euro zugunsten des Gesundheitsfonds
-nach § 271 festgesetzt werden. Die Aufsichtsbehörde kann eine
-erhebliche Rechtsverletzung auch feststellen, nachdem diese beendet
-ist, sofern ein berechtigtes Interesse an der Feststellung besteht.
-Rechtsbehelfe gegen Anordnungen nach den Sätzen 1 bis 4 haben keine
-aufschiebende Wirkung. Die Sätze 1 bis 7 gelten auch für Verträge nach
-§ 140a Absatz 1 Satz 3. Die Sätze 1 und 4 bis 7 gelten entsprechend
-bei Verstößen gegen die Pflicht nach § 127 Absatz 1 Satz 2 und Absatz
-2 Satz 2, Vertragsverhandlungen zu ermöglichen. Verträge zwischen
-Krankenkassen und Leistungserbringern dürfen keine Vorschläge in
-elektronischer oder maschinell verwertbarer Form für die Vergabe und
-Dokumentation von Diagnosen für den Vertragspartner beinhalten. Die
-Krankenkassen haben auf Verlangen der zuständigen Aufsichtsbehörde
-bezüglich der Einhaltung Nachweise zu erbringen.
+(6) Wird durch einen der in den §§ 73b, 127 und 140a genannten Verträge das Recht erheblich verletzt, kann die Aufsichtsbehörde abweichend von § 89 Absatz 1 Satz 1 und 2 des Vierten Buches alle Anordnungen treffen, die für eine sofortige Behebung der Rechtsverletzung geeignet und erforderlich sind. Sie kann gegenüber der Krankenkasse oder der Arbeitsgemeinschaft der Krankenkassen insbesondere anordnen, den Vertrag dafür zu ändern oder aufzuheben. Die Krankenkasse oder Arbeitsgemeinschaft der Krankenkassen kann bei einer solchen Anordnung den Vertrag auch außerordentlich kündigen. Besteht die Gefahr eines schweren, nicht wieder gutzumachenden Schadens insbesondere für die Belange der Versicherten, kann die Aufsichtsbehörde einstweilige Maßnahmen anordnen. Ein Zwangsgeld kann bis zu einer Höhe von 10 Millionen Euro zugunsten des Gesundheitsfonds nach § 271 festgesetzt werden. Die Aufsichtsbehörde kann eine erhebliche Rechtsverletzung auch feststellen, nachdem diese beendet ist, sofern ein berechtigtes Interesse an der Feststellung besteht. Rechtsbehelfe gegen Anordnungen nach den Sätzen 1 bis 4 haben keine aufschiebende Wirkung. Die Sätze 1 bis 7 gelten auch für Verträge nach § 140a Absatz 1 Satz 3. Die Sätze 1 und 4 bis 7 gelten entsprechend bei Verstößen gegen die Pflicht nach § 127 Absatz 1 Satz 2 und Absatz 2 Satz 2, Vertragsverhandlungen zu ermöglichen. Verträge zwischen Krankenkassen und Leistungserbringern dürfen keine Vorschläge in elektronischer oder maschinell verwertbarer Form für die Vergabe und Dokumentation von Diagnosen für den Vertragspartner beinhalten. Die Krankenkassen haben auf Verlangen der zuständigen Aufsichtsbehörde bezüglich der Einhaltung Nachweise zu erbringen.
 
-
-### Zweiter Abschnitt - Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten
-
-
-
+<!-- gliederung id="BJNG002201308" ebene="2" -->

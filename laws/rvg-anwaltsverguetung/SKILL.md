@@ -6,19 +6,20 @@ metadata:
   title: "Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte"
   area: Prozessrecht
   ausfertigungsdatum: 2004-05-05
-  stand: "Art. 7 G v. 10.8.2021 I 3424"
+  stand: "Art. 14 G v. 8.12.2025 I Nr. 318"
   source: https://www.gesetze-im-internet.de/rvg/
-  mirror: https://github.com/bundestag/gesetze/tree/master/r/rvg
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/rv/rvg.md
+  snapshot: 2026-11-03
   paragraphs: 81
   chunks: 5
-  size_bytes: 219484
+  size_bytes: 200101
 ---
 
 # Gesetz über die Vergütung der Rechtsanwältinnen und Rechtsanwälte (RVG)
 
 **Area:** Prozessrecht  
 **Covers:** Lawyers' Remuneration Act: statutory lawyer fees  
-**Text state:** Art. 7 G v. 10.8.2021 I 3424 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 14 G v. 8.12.2025 I Nr. 318 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,10 +41,10 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-abschnitt-1-allgemeine-vorschriften.md` | Abschnitt 1 - Allgemeine Vorschriften | § 1 – § 21 | 39 KB |
-| 2 | `text/2-abschnitt-4-gegenstandswert.md` | Abschnitt 4 - Gegenstandswert | § 22 – § 43 | 27 KB |
-| 3 | `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md` | Abschnitt 8 - Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe | § 44 – § 62 | 29 KB |
-| 4 | `text/4-anlage-1.md` | Abschnitt 9 - Übergangs- und Schlussvorschriften › Anlage 1 | Anlage 1 | 121 KB |
-| 5 | `text/5-anlage-2.md` | Abschnitt 9 - Übergangs- und Schlussvorschriften › Anlage 2 | Anlage 2 | 1 KB |
+| 1 | `text/1-abschnitt-1-allgemeine-vorschriften.md` | Abschnitt 1 Allgemeine Vorschriften | § 1 – § 21 | 40 KB |
+| 2 | `text/2-abschnitt-4-gegenstandswert.md` | Abschnitt 4 Gegenstandswert | § 22 – § 43 | 28 KB |
+| 3 | `text/3-abschnitt-8-beigeordneter-oder-bestellter-rechtsanwalt-berat.md` | Abschnitt 8 Beigeordneter oder bestellter Rechtsanwalt, Beratungshilfe | § 44 – § 62 | 30 KB |
+| 4 | `text/4-anlage-1.md` | Abschnitt 9 Übergangs- und Schlussvorschriften › Anlage 1 | Anlage 1 | 99 KB |
+| 5 | `text/5-anlage-2.md` | Abschnitt 9 Übergangs- und Schlussvorschriften › Anlage 2 | Anlage 2 | 1 KB |
 
 Full paragraph index: `toc.md` (81 paragraphs).

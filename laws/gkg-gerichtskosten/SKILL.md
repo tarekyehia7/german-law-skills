@@ -6,19 +6,20 @@ metadata:
   title: "Gerichtskostengesetz"
   area: Prozessrecht
   ausfertigungsdatum: 2004-05-05
-  stand: "Art. 16 G v. 25.6.2021 I 2099"
+  stand: "Art. 11 G v. 20.5.2026 I Nr. 152"
   source: https://www.gesetze-im-internet.de/gkg_2004/
-  mirror: https://github.com/bundestag/gesetze/tree/master/g/gkg_2004
+  mirror: https://github.com/Gesetze-fuer-KI/bundesrecht/blob/main/gk/gkg_2004.md
+  snapshot: 2026-11-03
   paragraphs: 87
   chunks: 4
-  size_bytes: 255012
+  size_bytes: 233378
 ---
 
 # Gerichtskostengesetz (GKG)
 
 **Area:** Prozessrecht  
 **Covers:** Court Fees Act: court costs and fee tables  
-**Text state:** Art. 16 G v. 25.6.2021 I 2099 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+**Text state:** Art. 11 G v. 20.5.2026 I Nr. 152 (text retrieved 2026-11-03 from a mirror that syncs nightly with gesetze-im-internet.de; verify the current wording at the source link above before relying on it).
 
 ## How to use this skill
 
@@ -26,7 +27,7 @@ metadata:
 2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
 3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
 4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
-5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, name the text state above and recommend checking the current version at the source and consulting a lawyer.
 
 ## Keywords / Stichwörter / كلمات مفتاحية
 
@@ -40,9 +41,9 @@ Questions in any language that mention these topics belong to this law:
 
 | # | File | Section | Paragraphs | Size |
 |---|------|---------|------------|------|
-| 1 | `text/1-abschnitt-1-allgemeine-vorschriften.md` | Abschnitt 1 - Allgemeine Vorschriften | § 1 – § 38 | 37 KB |
-| 2 | `text/2-abschnitt-7-wertvorschriften.md` | Abschnitt 7 - Wertvorschriften | § 39 – § 73 | 41 KB |
-| 3 | `text/3-anlage-1.md` | Abschnitt 9 - Schluss- und Übergangsvorschriften › Anlage 1 | Anlage 1 | 173 KB |
-| 4 | `text/4-anlage-2.md` | Abschnitt 9 - Schluss- und Übergangsvorschriften › Anlage 2 | Anlage 2 | 1 KB |
+| 1 | `text/1-abschnitt-1-allgemeine-vorschriften.md` | Abschnitt 1 Allgemeine Vorschriften | § 1 – § 38 | 40 KB |
+| 2 | `text/2-abschnitt-7-wertvorschriften.md` | Abschnitt 7 Wertvorschriften | § 39 – § 73 | 43 KB |
+| 3 | `text/3-anlage-1.md` | Abschnitt 9 Schluss- und Übergangsvorschriften › Anlage 1 | Anlage 1 | 147 KB |
+| 4 | `text/4-anlage-2.md` | Abschnitt 9 Schluss- und Übergangsvorschriften › Anlage 2 | Anlage 2 | 1 KB |
 
 Full paragraph index: `toc.md` (87 paragraphs).

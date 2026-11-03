@@ -1,0 +1,68 @@
+# Abgabenordnung (AO)
+## Teil 15/15: Neunter Teil Schlussvorschriften
+*§ 413 – Anlage 1* · Quelle: https://www.gesetze-im-internet.de/ao_1977/ · Stand: Art. 6 G v. 22.10.2026 I Nr. 320 · Abruf: 2026-11-03
+
+## Neunter Teil Schlussvorschriften
+
+<!-- norm id="BJNE050702123" -->
+### § 413 Einschränkung von Grundrechten
+
+Die Grundrechte auf körperliche Unversehrtheit und Freiheit der Person (Artikel 2 Absatz 2 des Grundgesetzes), des Briefgeheimnisses sowie des Post- und Fernmeldegeheimnisses (Artikel 10 des Grundgesetzes) und der Unverletzlichkeit der Wohnung (Artikel 13 des Grundgesetzes) werden nach Maßgabe dieses Gesetzes eingeschränkt.
+
+<!-- norm id="BJNE050802123" -->
+### § 414
+
+(gegenstandslos)
+
+<!-- norm id="BJNE050903123" -->
+### § 415
+
+(Inkrafttreten)
+
+<!-- norm id="BJNE051006123" -->
+### Anlage 1 (zu § 60)Mustersatzung für Vereine, Stiftungen, Betriebe gewerblicher Art von juristischen Personen des öffentlichen Rechts, geistliche Genossenschaften und Kapitalgesellschaften(nur aus steuerlichen Gründen notwendige Bestimmungen)
+
+**§ 1**
+
+Der – Die – … (Körperschaft) mit Sitz in … verfolgt ausschließlich und unmittelbar – gemeinnützige – mildtätige – kirchliche – Zwecke (nicht verfolgte Zwecke streichen) im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+
+Zweck der Körperschaft ist … (z. B. die Förderung von Wissenschaft und Forschung, Jugend- und Altenhilfe, Erziehung, Volks- und Berufsbildung, Kunst und Kultur, Landschaftspflege, Umweltschutz, des öffentlichen Gesundheitswesens, des Sports, Unterstützung hilfsbedürftiger Personen).
+
+Der Satzungszweck wird verwirklicht insbesondere durch … (z. B. Durchführung wissenschaftlicher Veranstaltungen und Forschungsvorhaben, Vergabe von Forschungsaufträgen, Unterhaltung einer Schule, einer Erziehungsberatungsstelle, Pflege von Kunstsammlungen, Pflege des Liedgutes und des Chorgesanges, Errichtung von Naturschutzgebieten, Unterhaltung eines Kindergartens, Kinder-, Jugendheimes, Unterhaltung eines Altenheimes, eines Erholungsheimes, Bekämpfung des Drogenmissbrauchs, des Lärms, Förderung sportlicher Übungen und Leistungen).
+
+**§ 2**
+
+Die Körperschaft ist selbstlos tätig; sie verfolgt nicht in erster Linie eigenwirtschaftliche Zwecke.
+
+**§ 3**
+
+Mittel der Körperschaft dürfen nur für die satzungsmäßigen Zwecke verwendet werden. Die Mitglieder erhalten keine Zuwendungen aus Mitteln der Körperschaft.
+
+**§ 4**
+
+Es darf keine Person durch Ausgaben, die dem Zweck der Körperschaft fremd sind, oder durch unverhältnismäßig hohe Vergütungen begünstigt werden.
+
+**§ 5**
+
+Bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft
+
+- 1\. an – den – die – das – … (Bezeichnung einer juristischen Person des öffentlichen Rechts oder einer anderen steuerbegünstigten Körperschaft), – der – die – das – es unmittelbar und ausschließlich für gemeinnützige, mildtätige oder kirchliche Zwecke zu verwenden hat. oder
+- 2\. an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für … (Angabe eines bestimmten gemeinnützigen, mildtätigen oder kirchlichen Zwecks, z. B. Förderung von Wissenschaft und Forschung, Erziehung, Volks- und Berufsbildung, der Unterstützung von Personen, die im Sinne von § 53 der Abgabenordnung wegen … bedürftig sind, Unterhaltung des Gotteshauses in …).
+
+**Weitere Hinweise**
+
+Bei **Betrieben gewerblicher Art von juristischen Personen des öffentlichen Rechts, bei den von einer juristischen Person des öffentlichen Rechts verwalteten unselbständigen Stiftungen und bei geistlichen Genossenschaften** (Orden, Kongregationen) ist folgende Bestimmung aufzunehmen:
+
+§ 3 Absatz 2:
+
+„Der – die – das … erhält bei Auflösung oder Aufhebung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als – seine – ihre – eingezahlten Kapitalanteile und den gemeinen Wert seiner – ihrer – geleisteten Sacheinlagen zurück.“
+
+Bei **Stiftungen** ist diese Bestimmung nur erforderlich, wenn die Satzung dem Stifter einen Anspruch auf Rückgewähr von Vermögen einräumt. Fehlt die Regelung, wird das eingebrachte Vermögen wie das übrige Vermögen behandelt.
+
+Bei **Kapitalgesellschaften** sind folgende ergänzende Bestimmungen in die Satzung aufzunehmen:
+
+- 1\. § 3 Absatz 1 Satz 2: „Die Gesellschafter dürfen keine Gewinnanteile und auch keine sonstigen Zuwendungen aus Mitteln der Körperschaft erhalten.”
+- 2\. § 3 Absatz 2: „Sie erhalten bei ihrem Ausscheiden oder bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke nicht mehr als ihre eingezahlten Kapitalanteile und den gemeinen Wert ihrer geleisteten Sacheinlagen zurück.”
+- 3\. § 5: „Bei Auflösung der Körperschaft oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen der Körperschaft, soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt, ...”.
+
+§ 3 Absatz 2 und der Satzteil „soweit es die eingezahlten Kapitalanteile der Gesellschafter und den gemeinen Wert der von den Gesellschaftern geleisteten Sacheinlagen übersteigt,“ in § 5 sind nur erforderlich, wenn die Satzung einen Anspruch auf Rückgewähr von Vermögen einräumt.
