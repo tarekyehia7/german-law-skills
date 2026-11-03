@@ -1,0 +1,1665 @@
+# Einkommensteuergesetz (EStG)
+## Teil 2/21: II. - Einkommen › 2. - Steuerfreie Einnahmen
+*§ 3 – § 3c* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 3 G v. 3.6.2021 I 1498
+
+### 2. - Steuerfreie Einnahmen
+
+
+
+#### § 3
+
+Steuerfrei sind
+
+1.
+    a)  Leistungen aus einer Krankenversicherung, aus einer Pflegeversicherung
+        und aus der gesetzlichen Unfallversicherung,
+
+
+    b)  Sachleistungen und Kinderzuschüsse aus den gesetzlichen
+        Rentenversicherungen einschließlich der Sachleistungen nach dem Gesetz
+        über die Alterssicherung der Landwirte,
+
+
+    c)  Übergangsgeld nach dem Sechsten Buch Sozialgesetzbuch und
+        Geldleistungen nach den §§ 10, 36 bis 39 des Gesetzes über die
+        Alterssicherung der Landwirte,
+
+
+    d)  das Mutterschaftsgeld nach dem Mutterschutzgesetz, der
+        Reichsversicherungsordnung und dem Gesetz über die Krankenversicherung
+        der Landwirte, die Sonderunterstützung für im Familienhaushalt
+        beschäftigte Frauen, der Zuschuss zum Mutterschaftsgeld nach dem
+        Mutterschutzgesetz sowie der Zuschuss bei Beschäftigungsverboten für
+        die Zeit vor oder nach einer Entbindung sowie für den Entbindungstag
+        während einer Elternzeit nach beamtenrechtlichen Vorschriften;
+
+
+
+
+
+2.
+    a)  das Arbeitslosengeld, das Teilarbeitslosengeld, das Kurzarbeitergeld,
+        der Zuschuss zum Arbeitsentgelt, das Übergangsgeld, der
+        Gründungszuschuss nach dem Dritten Buch Sozialgesetzbuch sowie die
+        übrigen Leistungen nach dem Dritten Buch Sozialgesetzbuch und den
+        entsprechenden Programmen des Bundes und der Länder, soweit sie
+        Arbeitnehmern oder Arbeitsuchenden oder zur Förderung der Aus- oder
+        Weiterbildung oder Existenzgründung der Empfänger gewährt werden,
+
+
+    b)  das Insolvenzgeld, Leistungen auf Grund der in § 169 und § 175 Absatz
+        2 des Dritten Buches Sozialgesetzbuch genannten Ansprüche sowie
+        Zahlungen des Arbeitgebers an einen Sozialleistungsträger auf Grund
+        des gesetzlichen Forderungsübergangs nach § 115 Absatz 1 des Zehnten
+        Buches Sozialgesetzbuch, wenn ein Insolvenzereignis nach § 165 Absatz
+        1 Satz 2 auch in Verbindung mit Satz 3 des Dritten Buches
+        Sozialgesetzbuch vorliegt,
+
+
+    c)  die Arbeitslosenbeihilfe nach dem Soldatenversorgungsgesetz,
+
+
+    d)  Leistungen zur Sicherung des Lebensunterhalts und zur Eingliederung in
+        Arbeit nach dem Zweiten Buch Sozialgesetzbuch,
+
+
+    e)  mit den in den Nummern 1 bis 2 Buchstabe d und Nummer 67 Buchstabe b
+        genannten Leistungen vergleichbare Leistungen ausländischer
+        Rechtsträger, die ihren Sitz in einem Mitgliedstaat der Europäischen
+        Union, in einem Staat, auf den das Abkommen über den Europäischen
+        Wirtschaftsraum Anwendung findet oder in der Schweiz haben;
+
+
+
+
+
+3.
+    a)  Rentenabfindungen nach § 107 des Sechsten Buches Sozialgesetzbuch,
+        nach § 21 des Beamtenversorgungsgesetzes, nach § 9 Absatz 1 Nummer 3
+        des Altersgeldgesetzes oder entsprechendem Landesrecht und nach § 43
+        des Soldatenversorgungsgesetzes in Verbindung mit § 21 des
+        Beamtenversorgungsgesetzes,
+
+
+    b)  Beitragserstattungen an den Versicherten nach den §§ 210 und 286d des
+        Sechsten Buches Sozialgesetzbuch sowie nach den §§ 204, 205 und 207
+        des Sechsten Buches Sozialgesetzbuch, Beitragserstattungen nach den §§
+        75 und 117 des Gesetzes über die Alterssicherung der Landwirte und
+        nach § 26 des Vierten Buches Sozialgesetzbuch,
+
+
+    c)  Leistungen aus berufsständischen Versorgungseinrichtungen, die den
+        Leistungen nach den Buchstaben a und b entsprechen,
+
+
+    d)  Kapitalabfindungen und Ausgleichszahlungen nach § 48 des
+        Beamtenversorgungsgesetzes oder entsprechendem Landesrecht und nach
+        den §§ 28 bis 35 und 38 des Soldatenversorgungsgesetzes;
+
+
+
+
+
+4.  bei Angehörigen der Bundeswehr, der Bundespolizei, der Zollverwaltung,
+    der Bereitschaftspolizei der Länder, der Vollzugspolizei und der
+    Berufsfeuerwehr der Länder und Gemeinden und bei Vollzugsbeamten der
+    Kriminalpolizei des Bundes, der Länder und Gemeinden
+
+    a)  der Geldwert der ihnen aus Dienstbeständen überlassenen
+        Dienstkleidung,
+
+
+    b)  Einkleidungsbeihilfen und Abnutzungsentschädigungen für die
+        Dienstkleidung der zum Tragen oder Bereithalten von Dienstkleidung
+        Verpflichteten und für dienstlich notwendige Kleidungsstücke der
+        Vollzugsbeamten der Kriminalpolizei sowie der Angehörigen der
+        Zollverwaltung,
+
+
+    c)  im Einsatz gewährte Verpflegung oder Verpflegungszuschüsse,
+
+
+    d)  der Geldwert der auf Grund gesetzlicher Vorschriften gewährten
+        Heilfürsorge;
+
+
+
+
+
+5.
+    a)  die Geld- und Sachbezüge, die Wehrpflichtige während des Wehrdienstes
+        nach § 4 des Wehrpflichtgesetzes erhalten,
+
+
+    b)  die Geld- und Sachbezüge, die Zivildienstleistende nach § 35 des
+        Zivildienstgesetzes erhalten,
+
+
+    c)  die Heilfürsorge, die Soldaten nach § 16 des Wehrsoldgesetzes und
+        Zivildienstleistende nach § 35 des Zivildienstgesetzes erhalten,
+
+
+    d)  das an Personen, die einen in § 32 Absatz 4 Satz 1 Nummer 2 Buchstabe
+        d genannten Freiwilligendienst leisten, gezahlte Taschengeld oder eine
+        vergleichbare Geldleistung,
+
+
+    e)  Leistungen nach § 5 des Wehrsoldgesetzes;
+
+
+
+
+
+6.  Bezüge, die auf Grund gesetzlicher Vorschriften aus öffentlichen
+    Mitteln versorgungshalber an Wehrdienstbeschädigte, im Freiwilligen
+    Wehrdienst Beschädigte, Zivildienstbeschädigte und im
+    Bundesfreiwilligendienst Beschädigte oder ihre Hinterbliebenen,
+    Kriegsbeschädigte, Kriegshinterbliebene und ihnen gleichgestellte
+    Personen gezahlt werden, soweit es sich nicht um Bezüge handelt, die
+    auf Grund der Dienstzeit gewährt werden.
+    2                   Gleichgestellte im Sinne des Satzes 1 sind auch
+    Personen, die Anspruch auf Leistungen nach dem Bundesversorgungsgesetz
+    oder auf Unfallfürsorgeleistungen nach dem Soldatenversorgungsgesetz,
+    Beamtenversorgungsgesetz oder vergleichbarem Landesrecht haben;
+
+
+7.  Ausgleichsleistungen nach dem Lastenausgleichsgesetz, Leistungen nach
+    dem Flüchtlingshilfegesetz, dem Bundesvertriebenengesetz, dem
+    Reparationsschädengesetz, dem Vertriebenenzuwendungsgesetz, dem NS-
+    Verfolgtenentschädigungsgesetz sowie Leistungen nach dem
+    Entschädigungsgesetz und nach dem Ausgleichsleistungsgesetz, soweit
+    sie nicht Kapitalerträge im Sinne des § 20 Absatz 1 Nummer 7 und
+    Absatz 2 sind;
+
+
+8.  Geldrenten, Kapitalentschädigungen und Leistungen im Heilverfahren,
+    die auf Grund gesetzlicher Vorschriften zur Wiedergutmachung
+    nationalsozialistischen Unrechts gewährt werden.
+    2                   Die Steuerpflicht von Bezügen aus einem aus
+    Wiedergutmachungsgründen neu begründeten oder wieder begründeten
+    Dienstverhältnis sowie von Bezügen aus einem früheren
+    Dienstverhältnis, die aus Wiedergutmachungsgründen neu gewährt oder
+    wieder gewährt werden, bleibt unberührt;
+
+
+8a. Renten wegen Alters und Renten wegen verminderter Erwerbsfähigkeit aus
+    der gesetzlichen Rentenversicherung, die an Verfolgte im Sinne des § 1
+    des Bundesentschädigungsgesetzes gezahlt werden, wenn rentenrechtliche
+    Zeiten auf Grund der Verfolgung in der Rente enthalten sind.
+    2                   Renten wegen Todes aus der gesetzlichen
+    Rentenversicherung, wenn der verstorbene Versicherte Verfolgter im
+    Sinne des § 1 des Bundesentschädigungsgesetzes war und wenn
+    rentenrechtliche Zeiten auf Grund der Verfolgung in dieser Rente
+    enthalten sind;
+
+
+9.  Erstattungen nach § 23 Absatz 2 Satz 1 Nummer 3 und 4 sowie nach § 39
+    Absatz 4 Satz 2 des Achten Buches Sozialgesetzbuch;
+
+
+10. Einnahmen einer Gastfamilie für die Aufnahme eines Menschen mit
+    Behinderungen oder von Behinderung bedrohten Menschen nach § 2 Absatz
+    1 des Neunten Buches Sozialgesetzbuch zur Pflege, Betreuung,
+    Unterbringung und Verpflegung, die auf Leistungen eines
+    Leistungsträgers nach dem Sozialgesetzbuch beruhen.
+    2                   Für Einnahmen im Sinne des Satzes 1, die nicht auf
+    Leistungen eines Leistungsträgers nach dem Sozialgesetzbuch beruhen,
+    gilt Entsprechendes bis zur Höhe der Leistungen nach dem Zwölften Buch
+    Sozialgesetzbuch.
+    3                   Überschreiten die auf Grund der in Satz 1
+    bezeichneten Tätigkeit bezogenen Einnahmen der Gastfamilie den
+    steuerfreien Betrag, dürfen die mit der Tätigkeit in unmittelbarem
+    wirtschaftlichen Zusammenhang stehenden Ausgaben abweichend von § 3c
+    nur insoweit als Betriebsausgaben abgezogen werden, als sie den Betrag
+    der steuerfreien Einnahmen übersteigen;
+
+
+11. Bezüge aus öffentlichen Mitteln oder aus Mitteln einer öffentlichen
+    Stiftung, die wegen Hilfsbedürftigkeit oder als Beihilfe zu dem Zweck
+    bewilligt werden, die Erziehung oder Ausbildung, die Wissenschaft oder
+    Kunst unmittelbar zu fördern.
+    2                   Darunter fallen nicht Kinderzuschläge und
+    Kinderbeihilfen, die auf Grund der Besoldungsgesetze, besonderer
+    Tarife oder ähnlicher Vorschriften gewährt werden.
+    3                   Voraussetzung für die Steuerfreiheit ist, dass der
+    Empfänger mit den Bezügen nicht zu einer bestimmten wissenschaftlichen
+    oder künstlerischen Gegenleistung oder zu einer bestimmten
+    Arbeitnehmertätigkeit verpflichtet wird.
+    4                   Den Bezügen aus öffentlichen Mitteln wegen
+    Hilfsbedürftigkeit gleichgestellt sind Beitragsermäßigungen und
+    Prämienrückzahlungen eines Trägers der gesetzlichen
+    Krankenversicherung für nicht in Anspruch genommene
+    Beihilfeleistungen;
+
+
+11a. zusätzlich zum ohnehin geschuldeten Arbeitslohn vom Arbeitgeber in der
+    Zeit vom 1. März 2020 bis zum 31. März 2022 auf Grund der Corona-Krise
+    an seine Arbeitnehmer in Form von Zuschüssen und Sachbezügen gewährte
+    Beihilfen und Unterstützungen bis zu einem Betrag von 1 500 Euro;
+
+
+12. aus einer Bundeskasse oder Landeskasse gezahlte Bezüge, die zum einen
+
+    a)  in einem Bundesgesetz oder Landesgesetz,
+
+
+    b)  auf Grundlage einer bundesgesetzlichen oder landesgesetzlichen
+        Ermächtigung beruhenden Bestimmung oder
+
+
+    c)  von der Bundesregierung oder einer Landesregierung
+
+
+
+    als Aufwandsentschädigung festgesetzt sind und die zum anderen jeweils
+    auch als Aufwandsentschädigung im Haushaltsplan ausgewiesen werden.
+    2                   Das Gleiche gilt für andere Bezüge, die als
+    Aufwandsentschädigung aus öffentlichen Kassen an öffentliche Dienste
+    leistende Personen gezahlt werden, soweit nicht festgestellt wird,
+    dass sie für Verdienstausfall oder Zeitverlust gewährt werden oder den
+    Aufwand, der dem Empfänger erwächst, offenbar übersteigen;
+
+
+13. die aus öffentlichen Kassen gezahlten Reisekostenvergütungen,
+    Umzugskostenvergütungen und Trennungsgelder.
+    2                   Die als Reisekostenvergütungen gezahlten
+    Vergütungen für Verpflegung sind nur insoweit steuerfrei, als sie die
+    Pauschbeträge nach § 9 Absatz 4a nicht übersteigen; Trennungsgelder
+    sind nur insoweit steuerfrei, als sie die nach § 9 Absatz 1 Satz 3
+    Nummer 5 und Absatz 4a abziehbaren Aufwendungen nicht übersteigen;
+
+
+14. Zuschüsse eines Trägers der gesetzlichen Rentenversicherung zu den
+    Aufwendungen eines Rentners für seine Krankenversicherung und von dem
+    gesetzlichen Rentenversicherungsträger getragene Anteile (§ 249a des
+    Fünften Buches Sozialgesetzbuch) an den Beiträgen für die gesetzliche
+    Krankenversicherung;
+
+
+15. Zuschüsse des Arbeitgebers, die zusätzlich zum ohnehin geschuldeten
+    Arbeitslohn zu den Aufwendungen des Arbeitnehmers für Fahrten mit
+    öffentlichen Verkehrsmitteln im Linienverkehr (ohne Luftverkehr)
+    zwischen Wohnung und erster Tätigkeitsstätte und nach § 9 Absatz 1
+    Satz 3 Nummer 4a Satz 3 sowie für Fahrten im öffentlichen
+    Personennahverkehr gezahlt werden.
+    2                   Das Gleiche gilt für die unentgeltliche oder
+    verbilligte Nutzung öffentlicher Verkehrsmittel im Linienverkehr (ohne
+    Luftverkehr) für Fahrten zwischen Wohnung und erster Tätigkeitsstätte
+    und nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3 sowie für Fahrten im
+    öffentlichen Personennahverkehr, die der Arbeitnehmer auf Grund seines
+    Dienstverhältnisses zusätzlich zum ohnehin geschuldeten Arbeitslohn in
+    Anspruch nehmen kann.
+    3                   Die nach den Sätzen 1 und 2 steuerfreien
+    Leistungen mindern den nach § 9 Absatz 1 Satz 3 Nummer 4 Satz 2
+    abziehbaren Betrag;
+
+
+16. die Vergütungen, die Arbeitnehmer außerhalb des öffentlichen Dienstes
+    von ihrem Arbeitgeber zur Erstattung von Reisekosten, Umzugskosten
+    oder Mehraufwendungen bei doppelter Haushaltsführung erhalten, soweit
+    sie die nach § 9 als Werbungskosten abziehbaren Aufwendungen nicht
+    übersteigen;
+
+
+17. Zuschüsse zum Beitrag nach § 32 des Gesetzes über die Alterssicherung
+    der Landwirte;
+
+
+18. das Aufgeld für ein an die Bank für Vertriebene und Geschädigte
+    (Lastenausgleichsbank) zugunsten des Ausgleichsfonds (§ 5 des
+    Lastenausgleichsgesetzes) gegebenes Darlehen, wenn das Darlehen nach §
+    7f des Gesetzes in der Fassung der Bekanntmachung vom 15. September
+    1953 (BGBl. I S. 1355) im Jahr der Hingabe als Betriebsausgabe
+    abzugsfähig war;
+
+
+19. Weiterbildungsleistungen des Arbeitgebers oder auf dessen Veranlassung
+    von einem Dritten
+
+    a)  für Maßnahmen nach § 82 Absatz 1 und 2 des Dritten Buches
+        Sozialgesetzbuch oder
+
+
+    b)  die der Verbesserung der Beschäftigungsfähigkeit des Arbeitnehmers
+        dienen.
+
+
+
+    2                   Steuerfrei sind auch Beratungsleistungen des
+    Arbeitgebers oder auf dessen Veranlassung von einem Dritten zur
+    beruflichen Neuorientierung bei Beendigung des Dienstverhältnisses.
+    3                   Die Leistungen im Sinne der Sätze 1 und 2 dürfen
+    keinen überwiegenden Belohnungscharakter haben;
+
+
+20. die aus öffentlichen Mitteln des Bundespräsidenten aus sittlichen oder
+    sozialen Gründen gewährten Zuwendungen an besonders verdiente Personen
+    oder ihre Hinterbliebenen;
+
+
+21. (weggefallen)
+
+
+22. (weggefallen)
+
+
+23. Leistungen nach
+
+    a)  dem Häftlingshilfegesetz,
+
+
+    b)  dem Strafrechtlichen Rehabilitierungsgesetz,
+
+
+    c)  dem Verwaltungsrechtlichen Rehabilitierungsgesetz,
+
+
+    d)  dem Beruflichen Rehabilitierungsgesetz,
+
+
+    e)  dem Gesetz zur strafrechtlichen Rehabilitierung der nach dem 8. Mai
+        1945 wegen einvernehmlicher homosexueller Handlungen verurteilten
+        Personen und
+
+
+    f)  dem Gesetz zur Rehabilitierung der wegen einvernehmlicher
+        homosexueller Handlungen, wegen ihrer homosexuellen Orientierung oder
+        wegen ihrer geschlechtlichen Identität dienstrechtlich benachteiligten
+        Soldatinnen und Soldaten;
+
+
+
+
+
+24. Leistungen, die auf Grund des Bundeskindergeldgesetzes gewährt werden;
+
+
+25. Entschädigungen nach dem Infektionsschutzgesetz vom 20. Juli 2000
+    (BGBl. I S. 1045);
+
+
+26. Einnahmen aus nebenberuflichen Tätigkeiten als Übungsleiter,
+    Ausbilder, Erzieher, Betreuer oder vergleichbaren nebenberuflichen
+    Tätigkeiten, aus nebenberuflichen künstlerischen Tätigkeiten oder der
+    nebenberuflichen Pflege alter, kranker Menschen oder Menschen mit
+    Behinderungen im Dienst oder im Auftrag einer juristischen Person des
+    öffentlichen Rechts, die in einem Mitgliedstaat der Europäischen
+    Union, in einem Staat, auf den das Abkommen über den Europäischen
+    Wirtschaftsraum Anwendung findet, oder in der Schweiz belegen ist,
+    oder einer unter § 5 Absatz 1 Nummer 9 des Körperschaftsteuergesetzes
+    fallenden Einrichtung zur Förderung gemeinnütziger, mildtätiger und
+    kirchlicher Zwecke (§§ 52 bis 54 der Abgabenordnung) bis zur Höhe von
+    insgesamt 3 000 Euro im Jahr.
+    2                   Überschreiten die Einnahmen für die in Satz 1
+    bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den
+    nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen
+    Zusammenhang stehenden Ausgaben abweichend von § 3c nur insoweit als
+    Betriebsausgaben oder Werbungskosten abgezogen werden, als sie den
+    Betrag der steuerfreien Einnahmen übersteigen;
+
+
+26a. Einnahmen aus nebenberuflichen Tätigkeiten im Dienst oder Auftrag
+    einer juristischen Person des öffentlichen Rechts, die in einem
+    Mitgliedstaat der Europäischen Union, in einem Staat, auf den das
+    Abkommen über den Europäischen Wirtschaftsraum Anwendung findet, oder
+    in der Schweiz belegen ist, oder einer unter § 5 Absatz 1 Nummer 9 des
+    Körperschaftsteuergesetzes fallenden Einrichtung zur Förderung
+    gemeinnütziger, mildtätiger und kirchlicher Zwecke (§§ 52 bis 54 der
+    Abgabenordnung) bis zur Höhe von insgesamt 840 Euro im Jahr.
+    2                   Die Steuerbefreiung ist ausgeschlossen, wenn für
+    die Einnahmen aus der Tätigkeit – ganz oder teilweise – eine
+    Steuerbefreiung nach § 3 Nummer 12, 26 oder 26b gewährt wird.
+    3                   Überschreiten die Einnahmen für die in Satz 1
+    bezeichneten Tätigkeiten den steuerfreien Betrag, dürfen die mit den
+    nebenberuflichen Tätigkeiten in unmittelbarem wirtschaftlichen
+    Zusammenhang stehenden Ausgaben abweichend von § 3c nur insoweit als
+    Betriebsausgaben oder Werbungskosten abgezogen werden, als sie den
+    Betrag der steuerfreien Einnahmen übersteigen;
+
+
+26b. Aufwandsentschädigungen nach § 1835a des Bürgerlichen Gesetzbuchs,
+    soweit sie zusammen mit den steuerfreien Einnahmen im Sinne der Nummer
+    26 den Freibetrag nach Nummer 26 Satz 1 nicht überschreiten.
+    2                   Nummer 26 Satz 2 gilt entsprechend;
+
+
+27. der Grundbetrag der Produktionsaufgaberente und das Ausgleichsgeld
+    nach dem Gesetz zur Förderung der Einstellung der landwirtschaftlichen
+    Erwerbstätigkeit bis zum Höchstbetrag von 18 407 Euro;
+
+
+28. die Aufstockungsbeträge im Sinne des § 3 Absatz 1 Nummer 1 Buchstabe a
+    sowie die Beiträge und Aufwendungen im Sinne des § 3 Absatz 1 Nummer 1
+    Buchstabe b und des § 4 Absatz 2 des Altersteilzeitgesetzes, die
+    Zuschläge, die versicherungsfrei Beschäftigte im Sinne des § 27 Absatz
+    1 Nummer 1 bis 3 des Dritten Buches Sozialgesetzbuch zur Aufstockung
+    der Bezüge bei Altersteilzeit nach beamtenrechtlichen Vorschriften
+    oder Grundsätzen erhalten sowie die Zahlungen des Arbeitgebers zur
+    Übernahme der Beiträge im Sinne des § 187a des Sechsten Buches
+    Sozialgesetzbuch, soweit sie 50 Prozent der Beiträge nicht
+    übersteigen;
+
+
+28a. Zuschüsse des Arbeitgebers zum Kurzarbeitergeld und Saison-
+    Kurzarbeitergeld, soweit sie zusammen mit dem Kurzarbeitergeld 80
+    Prozent des Unterschiedsbetrags zwischen dem Soll-Entgelt und dem Ist-
+    Entgelt nach § 106 des Dritten Buches Sozialgesetzbuch nicht
+    übersteigen und sie für Lohnzahlungszeiträume, die nach dem 29.
+    Februar 2020 beginnen und vor dem 1. Januar 2022 enden, geleistet
+    werden;
+
+
+29. das Gehalt und die Bezüge,
+
+    a)  die die diplomatischen Vertreter ausländischer Staaten, die ihnen
+        zugewiesenen Beamten und die in ihren Diensten stehenden Personen
+        erhalten.
+        2                         Dies gilt nicht für deutsche
+        Staatsangehörige oder für im Inland ständig ansässige Personen;
+
+
+    b)  der Berufskonsuln, der Konsulatsangehörigen und ihres Personals,
+        soweit sie Angehörige des Entsendestaates sind.
+        2                         Dies gilt nicht für Personen, die im Inland
+        ständig ansässig sind oder außerhalb ihres Amtes oder Dienstes einen
+        Beruf, ein Gewerbe oder eine andere gewinnbringende Tätigkeit ausüben;
+
+
+
+
+
+30. Entschädigungen für die betriebliche Benutzung von Werkzeugen eines
+    Arbeitnehmers (Werkzeuggeld), soweit sie die entsprechenden
+    Aufwendungen des Arbeitnehmers nicht offensichtlich übersteigen;
+
+
+31. die typische Berufskleidung, die der Arbeitgeber seinem Arbeitnehmer
+    unentgeltlich oder verbilligt überlässt; dasselbe gilt für eine
+    Barablösung eines nicht nur einzelvertraglichen Anspruchs auf
+    Gestellung von typischer Berufskleidung, wenn die Barablösung
+    betrieblich veranlasst ist und die entsprechenden Aufwendungen des
+    Arbeitnehmers nicht offensichtlich übersteigt;
+
+
+32. die unentgeltliche oder verbilligte Sammelbeförderung eines
+    Arbeitnehmers zwischen Wohnung und erster Tätigkeitsstätte sowie bei
+    Fahrten nach § 9 Absatz 1 Satz 3 Nummer 4a Satz 3 mit einem vom
+    Arbeitgeber gestellten Beförderungsmittel, soweit die
+    Sammelbeförderung für den betrieblichen Einsatz des Arbeitnehmers
+    notwendig ist;
+
+
+33. zusätzlich zum ohnehin geschuldeten Arbeitslohn erbrachte Leistungen
+    des Arbeitgebers zur Unterbringung und Betreuung von nicht
+    schulpflichtigen Kindern der Arbeitnehmer in Kindergärten oder
+    vergleichbaren Einrichtungen;
+
+
+34. zusätzlich zum ohnehin geschuldeten Arbeitslohn erbrachte Leistungen
+    des Arbeitgebers zur Verhinderung und Verminderung von
+    Krankheitsrisiken und zur Förderung der Gesundheit in Betrieben, die
+    hinsichtlich Qualität, Zweckbindung, Zielgerichtetheit und
+    Zertifizierung den Anforderungen der §§ 20 und 20b des Fünften Buches
+    Sozialgesetzbuch genügen, soweit sie 600 Euro im Kalenderjahr nicht
+    übersteigen;
+
+
+34a. zusätzlich zum ohnehin geschuldeten Arbeitslohn erbrachte Leistungen
+    des Arbeitgebers
+
+    a)  an ein Dienstleistungsunternehmen, das den Arbeitnehmer hinsichtlich
+        der Betreuung von Kindern oder pflegebedürftigen Angehörigen berät
+        oder hierfür Betreuungspersonen vermittelt sowie
+
+
+    b)  zur kurzfristigen Betreuung von Kindern im Sinne des § 32 Absatz 1,
+        die das 14. Lebensjahr noch nicht vollendet haben oder die wegen einer
+        vor Vollendung des 25. Lebensjahres eingetretenen körperlichen,
+        geistigen oder seelischen Behinderung außerstande sind, sich selbst zu
+        unterhalten oder pflegebedürftigen Angehörigen des Arbeitnehmers, wenn
+        die Betreuung aus zwingenden und beruflich veranlassten Gründen
+        notwendig ist, auch wenn sie im privaten Haushalt des Arbeitnehmers
+        stattfindet, soweit die Leistungen 600 Euro im Kalenderjahr nicht
+        übersteigen;
+
+
+
+
+
+35. die Einnahmen der bei der Deutsche Post AG, Deutsche Postbank AG oder
+    Deutsche Telekom AG beschäftigten Beamten, soweit die Einnahmen ohne
+    Neuordnung des Postwesens und der Telekommunikation nach den Nummern
+    11 bis 13 und 64 steuerfrei wären;
+
+
+36. Einnahmen für Leistungen zu körperbezogenen Pflegemaßnahmen,
+    pflegerischen Betreuungsmaßnahmen oder Hilfen bei der Haushaltsführung
+    bis zur Höhe des Pflegegeldes nach § 37 des Elften Buches
+    Sozialgesetzbuch, mindestens aber bis zur Höhe des Entlastungsbetrages
+    nach § 45b Absatz 1 Satz 1 des Elften Buches Sozialgesetzbuch, wenn
+    diese Leistungen von Angehörigen des Pflegebedürftigen oder von
+    anderen Personen, die damit eine sittliche Pflicht im Sinne des § 33
+    Absatz 2 gegenüber dem Pflegebedürftigen erfüllen, erbracht werden.
+    2                   Entsprechendes gilt, wenn der Pflegebedürftige
+    vergleichbare Leistungen aus privaten Versicherungsverträgen nach den
+    Vorgaben des Elften Buches Sozialgesetzbuch oder nach den
+    Beihilfevorschriften für häusliche Pflege erhält;
+
+
+37. zusätzlich zum ohnehin geschuldeten Arbeitslohn vom Arbeitgeber
+    gewährte Vorteile für die Überlassung eines betrieblichen Fahrrads,
+    das kein Kraftfahrzeug im Sinne des § 6 Absatz 1 Nummer 4 Satz 2 ist;
+
+
+38. Sachprämien, die der Steuerpflichtige für die persönliche
+    Inanspruchnahme von Dienstleistungen von Unternehmen unentgeltlich
+    erhält, die diese zum Zwecke der Kundenbindung im allgemeinen
+    Geschäftsverkehr in einem jedermann zugänglichen planmäßigen Verfahren
+    gewähren, soweit der Wert der Prämien 1 080 Euro im Kalenderjahr nicht
+    übersteigt;
+
+
+39. der Vorteil des Arbeitnehmers im Rahmen eines gegenwärtigen
+    Dienstverhältnisses aus der unentgeltlichen oder verbilligten
+    Überlassung von Vermögensbeteiligungen im Sinne des § 2 Absatz 1
+    Nummer 1 Buchstabe a, b und f bis l und Absatz 2 bis 5 des Fünften
+    Vermögensbildungsgesetzes in der Fassung der Bekanntmachung vom 4.
+    März 1994 (BGBl. I S. 406), zuletzt geändert durch Artikel 2 des
+    Gesetzes vom 7. März 2009 (BGBl. I S. 451), in der jeweils geltenden
+    Fassung, am Unternehmen des Arbeitgebers, soweit der Vorteil insgesamt
+    1 440 Euro im Kalenderjahr nicht übersteigt.
+    2                   Voraussetzung für die Steuerfreiheit ist, dass die
+    Beteiligung mindestens allen Arbeitnehmern offensteht, die im
+    Zeitpunkt der Bekanntgabe des Angebots ein Jahr oder länger
+    ununterbrochen in einem gegenwärtigen Dienstverhältnis zum Unternehmen
+    stehen.
+    3                   Als Unternehmen des Arbeitgebers im Sinne des
+    Satzes 1 gilt auch ein Unternehmen im Sinne des § 18 des
+    Aktiengesetzes.
+    4                   Als Wert der Vermögensbeteiligung ist der gemeine
+    Wert anzusetzen;
+
+
+40. 40 Prozent
+
+    a)  der Betriebsvermögensmehrungen oder Einnahmen aus der Veräußerung oder
+        der Entnahme von Anteilen an Körperschaften, Personenvereinigungen und
+        Vermögensmassen, deren Leistungen beim Empfänger zu Einnahmen im Sinne
+        des § 20 Absatz 1 Nummer 1 und 9 gehören, oder an einer
+        Organgesellschaft im Sinne des § 14 oder § 17 des
+        Körperschaftsteuergesetzes, oder aus deren Auflösung oder Herabsetzung
+        von deren Nennkapital oder aus dem Ansatz eines solchen
+        Wirtschaftsguts mit dem Wert, der sich nach § 6 Absatz 1 Nummer 2 Satz
+        3 ergibt, soweit sie zu den Einkünften aus Land- und Forstwirtschaft,
+        aus Gewerbebetrieb oder aus selbständiger Arbeit gehören.
+        2                         Dies gilt nicht, soweit der Ansatz des
+        niedrigeren Teilwerts in vollem Umfang zu einer Gewinnminderung
+        geführt hat und soweit diese Gewinnminderung nicht durch Ansatz eines
+        Werts, der sich nach § 6 Absatz 1 Nummer 2 Satz 3 ergibt, ausgeglichen
+        worden ist.
+        3                         Satz 1 gilt außer für
+        Betriebsvermögensmehrungen aus dem Ansatz mit dem Wert, der sich nach
+        § 6 Absatz 1 Nummer 2 Satz 3 ergibt, ebenfalls nicht, soweit Abzüge
+        nach § 6b oder ähnliche Abzüge voll steuerwirksam vorgenommen worden
+        sind,
+
+
+    b)  des Veräußerungspreises im Sinne des § 16 Absatz 2, soweit er auf die
+        Veräußerung von Anteilen an Körperschaften, Personenvereinigungen und
+        Vermögensmassen entfällt, deren Leistungen beim Empfänger zu Einnahmen
+        im Sinne des § 20 Absatz 1 Nummer 1 und 9 gehören, oder an einer
+        Organgesellschaft im Sinne des § 14 oder § 17 des
+        Körperschaftsteuergesetzes.
+        2                         Satz 1 ist in den Fällen des § 16 Absatz 3
+        entsprechend anzuwenden.
+        3                         Buchstabe a Satz 3 gilt entsprechend,
+
+
+    c)  des Veräußerungspreises oder des gemeinen Werts im Sinne des § 17
+        Absatz 2.
+        2                         Satz 1 ist in den Fällen des § 17 Absatz 4
+        entsprechend anzuwenden,
+
+
+    d)  der Bezüge im Sinne des § 20 Absatz 1 Nummer 1 und der Einnahmen im
+        Sinne des § 20 Absatz 1 Nummer 9.
+        2                         Dies gilt nur, soweit sie das Einkommen der
+        leistenden Körperschaft nicht gemindert haben.
+        3                         Sofern die Bezüge in einem anderen Staat auf
+        Grund einer vom deutschen Recht abweichenden steuerlichen Zurechnung
+        einer anderen Person zugerechnet werden, gilt Satz 1 nur, soweit das
+        Einkommen der anderen Person oder ihr nahestehender Personen nicht
+        niedriger ist als bei einer dem deutschen Recht entsprechenden
+        Zurechnung.
+        4                         Satz 1 Buchstabe d Satz 2 gilt nicht, soweit
+        eine verdeckte Gewinnausschüttung das Einkommen einer dem
+        Steuerpflichtigen nahe stehenden Person erhöht hat und § 32a des
+        Körperschaftsteuergesetzes auf die Veranlagung dieser nahe stehenden
+        Person keine Anwendung findet,
+
+
+    e)  der Bezüge im Sinne des § 20 Absatz 1 Nummer 2,
+
+
+    f)  der besonderen Entgelte oder Vorteile im Sinne des § 20 Absatz 3, die
+        neben den in § 20 Absatz 1 Nummer 1 und Absatz 2 Satz 1 Nummer 2
+        Buchstabe a bezeichneten Einnahmen oder an deren Stelle gewährt
+        werden,
+
+
+    g)  des Gewinns aus der Veräußerung von Dividendenscheinen und sonstigen
+        Ansprüchen im Sinne des § 20 Absatz 2 Satz 1 Nummer 2 Buchstabe a,
+
+
+    h)  des Gewinns aus der Abtretung von Dividendenansprüchen oder sonstigen
+        Ansprüchen im Sinne des § 20 Absatz 2 Satz 1 Nummer 2 Buchstabe a in
+        Verbindung mit § 20 Absatz 2 Satz 2,
+
+
+    i)  der Bezüge im Sinne des § 22 Nummer 1 Satz 2, soweit diese von einer
+        nicht von der Körperschaftsteuer befreiten Körperschaft,
+        Personenvereinigung oder Vermögensmasse stammen.
+
+
+
+    2                   Dies gilt für Satz 1 Buchstabe d bis h nur in
+    Verbindung mit § 20 Absatz 8.
+    3                   Satz 1 Buchstabe a, b und d bis h ist nicht
+    anzuwenden auf Anteile, die bei Kreditinstituten,
+    Finanzdienstleistungsinstituten und Wertpapierinstituten dem
+    Handelsbestand im Sinne des § 340e Absatz 3 des Handelsgesetzbuchs
+    zuzuordnen sind; Gleiches gilt für Anteile, die bei Finanzunternehmen
+    im Sinne des Kreditwesengesetzes, an denen Kreditinstitute,
+    Finanzdienstleistungsinstitute oder Wertpapierinstitute unmittelbar
+    oder mittelbar zu mehr als 50 Prozent beteiligt sind, zum Zeitpunkt
+    des Zugangs zum Betriebsvermögen als Umlaufvermögen auszuweisen sind.
+    4                   Satz 1 ist nicht anzuwenden bei Anteilen an
+    Unterstützungskassen;
+
+
+40a. 40 Prozent der Vergütungen im Sinne des § 18 Absatz 1 Nummer 4;
+
+
+41. (weggefallen)
+
+
+42. die Zuwendungen, die auf Grund des Fulbright-Abkommens gezahlt werden;
+
+
+43. der Ehrensold für Künstler sowie Zuwendungen aus Mitteln der Deutschen
+    Künstlerhilfe, wenn es sich um Bezüge aus öffentlichen Mitteln
+    handelt, die wegen der Bedürftigkeit des Künstlers gezahlt werden;
+
+
+44. Stipendien, die aus öffentlichen Mitteln oder von zwischenstaatlichen
+    oder überstaatlichen Einrichtungen, denen die Bundesrepublik
+    Deutschland als Mitglied angehört, zur Förderung der Forschung oder
+    zur Förderung der wissenschaftlichen oder künstlerischen Ausbildung
+    oder Fortbildung gewährt werden.
+    2                   Das Gleiche gilt für Stipendien, die zu den in
+    Satz 1 bezeichneten Zwecken von einer Einrichtung, die von einer
+    Körperschaft des öffentlichen Rechts errichtet ist oder verwaltet
+    wird, oder von einer Körperschaft, Personenvereinigung oder
+    Vermögensmasse im Sinne des § 5 Absatz 1 Nummer 9 des
+    Körperschaftsteuergesetzes gegeben werden.
+    3                   Voraussetzung für die Steuerfreiheit ist, dass
+
+    a)  die Stipendien einen für die Erfüllung der Forschungsaufgabe oder für
+        die Bestreitung des Lebensunterhalts und die Deckung des
+        Ausbildungsbedarfs erforderlichen Betrag nicht übersteigen und nach
+        den von dem Geber erlassenen Richtlinien vergeben werden,
+
+
+    b)  der Empfänger im Zusammenhang mit dem Stipendium nicht zu einer
+        bestimmten wissenschaftlichen oder künstlerischen Gegenleistung oder
+        zu einer bestimmten Arbeitnehmertätigkeit verpflichtet ist;
+
+
+
+
+
+45. die Vorteile des Arbeitnehmers aus der privaten Nutzung von
+    betrieblichen Datenverarbeitungsgeräten und Telekommunikationsgeräten
+    sowie deren Zubehör, aus zur privaten Nutzung überlassenen System- und
+    Anwendungsprogrammen, die der Arbeitgeber auch in seinem Betrieb
+    einsetzt, und aus den im Zusammenhang mit diesen Zuwendungen
+    erbrachten Dienstleistungen.
+    2                   Satz 1 gilt entsprechend für Steuerpflichtige,
+    denen die Vorteile im Rahmen einer Tätigkeit zugewendet werden, für
+    die sie eine Aufwandsentschädigung im Sinne des § 3 Nummer 12
+    erhalten;
+
+
+46. zusätzlich zum ohnehin geschuldeten Arbeitslohn vom Arbeitgeber
+    gewährte Vorteile für das elektrische Aufladen eines Elektrofahrzeugs
+    oder Hybridelektrofahrzeugs im Sinne des § 6 Absatz 1 Nummer 4 Satz 2
+    zweiter Halbsatz an einer ortsfesten betrieblichen Einrichtung des
+    Arbeitgebers oder eines verbundenen Unternehmens (§ 15 des
+    Aktiengesetzes) und für die zur privaten Nutzung überlassene
+    betriebliche Ladevorrichtung;
+
+
+47. Leistungen nach § 14a Absatz 4 und § 14b des
+    Arbeitsplatzschutzgesetzes;
+
+
+48. Leistungen nach dem Unterhaltssicherungsgesetz mit Ausnahme der
+    Leistungen nach § 6 des Unterhaltssicherungsgesetzes;
+
+
+49. (weggefallen)
+
+
+50. die Beträge, die der Arbeitnehmer vom Arbeitgeber erhält, um sie für
+    ihn auszugeben (durchlaufende Gelder), und die Beträge, durch die
+    Auslagen des Arbeitnehmers für den Arbeitgeber ersetzt werden
+    (Auslagenersatz);
+
+
+51. Trinkgelder, die anlässlich einer Arbeitsleistung dem Arbeitnehmer von
+    Dritten freiwillig und ohne dass ein Rechtsanspruch auf sie besteht,
+    zusätzlich zu dem Betrag gegeben werden, der für diese Arbeitsleistung
+    zu zahlen ist;
+
+
+52. (weggefallen)
+
+
+53. die Übertragung von Wertguthaben nach § 7f Absatz 1 Satz 1 Nummer 2
+    des Vierten Buches Sozialgesetzbuch auf die Deutsche
+    Rentenversicherung Bund.
+    2                   Die Leistungen aus dem Wertguthaben durch die
+    Deutsche Rentenversicherung Bund gehören zu den Einkünften aus
+    nichtselbständiger Arbeit im Sinne des § 19.
+    3                   Von ihnen ist Lohnsteuer einzubehalten;
+
+
+54. Zinsen aus Entschädigungsansprüchen für deutsche Auslandsbonds im
+    Sinne der §§ 52 bis 54 des Bereinigungsgesetzes für deutsche
+    Auslandsbonds in der im Bundesgesetzblatt Teil III, Gliederungsnummer
+    4139-2, veröffentlichten bereinigten Fassung, soweit sich die
+    Entschädigungsansprüche gegen den Bund oder die Länder richten.
+    2                   Das Gleiche gilt für die Zinsen aus
+    Schuldverschreibungen und Schuldbuchforderungen, die nach den §§ 9, 10
+    und 14 des Gesetzes zur näheren Regelung der Entschädigungsansprüche
+    für Auslandsbonds in der im Bundesgesetzblatt Teil III,
+    Gliederungsnummer 4139-3, veröffentlichten bereinigten Fassung vom
+    Bund oder von den Ländern für Entschädigungsansprüche erteilt oder
+    eingetragen werden;
+
+
+55. der in den Fällen des § 4 Absatz 2 Nummer 2 und Absatz 3 des
+    Betriebsrentengesetzes vom 19. Dezember 1974 (BGBl. I S. 3610), das
+    zuletzt durch Artikel 8 des Gesetzes vom 5. Juli 2004 (BGBl. I S.
+    1427) geändert worden ist, in der jeweils geltenden Fassung geleistete
+    Übertragungswert nach § 4 Absatz 5 des Betriebsrentengesetzes, wenn
+    die betriebliche Altersversorgung beim ehemaligen und neuen
+    Arbeitgeber über einen Pensionsfonds, eine Pensionskasse oder ein
+    Unternehmen der Lebensversicherung durchgeführt wird; dies gilt auch,
+    wenn eine Versorgungsanwartschaft aus einer betrieblichen
+    Altersversorgung auf Grund vertraglicher Vereinbarung ohne
+    Fristerfordernis unverfallbar ist.
+    2                   Satz 1 gilt auch, wenn der Übertragungswert vom
+    ehemaligen Arbeitgeber oder von einer Unterstützungskasse an den neuen
+    Arbeitgeber oder eine andere Unterstützungskasse geleistet wird.
+    3                   Die Leistungen des neuen Arbeitgebers, der
+    Unterstützungskasse, des Pensionsfonds, der Pensionskasse oder des
+    Unternehmens der Lebensversicherung auf Grund des Betrags nach Satz 1
+    und 2 gehören zu den Einkünften, zu denen die Leistungen gehören
+    würden, wenn die Übertragung nach § 4 Absatz 2 Nummer 2 und Absatz 3
+    des Betriebsrentengesetzes nicht stattgefunden hätte;
+
+
+55a. die nach § 10 des Versorgungsausgleichsgesetzes vom 3. April 2009
+    (BGBl. I S. 700) in der jeweils geltenden Fassung (interne Teilung)
+    durchgeführte Übertragung von Anrechten für die ausgleichsberechtigte
+    Person zu Lasten von Anrechten der ausgleichspflichtigen Person.
+    2                   Die Leistungen aus diesen Anrechten gehören bei
+    der ausgleichsberechtigten Person zu den Einkünften, zu denen die
+    Leistungen bei der ausgleichspflichtigen Person gehören würden, wenn
+    die interne Teilung nicht stattgefunden hätte;
+
+
+55b. der nach § 14 des Versorgungsausgleichsgesetzes (externe Teilung)
+    geleistete Ausgleichswert zur Begründung von Anrechten für die
+    ausgleichsberechtigte Person zu Lasten von Anrechten der
+    ausgleichspflichtigen Person, soweit Leistungen aus diesen Anrechten
+    zu steuerpflichtigen Einkünften nach den §§ 19, 20 und 22 führen
+    würden.
+    2                   Satz 1 gilt nicht, soweit Leistungen, die auf dem
+    begründeten Anrecht beruhen, bei der ausgleichsberechtigten Person zu
+    Einkünften nach § 20 Absatz 1 Nummer 6 oder § 22 Nummer 1 Satz 3
+    Buchstabe a Doppelbuchstabe bb führen würden.
+    3                   Der Versorgungsträger der ausgleichspflichtigen
+    Person hat den Versorgungsträger der ausgleichsberechtigten Person
+    über die für die Besteuerung der Leistungen erforderlichen Grundlagen
+    zu informieren.
+    4                   Dies gilt nicht, wenn der Versorgungsträger der
+    ausgleichsberechtigten Person die Grundlagen bereits kennt oder aus
+    den bei ihm vorhandenen Daten feststellen kann und dieser Umstand dem
+    Versorgungsträger der ausgleichspflichtigen Person mitgeteilt worden
+    ist;
+
+
+55c. Übertragungen von Altersvorsorgevermögen im Sinne des § 92 auf einen
+    anderen auf den Namen des Steuerpflichtigen lautenden
+    Altersvorsorgevertrag (§ 1 Absatz 1 Satz 1 Nummer 10 Buchstabe b des
+    Altersvorsorgeverträge-Zertifizierungsgesetzes), soweit die Leistungen
+    zu steuerpflichtigen Einkünften nach § 22 Nummer 5 führen würden.
+    2                    Dies gilt entsprechend
+
+    a)  wenn Anwartschaften aus einer betrieblichen Altersversorgung, die über
+        einen Pensionsfonds, eine Pensionskasse oder ein Unternehmen der
+        Lebensversicherung (Direktversicherung) durchgeführt wird, lediglich
+        auf einen anderen Träger einer betrieblichen Altersversorgung in Form
+        eines Pensionsfonds, einer Pensionskasse oder eines Unternehmens der
+        Lebensversicherung (Direktversicherung) übertragen werden, soweit
+        keine Zahlungen unmittelbar an den Arbeitnehmer erfolgen,
+
+
+    b)  wenn Anwartschaften der betrieblichen Altersversorgung abgefunden
+        werden, soweit das Altersvorsorgevermögen zugunsten eines auf den
+        Namen des Steuerpflichtigen lautenden Altersvorsorgevertrages
+        geleistet wird,
+
+
+    c)  wenn im Fall des Todes des Steuerpflichtigen das
+        Altersvorsorgevermögen auf einen auf den Namen des Ehegatten lautenden
+        Altersvorsorgevertrag übertragen wird, wenn die Ehegatten im Zeitpunkt
+        des Todes des Zulageberechtigten nicht dauernd getrennt gelebt haben
+        (§ 26 Absatz 1) und ihren Wohnsitz oder gewöhnlichen Aufenthalt in
+        einem Mitgliedstaat der Europäischen Union oder einem Staat hatten,
+        auf den das Abkommen über den Europäischen Wirtschaftsraum anwendbar
+        ist; dies gilt auch, wenn die Ehegatten ihren vor dem Zeitpunkt, ab
+        dem das Vereinigte Königreich Großbritannien und Nordirland nicht mehr
+        Mitgliedstaat der Europäischen Union ist und auch nicht wie ein
+        solcher zu behandeln ist, begründeten Wohnsitz oder gewöhnlichen
+        Aufenthalt im Vereinigten Königreich Großbritannien und Nordirland
+        hatten und der Vertrag vor dem 23. Juni 2016 abgeschlossen worden ist;
+
+
+
+
+
+55d. Übertragungen von Anrechten aus einem nach § 5a
+    Altersvorsorgeverträge-Zertifizierungsgesetz zertifizierten Vertrag
+    auf einen anderen auf den Namen des Steuerpflichtigen lautenden nach §
+    5a Altersvorsorgeverträge-Zertifizierungsgesetz zertifizierten
+    Vertrag;
+
+
+55e. die auf Grund eines Abkommens mit einer zwischen- oder überstaatlichen
+    Einrichtung übertragenen Werte von Anrechten auf Altersversorgung,
+    soweit diese zur Begründung von Anrechten auf Altersversorgung bei
+    einer zwischen- oder überstaatlichen Einrichtung dienen.
+    2                   Die Leistungen auf Grund des Betrags nach Satz 1
+    gehören zu den Einkünften, zu denen die Leistungen gehören, die die
+    übernehmende Versorgungseinrichtung im Übrigen erbringt;
+
+
+56. Zuwendungen des Arbeitgebers nach § 19 Absatz 1 Satz 1 Nummer 3 Satz 1
+    aus dem ersten Dienstverhältnis an eine Pensionskasse zum Aufbau einer
+    nicht kapitalgedeckten betrieblichen Altersversorgung, bei der eine
+    Auszahlung der zugesagten Alters-, Invaliditäts- oder
+    Hinterbliebenenversorgung entsprechend § 82 Absatz 2 Satz 2 vorgesehen
+    ist, soweit diese Zuwendungen im Kalenderjahr 2 Prozent der
+    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung nicht
+    übersteigen.
+    2                   Der in Satz 1 genannte Höchstbetrag erhöht sich ab
+    1\. Januar 2020 auf 3 Prozent und ab 1. Januar 2025 auf 4 Prozent der
+    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung.
+    3                   Die Beträge nach den Sätzen 1 und 2 sind jeweils
+    um die nach § 3 Nummer 63 Satz 1, 3 oder Satz 4 steuerfreien Beträge
+    zu mindern;
+
+
+57. die Beträge, die die Künstlersozialkasse zugunsten des nach dem
+    Künstlersozialversicherungsgesetz Versicherten aus dem Aufkommen von
+    Künstlersozialabgabe und Bundeszuschuss an einen Träger der
+    Sozialversicherung oder an den Versicherten zahlt;
+
+
+58. das Wohngeld nach dem Wohngeldgesetz, die sonstigen Leistungen aus
+    öffentlichen Haushalten oder Zweckvermögen zur Senkung der Miete oder
+    Belastung im Sinne des § 11 Absatz 2 Nummer 4 des Wohngeldgesetzes
+    sowie öffentliche Zuschüsse zur Deckung laufender Aufwendungen und
+    Zinsvorteile bei Darlehen, die aus öffentlichen Haushalten gewährt
+    werden, für eine zu eigenen Wohnzwecken genutzte Wohnung im eigenen
+    Haus oder eine zu eigenen Wohnzwecken genutzte Eigentumswohnung,
+    soweit die Zuschüsse und Zinsvorteile die Vorteile aus einer
+    entsprechenden Förderung mit öffentlichen Mitteln nach dem Zweiten
+    Wohnungsbaugesetz, dem Wohnraumförderungsgesetz oder einem
+    Landesgesetz zur Wohnraumförderung nicht überschreiten, der Zuschuss
+    für die Wohneigentumsbildung in innerstädtischen Altbauquartieren nach
+    den Regelungen zum Stadtumbau Ost in den Verwaltungsvereinbarungen
+    über die Gewährung von Finanzhilfen des Bundes an die Länder nach
+    Artikel 104a Absatz 4 des Grundgesetzes zur Förderung städtebaulicher
+    Maßnahmen;
+
+
+59. die Zusatzförderung nach § 88e des Zweiten Wohnungsbaugesetzes und
+    nach § 51f des Wohnungsbaugesetzes für das Saarland und
+    Geldleistungen, die ein Mieter zum Zwecke der Wohnkostenentlastung
+    nach dem Wohnraumförderungsgesetz oder einem Landesgesetz zur
+    Wohnraumförderung erhält, soweit die Einkünfte dem Mieter zuzurechnen
+    sind, und die Vorteile aus einer mietweisen Wohnungsüberlassung im
+    Zusammenhang mit einem Arbeitsverhältnis, soweit sie die Vorteile aus
+    einer entsprechenden Förderung nach dem Zweiten Wohnungsbaugesetz,
+    nach dem Wohnraumförderungsgesetz oder einem Landesgesetz zur
+    Wohnraumförderung nicht überschreiten;
+
+
+60. das Anpassungsgeld für Arbeitnehmer der Braunkohlekraftwerke und
+    -tagebaue sowie Steinkohlekraftwerke, die aus Anlass einer
+    Stilllegungsmaßnahme ihren Arbeitsplatz verloren haben;
+
+
+61. Leistungen nach § 4 Absatz 1 Nummer 2, § 7 Absatz 3, §§ 9, 10 Absatz
+    1, §§ 13, 15 des Entwicklungshelfer-Gesetzes;
+
+
+62. Ausgaben des Arbeitgebers für die Zukunftssicherung des Arbeitnehmers,
+    soweit der Arbeitgeber dazu nach sozialversicherungsrechtlichen oder
+    anderen gesetzlichen Vorschriften oder nach einer auf gesetzlicher
+    Ermächtigung beruhenden Bestimmung verpflichtet ist, und es sich nicht
+    um Zuwendungen oder Beiträge des Arbeitgebers nach den Nummern 56, 63
+    und 63a handelt.
+    2                   Den Ausgaben des Arbeitgebers für die
+    Zukunftssicherung, die auf Grund gesetzlicher Verpflichtung geleistet
+    werden, werden gleichgestellt Zuschüsse des Arbeitgebers zu den
+    Aufwendungen des Arbeitnehmers
+
+    a)  für eine Lebensversicherung,
+
+
+    b)  für die freiwillige Versicherung in der gesetzlichen
+        Rentenversicherung,
+
+
+    c)  für eine öffentlich-rechtliche Versicherungs- oder
+        Versorgungseinrichtung seiner Berufsgruppe,
+
+
+
+    wenn der Arbeitnehmer von der Versicherungspflicht in der gesetzlichen
+    Rentenversicherung befreit worden ist.
+    3                   Die Zuschüsse sind nur insoweit steuerfrei, als
+    sie insgesamt bei Befreiung von der Versicherungspflicht in der
+    allgemeinen Rentenversicherung die Hälfte und bei Befreiung von der
+    Versicherungspflicht in der knappschaftlichen Rentenversicherung zwei
+    Drittel der Gesamtaufwendungen des Arbeitnehmers nicht übersteigen und
+    nicht höher sind als der Betrag, der als Arbeitgeberanteil bei
+    Versicherungspflicht in der allgemeinen Rentenversicherung oder in der
+    knappschaftlichen Rentenversicherung zu zahlen wäre;
+
+
+63. Beiträge des Arbeitgebers aus dem ersten Dienstverhältnis an einen
+    Pensionsfonds, eine Pensionskasse oder für eine Direktversicherung zum
+    Aufbau einer kapitalgedeckten betrieblichen Altersversorgung, bei der
+    eine Auszahlung der zugesagten Alters-, Invaliditäts- oder
+    Hinterbliebenenversorgungsleistungen entsprechend § 82 Absatz 2 Satz 2
+    vorgesehen ist, soweit die Beiträge im Kalenderjahr 8 Prozent der
+    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung nicht
+    übersteigen.
+    2                   Dies gilt nicht, soweit der Arbeitnehmer nach § 1a
+    Absatz 3 des Betriebsrentengesetzes verlangt hat, dass die
+    Voraussetzungen für eine Förderung nach § 10a oder Abschnitt XI
+    erfüllt werden.
+    3                   Aus Anlass der Beendigung des Dienstverhältnisses
+    geleistete Beiträge im Sinne des Satzes 1 sind steuerfrei, soweit sie
+    4 Prozent der Beitragsbemessungsgrenze in der allgemeinen
+    Rentenversicherung, vervielfältigt mit der Anzahl der Kalenderjahre,
+    in denen das Dienstverhältnis des Arbeitnehmers zu dem Arbeitgeber
+    bestanden hat, höchstens jedoch zehn Kalenderjahre, nicht übersteigen.
+    4                   Beiträge im Sinne des Satzes 1, die für
+    Kalenderjahre nachgezahlt werden, in denen das erste Dienstverhältnis
+    ruhte und vom Arbeitgeber im Inland kein steuerpflichtiger Arbeitslohn
+    bezogen wurde, sind steuerfrei, soweit sie 8 Prozent der
+    Beitragsbemessungsgrenze in der allgemeinen Rentenversicherung,
+    vervielfältigt mit der Anzahl dieser Kalenderjahre, höchstens jedoch
+    zehn Kalenderjahre, nicht übersteigen;
+
+
+63a. Sicherungsbeiträge des Arbeitgebers nach § 23 Absatz 1 des
+    Betriebsrentengesetzes, soweit sie nicht unmittelbar dem einzelnen
+    Arbeitnehmer gutgeschrieben oder zugerechnet werden;
+
+
+64. bei Arbeitnehmern, die zu einer inländischen juristischen Person des
+    öffentlichen Rechts in einem Dienstverhältnis stehen und dafür
+    Arbeitslohn aus einer inländischen öffentlichen Kasse beziehen, die
+    Bezüge für eine Tätigkeit im Ausland insoweit, als sie den Arbeitslohn
+    übersteigen, der dem Arbeitnehmer bei einer gleichwertigen Tätigkeit
+    am Ort der zahlenden öffentlichen Kasse zustehen würde.
+    2                   Satz 1 gilt auch, wenn das Dienstverhältnis zu
+    einer anderen Person besteht, die den Arbeitslohn entsprechend den im
+    Sinne des Satzes 1 geltenden Vorschriften ermittelt, der Arbeitslohn
+    aus einer öffentlichen Kasse gezahlt wird und ganz oder im
+    Wesentlichen aus öffentlichen Mitteln aufgebracht wird.
+    3                   Bei anderen für einen begrenzten Zeitraum in das
+    Ausland entsandten Arbeitnehmern, die dort einen Wohnsitz oder
+    gewöhnlichen Aufenthalt haben, ist der ihnen von einem inländischen
+    Arbeitgeber gewährte Kaufkraftausgleich steuerfrei, soweit er den für
+    vergleichbare Auslandsdienstbezüge nach § 55 des
+    Bundesbesoldungsgesetzes zulässigen Betrag nicht übersteigt;
+
+
+65.
+    a)  Beiträge des Trägers der Insolvenzsicherung (§ 14 des
+        Betriebsrentengesetzes) zugunsten eines Versorgungsberechtigten und
+        seiner Hinterbliebenen an eine Pensionskasse oder ein Unternehmen der
+        Lebensversicherung zur Ablösung von Verpflichtungen, die der Träger
+        der Insolvenzsicherung im Sicherungsfall gegenüber dem
+        Versorgungsberechtigten und seinen Hinterbliebenen hat,
+
+
+    b)  Leistungen zur Übernahme von Versorgungsleistungen oder unverfallbaren
+        Versorgungsanwartschaften durch eine Pensionskasse oder ein
+        Unternehmen der Lebensversicherung in den in § 4 Absatz 4 des
+        Betriebsrentengesetzes bezeichneten Fällen,
+
+
+    c)  der Erwerb von Ansprüchen durch den Arbeitnehmer gegenüber einem
+        Dritten im Fall der Eröffnung des Insolvenzverfahrens oder in den
+        Fällen des § 7 Absatz 1 Satz 4 des Betriebsrentengesetzes, soweit der
+        Dritte neben dem Arbeitgeber für die Erfüllung von Ansprüchen auf
+        Grund bestehender Versorgungsverpflichtungen oder
+        Versorgungsanwartschaften gegenüber dem Arbeitnehmer und dessen
+        Hinterbliebenen einsteht; dies gilt entsprechend, wenn der Dritte für
+        Wertguthaben aus einer Vereinbarung über die Altersteilzeit nach dem
+        Altersteilzeitgesetz vom 23. Juli 1996 (BGBl. I S. 1078), zuletzt
+        geändert durch Artikel 234 der Verordnung vom 31. Oktober 2006 (BGBl.
+        I S. 2407), in der jeweils geltenden Fassung oder auf Grund von
+        Wertguthaben aus einem Arbeitszeitkonto in den im ersten Halbsatz
+        genannten Fällen für den Arbeitgeber einsteht und
+
+
+    d)  der Erwerb von Ansprüchen durch den Arbeitnehmer im Zusammenhang mit
+        dem Eintritt in die Versicherung nach § 8 Absatz 3 des
+        Betriebsrentengesetzes.
+
+
+
+    2                   In den Fällen nach Buchstabe a, b und c gehören
+    die Leistungen der Pensionskasse, des Unternehmens der
+    Lebensversicherung oder des Dritten zu den Einkünften, zu denen jene
+    Leistungen gehören würden, die ohne Eintritt eines Falles nach
+    Buchstabe a, b und c zu erbringen wären.
+    3                   Soweit sie zu den Einkünften aus
+    nichtselbständiger Arbeit im Sinne des § 19 gehören, ist von ihnen
+    Lohnsteuer einzubehalten.
+    4                   Für die Erhebung der Lohnsteuer gelten die
+    Pensionskasse, das Unternehmen der Lebensversicherung oder der Dritte
+    als Arbeitgeber und der Leistungsempfänger als Arbeitnehmer.
+    5                   Im Fall des Buchstaben d gehören die
+    Versorgungsleistungen des Unternehmens der Lebensversicherung oder der
+    Pensionskasse, soweit sie auf Beiträgen beruhen, die bis zum Eintritt
+    des Arbeitnehmers in die Versicherung geleistet wurden, zu den
+    sonstigen Einkünften im Sinne des § 22 Nummer 5 Satz 1; soweit der
+    Arbeitnehmer in den Fällen des § 8 Absatz 3 des Betriebsrentengesetzes
+    die Versicherung mit eigenen Beiträgen fortgesetzt hat, sind die auf
+    diesen Beiträgen beruhenden Versorgungsleistungen sonstige Einkünfte
+    im Sinne des § 22 Nummer 5 Satz 1 oder Satz 2;
+
+
+66. Leistungen eines Arbeitgebers oder einer Unterstützungskasse an einen
+    Pensionsfonds zur Übernahme bestehender Versorgungsverpflichtungen
+    oder Versorgungsanwartschaften durch den Pensionsfonds, wenn ein
+    Antrag nach § 4d Absatz 3 oder § 4e Absatz 3 gestellt worden ist;
+
+
+67.
+    a)  das Erziehungsgeld nach dem Bundeserziehungsgeldgesetz und
+        vergleichbare Leistungen der Länder,
+
+
+    b)  das Elterngeld nach dem Bundeselterngeld- und Elternzeitgesetz und
+        vergleichbare Leistungen der Länder,
+
+
+    c)  Leistungen für Kindererziehung an Mütter der Geburtsjahrgänge vor 1921
+        nach den §§ 294 bis 299 des Sechsten Buches Sozialgesetzbuch sowie
+
+
+    d)  Zuschläge, die nach den §§ 50a bis 50e des Beamtenversorgungsgesetzes
+        oder nach den §§ 70 bis 74 des Soldatenversorgungsgesetzes oder nach
+        vergleichbaren Regelungen der Länder für ein vor dem 1. Januar 2015
+        geborenes Kind oder für eine vor dem 1. Januar 2015 begonnene Zeit der
+        Pflege einer pflegebedürftigen Person zu gewähren sind; im Falle des
+        Zusammentreffens von Zeiten für mehrere Kinder nach § 50b des
+        Beamtenversorgungsgesetzes oder § 71 des Soldatenversorgungsgesetzes
+        oder nach vergleichbaren Regelungen der Länder gilt dies, wenn eines
+        der Kinder vor dem 1. Januar 2015 geboren ist;
+
+
+
+
+
+68. die Hilfen nach dem Gesetz über die Hilfe für durch Anti-D-
+    Immunprophylaxe mit dem Hepatitis-C-Virus infizierte Personen vom 2.
+    August 2000 (BGBl. I S. 1270);
+
+
+69. die von der Stiftung „Humanitäre Hilfe für durch Blutprodukte HIV-
+    infizierte Personen“ nach dem HIV-Hilfegesetz vom 24. Juli 1995 (BGBl.
+    I S. 972) gewährten Leistungen;
+
+
+70. die Hälfte
+
+    a)  der Betriebsvermögensmehrungen oder Einnahmen aus der Veräußerung von
+        Grund und Boden und Gebäuden, die am 1. Januar 2007 mindestens fünf
+        Jahre zum Anlagevermögen eines inländischen Betriebsvermögens des
+        Steuerpflichtigen gehören, wenn diese auf Grund eines nach dem 31.
+        Dezember 2006 und vor dem 1. Januar 2010 rechtswirksam abgeschlossenen
+        obligatorischen Vertrages an eine REIT-Aktiengesellschaft oder einen
+        Vor-REIT veräußert werden,
+
+
+    b)  der Betriebsvermögensmehrungen, die auf Grund der Eintragung eines
+        Steuerpflichtigen in das Handelsregister als REIT-Aktiengesellschaft
+        im Sinne des REIT-Gesetzes vom 28. Mai 2007 (BGBl. I S. 914) durch
+        Anwendung des § 13 Absatz 1 und 3 Satz 1 des
+        Körperschaftsteuergesetzes auf Grund und Boden und Gebäude entstehen,
+        wenn diese Wirtschaftsgüter vor dem 1. Januar 2005 angeschafft oder
+        hergestellt wurden, und die Schlussbilanz im Sinne des § 13 Absatz 1
+        und 3 des Körperschaftsteuergesetzes auf einen Zeitpunkt vor dem 1.
+        Januar 2010 aufzustellen ist.
+
+
+
+    2                   Satz 1 ist nicht anzuwenden,
+
+    a)  wenn der Steuerpflichtige den Betrieb veräußert oder aufgibt und der
+        Veräußerungsgewinn nach § 34 besteuert wird,
+
+
+    b)  soweit der Steuerpflichtige von den Regelungen der §§ 6b und 6c
+        Gebrauch macht,
+
+
+    c)  soweit der Ansatz des niedrigeren Teilwerts in vollem Umfang zu einer
+        Gewinnminderung geführt hat und soweit diese Gewinnminderung nicht
+        durch den Ansatz eines Werts, der sich nach § 6 Absatz 1 Nummer 1 Satz
+        4 ergibt, ausgeglichen worden ist,
+
+
+    d)  wenn im Fall des Satzes 1 Buchstabe a der Buchwert zuzüglich der
+        Veräußerungskosten den Veräußerungserlös oder im Fall des Satzes 1
+        Buchstabe b der Buchwert den Teilwert übersteigt.
+        2                         Ermittelt der Steuerpflichtige den Gewinn
+        nach § 4 Absatz 3, treten an die Stelle des Buchwerts die
+        Anschaffungs- oder Herstellungskosten verringert um die vorgenommenen
+        Absetzungen für Abnutzung oder Substanzverringerung,
+
+
+    e)  soweit vom Steuerpflichtigen in der Vergangenheit Abzüge bei den
+        Anschaffungs- oder Herstellungskosten von Wirtschaftsgütern im Sinne
+        des Satzes 1 nach § 6b oder ähnliche Abzüge voll steuerwirksam
+        vorgenommen worden sind,
+
+
+    f)  wenn es sich um eine Übertragung im Zusammenhang mit Rechtsvorgängen
+        handelt, die dem Umwandlungssteuergesetz unterliegen und die
+        Übertragung zu einem Wert unterhalb des gemeinen Werts erfolgt.
+
+
+
+    3                   Die Steuerbefreiung entfällt rückwirkend, wenn
+
+    a)  innerhalb eines Zeitraums von vier Jahren seit dem Vertragsschluss im
+        Sinne des Satzes 1 Buchstabe a der Erwerber oder innerhalb eines
+        Zeitraums von vier Jahren nach dem Stichtag der Schlussbilanz im Sinne
+        des Satzes 1 Buchstabe b die REIT-Aktiengesellschaft den Grund und
+        Boden oder das Gebäude veräußert,
+
+
+    b)  der Vor-REIT oder ein anderer Vor-REIT als sein Gesamtrechtsnachfolger
+        den Status als Vor-REIT gemäß § 10 Absatz 3 Satz 1 des REIT-Gesetzes
+        verliert,
+
+
+    c)  die REIT-Aktiengesellschaft innerhalb eines Zeitraums von vier Jahren
+        seit dem Vertragsschluss im Sinne des Satzes 1 Buchstabe a oder nach
+        dem Stichtag der Schlussbilanz im Sinne des Satzes 1 Buchstabe b in
+        keinem Veranlagungszeitraum die Voraussetzungen für die
+        Steuerbefreiung erfüllt,
+
+
+    d)  die Steuerbefreiung der REIT-Aktiengesellschaft innerhalb eines
+        Zeitraums von vier Jahren seit dem Vertragsschluss im Sinne des Satzes
+        1 Buchstabe a oder nach dem Stichtag der Schlussbilanz im Sinne des
+        Satzes 1 Buchstabe b endet,
+
+
+    e)  das Bundeszentralamt für Steuern dem Erwerber im Sinne des Satzes 1
+        Buchstabe a den Status als Vor-REIT im Sinne des § 2 Satz 4 des REIT-
+        Gesetzes vom 28. Mai 2007 (BGBl. I S. 914) bestandskräftig aberkannt
+        hat.
+
+
+
+    4                   Die Steuerbefreiung entfällt auch rückwirkend,
+    wenn die Wirtschaftsgüter im Sinne des Satzes 1 Buchstabe a vom
+    Erwerber an den Veräußerer oder eine ihm nahe stehende Person im Sinne
+    des § 1 Absatz 2 des Außensteuergesetzes überlassen werden und der
+    Veräußerer oder eine ihm nahe stehende Person im Sinne des § 1 Absatz
+    2 des Außensteuergesetzes nach Ablauf einer Frist von zwei Jahren seit
+    Eintragung des Erwerbers als REIT-Aktiengesellschaft in das
+    Handelsregister an dieser mittelbar oder unmittelbar zu mehr als 50
+    Prozent beteiligt ist.
+    5                   Der Grundstückserwerber haftet für die sich aus
+    dem rückwirkenden Wegfall der Steuerbefreiung ergebenden Steuern;
+
+
+71. der aus einer öffentlichen Kasse gezahlte Zuschuss
+
+    a)  für den Erwerb eines Anteils an einer Kapitalgesellschaft in Höhe von
+        20 Prozent der Anschaffungskosten, höchstens jedoch 100 000 Euro.
+        Voraussetzung ist, dass
+
+        aa) der Anteil an der Kapitalgesellschaft länger als drei Jahre gehalten
+            wird,
+
+
+        bb) die Kapitalgesellschaft, deren Anteil erworben wird,
+
+            aaa) nicht älter ist als sieben Jahre, wobei das Datum der Eintragung der
+                Gesellschaft in das Handelsregister maßgeblich ist,
+
+
+            bbb) weniger als 50 Mitarbeiter (Vollzeitäquivalente) hat,
+
+
+            ccc) einen Jahresumsatz oder eine Jahresbilanzsumme von höchstens 10
+                Millionen Euro hat und
+
+
+            ddd) nicht an einem regulierten Markt notiert ist und keine solche
+                Notierung vorbereitet,
+
+
+
+
+
+        cc) der Zuschussempfänger das 18. Lebensjahr vollendet hat oder eine GmbH
+            oder Unternehmergesellschaft ist, bei der mindestens ein
+            Gesellschafter das 18. Lebensjahr vollendet hat und
+
+
+        dd) für den Erwerb des Anteils kein Fremdkapital eingesetzt wird. Wird der
+            Anteil von einer GmbH oder Unternehmergesellschaft im Sinne von
+            Doppelbuchstabe cc erworben, gehören auch solche Darlehen zum
+            Fremdkapital, die der GmbH oder Unternehmergesellschaft von ihren
+            Anteilseignern gewährt werden und die von der GmbH oder
+            Unternehmergesellschaft zum Erwerb des Anteils eingesetzt werden.
+
+
+
+
+
+    b)  anlässlich der Veräußerung eines Anteils an einer Kapitalgesellschaft
+        im Sinne von Buchstabe a in Höhe von 25 Prozent des
+        Veräußerungsgewinns, wenn
+
+        aa) der Veräußerer eine natürliche Person ist,
+
+
+        bb) bei Erwerb des veräußerten Anteils bereits ein Zuschuss im Sinne von
+            Buchstabe a gezahlt und nicht zurückgefordert wurde,
+
+
+        cc) der veräußerte Anteil frühestens drei Jahre (Mindesthaltedauer) und
+            spätestens zehn Jahre (Höchsthaltedauer) nach Anteilserwerb veräußert
+            wurde,
+
+
+        dd) der Veräußerungsgewinn nach Satz 2 mindestens 2 000 Euro beträgt und
+
+
+        ee) der Zuschuss auf 80 Prozent der Anschaffungskosten begrenzt ist.
+
+
+
+        Veräußerungsgewinn im Sinne von Satz 1 ist der Betrag, um den der
+        Veräußerungspreis die Anschaffungskosten einschließlich eines
+        gezahlten Agios übersteigt. Erwerbsneben- und Veräußerungskosten sind
+        nicht zu berücksichtigen.
+
+
+
+
+
+
+
+
+#### § 3a Sanierungserträge
+
+(1)
+1             Betriebsvermögensmehrungen oder Betriebseinnahmen aus
+einem Schuldenerlass zum Zwecke einer unternehmensbezogenen Sanierung
+im Sinne des Absatzes 2 (Sanierungsertrag) sind steuerfrei.
+2             Sind Betriebsvermögensmehrungen oder Betriebseinnahmen
+aus einem Schuldenerlass nach Satz 1 steuerfrei, sind steuerliche
+Wahlrechte in dem Jahr, in dem ein Sanierungsertrag erzielt wird
+(Sanierungsjahr) und im Folgejahr im zu sanierenden Unternehmen
+gewinnmindernd auszuüben.
+3             Insbesondere ist der niedrigere Teilwert, der nach § 6
+Absatz 1 Nummer 1 Satz 2 und Nummer 2 Satz 2 angesetzt werden kann, im
+Sanierungsjahr und im Folgejahr anzusetzen.
+
+(2) Eine unternehmensbezogene Sanierung liegt vor, wenn der
+Steuerpflichtige für den Zeitpunkt des Schuldenerlasses die
+Sanierungsbedürftigkeit und die Sanierungsfähigkeit des Unternehmens,
+die Sanierungseignung des betrieblich begründeten Schuldenerlasses und
+die Sanierungsabsicht der Gläubiger nachweist.
+
+(3)
+1             Nicht abziehbare Beträge im Sinne des § 3c Absatz 4, die
+in Veranlagungszeiträumen vor dem Sanierungsjahr und im Sanierungsjahr
+anzusetzen sind, mindern den Sanierungsertrag.
+2             Dieser Betrag mindert nacheinander
+
+1.  den auf Grund einer Verpflichtungsübertragung im Sinne des § 4f Absatz
+    1 Satz 1 in den dem Wirtschaftsjahr der Übertragung nachfolgenden 14
+    Jahren verteilt abziehbaren Aufwand des zu sanierenden Unternehmens,
+    es sei denn, der Aufwand ist gemäß § 4f Absatz 1 Satz 7 auf einen
+    Rechtsnachfolger übergegangen, der die Verpflichtung übernommen hat
+    und insoweit der Regelung des § 5 Absatz 7 unterliegt.
+    2                   Entsprechendes gilt in Fällen des § 4f Absatz 2;
+
+
+2.  den nach § 15a ausgleichsfähigen oder verrechenbaren Verlust des
+    Unternehmers (Mitunternehmers) des zu sanierenden Unternehmens des
+    Sanierungsjahrs;
+
+
+3.  den zum Ende des dem Sanierungsjahr vorangegangenen Wirtschaftsjahrs
+    nach § 15a festgestellten verrechenbaren Verlust des Unternehmers
+    (Mitunternehmers) des zu sanierenden Unternehmens;
+
+
+4.  den nach § 15b ausgleichsfähigen oder verrechenbaren Verlust derselben
+    Einkunftsquelle des Unternehmers (Mitunternehmers) des
+    Sanierungsjahrs; bei der Verlustermittlung bleibt der Sanierungsertrag
+    unberücksichtigt;
+
+
+5.  den zum Ende des dem Sanierungsjahr vorangegangenen Jahrs nach § 15b
+    festgestellten verrechenbaren Verlust derselben Einkunftsquelle des
+    Unternehmers (Mitunternehmers);
+
+
+6.  den nach § 15 Absatz 4 ausgleichsfähigen oder nicht abziehbaren
+    Verlust des zu sanierenden Unternehmens des Sanierungsjahrs;
+
+
+7.  den zum Ende des dem Sanierungsjahr vorangegangenen Jahrs nach § 15
+    Absatz 4 festgestellten in Verbindung mit § 10d Absatz 4 verbleibenden
+    Verlustvortrag, soweit er auf das zu sanierende Unternehmen entfällt;
+
+
+8.  den Verlust des Sanierungsjahrs des zu sanierenden Unternehmens;
+
+
+9.  den ausgleichsfähigen Verlust aus allen Einkunftsarten des
+    Veranlagungszeitraums, in dem das Sanierungsjahr endet;
+
+
+10. im Sanierungsjahr ungeachtet des § 10d Absatz 2 den nach § 10d Absatz
+    4 zum Ende des Vorjahrs gesondert festgestellten Verlustvortrag;
+
+
+11. in der nachfolgenden Reihenfolge den zum Ende des Vorjahrs
+    festgestellten und den im Sanierungsjahr entstehenden verrechenbaren
+    Verlust oder die negativen Einkünfte
+
+    a)  nach § 15a,
+
+
+    b)  nach § 15b anderer Einkunftsquellen,
+
+
+    c)  nach § 15 Absatz 4 anderer Betriebe und Mitunternehmeranteile,
+
+
+    d)  nach § 2a,
+
+
+    e)  nach § 2b,
+
+
+    f)  nach § 23 Absatz 3 Satz 7 und 8,
+
+
+    g)  nach sonstigen Vorschriften;
+
+
+
+
+
+12. ungeachtet der Beträge des § 10d Absatz 1 Satz 1 die negativen
+    Einkünfte nach § 10d Absatz 1 Satz 1 des Folgejahrs.
+    2                   Ein Verlustrücktrag nach § 10d Absatz 1 Satz 1 ist
+    nur möglich, soweit die Beträge nach § 10d Absatz 1 Satz 1 durch den
+    verbleibenden Sanierungsertrag im Sinne des Satzes 4 nicht
+    überschritten werden;
+
+
+13. den zum Ende des Vorjahrs festgestellten und den im Sanierungsjahr
+    entstehenden
+
+    a)  Zinsvortrag nach § 4h Absatz 1 Satz 5,
+
+
+    b)  EBITDA-Vortrag nach § 4h Absatz 1 Satz 3.
+        2                         Die Minderung des EBITDA-Vortrags des
+        Sanierungsjahrs und der EBITDA-Vorträge aus vorangegangenen
+        Wirtschaftsjahren erfolgt in ihrer zeitlichen Reihenfolge.
+
+
+
+
+
+
+3             Übersteigt der geminderte Sanierungsertrag nach Satz 1
+die nach Satz 2 mindernden Beträge, mindern sich insoweit nach Maßgabe
+des Satzes 2 auch der verteilt abziehbare Aufwand, Verluste, negative
+Einkünfte, Zinsvorträge oder EBITDA-Vorträge einer dem
+Steuerpflichtigen nahestehenden Person, wenn diese die erlassenen
+Schulden innerhalb eines Zeitraums von fünf Jahren vor dem
+Schuldenerlass auf das zu sanierende Unternehmen übertragen hat und
+soweit der entsprechende verteilt abziehbare Aufwand, die Verluste,
+negativen Einkünfte, Zinsvorträge oder EBITDA-Vorträge zum Ablauf des
+Wirtschaftsjahrs der Übertragung bereits entstanden waren.
+4             Der sich nach den Sätzen 2 und 3 ergebende Betrag ist
+der verbleibende Sanierungsertrag.
+5             Die nach den Sätzen 2 und 3 mindernden Beträge bleiben
+endgültig außer Ansatz und nehmen an den entsprechenden Feststellungen
+der verrechenbaren Verluste, verbleibenden Verlustvorträge und
+sonstigen Feststellungen nicht teil.
+
+(3a) Bei Zusammenveranlagung sind auch die laufenden Beträge und
+Verlustvorträge des anderen Ehegatten einzubeziehen.
+
+(4)
+1             Sind Einkünfte aus Land- und Forstwirtschaft,
+Gewerbebetrieb oder selbständiger Arbeit nach § 180 Absatz 1 Satz 1
+Nummer 2 Buchstabe a oder b der Abgabenordnung gesondert
+festzustellen, ist auch die Höhe des Sanierungsertrags nach Absatz 1
+Satz 1 sowie die Höhe der nach Absatz 3 Satz 2 Nummer 1 bis 6 und 13
+mindernden Beträge gesondert festzustellen.
+2             Zuständig für die gesonderte Feststellung nach Satz 1
+ist das Finanzamt, das für die gesonderte Feststellung nach § 180
+Absatz 1 Satz 1 Nummer 2 der Abgabenordnung zuständig ist.
+3             Wurden verrechenbare Verluste und Verlustvorträge ohne
+Berücksichtigung des Absatzes 3 Satz 2 bereits festgestellt oder
+ändern sich die nach Absatz 3 Satz 2 mindernden Beträge, ist der
+entsprechende Feststellungsbescheid insoweit zu ändern.
+4             Das gilt auch dann, wenn der Feststellungsbescheid
+bereits bestandskräftig geworden ist; die Feststellungsfrist endet
+insoweit nicht, bevor die Festsetzungsfrist des
+Einkommensteuerbescheids oder Körperschaftsteuerbescheids für das
+Sanierungsjahr abgelaufen ist.
+
+(5)
+1             Erträge aus einer nach den §§ 286 ff. der
+Insolvenzordnung erteilten Restschuldbefreiung, einem Schuldenerlass
+auf Grund eines außergerichtlichen Schuldenbereinigungsplans zur
+Vermeidung eines Verbraucherinsolvenzverfahrens nach den §§ 304 ff.
+der Insolvenzordnung oder auf Grund eines Schuldenbereinigungsplans,
+dem in einem Verbraucherinsolvenzverfahren zugestimmt wurde oder wenn
+diese Zustimmung durch das Gericht ersetzt wurde, sind, soweit es sich
+um Betriebsvermögensmehrungen oder Betriebseinnahmen handelt,
+ebenfalls steuerfrei, auch wenn die Voraussetzungen einer
+unternehmensbezogenen Sanierung im Sinne des Absatzes 2 nicht
+vorliegen.
+2             Absatz 3 gilt entsprechend.
+
+
+#### § 3b Steuerfreiheit von Zuschlägen für Sonntags-, Feiertags- oder Nachtarbeit
+
+(1) Steuerfrei sind Zuschläge, die für tatsächlich geleistete
+Sonntags-, Feiertags- oder Nachtarbeit neben dem Grundlohn gezahlt
+werden, soweit sie
+
+1.  für Nachtarbeit 25 Prozent,
+
+
+2.  vorbehaltlich der Nummern 3 und 4 für Sonntagsarbeit 50 Prozent,
+
+
+3.  vorbehaltlich der Nummer 4 für Arbeit am 31. Dezember ab 14 Uhr und an
+    den gesetzlichen Feiertagen 125 Prozent,
+
+
+4.  für Arbeit am 24. Dezember ab 14 Uhr, am 25. und 26. Dezember sowie am
+    1\. Mai 150 Prozent
+
+
+
+des Grundlohns nicht übersteigen.
+
+(2)
+1             Grundlohn ist der laufende Arbeitslohn, der dem
+Arbeitnehmer bei der für ihn maßgebenden regelmäßigen Arbeitszeit für
+den jeweiligen Lohnzahlungszeitraum zusteht; er ist in einen
+Stundenlohn umzurechnen und mit höchstens 50 Euro anzusetzen.
+2             Nachtarbeit ist die Arbeit in der Zeit von 20 Uhr bis 6
+Uhr.
+3             Sonntagsarbeit und Feiertagsarbeit ist die Arbeit in der
+Zeit von 0 Uhr bis 24 Uhr des jeweiligen Tages.
+4             Die gesetzlichen Feiertage werden durch die am Ort der
+Arbeitsstätte geltenden Vorschriften bestimmt.
+
+(3) Wenn die Nachtarbeit vor 0 Uhr aufgenommen wird, gilt abweichend
+von den Absätzen 1 und 2 Folgendes:
+
+1.  Für Nachtarbeit in der Zeit von 0 Uhr bis 4 Uhr erhöht sich der
+    Zuschlagssatz auf 40 Prozent,
+
+
+2.  als Sonntagsarbeit und Feiertagsarbeit gilt auch die Arbeit in der
+    Zeit von 0 Uhr bis 4 Uhr des auf den Sonntag oder Feiertag folgenden
+    Tages.
+
+
+
+
+
+#### § 3c Anteilige Abzüge
+
+(1) Ausgaben dürfen, soweit sie mit steuerfreien Einnahmen in
+unmittelbarem wirtschaftlichen Zusammenhang stehen, nicht als
+Betriebsausgaben oder Werbungskosten abgezogen werden; Absatz 2 bleibt
+unberührt.
+
+(2)
+1             Betriebsvermögensminderungen, Betriebsausgaben,
+Veräußerungskosten oder Werbungskosten, die mit den dem § 3 Nummer 40
+zugrunde liegenden Betriebsvermögensmehrungen oder Einnahmen oder mit
+Vergütungen nach § 3 Nummer 40a in wirtschaftlichem Zusammenhang
+stehen, dürfen unabhängig davon, in welchem Veranlagungszeitraum die
+Betriebsvermögensmehrungen oder Einnahmen anfallen, bei der Ermittlung
+der Einkünfte nur zu 60 Prozent abgezogen werden; Entsprechendes gilt,
+wenn bei der Ermittlung der Einkünfte der Wert des Betriebsvermögens
+oder des Anteils am Betriebsvermögen oder die Anschaffungs- oder
+Herstellungskosten oder der an deren Stelle tretende Wert mindernd zu
+berücksichtigen sind.
+2             Satz 1 ist auch für Betriebsvermögensminderungen oder
+Betriebsausgaben im Zusammenhang mit einer Darlehensforderung oder aus
+der Inanspruchnahme von Sicherheiten anzuwenden, die für ein Darlehen
+hingegeben wurden, wenn das Darlehen oder die Sicherheit von einem
+Steuerpflichtigen gewährt wird, der zu mehr als einem Viertel
+unmittelbar oder mittelbar am Grund- oder Stammkapital der
+Körperschaft, der das Darlehen gewährt wurde, beteiligt ist oder war.
+3             Satz 2 ist insoweit nicht anzuwenden, als nachgewiesen
+wird, dass auch ein fremder Dritter das Darlehen bei sonst gleichen
+Umständen gewährt oder noch nicht zurückgefordert hätte; dabei sind
+nur die eigenen Sicherungsmittel der Körperschaft zu berücksichtigen.
+4             Die Sätze 2 und 3 gelten entsprechend für Forderungen
+aus Rechtshandlungen, die einer Darlehensgewährung wirtschaftlich
+vergleichbar sind.
+5             Gewinne aus dem Ansatz des nach § 6 Absatz 1 Nummer 2
+Satz 3 maßgeblichen Werts bleiben bei der Ermittlung der Einkünfte
+außer Ansatz, soweit auf die vorangegangene Teilwertabschreibung Satz
+2 angewendet worden ist.
+6             Satz 1 ist außerdem ungeachtet eines wirtschaftlichen
+Zusammenhangs mit den dem § 3 Nummer 40 zugrunde liegenden
+Betriebsvermögensmehrungen oder Einnahmen oder mit Vergütungen nach §
+3 Nummer 40a auch auf Betriebsvermögensminderungen, Betriebsausgaben
+oder Veräußerungskosten eines Gesellschafters einer Körperschaft
+anzuwenden, soweit diese mit einer im Gesellschaftsverhältnis
+veranlassten unentgeltlichen Überlassung von Wirtschaftsgütern an
+diese Körperschaft oder bei einer teilentgeltlichen Überlassung von
+Wirtschaftsgütern mit dem unentgeltlichen Teil in Zusammenhang stehen
+und der Steuerpflichtige zu mehr als einem Viertel unmittelbar oder
+mittelbar am Grund-oder Stammkapital dieser Körperschaft beteiligt ist
+oder war.
+7             Für die Anwendung des Satzes 1 ist die Absicht zur
+Erzielung von Betriebsvermögensmehrungen oder Einnahmen im Sinne des §
+3 Nummer 40 oder von Vergütungen im Sinne des § 3 Nummer 40a
+ausreichend.
+8             Satz 1 gilt auch für Wertminderungen des Anteils an
+einer Organgesellschaft, die nicht auf Gewinnausschüttungen
+zurückzuführen sind.
+9             § 8b Absatz 10 des Körperschaftsteuergesetzes gilt
+sinngemäß.
+
+(3) Betriebsvermögensminderungen, Betriebsausgaben oder
+Veräußerungskosten, die mit den Betriebsvermögensmehrungen oder
+Einnahmen im Sinne des § 3 Nummer 70 in wirtschaftlichem Zusammenhang
+stehen, dürfen unabhängig davon, in welchem Veranlagungszeitraum die
+Betriebsvermögensmehrungen oder Einnahmen anfallen, nur zur Hälfte
+abgezogen werden.
+
+(4)
+1             Betriebsvermögensminderungen oder Betriebsausgaben, die
+mit einem steuerfreien Sanierungsertrag im Sinne des § 3a in
+unmittelbarem wirtschaftlichem Zusammenhang stehen, dürfen unabhängig
+davon, in welchem Veranlagungszeitraum der Sanierungsertrag entsteht,
+nicht abgezogen werden.
+2             Satz 1 gilt nicht, soweit Betriebsvermögensminderungen
+oder Betriebsausgaben zur Erhöhung von Verlustvorträgen geführt haben,
+die nach Maßgabe der in § 3a Absatz 3 getroffenen Regelungen
+entfallen.
+3             Zu den Betriebsvermögensminderungen oder
+Betriebsausgaben im Sinne des Satzes 1 gehören auch Aufwendungen im
+Zusammenhang mit einem Besserungsschein und vergleichbare
+Aufwendungen.
+4             Satz 1 gilt für Betriebsvermögensminderungen oder
+Betriebsausgaben, die nach dem Sanierungsjahr entstehen, nur insoweit,
+als noch ein verbleibender Sanierungsertrag im Sinne von § 3a Absatz 3
+Satz 4 vorhanden ist.
+5             Wurden Betriebsvermögensminderungen oder
+Betriebsausgaben im Sinne des Satzes 1 bereits bei einer
+Steuerfestsetzung oder einer gesonderten Feststellung nach § 180
+Absatz 1 Satz 1 der Abgabenordnung gewinnmindernd berücksichtigt, ist
+der entsprechende Steuer- oder Feststellungsbescheid insoweit zu
+ändern.
+6             Das gilt auch dann, wenn der Steuer- oder
+Feststellungsbescheid bereits bestandskräftig geworden ist; die
+Festsetzungsfrist endet insoweit nicht, bevor die Festsetzungsfrist
+für das Sanierungsjahr abgelaufen ist.
+
+

@@ -1,0 +1,2039 @@
+# Einkommensteuergesetz (EStG)
+## Teil 3/21: II. - Einkommen › 3. - Gewinn
+*§ 4 – § 6* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 3 G v. 3.6.2021 I 1498
+
+### 3. - Gewinn
+
+
+
+#### § 4 Gewinnbegriff im Allgemeinen
+
+(1)
+1             Gewinn ist der Unterschiedsbetrag zwischen dem
+Betriebsvermögen am Schluss des Wirtschaftsjahres und dem
+Betriebsvermögen am Schluss des vorangegangenen Wirtschaftsjahres,
+vermehrt um den Wert der Entnahmen und vermindert um den Wert der
+Einlagen.
+2             Entnahmen sind alle Wirtschaftsgüter (Barentnahmen,
+Waren, Erzeugnisse, Nutzungen und Leistungen), die der
+Steuerpflichtige dem Betrieb für sich, für seinen Haushalt oder für
+andere betriebsfremde Zwecke im Laufe des Wirtschaftsjahres entnommen
+hat.
+3             Einer Entnahme für betriebsfremde Zwecke steht der
+Ausschluss oder die Beschränkung des Besteuerungsrechts der
+Bundesrepublik Deutschland hinsichtlich des Gewinns aus der
+Veräußerung oder der Nutzung eines Wirtschaftsguts gleich; dies gilt
+auf Antrag auch in den Fällen, in denen die Beschränkung des
+Besteuerungsrechts der Bundesrepublik Deutschland hinsichtlich des
+Gewinns aus der Veräußerung eines Wirtschaftsguts entfällt und in
+einem anderen Staat eine Besteuerung auf Grund des Ausschlusses oder
+der Beschränkung des Besteuerungsrechts dieses Staates hinsichtlich
+des Gewinns aus der Veräußerung des Wirtschaftsguts erfolgt.
+4             Ein Ausschluss oder eine Beschränkung des
+Besteuerungsrechts hinsichtlich des Gewinns aus der Veräußerung eines
+Wirtschaftsguts liegt insbesondere vor, wenn ein bisher einer
+inländischen Betriebsstätte des Steuerpflichtigen zuzuordnendes
+Wirtschaftsgut einer ausländischen Betriebsstätte zuzuordnen ist.
+5             Satz 3 gilt nicht für Anteile an einer Europäischen
+Gesellschaft oder Europäischen Genossenschaft in den Fällen
+
+1.  einer Sitzverlegung der Europäischen Gesellschaft nach Artikel 8 der
+    Verordnung (EG) Nr. 2157/2001 des Rates vom 8. Oktober 2001 über das
+    Statut der Europäischen Gesellschaft (SE) (ABl. EG Nr. L 294 S. 1),
+    zuletzt geändert durch die Verordnung (EG) Nr. 885/2004 des Rates vom
+    26\. April 2004 (ABl. EU Nr. L 168 S. 1), und
+
+
+2.  einer Sitzverlegung der Europäischen Genossenschaft nach Artikel 7 der
+    Verordnung (EG) Nr. 1435/2003 des Rates vom 22. Juli 2003 über das
+    Statut der Europäischen Genossenschaft (SCE) (ABl. EU Nr. L 207 S. 1).
+
+
+
+6             Ein Wirtschaftsgut wird nicht dadurch entnommen, dass
+der Steuerpflichtige zur Gewinnermittlung nach § 13a übergeht.
+7             Eine Änderung der Nutzung eines Wirtschaftsguts, die bei
+Gewinnermittlung nach Satz 1 keine Entnahme ist, ist auch bei
+Gewinnermittlung nach § 13a keine Entnahme.
+8             Einlagen sind alle Wirtschaftsgüter (Bareinzahlungen und
+sonstige Wirtschaftsgüter), die der Steuerpflichtige dem Betrieb im
+Laufe des Wirtschaftsjahres zugeführt hat; einer Einlage steht die
+Begründung des Besteuerungsrechts der Bundesrepublik Deutschland
+hinsichtlich des Gewinns aus der Veräußerung eines Wirtschaftsguts
+gleich.
+9             In den Fällen des Satzes 3 zweiter Halbsatz gilt das
+Wirtschaftsgut als unmittelbar nach der Entnahme wieder eingelegt.
+10             Bei der Ermittlung des Gewinns sind die Vorschriften
+über die Betriebsausgaben, über die Bewertung und über die Absetzung
+für Abnutzung oder Substanzverringerung zu befolgen.
+
+(2)
+1             Der Steuerpflichtige darf die Vermögensübersicht
+(Bilanz) auch nach ihrer Einreichung beim Finanzamt ändern, soweit sie
+den Grundsätzen ordnungsmäßiger Buchführung unter Befolgung der
+Vorschriften dieses Gesetzes nicht entspricht; diese Änderung ist
+nicht zulässig, wenn die Vermögensübersicht (Bilanz) einer
+Steuerfestsetzung zugrunde liegt, die nicht mehr aufgehoben oder
+geändert werden kann.
+2             Darüber hinaus ist eine Änderung der Vermögensübersicht
+(Bilanz) nur zulässig, wenn sie in einem engen zeitlichen und
+sachlichen Zusammenhang mit einer Änderung nach Satz 1 steht und
+soweit die Auswirkung der Änderung nach Satz 1 auf den Gewinn reicht.
+
+(3)
+1             Steuerpflichtige, die nicht auf Grund gesetzlicher
+Vorschriften verpflichtet sind, Bücher zu führen und regelmäßig
+Abschlüsse zu machen, und die auch keine Bücher führen und keine
+Abschlüsse machen, können als Gewinn den Überschuss der
+Betriebseinnahmen über die Betriebsausgaben ansetzen.
+2             Hierbei scheiden Betriebseinnahmen und Betriebsausgaben
+aus, die im Namen und für Rechnung eines anderen vereinnahmt und
+verausgabt werden (durchlaufende Posten).
+3             Die Vorschriften über die Bewertungsfreiheit für
+geringwertige Wirtschaftsgüter (§ 6 Absatz 2), die Bildung eines
+Sammelpostens (§ 6 Absatz 2a) und über die Absetzung für Abnutzung
+oder Substanzverringerung sind zu befolgen.
+4             Die Anschaffungs- oder Herstellungskosten für nicht
+abnutzbare Wirtschaftsgüter des Anlagevermögens, für Anteile an
+Kapitalgesellschaften, für Wertpapiere und vergleichbare nicht
+verbriefte Forderungen und Rechte, für Grund und Boden sowie Gebäude
+des Umlaufvermögens sind erst im Zeitpunkt des Zuflusses des
+Veräußerungserlöses oder bei Entnahme im Zeitpunkt der Entnahme als
+Betriebsausgaben zu berücksichtigen.
+5             Die Wirtschaftsgüter des Anlagevermögens und
+Wirtschaftsgüter des Umlaufvermögens im Sinne des Satzes 4 sind unter
+Angabe des Tages der Anschaffung oder Herstellung und der
+Anschaffungs- oder Herstellungskosten oder des an deren Stelle
+getretenen Werts in besondere, laufend zu führende Verzeichnisse
+aufzunehmen.
+
+(4) Betriebsausgaben sind die Aufwendungen, die durch den Betrieb
+veranlasst sind.
+
+(4a)
+1             Schuldzinsen sind nach Maßgabe der Sätze 2 bis 4 nicht
+abziehbar, wenn Überentnahmen getätigt worden sind.
+2             Eine Überentnahme ist der Betrag, um den die Entnahmen
+die Summe des Gewinns und der Einlagen des Wirtschaftsjahres
+übersteigen.
+3             Die nicht abziehbaren Schuldzinsen werden typisiert mit
+6 Prozent der Überentnahme des Wirtschaftsjahres zuzüglich der
+Überentnahmen vorangegangener Wirtschaftsjahre und abzüglich der
+Beträge, um die in den vorangegangenen Wirtschaftsjahren der Gewinn
+und die Einlagen die Entnahmen überstiegen haben (Unterentnahmen),
+ermittelt; bei der Ermittlung der Überentnahme ist vom Gewinn ohne
+Berücksichtigung der nach Maßgabe dieses Absatzes nicht abziehbaren
+Schuldzinsen auszugehen.
+4             Der sich dabei ergebende Betrag, höchstens jedoch der um
+2 050 Euro verminderte Betrag der im Wirtschaftsjahr angefallenen
+Schuldzinsen, ist dem Gewinn hinzuzurechnen.
+5             Der Abzug von Schuldzinsen für Darlehen zur Finanzierung
+von Anschaffungs- oder Herstellungskosten von Wirtschaftsgütern des
+Anlagevermögens bleibt unberührt.
+6             Die Sätze 1 bis 5 sind bei Gewinnermittlung nach § 4
+Absatz 3 sinngemäß anzuwenden; hierzu sind Entnahmen und Einlagen
+gesondert aufzuzeichnen.
+
+(5)
+1             Die folgenden Betriebsausgaben dürfen den Gewinn nicht
+mindern:
+
+1.  Aufwendungen für Geschenke an Personen, die nicht Arbeitnehmer des
+    Steuerpflichtigen sind.
+    2                   Satz 1 gilt nicht, wenn die Anschaffungs- oder
+    Herstellungskosten der dem Empfänger im Wirtschaftsjahr zugewendeten
+    Gegenstände insgesamt 35 Euro nicht übersteigen;
+
+
+2.  Aufwendungen für die Bewirtung von Personen aus geschäftlichem Anlass,
+    soweit sie 70 Prozent der Aufwendungen übersteigen, die nach der
+    allgemeinen Verkehrsauffassung als angemessen anzusehen und deren Höhe
+    und betriebliche Veranlassung nachgewiesen sind.
+    2                   Zum Nachweis der Höhe und der betrieblichen
+    Veranlassung der Aufwendungen hat der Steuerpflichtige schriftlich die
+    folgenden Angaben zu machen: Ort, Tag, Teilnehmer und Anlass der
+    Bewirtung sowie Höhe der Aufwendungen.
+    3                   Hat die Bewirtung in einer Gaststätte
+    stattgefunden, so genügen Angaben zu dem Anlass und den Teilnehmern
+    der Bewirtung; die Rechnung über die Bewirtung ist beizufügen;
+
+
+3.  Aufwendungen für Einrichtungen des Steuerpflichtigen, soweit sie der
+    Bewirtung, Beherbergung oder Unterhaltung von Personen, die nicht
+    Arbeitnehmer des Steuerpflichtigen sind, dienen (Gästehäuser) und sich
+    außerhalb des Orts eines Betriebs des Steuerpflichtigen befinden;
+
+
+4.  Aufwendungen für Jagd oder Fischerei, für Segeljachten oder
+    Motorjachten sowie für ähnliche Zwecke und für die hiermit
+    zusammenhängenden Bewirtungen;
+
+
+5.  Mehraufwendungen für die Verpflegung des Steuerpflichtigen.
+    2                   Wird der Steuerpflichtige vorübergehend von seiner
+    Wohnung und dem Mittelpunkt seiner dauerhaft angelegten betrieblichen
+    Tätigkeit entfernt betrieblich tätig, sind die Mehraufwendungen für
+    Verpflegung nach Maßgabe des § 9 Absatz 4a abziehbar;
+
+
+6.  Aufwendungen für die Wege des Steuerpflichtigen zwischen Wohnung und
+    Betriebsstätte und für Familienheimfahrten, soweit in den folgenden
+    Sätzen nichts anderes bestimmt ist.
+    2                   Zur Abgeltung dieser Aufwendungen ist § 9 Absatz 1
+    Satz 3 Nummer 4 Satz 2 bis 6 und Nummer 5 Satz 5 bis 7 und Absatz 2
+    entsprechend anzuwenden.
+    3                    Bei der Nutzung eines Kraftfahrzeugs dürfen die
+    Aufwendungen in Höhe des positiven Unterschiedsbetrags zwischen 0,03
+    Prozent des inländischen Listenpreises im Sinne des § 6 Absatz 1
+    Nummer 4 Satz 2 des Kraftfahrzeugs im Zeitpunkt der Erstzulassung je
+    Kalendermonat für jeden Entfernungskilometer und dem sich nach § 9
+    Absatz 1 Satz 3 Nummer 4 Satz 2 bis 6 oder Absatz 2 ergebenden Betrag
+    sowie Aufwendungen für Familienheimfahrten in Höhe des positiven
+    Unterschiedsbetrags zwischen 0,002 Prozent des inländischen
+    Listenpreises im Sinne des § 6 Absatz 1 Nummer 4 Satz 2 für jeden
+    Entfernungskilometer und dem sich nach § 9 Absatz 1 Satz 3 Nummer 5
+    Satz 5 bis 7 oder Absatz 2 ergebenden Betrag den Gewinn nicht mindern;
+    ermittelt der Steuerpflichtige die private Nutzung des Kraftfahrzeugs
+    nach § 6 Absatz 1 Nummer 4 Satz 1 oder Satz 3, treten an die Stelle
+    des mit 0,03 oder 0,002 Prozent des inländischen Listenpreises
+    ermittelten Betrags für Fahrten zwischen Wohnung und Betriebsstätte
+    und für Familienheimfahrten die auf diese Fahrten entfallenden
+    tatsächlichen Aufwendungen; § 6 Absatz 1 Nummer 4 Satz 3 zweiter
+    Halbsatz gilt sinngemäß.
+    4                   § 9 Absatz 1 Satz 3 Nummer 4 Satz 8 und Nummer 5
+    Satz 9 gilt entsprechend;
+
+
+6a. die Mehraufwendungen für eine betrieblich veranlasste doppelte
+    Haushaltsführung, soweit sie die nach § 9 Absatz 1 Satz 3 Nummer 5
+    Satz 1 bis 4 abziehbaren Beträge und die Mehraufwendungen für
+    betrieblich veranlasste Übernachtungen, soweit sie die nach § 9 Absatz
+    1 Satz 3 Nummer 5a abziehbaren Beträge übersteigen;
+
+
+6b. Aufwendungen für ein häusliches Arbeitszimmer sowie die Kosten der
+    Ausstattung.
+    2                   Dies gilt nicht, wenn für die betriebliche oder
+    berufliche Tätigkeit kein anderer Arbeitsplatz zur Verfügung steht.
+    3                   In diesem Fall wird die Höhe der abziehbaren
+    Aufwendungen auf 1 250 Euro begrenzt; die Beschränkung der Höhe nach
+    gilt nicht, wenn das Arbeitszimmer den Mittelpunkt der gesamten
+    betrieblichen und beruflichen Betätigung bildet.
+    4                   Liegt kein häusliches Arbeitszimmer vor oder wird
+    auf einen Abzug der Aufwendungen für ein häusliches Arbeitszimmer nach
+    den Sätzen 2 und 3 verzichtet, kann der Steuerpflichtige für jeden
+    Kalendertag, an dem er seine betriebliche oder berufliche Tätigkeit
+    ausschließlich in der häuslichen Wohnung ausübt und keine außerhalb
+    der häuslichen Wohnung belegene Betätigungsstätte aufsucht, für seine
+    gesamte betriebliche und berufliche Betätigung einen Betrag von 5 Euro
+    abziehen, höchstens 600 Euro im Wirtschafts- oder Kalenderjahr;
+
+
+7.  andere als die in den Nummern 1 bis 6 und 6b bezeichneten
+    Aufwendungen, die die Lebensführung des Steuerpflichtigen oder anderer
+    Personen berühren, soweit sie nach allgemeiner Verkehrsauffassung als
+    unangemessen anzusehen sind;
+
+
+8.  Geldbußen, Ordnungsgelder und Verwarnungsgelder, die von einem Gericht
+    oder einer Behörde im Geltungsbereich dieses Gesetzes oder von einem
+    Mitgliedstaat oder von Organen der Europäischen Union festgesetzt
+    wurden sowie damit zusammenhängende Aufwendungen.
+    2                   Dasselbe gilt für Leistungen zur Erfüllung von
+    Auflagen oder Weisungen, die in einem berufsgerichtlichen Verfahren
+    erteilt werden, soweit die Auflagen oder Weisungen nicht lediglich der
+    Wiedergutmachung des durch die Tat verursachten Schadens dienen.
+    3                   Die Rückzahlung von Ausgaben im Sinne der Sätze 1
+    und 2 darf den Gewinn nicht erhöhen.
+    4                   Das Abzugsverbot für Geldbußen gilt nicht, soweit
+    der wirtschaftliche Vorteil, der durch den Gesetzesverstoß erlangt
+    wurde, abgeschöpft worden ist, wenn die Steuern vom Einkommen und
+    Ertrag, die auf den wirtschaftlichen Vorteil entfallen, nicht
+    abgezogen worden sind; Satz 3 ist insoweit nicht anzuwenden;
+
+
+8a. Zinsen auf hinterzogene Steuern nach § 235 der Abgabenordnung und
+    Zinsen nach § 233a der Abgabenordnung, soweit diese nach § 235 Absatz
+    4 der Abgabenordnung auf die Hinterziehungszinsen angerechnet werden;
+
+
+9.  Ausgleichszahlungen, die in den Fällen der §§ 14 und 17 des
+    Körperschaftsteuergesetzes an außenstehende Anteilseigner geleistet
+    werden;
+
+
+10. die Zuwendung von Vorteilen sowie damit zusammenhängende Aufwendungen,
+    wenn die Zuwendung der Vorteile eine rechtswidrige Handlung darstellt,
+    die den Tatbestand eines Strafgesetzes oder eines Gesetzes
+    verwirklicht, das die Ahndung mit einer Geldbuße zulässt.
+    2                   Gerichte, Staatsanwaltschaften oder
+    Verwaltungsbehörden haben Tatsachen, die sie dienstlich erfahren und
+    die den Verdacht einer Tat im Sinne des Satzes 1 begründen, der
+    Finanzbehörde für Zwecke des Besteuerungsverfahrens und zur Verfolgung
+    von Steuerstraftaten und Steuerordnungswidrigkeiten mitzuteilen.
+    3                   Die Finanzbehörde teilt Tatsachen, die den
+    Verdacht einer Straftat oder einer Ordnungswidrigkeit im Sinne des
+    Satzes 1 begründen, der Staatsanwaltschaft oder der Verwaltungsbehörde
+    mit.
+    4                   Diese unterrichten die Finanzbehörde von dem
+    Ausgang des Verfahrens und den zugrundeliegenden Tatsachen;
+
+
+11. Aufwendungen, die mit unmittelbaren oder mittelbaren Zuwendungen von
+    nicht einlagefähigen Vorteilen an natürliche oder juristische Personen
+    oder Personengesellschaften zur Verwendung in Betrieben in
+    tatsächlichem oder wirtschaftlichem Zusammenhang stehen, deren Gewinn
+    nach § 5a Absatz 1 ermittelt wird;
+
+
+12. Zuschläge nach § 162 Absatz 4 der Abgabenordnung;
+
+
+13. Jahresbeiträge nach § 12 Absatz 2 des Restrukturierungsfondsgesetzes.
+
+
+
+2             Das Abzugsverbot gilt nicht, soweit die in den Nummern 2
+bis 4 bezeichneten Zwecke Gegenstand einer mit Gewinnabsicht
+ausgeübten Betätigung des Steuerpflichtigen sind.
+3             § 12 Nummer 1 bleibt unberührt.
+
+(5a) (weggefallen)
+
+(5b) Die Gewerbesteuer und die darauf entfallenden Nebenleistungen
+sind keine Betriebsausgaben.
+
+(6) Aufwendungen zur Förderung staatspolitischer Zwecke (§ 10b Absatz
+2) sind keine Betriebsausgaben.
+
+(7)
+1             Aufwendungen im Sinne des Absatzes 5 Satz 1 Nummer 1 bis
+4, 6b und 7 sind einzeln und getrennt von den sonstigen
+Betriebsausgaben aufzuzeichnen.
+2             Soweit diese Aufwendungen nicht bereits nach Absatz 5
+vom Abzug ausgeschlossen sind, dürfen sie bei der Gewinnermittlung nur
+berücksichtigt werden, wenn sie nach Satz 1 besonders aufgezeichnet
+sind.
+
+(8) Für Erhaltungsaufwand bei Gebäuden in Sanierungsgebieten und
+städtebaulichen Entwicklungsbereichen sowie bei Baudenkmalen gelten
+die §§ 11a und 11b entsprechend.
+
+(9)
+1             Aufwendungen des Steuerpflichtigen für seine
+Berufsausbildung oder für sein Studium sind nur dann Betriebsausgaben,
+wenn der Steuerpflichtige zuvor bereits eine Erstausbildung
+(Berufsausbildung oder Studium) abgeschlossen hat.
+2             § 9 Absatz 6 Satz 2 bis 5 gilt entsprechend.
+
+(10) § 9 Absatz 1 Satz 3 Nummer 5b ist entsprechend anzuwenden.
+
+
+#### § 4a Gewinnermittlungszeitraum, Wirtschaftsjahr
+
+(1)
+1             Bei Land- und Forstwirten und bei Gewerbetreibenden ist
+der Gewinn nach dem Wirtschaftsjahr zu ermitteln.
+2             Wirtschaftsjahr ist
+
+1.  bei Land- und Forstwirten der Zeitraum vom 1. Juli bis zum 30. Juni.
+    2                   Durch Rechtsverordnung kann für einzelne Gruppen
+    von Land- und Forstwirten ein anderer Zeitraum bestimmt werden, wenn
+    das aus wirtschaftlichen Gründen erforderlich ist;
+
+
+2.  bei Gewerbetreibenden, deren Firma im Handelsregister eingetragen ist,
+    der Zeitraum, für den sie regelmäßig Abschlüsse machen.
+    2                   Die Umstellung des Wirtschaftsjahres auf einen vom
+    Kalenderjahr abweichenden Zeitraum ist steuerlich nur wirksam, wenn
+    sie im Einvernehmen mit dem Finanzamt vorgenommen wird;
+
+
+3.  bei anderen Gewerbetreibenden das Kalenderjahr.
+    2                   Sind sie gleichzeitig buchführende Land- und
+    Forstwirte, so können sie mit Zustimmung des Finanzamts den nach
+    Nummer 1 maßgebenden Zeitraum als Wirtschaftsjahr für den
+    Gewerbebetrieb bestimmen, wenn sie für den Gewerbebetrieb Bücher
+    führen und für diesen Zeitraum regelmäßig Abschlüsse machen.
+
+
+
+
+(2) Bei Land- und Forstwirten und bei Gewerbetreibenden, deren
+Wirtschaftsjahr vom Kalenderjahr abweicht, ist der Gewinn aus Land-
+und Forstwirtschaft oder aus Gewerbebetrieb bei der Ermittlung des
+Einkommens in folgender Weise zu berücksichtigen:
+
+1.  Bei Land- und Forstwirten ist der Gewinn des Wirtschaftsjahres auf das
+    Kalenderjahr, in dem das Wirtschaftsjahr beginnt, und auf das
+    Kalenderjahr, in dem das Wirtschaftsjahr endet, entsprechend dem
+    zeitlichen Anteil aufzuteilen.
+    2                   Bei der Aufteilung sind Veräußerungsgewinne im
+    Sinne des § 14 auszuscheiden und dem Gewinn des Kalenderjahres
+    hinzuzurechnen, in dem sie entstanden sind;
+
+
+2.  bei Gewerbetreibenden gilt der Gewinn des Wirtschaftsjahres als in dem
+    Kalenderjahr bezogen, in dem das Wirtschaftsjahr endet.
+
+
+
+
+
+#### § 4b Direktversicherung
+
+1             Der Versicherungsanspruch aus einer Direktversicherung,
+die von einem Steuerpflichtigen aus betrieblichem Anlass abgeschlossen
+wird, ist dem Betriebsvermögen des Steuerpflichtigen nicht
+zuzurechnen, soweit am Schluss des Wirtschaftsjahres hinsichtlich der
+Leistungen des Versicherers die Person, auf deren Leben die
+Lebensversicherung abgeschlossen ist, oder ihre Hinterbliebenen
+bezugsberechtigt sind.
+2             Das gilt auch, wenn der Steuerpflichtige die Ansprüche
+aus dem Versicherungsvertrag abgetreten oder beliehen hat, sofern er
+sich der bezugsberechtigten Person gegenüber schriftlich verpflichtet,
+sie bei Eintritt des Versicherungsfalls so zu stellen, als ob die
+Abtretung oder Beleihung nicht erfolgt wäre.
+
+
+#### § 4c Zuwendungen an Pensionskassen
+
+(1)
+1             Zuwendungen an eine Pensionskasse dürfen von dem
+Unternehmen, das die Zuwendungen leistet (Trägerunternehmen), als
+Betriebsausgaben abgezogen werden, soweit sie auf einer in der Satzung
+oder im Geschäftsplan der Kasse festgelegten Verpflichtung oder auf
+einer Anordnung der Versicherungsaufsichtsbehörde beruhen oder der
+Abdeckung von Fehlbeträgen bei der Kasse dienen.
+2             Soweit die allgemeinen Versicherungsbedingungen und die
+fachlichen Geschäftsunterlagen im Sinne des § 219 Absatz 3 Nummer 1
+Buchstabe b des Versicherungsaufsichtsgesetzes nicht zum Geschäftsplan
+gehören, gelten diese als Teil des Geschäftsplans.
+
+(2) Zuwendungen im Sinne des Absatzes 1 dürfen als Betriebsausgaben
+nicht abgezogen werden, soweit die Leistungen der Kasse, wenn sie vom
+Trägerunternehmen unmittelbar erbracht würden, bei diesem nicht
+betrieblich veranlasst wären.
+
+
+#### § 4d Zuwendungen an Unterstützungskassen
+
+(1)
+1             Zuwendungen an eine Unterstützungskasse dürfen von dem
+Unternehmen, das die Zuwendungen leistet (Trägerunternehmen), als
+Betriebsausgaben abgezogen werden, soweit die Leistungen der Kasse,
+wenn sie vom Trägerunternehmen unmittelbar erbracht würden, bei diesem
+betrieblich veranlasst wären und sie die folgenden Beträge nicht
+übersteigen:
+
+1.  bei Unterstützungskassen, die lebenslänglich laufende Leistungen
+    gewähren:
+
+    a)  das Deckungskapital für die laufenden Leistungen nach der dem Gesetz
+        als Anlage 1 beigefügten Tabelle.
+        2                         Leistungsempfänger ist jeder ehemalige
+        Arbeitnehmer des Trägerunternehmens, der von der Unterstützungskasse
+        Leistungen erhält; soweit die Kasse Hinterbliebenenversorgung gewährt,
+        ist Leistungsempfänger der Hinterbliebene eines ehemaligen
+        Arbeitnehmers des Trägerunternehmens, der von der Kasse Leistungen
+        erhält.
+        3                         Dem ehemaligen Arbeitnehmer stehen andere
+        Personen gleich, denen Leistungen der Alters-, Invaliditäts- oder
+        Hinterbliebenenversorgung aus Anlass ihrer ehemaligen Tätigkeit für
+        das Trägerunternehmen zugesagt worden sind;
+
+
+    b)  in jedem Wirtschaftsjahr für jeden Leistungsanwärter,
+
+        aa) wenn die Kasse nur Invaliditätsversorgung oder nur
+            Hinterbliebenenversorgung gewährt, jeweils 6 Prozent,
+
+
+        bb) wenn die Kasse Altersversorgung mit oder ohne Einschluss von
+            Invaliditätsversorgung oder Hinterbliebenenversorgung gewährt, 25
+            Prozent
+
+
+
+        der jährlichen Versorgungsleistungen, die der Leistungsanwärter oder,
+        wenn nur Hinterbliebenenversorgung gewährt wird, dessen Hinterbliebene
+        nach den Verhältnissen am Schluss des Wirtschaftsjahres der Zuwendung
+        im letzten Zeitpunkt der Anwartschaft, spätestens zum Zeitpunkt des
+        Erreichens der Regelaltersgrenze der gesetzlichen Rentenversicherung
+        erhalten können.
+        2                         Leistungsanwärter ist jeder Arbeitnehmer
+        oder ehemalige Arbeitnehmer des Trägerunternehmens, der von der
+        Unterstützungskasse schriftlich zugesagte Leistungen erhalten kann und
+        am Schluss des Wirtschaftsjahres, in dem die Zuwendung erfolgt,
+
+        aa) bei erstmals nach dem 31. Dezember 2017 zugesagten Leistungen das 23.
+            Lebensjahr vollendet hat,
+
+
+        bb) bei erstmals nach dem 31. Dezember 2008 und vor dem 1. Januar 2018
+            zugesagten Leistungen das 27. Lebensjahr vollendet hat oder
+
+
+        cc) bei erstmals vor dem 1. Januar 2009 zugesagten Leistungen das 28.
+            Lebensjahr vollendet hat;
+
+
+
+        soweit die Kasse nur Hinterbliebenenversorgung gewährt, gilt als
+        Leistungsanwärter jeder Arbeitnehmer oder ehemalige Arbeitnehmer des
+        Trägerunternehmens, der am Schluss des Wirtschaftsjahres, in dem die
+        Zuwendung erfolgt, das nach dem ersten Halbsatz maßgebende Lebensjahr
+        vollendet hat und dessen Hinterbliebene die Hinterbliebenenversorgung
+        erhalten können.
+        3                         Das Trägerunternehmen kann bei der
+        Berechnung nach Satz 1 statt des dort maßgebenden Betrags den
+        Durchschnittsbetrag der von der Kasse im Wirtschaftsjahr an
+        Leistungsempfänger im Sinne des Buchstabens a Satz 2 gewährten
+        Leistungen zugrunde legen.
+        4                         In diesem Fall sind Leistungsanwärter im
+        Sinne des Satzes 2 nur die Arbeitnehmer oder ehemaligen Arbeitnehmer
+        des Trägerunternehmens, die am Schluss des Wirtschaftsjahres, in dem
+        die Zuwendung erfolgt, das 50. Lebensjahr vollendet haben.
+        5                         Dem Arbeitnehmer oder ehemaligen
+        Arbeitnehmer als Leistungsanwärter stehen andere Personen gleich,
+        denen schriftlich Leistungen der Alters-, Invaliditäts- oder
+        Hinterbliebenenversorgung aus Anlass ihrer Tätigkeit für das
+        Trägerunternehmen zugesagt worden sind;
+
+
+    c)  den Betrag des Beitrages, den die Kasse an einen Versicherer zahlt,
+        soweit sie sich die Mittel für ihre Versorgungsleistungen, die der
+        Leistungsanwärter oder Leistungsempfänger nach den Verhältnissen am
+        Schluss des Wirtschaftsjahres der Zuwendung erhalten kann, durch
+        Abschluss einer Versicherung verschafft.
+        2                         Bei Versicherungen für einen
+        Leistungsanwärter ist der Abzug des Beitrages nur zulässig, wenn der
+        Leistungsanwärter die in Buchstabe b Satz 2 und 5 genannten
+        Voraussetzungen erfüllt, die Versicherung für die Dauer bis zu dem
+        Zeitpunkt abgeschlossen ist, für den erstmals Leistungen der
+        Altersversorgung vorgesehen sind, mindestens jedoch bis zu dem
+        Zeitpunkt, an dem der Leistungsanwärter das 55. Lebensjahr vollendet
+        hat, und während dieser Zeit jährlich Beiträge gezahlt werden, die der
+        Höhe nach gleich bleiben oder steigen.
+        3                         Das Gleiche gilt für Leistungsanwärter, die
+        das nach Buchstabe b Satz 2 jeweils maßgebende Lebensjahr noch nicht
+        vollendet haben, für Leistungen der Invaliditäts- oder
+        Hinterbliebenenversorgung, für Leistungen der Altersversorgung unter
+        der Voraussetzung, dass die Leistungsanwartschaft bereits unverfallbar
+        ist.
+        4                         Ein Abzug ist ausgeschlossen, wenn die
+        Ansprüche aus der Versicherung der Sicherung eines Darlehens dienen.
+        5                         Liegen die Voraussetzungen der Sätze 1 bis 4
+        vor, sind die Zuwendungen nach den Buchstaben a und b in dem
+        Verhältnis zu vermindern, in dem die Leistungen der Kasse durch die
+        Versicherung gedeckt sind;
+
+
+    d)  den Betrag, den die Kasse einem Leistungsanwärter im Sinne des
+        Buchstabens b Satz 2 und 5 vor Eintritt des Versorgungsfalls als
+        Abfindung für künftige Versorgungsleistungen gewährt, den
+        Übertragungswert nach § 4 Absatz 5 des Betriebsrentengesetzes oder den
+        Betrag, den sie an einen anderen Versorgungsträger zahlt, der eine ihr
+        obliegende Versorgungsverpflichtung übernommen hat.
+
+
+
+    2                   Zuwendungen dürfen nicht als Betriebsausgaben
+    abgezogen werden, wenn das Vermögen der Kasse ohne Berücksichtigung
+    künftiger Versorgungsleistungen am Schluss des Wirtschaftsjahres das
+    zulässige Kassenvermögen übersteigt.
+    3                   Bei der Ermittlung des Vermögens der Kasse ist am
+    Schluss des Wirtschaftsjahres vorhandener Grundbesitz mit 200 Prozent
+    der Einheitswerte anzusetzen, die zu dem Feststellungszeitpunkt
+    maßgebend sind, der dem Schluss des Wirtschaftsjahres folgt; Ansprüche
+    aus einer Versicherung sind mit dem Wert des geschäftsplanmäßigen
+    Deckungskapitals zuzüglich der Guthaben aus Beitragsrückerstattung am
+    Schluss des Wirtschaftsjahres anzusetzen, und das übrige Vermögen ist
+    mit dem gemeinen Wert am Schluss des Wirtschaftsjahres zu bewerten.
+    4                   Zulässiges Kassenvermögen ist die Summe aus dem
+    Deckungskapital für alle am Schluss des Wirtschaftsjahres laufenden
+    Leistungen nach der dem Gesetz als Anlage 1 beigefügten Tabelle für
+    Leistungsempfänger im Sinne des Satzes 1 Buchstabe a und dem
+    Achtfachen der nach Satz 1 Buchstabe b abzugsfähigen Zuwendungen.
+    5                   Soweit sich die Kasse die Mittel für ihre
+    Leistungen durch Abschluss einer Versicherung verschafft, ist, wenn
+    die Voraussetzungen für den Abzug des Beitrages nach Satz 1 Buchstabe
+    c erfüllt sind, zulässiges Kassenvermögen der Wert des
+    geschäftsplanmäßigen Deckungskapitals aus der Versicherung am Schluss
+    des Wirtschaftsjahres; in diesem Fall ist das zulässige Kassenvermögen
+    nach Satz 4 in dem Verhältnis zu vermindern, in dem die Leistungen der
+    Kasse durch die Versicherung gedeckt sind.
+    6                   Soweit die Berechnung des Deckungskapitals nicht
+    zum Geschäftsplan gehört, tritt an die Stelle des geschäftsplanmäßigen
+    Deckungskapitals der nach § 169 Absatz 3 und 4 des
+    Versicherungsvertragsgesetzes berechnete Wert, beim zulässigen
+    Kassenvermögen ohne Berücksichtigung des Guthabens aus
+    Beitragsrückerstattung.
+    7                   Gewährt eine Unterstützungskasse anstelle von
+    lebenslänglich laufenden Leistungen eine einmalige Kapitalleistung, so
+    gelten 10 Prozent der Kapitalleistung als Jahresbetrag einer
+    lebenslänglich laufenden Leistung;
+
+
+2.  bei Kassen, die keine lebenslänglich laufenden Leistungen gewähren,
+    für jedes Wirtschaftsjahr 0,2 Prozent der Lohn- und Gehaltssumme des
+    Trägerunternehmens, mindestens jedoch den Betrag der von der Kasse in
+    einem Wirtschaftsjahr erbrachten Leistungen, soweit dieser Betrag
+    höher ist als die in den vorangegangenen fünf Wirtschaftsjahren
+    vorgenommenen Zuwendungen abzüglich der in dem gleichen Zeitraum
+    erbrachten Leistungen.
+    2                   Diese Zuwendungen dürfen nicht als
+    Betriebsausgaben abgezogen werden, wenn das Vermögen der Kasse am
+    Schluss des Wirtschaftsjahres das zulässige Kassenvermögen übersteigt.
+    3                   Als zulässiges Kassenvermögen kann 1 Prozent der
+    durchschnittlichen Lohn- und Gehaltssumme der letzten drei Jahre
+    angesetzt werden.
+    4                   Hat die Kasse bereits 10 Wirtschaftsjahre
+    bestanden, darf das zulässige Kassenvermögen zusätzlich die Summe der
+    in den letzten zehn Wirtschaftsjahren gewährten Leistungen nicht
+    übersteigen.
+    5                   Für die Bewertung des Vermögens der Kasse gilt
+    Nummer 1 Satz 3 entsprechend.
+    6                   Bei der Berechnung der Lohn- und Gehaltssumme des
+    Trägerunternehmens sind Löhne und Gehälter von Personen, die von der
+    Kasse keine nicht lebenslänglich laufenden Leistungen erhalten können,
+    auszuscheiden.
+
+
+
+2             Gewährt eine Kasse lebenslänglich laufende und nicht
+lebenslänglich laufende Leistungen, so gilt Satz 1 Nummer 1 und 2
+nebeneinander.
+3             Leistet ein Trägerunternehmen Zuwendungen an mehrere
+Unterstützungskassen, so sind diese Kassen bei der Anwendung der
+Nummern 1 und 2 als Einheit zu behandeln.
+
+(2)
+1             Zuwendungen im Sinne des Absatzes 1 sind von dem
+Trägerunternehmen in dem Wirtschaftsjahr als Betriebsausgaben
+abzuziehen, in dem sie geleistet werden.
+2             Zuwendungen, die bis zum Ablauf eines Monats nach
+Aufstellung oder Feststellung der Bilanz des Trägerunternehmens für
+den Schluss eines Wirtschaftsjahres geleistet werden, können von dem
+Trägerunternehmen noch für das abgelaufene Wirtschaftsjahr durch eine
+Rückstellung gewinnmindernd berücksichtigt werden.
+3             Übersteigen die in einem Wirtschaftsjahr geleisteten
+Zuwendungen die nach Absatz 1 abzugsfähigen Beträge, so können die
+übersteigenden Beträge im Wege der Rechnungsabgrenzung auf die
+folgenden drei Wirtschaftsjahre vorgetragen und im Rahmen der für
+diese Wirtschaftsjahre abzugsfähigen Beträge als Betriebsausgaben
+behandelt werden.
+4             § 5 Absatz 1 Satz 2 ist nicht anzuwenden.
+
+(3)
+1             Abweichend von Absatz 1 Satz 1 Nummer 1 Satz 1 Buchstabe
+d und Absatz 2 können auf Antrag die insgesamt erforderlichen
+Zuwendungen an die Unterstützungskasse für den Betrag, den die Kasse
+an einen Pensionsfonds zahlt, der eine ihr obliegende
+Versorgungsverpflichtung ganz oder teilweise übernommen hat, nicht im
+Wirtschaftsjahr der Zuwendung, sondern erst in den dem Wirtschaftsjahr
+der Zuwendung folgenden zehn Wirtschaftsjahren gleichmäßig verteilt
+als Betriebsausgaben abgezogen werden.
+2             Der Antrag ist unwiderruflich; der jeweilige
+Rechtsnachfolger ist an den Antrag gebunden.
+
+
+#### § 4e Beiträge an Pensionsfonds
+
+(1) Beiträge an einen Pensionsfonds im Sinne des § 236 des
+Versicherungsaufsichtsgesetzes dürfen von dem Unternehmen, das die
+Beiträge leistet (Trägerunternehmen), als Betriebsausgaben abgezogen
+werden, soweit sie auf einer festgelegten Verpflichtung beruhen oder
+der Abdeckung von Fehlbeträgen bei dem Fonds dienen.
+
+(2) Beiträge im Sinne des Absatzes 1 dürfen als Betriebsausgaben nicht
+abgezogen werden, soweit die Leistungen des Fonds, wenn sie vom
+Trägerunternehmen unmittelbar erbracht würden, bei diesem nicht
+betrieblich veranlasst wären.
+
+(3)
+1             Der Steuerpflichtige kann auf Antrag die insgesamt
+erforderlichen Leistungen an einen Pensionsfonds zur teilweisen oder
+vollständigen Übernahme einer bestehenden Versorgungsverpflichtung
+oder Versorgungsanwartschaft durch den Pensionsfonds erst in den dem
+Wirtschaftsjahr der Übertragung folgenden zehn Wirtschaftsjahren
+gleichmäßig verteilt als Betriebsausgaben abziehen.
+2             Der Antrag ist unwiderruflich; der jeweilige
+Rechtsnachfolger ist an den Antrag gebunden.
+3             Ist eine Pensionsrückstellung nach § 6a gewinnerhöhend
+aufzulösen, ist Satz 1 mit der Maßgabe anzuwenden, dass die Leistungen
+an den Pensionsfonds im Wirtschaftsjahr der Übertragung in Höhe der
+aufgelösten Rückstellung als Betriebsausgaben abgezogen werden können;
+der die aufgelöste Rückstellung übersteigende Betrag ist in den dem
+Wirtschaftsjahr der Übertragung folgenden zehn Wirtschaftsjahren
+gleichmäßig verteilt als Betriebsausgaben abzuziehen.
+4             Satz 3 gilt entsprechend, wenn es im Zuge der Leistungen
+des Arbeitgebers an den Pensionsfonds zu Vermögensübertragungen einer
+Unterstützungskasse an den Arbeitgeber kommt.
+
+
+#### § 4f Verpflichtungsübernahmen, Schuldbeitritte und Erfüllungsübernahmen
+
+(1)
+1             Werden Verpflichtungen übertragen, die beim ursprünglich
+Verpflichteten Ansatzverboten, -beschränkungen oder
+Bewertungsvorbehalten unterlegen haben, ist der sich aus diesem
+Vorgang ergebende Aufwand im Wirtschaftsjahr der Schuldübernahme und
+den nachfolgenden 14 Jahren gleichmäßig verteilt als Betriebsausgabe
+abziehbar.
+2             Ist auf Grund der Übertragung einer Verpflichtung ein
+Passivposten gewinnerhöhend aufzulösen, ist Satz 1 mit der Maßgabe
+anzuwenden, dass der sich ergebende Aufwand im Wirtschaftsjahr der
+Schuldübernahme in Höhe des aufgelösten Passivpostens als
+Betriebsausgabe abzuziehen ist; der den aufgelösten Passivposten
+übersteigende Betrag ist in dem Wirtschaftsjahr der Schuldübernahme
+und den nachfolgenden 14 Wirtschaftsjahren gleichmäßig verteilt als
+Betriebsausgabe abzuziehen.
+3             Eine Verteilung des sich ergebenden Aufwands
+unterbleibt, wenn die Schuldübernahme im Rahmen einer Veräußerung oder
+Aufgabe des ganzen Betriebes oder des gesamten Mitunternehmeranteils
+im Sinne der §§ 14, 16 Absatz 1, 3 und 3a sowie des § 18 Absatz 3
+erfolgt; dies gilt auch, wenn ein Arbeitnehmer unter Mitnahme seiner
+erworbenen Pensionsansprüche zu einem neuen Arbeitgeber wechselt oder
+wenn der Betrieb am Schluss des vorangehenden Wirtschaftsjahres die
+Gewinngrenze des § 7g Absatz 1 Satz 2 Nummer 1 nicht überschreitet.
+4             Erfolgt die Schuldübernahme in dem Fall einer
+Teilbetriebsveräußerung oder -aufgabe im Sinne der §§ 14, 16 Absatz 1,
+3 und 3a sowie des § 18 Absatz 3, ist ein Veräußerungs- oder
+Aufgabeverlust um den Aufwand im Sinne des Satzes 1 zu vermindern,
+soweit dieser den Verlust begründet oder erhöht hat.
+5             Entsprechendes gilt für den einen aufgelösten
+Passivposten übersteigenden Betrag im Sinne des Satzes 2.
+6             Für den hinzugerechneten Aufwand gelten Satz 2 zweiter
+Halbsatz und Satz 3 entsprechend.
+7             Der jeweilige Rechtsnachfolger des ursprünglichen
+Verpflichteten ist an die Aufwandsverteilung nach den Sätzen 1 bis 6
+gebunden.
+
+(2) Wurde für Verpflichtungen im Sinne des Absatzes 1 ein
+Schuldbeitritt oder eine Erfüllungsübernahme mit ganzer oder
+teilweiser Schuldfreistellung vereinbart, gilt für die vom
+Freistellungsberechtigten an den Freistellungsverpflichteten
+erbrachten Leistungen Absatz 1 Satz 1, 2 und 7 entsprechend.
+
+
+#### § 4g Bildung eines Ausgleichspostens bei Entnahme nach § 4 Absatz 1 Satz 3
+
+(1)
+1             Der Steuerpflichtige kann in Höhe des
+Unterschiedsbetrags zwischen dem Buchwert und dem nach § 6 Absatz 1
+Nummer 4 Satz 1 zweiter Halbsatz anzusetzenden Wert eines
+Wirtschaftsguts auf Antrag einen Ausgleichsposten bilden, soweit das
+Besteuerungsrecht der Bundesrepublik Deutschland hinsichtlich des
+Gewinns aus der Veräußerung des Wirtschaftsguts zugunsten eines
+Staates im Sinne des § 36 Absatz 5 Satz 1 beschränkt oder
+ausgeschlossen wird (§ 4 Absatz 1 Satz 3).
+2             Der Ausgleichsposten ist für jedes Wirtschaftsgut
+getrennt auszuweisen.
+3             Der Antrag ist unwiderruflich.
+4             Die Vorschriften des Umwandlungssteuergesetzes bleiben
+unberührt.
+
+(2)
+1             Der Ausgleichsposten ist im Wirtschaftsjahr der Bildung
+und in den vier folgenden Wirtschaftsjahren zu jeweils einem Fünftel
+gewinnerhöhend aufzulösen.
+2             Er ist in vollem Umfang gewinnerhöhend aufzulösen, wenn
+ein Ereignis im Sinne des § 36 Absatz 5 Satz 4 eintritt oder wenn ein
+künftiger Steueranspruch aus der Auflösung des Ausgleichspostens gemäß
+Satz 1 gefährdet erscheint und der Steuerpflichtige dem Verlangen der
+zuständigen Finanzbehörde auf Leistung einer Sicherheit nicht
+nachkommt.
+
+(3) (weggefallen)
+
+(4)
+1             Die Absätze 1 und 2 finden entsprechende Anwendung bei
+der Ermittlung des Überschusses der Betriebseinnahmen über die
+Betriebsausgaben gemäß § 4 Absatz 3.
+2             Wirtschaftsgüter, für die ein Ausgleichsposten nach
+Absatz 1 gebildet worden ist, sind in ein laufend zu führendes
+Verzeichnis aufzunehmen.
+3             Der Steuerpflichtige hat darüber hinaus Aufzeichnungen
+zu führen, aus denen die Bildung und Auflösung der Ausgleichsposten
+hervorgeht.
+4             Die Aufzeichnungen nach den Sätzen 2 und 3 sind der
+Steuererklärung beizufügen.
+
+(5)
+1             Der Steuerpflichtige ist verpflichtet, der zuständigen
+Finanzbehörde die Entnahme oder ein Ereignis im Sinne des Absatzes 2
+unverzüglich anzuzeigen.
+2             Kommt der Steuerpflichtige dieser Anzeigepflicht, seinen
+Aufzeichnungspflichten nach Absatz 4 oder seinen sonstigen
+Mitwirkungspflichten im Sinne des § 90 der Abgabenordnung nicht nach,
+ist der Ausgleichsposten dieses Wirtschaftsguts gewinnerhöhend
+aufzulösen.
+3             § 36 Absatz 5 Satz 8 gilt entsprechend.
+
+(6) Absatz 2 Satz 2 ist mit der Maßgabe anzuwenden, dass allein der
+Austritt des Vereinigten Königreichs Großbritannien und Nordirland aus
+der Europäischen Union nicht dazu führt, dass ein als entnommen
+geltendes Wirtschaftsgut als aus der Besteuerungshoheit der
+Mitgliedstaaten der Europäischen Union ausgeschieden gilt.
+
+
+#### § 4h Betriebsausgabenabzug für Zinsaufwendungen (Zinsschranke)
+
+(1)
+1             Zinsaufwendungen eines Betriebs sind abziehbar in Höhe
+des Zinsertrags, darüber hinaus nur bis zur Höhe des verrechenbaren
+EBITDA.
+2             Das verrechenbare EBITDA ist 30 Prozent des um die
+Zinsaufwendungen und um die nach § 6 Absatz 2 Satz 1 abzuziehenden,
+nach § 6 Absatz 2a Satz 2 gewinnmindernd aufzulösenden und nach § 7
+abgesetzten Beträge erhöhten und um die Zinserträge verminderten
+maßgeblichen Gewinns.
+3             Soweit das verrechenbare EBITDA die um die Zinserträge
+geminderten Zinsaufwendungen des Betriebs übersteigt, ist es in die
+folgenden fünf Wirtschaftsjahre vorzutragen (EBITDA-Vortrag); ein
+EBITDA-Vortrag entsteht nicht in Wirtschaftsjahren, in denen Absatz 2
+die Anwendung von Absatz 1 Satz 1 ausschließt.
+4             Zinsaufwendungen, die nach Satz 1 nicht abgezogen werden
+können, sind bis zur Höhe der EBITDA-Vorträge aus vorangegangenen
+Wirtschaftsjahren abziehbar und mindern die EBITDA-Vorträge in ihrer
+zeitlichen Reihenfolge.
+5             Danach verbleibende nicht abziehbare Zinsaufwendungen
+sind in die folgenden Wirtschaftsjahre vorzutragen (Zinsvortrag).
+6             Sie erhöhen die Zinsaufwendungen dieser
+Wirtschaftsjahre, nicht aber den maßgeblichen Gewinn.
+
+(2)
+1             Absatz 1 Satz 1 ist nicht anzuwenden, wenn
+
+a)  der Betrag der Zinsaufwendungen, soweit er den Betrag der Zinserträge
+    übersteigt, weniger als drei Millionen Euro beträgt,
+
+
+b)  der Betrieb nicht oder nur anteilmäßig zu einem Konzern gehört oder
+
+
+c)  der Betrieb zu einem Konzern gehört und seine Eigenkapitalquote am
+    Schluss des vorangegangenen Abschlussstichtages gleich hoch oder höher
+    ist als die des Konzerns (Eigenkapitalvergleich).
+    2                   Ein Unterschreiten der Eigenkapitalquote des
+    Konzerns um bis zu zwei Prozentpunkte ist unschädlich.
+
+    3                   Eigenkapitalquote ist das Verhältnis des
+    Eigenkapitals zur Bilanzsumme; sie bemisst sich nach dem
+    Konzernabschluss, der den Betrieb umfasst, und ist für den Betrieb auf
+    der Grundlage des Jahresabschlusses oder Einzelabschlusses zu
+    ermitteln.
+    4                   Wahlrechte sind im Konzernabschluss und im
+    Jahresabschluss oder Einzelabschluss einheitlich auszuüben; bei
+    gesellschaftsrechtlichen Kündigungsrechten ist insoweit mindestens das
+    Eigenkapital anzusetzen, das sich nach den Vorschriften des
+    Handelsgesetzbuchs ergeben würde.
+    5                   Bei der Ermittlung der Eigenkapitalquote des
+    Betriebs ist das Eigenkapital um einen im Konzernabschluss enthaltenen
+    Firmenwert, soweit er auf den Betrieb entfällt, und um die Hälfte von
+    Sonderposten mit Rücklagenanteil (§ 273 des Handelsgesetzbuchs) zu
+    erhöhen sowie um das Eigenkapital, das keine Stimmrechte vermittelt –
+    mit Ausnahme von Vorzugsaktien –, die Anteile an anderen
+    Konzerngesellschaften und um Einlagen der letzten sechs Monate vor dem
+    maßgeblichen Abschlussstichtag, soweit ihnen Entnahmen oder
+    Ausschüttungen innerhalb der ersten sechs Monate nach dem maßgeblichen
+    Abschlussstichtag gegenüberstehen, zu kürzen.
+    6                   Die Bilanzsumme ist um Kapitalforderungen zu
+    kürzen, die nicht im Konzernabschluss ausgewiesen sind und denen
+    Verbindlichkeiten im Sinne des Absatzes 3 in mindestens gleicher Höhe
+    gegenüberstehen.
+    7                   Sonderbetriebsvermögen ist dem Betrieb der
+    Mitunternehmerschaft zuzuordnen, soweit es im Konzernvermögen
+    enthalten ist.
+
+    8                   Die für den Eigenkapitalvergleich maßgeblichen
+    Abschlüsse sind einheitlich nach den International Financial Reporting
+    Standards (IFRS) zu erstellen.
+    9                   Hiervon abweichend können Abschlüsse nach dem
+    Handelsrecht eines Mitgliedstaats der Europäischen Union verwendet
+    werden, wenn kein Konzernabschluss nach den IFRS zu erstellen und
+    offen zu legen ist und für keines der letzten fünf Wirtschaftsjahre
+    ein Konzernabschluss nach den IFRS erstellt wurde; nach den Generally
+    Accepted Accounting Principles der Vereinigten Staaten von Amerika
+    (US-GAAP) aufzustellende und offen zu legende Abschlüsse sind zu
+    verwenden, wenn kein Konzernabschluss nach den IFRS oder dem
+    Handelsrecht eines Mitgliedstaats der Europäischen Union zu erstellen
+    und offen zu legen ist.
+    10                   Der Konzernabschluss muss den Anforderungen an
+    die handelsrechtliche Konzernrechnungslegung genügen oder die
+    Voraussetzungen erfüllen, unter denen ein Abschluss nach den §§ 291
+    und 292 des Handelsgesetzbuchs befreiende Wirkung hätte.
+    11                   Wurde der Jahresabschluss oder Einzelabschluss
+    nicht nach denselben Rechnungslegungsstandards wie der
+    Konzernabschluss aufgestellt, ist die Eigenkapitalquote des Betriebs
+    in einer Überleitungsrechnung nach den für den Konzernabschluss
+    geltenden Rechnungslegungsstandards zu ermitteln.
+    12                   Die Überleitungsrechnung ist einer prüferischen
+    Durchsicht zu unterziehen.
+    13                   Auf Verlangen der Finanzbehörde ist der Abschluss
+    oder die Überleitungsrechnung des Betriebs durch einen Abschlussprüfer
+    zu prüfen, der die Voraussetzungen des § 319 des Handelsgesetzbuchs
+    erfüllt.
+
+    14                   Ist ein dem Eigenkapitalvergleich zugrunde
+    gelegter Abschluss unrichtig und führt der zutreffende Abschluss zu
+    einer Erhöhung der nach Absatz 1 nicht abziehbaren Zinsaufwendungen,
+    ist ein Zuschlag entsprechend § 162 Absatz 4 Satz 1 und 2 der
+    Abgabenordnung festzusetzen.
+    15                   Bemessungsgrundlage für den Zuschlag sind die
+    nach Absatz 1 nicht abziehbaren Zinsaufwendungen.
+    16                   § 162 Absatz 4 Satz 4 bis 6 der Abgabenordnung
+    gilt sinngemäß.
+
+
+
+2             Ist eine Gesellschaft, bei der der Gesellschafter als
+Mitunternehmer anzusehen ist, unmittelbar oder mittelbar einer
+Körperschaft nachgeordnet, gilt für die Gesellschaft § 8a Absatz 2 und
+3 des Körperschaftsteuergesetzes entsprechend.
+
+(3)
+1             Maßgeblicher Gewinn ist der nach den Vorschriften dieses
+Gesetzes mit Ausnahme des Absatzes 1 ermittelte steuerpflichtige
+Gewinn.
+2             Zinsaufwendungen sind Vergütungen für Fremdkapital, die
+den maßgeblichen Gewinn gemindert haben.
+3             Zinserträge sind Erträge aus Kapitalforderungen jeder
+Art, die den maßgeblichen Gewinn erhöht haben.
+4             Die Auf- und Abzinsung unverzinslicher oder niedrig
+verzinslicher Verbindlichkeiten oder Kapitalforderungen führen
+ebenfalls zu Zinserträgen oder Zinsaufwendungen.
+5             Ein Betrieb gehört zu einem Konzern, wenn er nach dem
+für die Anwendung des Absatzes 2 Satz 1 Buchstabe c zugrunde gelegten
+Rechnungslegungsstandard mit einem oder mehreren anderen Betrieben
+konsolidiert wird oder werden könnte.
+6             Ein Betrieb gehört für Zwecke des Absatzes 2 auch zu
+einem Konzern, wenn seine Finanz- und Geschäftspolitik mit einem oder
+mehreren anderen Betrieben einheitlich bestimmt werden kann.
+
+(4)
+1             Der EBITDA-Vortrag und der Zinsvortrag sind gesondert
+festzustellen.
+2             Zuständig ist das für die gesonderte Feststellung des
+Gewinns und Verlusts der Gesellschaft zuständige Finanzamt, im Übrigen
+das für die Besteuerung zuständige Finanzamt.
+3             § 10d Absatz 4 gilt sinngemäß.
+4             Feststellungsbescheide sind zu erlassen, aufzuheben oder
+zu ändern, soweit sich die nach Satz 1 festzustellenden Beträge
+ändern.
+
+(5)
+1             Bei Aufgabe oder Übertragung des Betriebs gehen ein
+nicht verbrauchter EBITDA-Vortrag und ein nicht verbrauchter
+Zinsvortrag unter.
+2             Scheidet ein Mitunternehmer aus einer Gesellschaft aus,
+gehen der EBITDA-Vortrag und der Zinsvortrag anteilig mit der Quote
+unter, mit der der ausgeschiedene Gesellschafter an der Gesellschaft
+beteiligt war.
+3             § 8c des Körperschaftsteuergesetzes ist auf den
+Zinsvortrag einer Gesellschaft entsprechend anzuwenden, soweit an
+dieser unmittelbar oder mittelbar eine Körperschaft als Mitunternehmer
+beteiligt ist.
+
+
+#### § 4i Sonderbetriebsausgabenabzug bei Vorgängen mit Auslandsbezug
+
+1             Aufwendungen dürfen nicht als Sonderbetriebsausgaben
+abgezogen werden, soweit sie auch die Steuerbemessungsgrundlage in
+einem anderen Staat mindern.
+2             Satz 1 gilt nicht, soweit diese Aufwendungen Erträge
+desselben Steuerpflichtigen mindern, die bei ihm sowohl der
+inländischen Besteuerung unterliegen als auch nachweislich der
+tatsächlichen Besteuerung in dem anderen Staat.
+
+
+#### § 4j Aufwendungen für Rechteüberlassungen
+
+(1)
+1             Aufwendungen für die Überlassung der Nutzung oder des
+Rechts auf Nutzung von Rechten, insbesondere von Urheberrechten und
+gewerblichen Schutzrechten, von gewerblichen, technischen,
+wissenschaftlichen und ähnlichen Erfahrungen, Kenntnissen und
+Fertigkeiten, zum Beispiel Plänen, Mustern und Verfahren, sind
+ungeachtet eines bestehenden Abkommens zur Vermeidung der
+Doppelbesteuerung nur nach Maßgabe des Absatzes 3 abziehbar, wenn die
+Einnahmen des Gläubigers einer von der Regelbesteuerung abweichenden,
+niedrigen Besteuerung nach Absatz 2 unterliegen (Präferenzregelung)
+und der Gläubiger eine dem Schuldner nahestehende Person im Sinne des
+§ 1 Absatz 2 des Außensteuergesetzes ist.
+2             Wenn auch der Gläubiger nach Satz 1 oder eine andere dem
+Schuldner nach Satz 1 nahestehende Person im Sinne des § 1 Absatz 2
+des Außensteuergesetzes wiederum Aufwendungen für Rechte hat, aus
+denen sich die Rechte nach Satz 1 unmittelbar oder mittelbar ableiten,
+sind die Aufwendungen nach Satz 1 ungeachtet eines bestehenden
+Abkommens zur Vermeidung der Doppelbesteuerung auch dann nur nach
+Maßgabe des Absatzes 3 abziehbar, wenn die weiteren Einnahmen des
+weiteren Gläubigers einer von der Regelbesteuerung abweichenden,
+niedrigen Besteuerung nach Absatz 2 unterliegen und der weitere
+Gläubiger eine dem Schuldner nach Satz 1 nahestehende Person im Sinne
+des § 1 Absatz 2 des Außensteuergesetzes ist; dies gilt nicht, wenn
+die Abziehbarkeit der Aufwendungen beim Gläubiger oder der anderen dem
+Schuldner nahestehenden Person bereits nach dieser Vorschrift
+beschränkt ist.
+3             Als Schuldner und Gläubiger gelten auch Betriebsstätten,
+die ertragsteuerlich als Nutzungsberechtigter oder
+Nutzungsverpflichteter der Rechte für die Überlassung der Nutzung oder
+des Rechts auf Nutzung von Rechten behandelt werden.
+[^F798754_01_BJNR010050934BJNE039601123]
+4             Die Sätze 1 und 2 sind nicht anzuwenden, soweit sich die
+niedrige Besteuerung daraus ergibt, dass die Einnahmen des Gläubigers
+oder des weiteren Gläubigers einer Präferenzregelung unterliegen, die
+dem Nexus-Ansatz gemäß Kapitel 4 des Abschlussberichts 2015 zu
+Aktionspunkt 5, OECD (2016) „Wirksamere Bekämpfung schädlicher
+Steuerpraktiken unter Berücksichtigung von Transparenz und Substanz“,
+OECD/G20 Projekt Gewinnverkürzung und Gewinnverlagerung
+, entspricht.
+5             Die Sätze 1 und 2 sind insoweit nicht anzuwenden, als
+auf Grund der aus den Aufwendungen resultierenden Einnahmen ein
+Hinzurechnungsbetrag im Sinne des § 10 Absatz 1 Satz 1 des
+Außensteuergesetzes anzusetzen ist.
+
+(2)
+1             Eine niedrige Besteuerung im Sinne des Absatzes 1 liegt
+vor, wenn die von der Regelbesteuerung abweichende Besteuerung der
+Einnahmen des Gläubigers oder des weiteren Gläubigers zu einer
+Belastung durch Ertragsteuern von weniger als 25 Prozent führt;
+maßgeblich ist bei mehreren Gläubigern die niedrigste Belastung.
+2             Bei der Ermittlung, ob eine niedrige Besteuerung
+vorliegt, sind sämtliche Regelungen zu berücksichtigen, die sich auf
+die Besteuerung der Einnahmen aus der Rechteüberlassung auswirken,
+insbesondere steuerliche Kürzungen, Befreiungen, Gutschriften oder
+Ermäßigungen.
+3             Werden die Einnahmen für die Überlassung der Nutzung
+oder des Rechts auf Nutzung von Rechten einer anderen Person ganz oder
+teilweise zugerechnet oder erfolgt die Besteuerung aus anderen Gründen
+ganz oder teilweise bei einer anderen Person als dem Gläubiger oder
+dem weiteren Gläubiger, ist auf die Summe der Belastungen abzustellen.
+4             § 8 Absatz 5 Satz 2 und 3 des Außensteuergesetzes gilt
+entsprechend.
+
+(3)
+1             Aufwendungen nach Absatz 1 sind in den Fällen einer
+niedrigen Besteuerung nach Absatz 2 nur zum Teil abziehbar.
+2             Der nicht abziehbare Teil ist dabei wie folgt zu
+ermitteln:
+
+*    *        ![bgbl1_2017_j2074-1_0010.jpg](bgbl1_2017_j2074-1_0010.jpg)
+
+
+
+   Amtlicher Hinweis: Zu beziehen unter OECD Publishing, Paris,
+    http://dx.doi.org/10.1787/9789264258037-de.
+[^F798754_01_BJNR010050934BJNE039601123]: 
+
+#### § 4k Betriebsausgabenabzug bei Besteuerungsinkongruenzen
+
+(1)
+1             Aufwendungen für die Nutzung oder im Zusammenhang mit
+der Übertragung von Kapitalvermögen sind insoweit nicht als
+Betriebsausgaben abziehbar, als die den Aufwendungen entsprechenden
+Erträge auf Grund einer vom deutschen Recht abweichenden steuerlichen
+Qualifikation oder Zurechnung des Kapitalvermögens nicht oder
+niedriger als bei dem deutschen Recht entsprechender Qualifikation
+oder Zurechnung besteuert werden.
+2             Satz 1 gilt nicht, soweit die Besteuerungsinkongruenz
+voraussichtlich in einem künftigen Besteuerungszeitraum beseitigt wird
+und die Zahlungsbedingungen einem Fremdvergleich standhalten.
+
+(2)
+1             Soweit nicht bereits die Voraussetzungen für die
+Versagung des Betriebsausgabenabzugs nach Absatz 1 vorliegen, sind
+Aufwendungen auch insoweit nicht als Betriebsausgaben abziehbar, als
+die den Aufwendungen entsprechenden Erträge auf Grund einer vom
+deutschen Recht abweichenden steuerlichen Behandlung des
+Steuerpflichtigen oder auf Grund einer vom deutschen Recht
+abweichenden steuerlichen Beurteilung von anzunehmenden
+schuldrechtlichen Beziehungen im Sinne des § 1 Absatz 4 Satz 1 Nummer
+2 des Außensteuergesetzes in keinem Staat einer tatsächlichen
+Besteuerung unterliegen.
+2             Handelt es sich bei dem Gläubiger der Erträge im Sinne
+des Satzes 1 um einen unbeschränkt steuerpflichtigen, unmittelbaren
+oder mittelbaren Gesellschafter einer ausländischen
+vermögensverwaltenden Personengesellschaft oder um eine
+Personengesellschaft, an der ein solcher Gesellschafter unmittelbar
+oder mittelbar beteiligt ist, gilt § 39 Absatz 2 Nummer 2 der
+Abgabenordnung nicht, soweit die in Satz 1 genannten Aufwendungen in
+dem anderen Staat zum Abzug zugelassen sind und die den Aufwendungen
+entsprechenden Erträge durch die vom deutschen Recht abweichende
+Zurechnung keiner tatsächlichen Besteuerung unterliegen.
+3             Satz 1 gilt nicht, soweit den Aufwendungen Erträge
+desselben Steuerpflichtigen gegenüberstehen, die sowohl im Inland als
+auch nachweislich in dem Staat des Gläubigers oder, wenn es sich bei
+dem Gläubiger um eine Personengesellschaft handelt, im Staat des
+unmittelbaren oder mittelbaren Gesellschafters beziehungsweise des
+anderen Unternehmensteils im Rahmen einer anzunehmenden
+schuldrechtlichen Beziehung einer tatsächlichen Besteuerung
+unterliegen.
+
+(3) Soweit nicht bereits die Voraussetzungen für die Versagung des
+Betriebsausgabenabzugs nach den vorstehenden Absätzen vorliegen, sind
+Aufwendungen auch insoweit nicht als Betriebsausgaben abziehbar, als
+die den Aufwendungen entsprechenden Erträge auf Grund deren vom
+deutschen Recht abweichender steuerlicher Zuordnung oder Zurechnung
+nach den Rechtsvorschriften anderer Staaten in keinem Staat einer
+tatsächlichen Besteuerung unterliegen.
+
+(4)
+1             Soweit nicht bereits die Voraussetzungen für die
+Versagung des Betriebsausgabenabzugs nach den vorstehenden Absätzen
+vorliegen, sind Aufwendungen auch insoweit nicht als Betriebsausgaben
+abziehbar, als die Aufwendungen auch in einem anderen Staat
+berücksichtigt werden.
+2             Eine Berücksichtigung der Aufwendungen im Sinne des
+Satzes 1 liegt bei unbeschränkt Steuerpflichtigen auch vor, wenn der
+andere Staat den Abzug der Aufwendungen bereits nach seinen
+Vorschriften nicht zulässt, die diesem oder den vorstehenden Absätzen
+entsprechen; dies gilt nicht, wenn der Abzug der Aufwendungen in einem
+anderen Staat auf Grund einer diesem Absatz entsprechenden Regelung
+nicht zugelassen wird bei
+
+1.  einem mittelbaren oder unmittelbaren Gesellschafter eines unbeschränkt
+    Steuerpflichtigen im Sinne des § 1 des Körperschaftsteuergesetzes oder
+
+
+2.  dem Steuerpflichtigen, sofern sich dessen Wohnsitz, Sitz oder Ort der
+    Geschäftsleitung auch in einem anderen Mitgliedstaat der Europäischen
+    Union befindet und dieser Staat den Steuerpflichtigen für Zwecke der
+    Anwendung eines Abkommens zur Vermeidung der Doppelbesteuerung
+    zwischen der Bundesrepublik Deutschland und diesem Staat als nicht in
+    diesem Staat ansässig behandelt.
+
+
+
+3             Satz 1 gilt nicht, soweit den Aufwendungen Erträge
+desselben Steuerpflichtigen gegenüberstehen, die sowohl im Inland als
+auch nachweislich in dem anderen Staat einer tatsächlichen Besteuerung
+unterliegen.
+4             Bei unbeschränkt Steuerpflichtigen, bei denen eine
+Doppelbesteuerung durch Anrechnung oder Abzug der ausländischen Steuer
+vermieden wird, finden die Sätze 1 bis 3 nur Anwendung, soweit die
+Aufwendungen auch Erträge in einem anderen Staat mindern, die nicht
+der inländischen Besteuerung unterliegen.
+
+(5)
+1             Soweit nicht bereits die Voraussetzungen für die
+Versagung des Betriebsausgabenabzugs nach den vorstehenden Absätzen
+vorliegen, sind Aufwendungen auch insoweit nicht als Betriebsausgaben
+abziehbar, als den aus diesen Aufwendungen unmittelbar oder mittelbar
+resultierenden Erträgen Aufwendungen gegenüberstehen, deren Abzug beim
+Gläubiger, einem weiteren Gläubiger oder einer anderen Person bei
+entsprechender Anwendung dieses Absatzes oder der Absätze 1 bis 4
+versagt würde.
+2             Satz 1 findet keine Anwendung, soweit der steuerliche
+Vorteil infolge einer Besteuerungsinkongruenz im Sinne dieses Absatzes
+oder der Absätze 1 bis 4 bereits beim Gläubiger, beim weiteren
+Gläubiger oder bei der anderen Person im Sinne des Satzes 1 beseitigt
+wird.
+
+(6)
+1             Die Absätze 1 bis 5 finden nur Anwendung, wenn der
+Tatbestand dieser Absätze zwischen nahestehenden Personen im Sinne des
+§ 1 Absatz 2 des Außensteuergesetzes oder zwischen einem Unternehmen
+und seiner Betriebsstätte verwirklicht wird oder wenn eine
+strukturierte Gestaltung anzunehmen ist.
+2             Einer Person, die mit einer anderen Person durch
+abgestimmtes Verhalten zusammenwirkt, werden für Zwecke dieses
+Absatzes und der Absätze 1 bis 5 die Beteiligung, die Stimmrechte und
+die Gewinnbezugsrechte der anderen Person zugerechnet.
+3             Eine strukturierte Gestaltung im Sinne des Satzes 1 ist
+anzunehmen, wenn der steuerliche Vorteil, der sich ohne die Anwendung
+der vorstehenden Absätze ergeben würde, ganz oder zum Teil in die
+Bedingungen der vertraglichen Vereinbarungen eingerechnet wurde oder
+die Bedingungen der vertraglichen Vereinbarungen oder die den
+vertraglichen Vereinbarungen zugrunde liegenden Umstände darauf
+schließen lassen, dass die an der Gestaltung Beteiligten den
+steuerlichen Vorteil erwarten konnten.
+4             Ein Steuerpflichtiger wird nicht als Teil einer
+strukturierten Gestaltung behandelt, wenn nach den äußeren Umständen
+vernünftigerweise nicht davon auszugehen ist, dass ihm der steuerliche
+Vorteil bekannt war und er nachweist, dass er nicht an dem
+steuerlichen Vorteil beteiligt wurde.
+
+(7) Die Absätze 1 bis 6 sind ungeachtet der Vorschriften eines
+Abkommens zur Vermeidung der Doppelbesteuerung anzuwenden.
+
+
+#### § 5 Gewinn bei Kaufleuten und bei bestimmten anderen Gewerbetreibenden
+
+(1)
+1             Bei Gewerbetreibenden, die auf Grund gesetzlicher
+Vorschriften verpflichtet sind, Bücher zu führen und regelmäßig
+Abschlüsse zu machen, oder die ohne eine solche Verpflichtung Bücher
+führen und regelmäßig Abschlüsse machen, ist für den Schluss des
+Wirtschaftsjahres das Betriebsvermögen anzusetzen (§ 4 Absatz 1 Satz
+1), das nach den handelsrechtlichen Grundsätzen ordnungsmäßiger
+Buchführung auszuweisen ist, es sei denn, im Rahmen der Ausübung eines
+steuerlichen Wahlrechts wird oder wurde ein anderer Ansatz gewählt.
+2             Voraussetzung für die Ausübung steuerlicher Wahlrechte
+ist, dass die Wirtschaftsgüter, die nicht mit dem handelsrechtlich
+maßgeblichen Wert in der steuerlichen Gewinnermittlung ausgewiesen
+werden, in besondere, laufend zu führende Verzeichnisse aufgenommen
+werden.
+3             In den Verzeichnissen sind der Tag der Anschaffung oder
+Herstellung, die Anschaffungs- oder Herstellungskosten, die Vorschrift
+des ausgeübten steuerlichen Wahlrechts und die vorgenommenen
+Abschreibungen nachzuweisen.
+
+(1a)
+1             Posten der Aktivseite dürfen nicht mit Posten der
+Passivseite verrechnet werden.
+2             Die Ergebnisse der in der handelsrechtlichen
+Rechnungslegung zur Absicherung finanzwirtschaftlicher Risiken
+gebildeten Bewertungseinheiten sind auch für die steuerliche
+Gewinnermittlung maßgeblich.
+
+(2) Für immaterielle Wirtschaftsgüter des Anlagevermögens ist ein
+Aktivposten nur anzusetzen, wenn sie entgeltlich erworben wurden.
+
+(2a) Für Verpflichtungen, die nur zu erfüllen sind, soweit künftig
+Einnahmen oder Gewinne anfallen, sind Verbindlichkeiten oder
+Rückstellungen erst anzusetzen, wenn die Einnahmen oder Gewinne
+angefallen sind.
+
+(3)
+1             Rückstellungen wegen Verletzung fremder Patent-,
+Urheber- oder ähnlicher Schutzrechte dürfen erst gebildet werden, wenn
+
+1.  der Rechtsinhaber Ansprüche wegen der Rechtsverletzung geltend gemacht
+    hat oder
+
+
+2.  mit einer Inanspruchnahme wegen der Rechtsverletzung ernsthaft zu
+    rechnen ist.
+
+
+
+2             Eine nach Satz 1 Nummer 2 gebildete Rückstellung ist
+spätestens in der Bilanz des dritten auf ihre erstmalige Bildung
+folgenden Wirtschaftsjahres gewinnerhöhend aufzulösen, wenn Ansprüche
+nicht geltend gemacht worden sind.
+
+(4) Rückstellungen für die Verpflichtung zu einer Zuwendung anlässlich
+eines Dienstjubiläums dürfen nur gebildet werden, wenn das
+Dienstverhältnis mindestens zehn Jahre bestanden hat, das
+Dienstjubiläum das Bestehen eines Dienstverhältnisses von mindestens
+15 Jahren voraussetzt, die Zusage schriftlich erteilt ist und soweit
+der Zuwendungsberechtigte seine Anwartschaft nach dem 31. Dezember
+1992 erwirbt.
+
+(4a)
+1             Rückstellungen für drohende Verluste aus schwebenden
+Geschäften dürfen nicht gebildet werden.
+2             Das gilt nicht für Ergebnisse nach Absatz 1a Satz 2.
+
+(4b)
+1             Rückstellungen für Aufwendungen, die in künftigen
+Wirtschaftsjahren als Anschaffungs- oder Herstellungskosten eines
+Wirtschaftsguts zu aktivieren sind, dürfen nicht gebildet werden.
+2             Rückstellungen für die Verpflichtung zur schadlosen
+Verwertung radioaktiver Reststoffe sowie ausgebauter oder abgebauter
+radioaktiver Anlagenteile dürfen nicht gebildet werden, soweit
+Aufwendungen im Zusammenhang mit der Bearbeitung oder Verarbeitung von
+Kernbrennstoffen stehen, die aus der Aufarbeitung bestrahlter
+Kernbrennstoffe gewonnen worden sind und keine radioaktiven Abfälle
+darstellen.
+
+(5)
+1             Als Rechnungsabgrenzungsposten sind nur anzusetzen
+
+1.  auf der Aktivseite Ausgaben vor dem Abschlussstichtag, soweit sie
+    Aufwand für eine bestimmte Zeit nach diesem Tag darstellen;
+
+
+2.  auf der Passivseite Einnahmen vor dem Abschlussstichtag, soweit sie
+    Ertrag für eine bestimmte Zeit nach diesem Tag darstellen.
+
+
+
+2             Auf der Aktivseite sind ferner anzusetzen
+
+1.  als Aufwand berücksichtigte Zölle und Verbrauchsteuern, soweit sie auf
+    am Abschlussstichtag auszuweisende Wirtschaftsgüter des
+    Vorratsvermögens entfallen,
+
+
+2.  als Aufwand berücksichtigte Umsatzsteuer auf am Abschlussstichtag
+    auszuweisende Anzahlungen.
+
+
+
+
+(6) Die Vorschriften über die Entnahmen und die Einlagen, über die
+Zulässigkeit der Bilanzänderung, über die Betriebsausgaben, über die
+Bewertung und über die Absetzung für Abnutzung oder
+Substanzverringerung sind zu befolgen.
+
+(7)
+1             Übernommene Verpflichtungen, die beim ursprünglich
+Verpflichteten Ansatzverboten, -beschränkungen oder
+Bewertungsvorbehalten unterlegen haben, sind zu den auf die Übernahme
+folgenden Abschlussstichtagen bei dem Übernehmer und dessen
+Rechtsnachfolger so zu bilanzieren, wie sie beim ursprünglich
+Verpflichteten ohne Übernahme zu bilanzieren wären.
+2             Dies gilt in Fällen des Schuldbeitritts oder der
+Erfüllungsübernahme mit vollständiger oder teilweiser
+Schuldfreistellung für die sich aus diesem Rechtsgeschäft ergebenden
+Verpflichtungen sinngemäß.
+3             Satz 1 ist für den Erwerb eines Mitunternehmeranteils
+entsprechend anzuwenden.
+4             Wird eine Pensionsverpflichtung unter gleichzeitiger
+Übernahme von Vermögenswerten gegenüber einem Arbeitnehmer übernommen,
+der bisher in einem anderen Unternehmen tätig war, ist Satz 1 mit der
+Maßgabe anzuwenden, dass bei der Ermittlung des Teilwertes der
+Verpflichtung der Jahresbetrag nach § 6a Absatz 3 Satz 2 Nummer 1 so
+zu bemessen ist, dass zu Beginn des Wirtschaftsjahres der Übernahme
+der Barwert der Jahresbeträge zusammen mit den übernommenen
+Vermögenswerten gleich dem Barwert der künftigen Pensionsleistungen
+ist; dabei darf sich kein negativer Jahresbetrag ergeben.
+5             Für einen Gewinn, der sich aus der Anwendung der Sätze 1
+bis 3 ergibt, kann jeweils in Höhe von vierzehn Fünfzehntel eine
+gewinnmindernde Rücklage gebildet werden, die in den folgenden 14
+Wirtschaftsjahren jeweils mit mindestens einem Vierzehntel
+gewinnerhöhend aufzulösen ist (Auflösungszeitraum).
+6             Besteht eine Verpflichtung, für die eine Rücklage
+gebildet wurde, bereits vor Ablauf des maßgebenden Auflösungszeitraums
+nicht mehr, ist die insoweit verbleibende Rücklage erhöhend
+aufzulösen.
+
+
+#### § 5a Gewinnermittlung bei Handelsschiffen im internationalen Verkehr
+
+(1)
+1             Anstelle der Ermittlung des Gewinns nach § 4 Absatz 1
+oder § 5 ist bei einem Gewerbebetrieb mit Geschäftsleitung im Inland
+der Gewinn, soweit er auf den Betrieb von Handelsschiffen im
+internationalen Verkehr entfällt, auf unwiderruflichen Antrag des
+Steuerpflichtigen nach der in seinem Betrieb geführten Tonnage zu
+ermitteln, wenn die Bereederung dieser Handelsschiffe im Inland
+durchgeführt wird.
+2             Der im Wirtschaftsjahr erzielte Gewinn beträgt pro Tag
+des Betriebs für jedes im internationalen Verkehr betriebene
+Handelsschiff für jeweils volle 100 Nettotonnen (Nettoraumzahl)
+
+*    *   0,92 Euro
+
+    *   bei einer Tonnage bis zu 1 000 Nettotonnen,
+
+
+*    *   0,69 Euro
+
+    *   für die 1 000 Nettotonnen übersteigende Tonnage bis zu 10 000
+        Nettotonnen,
+
+
+*    *   0,46 Euro
+
+    *   für die 10 000 Nettotonnen übersteigende Tonnage bis zu 25 000
+        Nettotonnen,
+
+
+*    *   0,23 Euro
+
+    *   für die 25 000 Nettotonnen übersteigende Tonnage.
+
+
+
+
+(2)
+1             Handelsschiffe werden im internationalen Verkehr
+betrieben, wenn eigene oder gecharterte Seeschiffe, die im
+Wirtschaftsjahr überwiegend in einem inländischen Seeschiffsregister
+eingetragen sind, in diesem Wirtschaftsjahr überwiegend zur
+Beförderung von Personen oder Gütern im Verkehr mit oder zwischen
+ausländischen Häfen, innerhalb eines ausländischen Hafens oder
+zwischen einem ausländischen Hafen und der Hohen See eingesetzt
+werden.
+2             Zum Betrieb von Handelsschiffen im internationalen
+Verkehr gehören auch ihre Vercharterung, wenn sie vom Vercharterer
+ausgerüstet worden sind, und die unmittelbar mit ihrem Einsatz oder
+ihrer Vercharterung zusammenhängenden Neben- und Hilfsgeschäfte
+einschließlich der Veräußerung der Handelsschiffe und der unmittelbar
+ihrem Betrieb dienenden Wirtschaftsgüter.
+3             Der Einsatz und die Vercharterung von gecharterten
+Handelsschiffen gilt nur dann als Betrieb von Handelsschiffen im
+internationalen Verkehr, wenn gleichzeitig eigene oder ausgerüstete
+Handelsschiffe im internationalen Verkehr betrieben werden.
+4             Sind gecharterte Handelsschiffe nicht in einem
+inländischen Seeschiffsregister eingetragen, gilt Satz 3 unter der
+weiteren Voraussetzung, dass im Wirtschaftsjahr die Nettotonnage der
+gecharterten Handelsschiffe das Dreifache der nach den Sätzen 1 und 2
+im internationalen Verkehr betriebenen Handelsschiffe nicht
+übersteigt; für die Berechnung der Nettotonnage sind jeweils die
+Nettotonnen pro Schiff mit der Anzahl der Betriebstage nach Absatz 1
+zu vervielfältigen.
+5             Dem Betrieb von Handelsschiffen im internationalen
+Verkehr ist gleichgestellt, wenn Seeschiffe, die im Wirtschaftsjahr
+überwiegend in einem inländischen Seeschiffsregister eingetragen sind,
+in diesem Wirtschaftsjahr überwiegend außerhalb der deutschen
+Hoheitsgewässer zum Schleppen, Bergen oder zur Aufsuchung von
+Bodenschätzen eingesetzt werden; die Sätze 2 bis 4 sind sinngemäß
+anzuwenden.
+
+(3)
+1             Der Antrag auf Anwendung der Gewinnermittlung nach
+Absatz 1 ist im Wirtschaftsjahr der Anschaffung oder Herstellung des
+Handelsschiffs (Indienststellung) mit Wirkung ab Beginn dieses
+Wirtschaftsjahres zu stellen.
+2             Vor Indienststellung des Handelsschiffs durch den
+Betrieb von Handelsschiffen im internationalen Verkehr erwirtschaftete
+Gewinne sind in diesem Fall nicht zu besteuern; Verluste sind weder
+ausgleichsfähig noch verrechenbar.
+3             Bereits erlassene Steuerbescheide sind insoweit zu
+ändern.
+4             Das gilt auch dann, wenn der Steuerbescheid unanfechtbar
+geworden ist; die Festsetzungsfrist endet insoweit nicht, bevor die
+Festsetzungsfrist für den Veranlagungszeitraum abgelaufen ist, in dem
+der Gewinn erstmals nach Absatz 1 ermittelt wird.
+5             Wird der Antrag auf Anwendung der Gewinnermittlung nach
+Absatz 1 nicht nach Satz 1 im Wirtschaftsjahr der Anschaffung oder
+Herstellung des Handelsschiffs (Indienststellung) gestellt, kann er
+erstmals in dem Wirtschaftsjahr gestellt werden, das jeweils nach
+Ablauf eines Zeitraumes von zehn Jahren, vom Beginn des Jahres der
+Indienststellung gerechnet, endet.
+6             Die Sätze 2 bis 4 sind insoweit nicht anwendbar.
+7             Der Steuerpflichtige ist an die Gewinnermittlung nach
+Absatz 1 vom Beginn des Wirtschaftsjahres an, in dem er den Antrag
+stellt, zehn Jahre gebunden.
+8             Nach Ablauf dieses Zeitraumes kann er den Antrag mit
+Wirkung für den Beginn jedes folgenden Wirtschaftsjahres bis zum Ende
+des Jahres unwiderruflich zurücknehmen.
+9             An die Gewinnermittlung nach allgemeinen Vorschriften
+ist der Steuerpflichtige ab dem Beginn des Wirtschaftsjahres, in dem
+er den Antrag zurücknimmt, zehn Jahre gebunden.
+
+(4)
+1             Zum Schluss des Wirtschaftsjahres, das der erstmaligen
+Anwendung des Absatzes 1 vorangeht (Übergangsjahr), ist für jedes
+Wirtschaftsgut, das unmittelbar dem Betrieb von Handelsschiffen im
+internationalen Verkehr dient, der Unterschiedsbetrag zwischen
+Buchwert und Teilwert in ein besonderes Verzeichnis aufzunehmen.
+2             Der Unterschiedsbetrag ist gesondert und bei
+Gesellschaften im Sinne des § 15 Absatz 1 Satz 1 Nummer 2 einheitlich
+festzustellen.
+3             Der Unterschiedsbetrag nach Satz 1 ist dem Gewinn
+hinzuzurechnen:
+
+1.  in den dem letzten Jahr der Anwendung des Absatzes 1 folgenden fünf
+    Wirtschaftsjahren jeweils in Höhe von mindestens einem Fünftel,
+
+
+2.  in dem Jahr, in dem das Wirtschaftsgut aus dem Betriebsvermögen
+    ausscheidet oder in dem es nicht mehr unmittelbar dem Betrieb von
+    Handelsschiffen im internationalen Verkehr dient,
+
+
+3.  in dem Jahr des Ausscheidens eines Mitunternehmers hinsichtlich des
+    auf ihn entfallenden Unterschiedsbetrags; mindert sich die Beteiligung
+    des Mitunternehmers, ohne dass er aus der Mitunternehmerschaft
+    ausscheidet, erfolgt eine Hinzurechnung entsprechend der Minderung der
+    Beteiligung.
+
+
+
+4             Satz 3 Nummer 3 gilt auch in den Fällen der §§ 20 und 24
+des Umwandlungssteuergesetzes.
+5             Wird ein Betrieb, Teilbetrieb oder Anteil eines
+Mitunternehmers an einem Betrieb auf einen Rechtsnachfolger zum
+Buchwert nach § 6 Absatz 3 übertragen, geht der Unterschiedsbetrag
+insoweit auf den Rechtsnachfolger über.
+6             § 182 Absatz 2 der Abgabenordnung gilt sinngemäß.
+7             Die Sätze 1 bis 6 sind entsprechend anzuwenden, wenn der
+Steuerpflichtige Wirtschaftsgüter des Betriebsvermögens dem Betrieb
+von Handelsschiffen im internationalen Verkehr zuführt.
+
+(4a)
+1             Bei Gesellschaften im Sinne des § 15 Absatz 1 Satz 1
+Nummer 2 tritt für die Zwecke dieser Vorschrift an die Stelle des
+Steuerpflichtigen die Gesellschaft.
+2             Der nach Absatz 1 ermittelte Gewinn ist den
+Gesellschaftern entsprechend ihrem Anteil am Gesellschaftsvermögen
+zuzurechnen.
+3             Vergütungen im Sinne des § 15 Absatz 1 Satz 1 Nummer 2
+und Satz 2 sind hinzuzurechnen.
+
+(5)
+1             Gewinne nach Absatz 1 umfassen auch Einkünfte nach § 16.
+2             §§ 34, 34c Absatz 1 bis 3 und § 35 sind nicht
+anzuwenden.
+3             Rücklagen nach den §§ 6b und 6d sind beim Übergang zur
+Gewinnermittlung nach Absatz 1 dem Gewinn im Erstjahr hinzuzurechnen;
+bis zum Übergang in Anspruch genommene Investitionsabzugsbeträge nach
+§ 7g Absatz 1 sind nach Maßgabe des § 7g Absatz 3 rückgängig zu
+machen.
+4             Für die Anwendung des § 15a ist der nach § 4 Absatz 1
+oder § 5 ermittelte Gewinn zugrunde zu legen.
+
+(6)
+1             In der Bilanz zum Schluss des Wirtschaftsjahres, in dem
+Absatz 1 letztmalig angewendet wird, ist für jedes Wirtschaftsgut, das
+unmittelbar dem Betrieb von Handelsschiffen im internationalen Verkehr
+dient, der Teilwert anzusetzen.
+2             Für Wirtschaftsgüter des abnutzbaren Anlagevermögens
+sind den weiteren Absetzungen für Abnutzung unverändert die
+ursprünglichen Anschaffungs- oder Herstellungskosten zugrunde zu
+legen.
+
+
+#### § 5b Elektronische Übermittlung von Bilanzen sowie Gewinn- und Verlustrechnungen
+
+(1)
+1             Wird der Gewinn nach § 4 Absatz 1, § 5 oder § 5a
+ermittelt, so ist der Inhalt der Bilanz sowie der Gewinn- und
+Verlustrechnung nach amtlich vorgeschriebenem Datensatz durch
+Datenfernübertragung zu übermitteln.
+2             Enthält die Bilanz Ansätze oder Beträge, die den
+steuerlichen Vorschriften nicht entsprechen, so sind diese Ansätze
+oder Beträge durch Zusätze oder Anmerkungen den steuerlichen
+Vorschriften anzupassen und nach amtlich vorgeschriebenem Datensatz
+durch Datenfernübertragung zu übermitteln.
+3             Der Steuerpflichtige kann auch eine den steuerlichen
+Vorschriften entsprechende Bilanz nach amtlich vorgeschriebenem
+Datensatz durch Datenfernübertragung übermitteln.
+4             Im Fall der Eröffnung des Betriebs sind die Sätze 1 bis
+4 für den Inhalt der Eröffnungsbilanz entsprechend anzuwenden.
+
+(2)
+1             Auf Antrag kann die Finanzbehörde zur Vermeidung
+unbilliger Härten auf eine elektronische Übermittlung verzichten.
+2             § 150 Absatz 8 der Abgabenordnung gilt entsprechend.
+
+
+#### § 6 Bewertung
+
+(1) Für die Bewertung der einzelnen Wirtschaftsgüter, die nach § 4
+Absatz 1 oder nach § 5 als Betriebsvermögen anzusetzen sind, gilt das
+Folgende:
+
+1.  Wirtschaftsgüter des Anlagevermögens, die der Abnutzung unterliegen,
+    sind mit den Anschaffungs- oder Herstellungskosten oder dem an deren
+    Stelle tretenden Wert, vermindert um die Absetzungen für Abnutzung,
+    erhöhte Absetzungen, Sonderabschreibungen, Abzüge nach § 6b und
+    ähnliche Abzüge, anzusetzen.
+    2                   Ist der Teilwert auf Grund einer voraussichtlich
+    dauernden Wertminderung niedriger, so kann dieser angesetzt werden.
+    3                   Teilwert ist der Betrag, den ein Erwerber des
+    ganzen Betriebs im Rahmen des Gesamtkaufpreises für das einzelne
+    Wirtschaftsgut ansetzen würde; dabei ist davon auszugehen, dass der
+    Erwerber den Betrieb fortführt.
+    4                   Wirtschaftsgüter, die bereits am Schluss des
+    vorangegangenen Wirtschaftsjahres zum Anlagevermögen des
+    Steuerpflichtigen gehört haben, sind in den folgenden
+    Wirtschaftsjahren gemäß Satz 1 anzusetzen, es sei denn, der
+    Steuerpflichtige weist nach, dass ein niedrigerer Teilwert nach Satz 2
+    angesetzt werden kann.
+
+
+1a. Zu den Herstellungskosten eines Gebäudes gehören auch Aufwendungen für
+    Instandsetzungs- und Modernisierungsmaßnahmen, die innerhalb von drei
+    Jahren nach der Anschaffung des Gebäudes durchgeführt werden, wenn die
+    Aufwendungen ohne die Umsatzsteuer 15 Prozent der Anschaffungskosten
+    des Gebäudes übersteigen (anschaffungsnahe Herstellungskosten).
+    2                   Zu diesen Aufwendungen gehören nicht die
+    Aufwendungen für Erweiterungen im Sinne des § 255 Absatz 2 Satz 1 des
+    Handelsgesetzbuchs sowie Aufwendungen für Erhaltungsarbeiten, die
+    jährlich üblicherweise anfallen.
+
+
+1b. Bei der Berechnung der Herstellungskosten brauchen angemessene Teile
+    der Kosten der allgemeinen Verwaltung sowie angemessene Aufwendungen
+    für soziale Einrichtungen des Betriebs, für freiwillige soziale
+    Leistungen und für die betriebliche Altersversorgung im Sinne des §
+    255 Absatz 2 Satz 3 des Handelsgesetzbuchs nicht einbezogen zu werden,
+    soweit diese auf den Zeitraum der Herstellung entfallen.
+    2                   Das Wahlrecht ist bei Gewinnermittlung nach § 5 in
+    Übereinstimmung mit der Handelsbilanz auszuüben.
+
+
+2.  Andere als die in Nummer 1 bezeichneten Wirtschaftsgüter des Betriebs
+    (Grund und Boden, Beteiligungen, Umlaufvermögen) sind mit den
+    Anschaffungs- oder Herstellungskosten oder dem an deren Stelle
+    tretenden Wert, vermindert um Abzüge nach § 6b und ähnliche Abzüge,
+    anzusetzen.
+    2                   Ist der Teilwert (Nummer 1 Satz 3) auf Grund einer
+    voraussichtlich dauernden Wertminderung niedriger, so kann dieser
+    angesetzt werden.
+    3                   Nummer 1 Satz 4 gilt entsprechend.
+
+
+2a. Steuerpflichtige, die den Gewinn nach § 5 ermitteln, können für den
+    Wertansatz gleichartiger Wirtschaftsgüter des Vorratsvermögens
+    unterstellen, dass die zuletzt angeschafften oder hergestellten
+    Wirtschaftsgüter zuerst verbraucht oder veräußert worden sind, soweit
+    dies den handelsrechtlichen Grundsätzen ordnungsmäßiger Buchführung
+    entspricht.
+    2                   Der Vorratsbestand am Schluss des
+    Wirtschaftsjahres, das der erstmaligen Anwendung der Bewertung nach
+    Satz 1 vorangeht, gilt mit seinem Bilanzansatz als erster Zugang des
+    neuen Wirtschaftsjahres.
+    3                   Von der Verbrauchs- oder Veräußerungsfolge nach
+    Satz 1 kann in den folgenden Wirtschaftsjahren nur mit Zustimmung des
+    Finanzamts abgewichen werden.
+
+
+2b. Steuerpflichtige, die in den Anwendungsbereich des § 340 des
+    Handelsgesetzbuchs fallen, haben die zu Handelszwecken erworbenen
+    Finanzinstrumente, die nicht in einer Bewertungseinheit im Sinne des §
+    5 Absatz 1a Satz 2 abgebildet werden, mit dem beizulegenden Zeitwert
+    abzüglich eines Risikoabschlages (§ 340e Absatz 3 des
+    Handelsgesetzbuchs) zu bewerten.
+    2                   Nummer 2 Satz 2 ist nicht anzuwenden.
+
+
+3.  Verbindlichkeiten sind unter sinngemäßer Anwendung der Vorschriften
+    der Nummer 2 anzusetzen und mit einem Zinssatz von 5,5 Prozent
+    abzuzinsen.
+    2                   Ausgenommen von der Abzinsung sind
+    Verbindlichkeiten, deren Laufzeit am Bilanzstichtag weniger als zwölf
+    Monate beträgt, und Verbindlichkeiten, die verzinslich sind oder auf
+    einer Anzahlung oder Vorausleistung beruhen.
+
+
+3a. Rückstellungen sind höchstens insbesondere unter Berücksichtigung
+    folgender Grundsätze anzusetzen:
+
+    a)  bei Rückstellungen für gleichartige Verpflichtungen ist auf der
+        Grundlage der Erfahrungen in der Vergangenheit aus der Abwicklung
+        solcher Verpflichtungen die Wahrscheinlichkeit zu berücksichtigen,
+        dass der Steuerpflichtige nur zu einem Teil der Summe dieser
+        Verpflichtungen in Anspruch genommen wird;
+
+
+    b)  Rückstellungen für Sachleistungsverpflichtungen sind mit den
+        Einzelkosten und den angemessenen Teilen der notwendigen Gemeinkosten
+        zu bewerten;
+
+
+    c)  künftige Vorteile, die mit der Erfüllung der Verpflichtung
+        voraussichtlich verbunden sein werden, sind, soweit sie nicht als
+        Forderung zu aktivieren sind, bei ihrer Bewertung wertmindernd zu
+        berücksichtigen;
+
+
+    d)  Rückstellungen für Verpflichtungen, für deren Entstehen im
+        wirtschaftlichen Sinne der laufende Betrieb ursächlich ist, sind
+        zeitanteilig in gleichen Raten anzusammeln.
+        2                         Rückstellungen für gesetzliche
+        Verpflichtungen zur Rücknahme und Verwertung von Erzeugnissen, die vor
+        Inkrafttreten entsprechender gesetzlicher Verpflichtungen in Verkehr
+        gebracht worden sind, sind zeitanteilig in gleichen Raten bis zum
+        Beginn der jeweiligen Erfüllung anzusammeln; Buchstabe e ist insoweit
+        nicht anzuwenden.
+        3                         Rückstellungen für die Verpflichtung, ein
+        Kernkraftwerk stillzulegen, sind ab dem Zeitpunkt der erstmaligen
+        Nutzung bis zum Zeitpunkt, in dem mit der Stilllegung begonnen werden
+        muss, zeitanteilig in gleichen Raten anzusammeln; steht der Zeitpunkt
+        der Stilllegung nicht fest, beträgt der Zeitraum für die Ansammlung 25
+        Jahre;
+
+
+    e)  Rückstellungen für Verpflichtungen sind mit einem Zinssatz von 5,5
+        Prozent abzuzinsen; Nummer 3 Satz 2 ist entsprechend anzuwenden.
+        2                         Für die Abzinsung von Rückstellungen für
+        Sachleistungsverpflichtungen ist der Zeitraum bis zum Beginn der
+        Erfüllung maßgebend.
+        3                         Für die Abzinsung von Rückstellungen für die
+        Verpflichtung, ein Kernkraftwerk stillzulegen, ist der sich aus
+        Buchstabe d Satz 3 ergebende Zeitraum maßgebend; und
+
+
+    f)  bei der Bewertung sind die Wertverhältnisse am Bilanzstichtag
+        maßgebend; künftige Preis- und Kostensteigerungen dürfen nicht
+        berücksichtigt werden.
+
+
+
+
+
+4.  Entnahmen des Steuerpflichtigen für sich, für seinen Haushalt oder für
+    andere betriebsfremde Zwecke sind mit dem Teilwert anzusetzen; die
+    Entnahme ist in den Fällen des § 4 Absatz 1 Satz 3 erster Halbsatz mit
+    dem gemeinen Wert und in den Fällen des § 4 Absatz 1 Satz 3 zweiter
+    Halbsatz mit dem Wert anzusetzen, den der andere Staat der Besteuerung
+    zugrunde legt, höchstens jedoch mit dem gemeinen Wert.
+    2                   Die private Nutzung eines Kraftfahrzeugs, das zu
+    mehr als 50 Prozent betrieblich genutzt wird, ist für jeden
+    Kalendermonat mit 1 Prozent des inländischen Listenpreises im
+    Zeitpunkt der Erstzulassung zuzüglich der Kosten für Sonderausstattung
+    einschließlich Umsatzsteuer anzusetzen; bei der privaten Nutzung von
+    Fahrzeugen mit Antrieb ausschließlich durch Elektromotoren, die ganz
+    oder überwiegend aus mechanischen oder elektrochemischen
+    Energiespeichern oder aus emissionsfrei betriebenen Energiewandlern
+    gespeist werden (Elektrofahrzeuge), oder von extern aufladbaren
+    Hybridelektrofahrzeugen, ist der Listenpreis dieser Kraftfahrzeuge
+
+    1.  soweit die Nummern 2, 3 oder 4 nicht anzuwenden sind und bei
+        Anschaffung vor dem 1. Januar 2023 um die darin enthaltenen Kosten des
+        Batteriesystems im Zeitpunkt der Erstzulassung des Kraftfahrzeugs wie
+        folgt zu mindern: für bis zum 31. Dezember 2013 angeschaffte
+        Kraftfahrzeuge um 500 Euro pro Kilowattstunde der Batteriekapazität,
+        dieser Betrag mindert sich für in den Folgejahren angeschaffte
+        Kraftfahrzeuge um jährlich 50 Euro pro Kilowattstunde der
+        Batteriekapazität; die Minderung pro Kraftfahrzeug beträgt höchstens
+        10 000 Euro; dieser Höchstbetrag mindert sich für in den Folgejahren
+        angeschaffte Kraftfahrzeuge um jährlich 500 Euro, oder
+
+
+    2.  soweit Nummer 3 nicht anzuwenden ist und bei Anschaffung nach dem 31.
+        Dezember 2018 und vor dem 1. Januar 2022 nur zur Hälfte anzusetzen;
+        bei extern aufladbaren Hybridelektrofahrzeugen muss das Fahrzeug die
+        Voraussetzungen des § 3 Absatz 2 Nummer 1 oder 2 des
+        Elektromobilitätsgesetzes erfüllen, oder
+
+
+    3.  bei Anschaffung nach dem 31. Dezember 2018 und vor dem 1. Januar 2031
+        nur zu einem Viertel anzusetzen, wenn das Kraftfahrzeug keine
+        Kohlendioxidemission je gefahrenen Kilometer hat und der
+        Bruttolistenpreis des Kraftfahrzeugs nicht mehr als 60 000 Euro
+        beträgt, oder
+
+
+    4.  soweit Nummer 3 nicht anzuwenden ist und bei Anschaffung nach dem 31.
+        Dezember 2021 und vor dem 1. Januar 2025 nur zur Hälfte anzusetzen,
+        wenn das Kraftfahrzeug
+
+        a)  eine Kohlendioxidemission von höchstens 50 Gramm je gefahrenen
+            Kilometer hat oder
+
+
+        b)  die Reichweite des Fahrzeugs unter ausschließlicher Nutzung der
+            elektrischen Antriebsmaschine mindestens 60 Kilometer beträgt, oder
+
+
+
+
+
+    5.  soweit Nummer 3 nicht anzuwenden ist und bei Anschaffung nach dem 31.
+        Dezember 2024 und vor dem 1. Januar 2031 nur zur Hälfte anzusetzen,
+        wenn das Kraftfahrzeug
+
+        a)  eine Kohlendioxidemission von höchstens 50 Gramm je gefahrenen
+            Kilometer hat oder
+
+
+        b)  die Reichweite des Fahrzeugs unter ausschließlicher Nutzung der
+            elektrischen Antriebsmaschine mindestens 80 Kilometer beträgt,
+
+
+
+
+
+
+    die maßgebliche Kohlendioxidemission sowie die Reichweite des
+    Kraftfahrzeugs unter ausschließlicher Nutzung der elektrischen
+    Antriebsmaschine ist der Übereinstimmungsbescheinigung nach Anhang IX
+    der Richtlinie 2007/46/EG oder aus der Übereinstimmungsbescheinigung
+    nach Artikel 38 der Verordnung (EU) Nr. 168/2013 zu entnehmen.
+    3                   Die private Nutzung kann abweichend von Satz 2 mit
+    den auf die Privatfahrten entfallenden Aufwendungen angesetzt werden,
+    wenn die für das Kraftfahrzeug insgesamt entstehenden Aufwendungen
+    durch Belege und das Verhältnis der privaten zu den übrigen Fahrten
+    durch ein ordnungsgemäßes Fahrtenbuch nachgewiesen werden; bei der
+    privaten Nutzung von Fahrzeugen mit Antrieb ausschließlich durch
+    Elektromotoren, die ganz oder überwiegend aus mechanischen oder
+    elektrochemischen Energiespeichern oder aus emissionsfrei betriebenen
+    Energiewandlern gespeist werden (Elektrofahrzeuge), oder von extern
+    aufladbaren Hybridelektrofahrzeugen, sind
+
+    1.  soweit die Nummern 2, 3 oder 4 nicht anzuwenden sind und bei
+        Anschaffung vor dem 1. Januar 2023 die der Berechnung der Entnahme
+        zugrunde zu legenden insgesamt entstandenen Aufwendungen um
+        Aufwendungen für das Batteriesystem zu mindern; dabei ist bei zum
+        Betriebsvermögen des Steuerpflichtigen gehörenden Elektro- und
+        Hybridelektrofahrzeugen die der Berechnung der Absetzungen für
+        Abnutzung zugrunde zu legende Bemessungsgrundlage um die nach Satz 2
+        in pauschaler Höhe festgelegten Aufwendungen zu mindern, wenn darin
+        Kosten für ein Batteriesystem enthalten sind, oder
+
+
+    2.  soweit Nummer 3 nicht anzuwenden ist und bei Anschaffung nach dem 31.
+        Dezember 2018 und vor dem 1. Januar 2022 bei der Ermittlung der
+        insgesamt entstandenen Aufwendungen die Anschaffungskosten für das
+        Kraftfahrzeug oder vergleichbare Aufwendungen nur zur Hälfte zu
+        berücksichtigen; bei extern aufladbaren Hybridelektrofahrzeugen muss
+        das Fahrzeug die Voraussetzungen des § 3 Absatz 2 Nummer 1 oder 2 des
+        Elektromobilitätsgesetzes erfüllen, oder
+
+
+    3.  bei Anschaffung nach dem 31. Dezember 2018 und vor dem 1. Januar 2031
+        bei der Ermittlung der insgesamt entstandenen Aufwendungen die
+        Anschaffungskosten für das Kraftfahrzeug oder vergleichbare
+        Aufwendungen nur zu einem Viertel zu berücksichtigen, wenn das
+        Kraftfahrzeug keine Kohlendioxidemission je gefahrenen Kilometer hat,
+        und der Bruttolistenpreis des Kraftfahrzeugs nicht mehr als 60 000
+        Euro beträgt oder
+
+
+    4.  soweit Nummer 3 nicht anzuwenden ist und bei Anschaffung nach dem 31.
+        Dezember 2021 und vor dem 1. Januar 2025 bei der Ermittlung der
+        insgesamt entstandenen Aufwendungen die Anschaffungskosten für das
+        Kraftfahrzeug oder vergleichbare Aufwendungen nur zur Hälfte zu
+        berücksichtigen, wenn das Kraftfahrzeug
+
+        a)  eine Kohlendioxidemission von höchstens 50 Gramm je gefahrenen
+            Kilometer hat oder
+
+
+        b)  die Reichweite des Kraftfahrzeugs unter ausschließlicher Nutzung der
+            elektrischen Antriebsmaschine mindestens 60 Kilometer beträgt, oder
+
+
+
+
+
+    5.  soweit Nummer 3 nicht anzuwenden ist und bei Anschaffung nach dem 31.
+        Dezember 2024 und vor dem 1. Januar 2031 bei der Ermittlung der
+        insgesamt entstandenen Aufwendungen die Anschaffungskosten für das
+        Kraftfahrzeug oder vergleichbare Aufwendungen nur zur Hälfte zu
+        berücksichtigen, wenn das Kraftfahrzeug
+
+        a)  eine Kohlendioxidemission von höchstens 50 Gramm je gefahrenen
+            Kilometer hat oder
+
+
+        b)  die Reichweite des Kraftfahrzeugs unter ausschließlicher Nutzung der
+            elektrischen Antriebsmaschine mindestens 80 Kilometer beträgt,
+
+
+
+
+
+
+    die maßgebliche Kohlendioxidemission sowie die Reichweite des
+    Kraftfahrzeugs unter ausschließlicher Nutzung der elektrischen
+    Antriebsmaschine ist der Übereinstimmungsbescheinigung nach Anhang IX
+    der Richtlinie 2007/46/EG oder aus der Übereinstimmungsbescheinigung
+    nach Artikel 38 der Verordnung (EU) Nr. 168/2013 zu entnehmen.
+    4                   Wird ein Wirtschaftsgut unmittelbar nach seiner
+    Entnahme einer nach § 5 Absatz 1 Nummer 9 des
+    Körperschaftsteuergesetzes von der Körperschaftsteuer befreiten
+    Körperschaft, Personenvereinigung oder Vermögensmasse oder einer
+    juristischen Person des öffentlichen Rechts zur Verwendung für
+    steuerbegünstigte Zwecke im Sinne des § 10b Absatz 1 Satz 1
+    unentgeltlich überlassen, so kann die Entnahme mit dem Buchwert
+    angesetzt werden.
+    5                   Satz 4 gilt nicht für die Entnahme von Nutzungen
+    und Leistungen.
+    6                   Die private Nutzung eines betrieblichen Fahrrads,
+    das kein Kraftfahrzeug im Sinne des Satzes 2 ist, bleibt außer Ansatz.
+
+
+5.  Einlagen sind mit dem Teilwert für den Zeitpunkt der Zuführung
+    anzusetzen; sie sind jedoch höchstens mit den Anschaffungs- oder
+    Herstellungskosten anzusetzen, wenn das zugeführte Wirtschaftsgut
+
+    a)  innerhalb der letzten drei Jahre vor dem Zeitpunkt der Zuführung
+        angeschafft oder hergestellt worden ist,
+
+
+    b)  ein Anteil an einer Kapitalgesellschaft ist und der Steuerpflichtige
+        an der Gesellschaft im Sinne des § 17 Absatz 1 oder Absatz 6 beteiligt
+        ist; § 17 Absatz 2 Satz 5 gilt entsprechend, oder
+
+
+    c)  ein Wirtschaftsgut im Sinne des § 20 Absatz 2 oder im Sinne des § 2
+        Absatz 4 des Investmentsteuergesetzes ist.
+
+
+
+    2                   Ist die Einlage ein abnutzbares Wirtschaftsgut, so
+    sind die Anschaffungs- oder Herstellungskosten um Absetzungen für
+    Abnutzung zu kürzen, die auf den Zeitraum zwischen der Anschaffung
+    oder Herstellung des Wirtschaftsguts und der Einlage entfallen.
+    3                   Ist die Einlage ein Wirtschaftsgut, das vor der
+    Zuführung aus einem Betriebsvermögen des Steuerpflichtigen entnommen
+    worden ist, so tritt an die Stelle der Anschaffungs- oder
+    Herstellungskosten der Wert, mit dem die Entnahme angesetzt worden
+    ist, und an die Stelle des Zeitpunkts der Anschaffung oder Herstellung
+    der Zeitpunkt der Entnahme.
+
+
+5a. In den Fällen des § 4 Absatz 1 Satz 8 zweiter Halbsatz ist das
+    Wirtschaftsgut mit dem gemeinen Wert anzusetzen; unterliegt der
+    Steuerpflichtige in einem anderen Staat einer Besteuerung auf Grund
+    des Ausschlusses oder der Beschränkung des Besteuerungsrechts dieses
+    Staates, ist das Wirtschaftsgut mit dem Wert anzusetzen, den der
+    andere Staat der Besteuerung zugrunde legt, höchstens jedoch mit dem
+    gemeinen Wert.
+
+
+5b. Im Fall des § 4 Absatz 1 Satz 9 ist das Wirtschaftsgut jeweils mit dem
+    Wert anzusetzen, den der andere Staat der Besteuerung zugrunde legt,
+    höchstens jedoch mit dem gemeinen Wert.
+
+
+6.  Bei Eröffnung eines Betriebs ist Nummer 5 entsprechend anzuwenden.
+
+
+7.  Bei entgeltlichem Erwerb eines Betriebs sind die Wirtschaftsgüter mit
+    dem Teilwert, höchstens jedoch mit den Anschaffungs- oder
+    Herstellungskosten anzusetzen.
+
+
+
+
+(2)
+1             Die Anschaffungs- oder Herstellungskosten oder der nach
+Absatz 1 Nummer 5 bis 6 an deren Stelle tretende Wert von abnutzbaren
+beweglichen Wirtschaftsgütern des Anlagevermögens, die einer
+selbständigen Nutzung fähig sind, können im Wirtschaftsjahr der
+Anschaffung, Herstellung oder Einlage des Wirtschaftsguts oder der
+Eröffnung des Betriebs in voller Höhe als Betriebsausgaben abgezogen
+werden, wenn die Anschaffungs- oder Herstellungskosten, vermindert um
+einen darin enthaltenen Vorsteuerbetrag (§ 9b Absatz 1), oder der nach
+Absatz 1 Nummer 5 bis 6 an deren Stelle tretende Wert für das einzelne
+Wirtschaftsgut 800 Euro nicht übersteigen.
+2             Ein Wirtschaftsgut ist einer selbständigen Nutzung nicht
+fähig, wenn es nach seiner betrieblichen Zweckbestimmung nur zusammen
+mit anderen Wirtschaftsgütern des Anlagevermögens genutzt werden kann
+und die in den Nutzungszusammenhang eingefügten Wirtschaftsgüter
+technisch aufeinander abgestimmt sind.
+3             Das gilt auch, wenn das Wirtschaftsgut aus dem
+betrieblichen Nutzungszusammenhang gelöst und in einen anderen
+betrieblichen Nutzungszusammenhang eingefügt werden kann.
+4             Wirtschaftsgüter im Sinne des Satzes 1, deren Wert 250
+Euro übersteigt, sind unter Angabe des Tages der Anschaffung,
+Herstellung oder Einlage des Wirtschaftsguts oder der Eröffnung des
+Betriebs und der Anschaffungs- oder Herstellungskosten oder des nach
+Absatz 1 Nummer 5 bis 6 an deren Stelle tretenden Werts in ein
+besonderes, laufend zu führendes Verzeichnis aufzunehmen.
+5             Das Verzeichnis braucht nicht geführt zu werden, wenn
+diese Angaben aus der Buchführung ersichtlich sind.
+
+(2a)
+1             Abweichend von Absatz 2 Satz 1 kann für die abnutzbaren
+beweglichen Wirtschaftsgüter des Anlagevermögens, die einer
+selbständigen Nutzung fähig sind, im Wirtschaftsjahr der Anschaffung,
+Herstellung oder Einlage des Wirtschaftsguts oder der Eröffnung des
+Betriebs ein Sammelposten gebildet werden, wenn die Anschaffungs- oder
+Herstellungskosten, vermindert um einen darin enthaltenen
+Vorsteuerbetrag (§ 9b Absatz 1), oder der nach Absatz 1 Nummer 5 bis 6
+an deren Stelle tretende Wert für das einzelne Wirtschaftsgut 250
+Euro, aber nicht 1 000 Euro übersteigen.
+2             Der Sammelposten ist im Wirtschaftsjahr der Bildung und
+den folgenden vier Wirtschaftsjahren mit jeweils einem Fünftel
+gewinnmindernd aufzulösen.
+3             Scheidet ein Wirtschaftsgut im Sinne des Satzes 1 aus
+dem Betriebsvermögen aus, wird der Sammelposten nicht vermindert.
+4             Die Anschaffungs- oder Herstellungskosten oder der nach
+Absatz 1 Nummer 5 bis 6 an deren Stelle tretende Wert von abnutzbaren
+beweglichen Wirtschaftsgütern des Anlagevermögens, die einer
+selbständigen Nutzung fähig sind, können im Wirtschaftsjahr der
+Anschaffung, Herstellung oder Einlage des Wirtschaftsguts oder der
+Eröffnung des Betriebs in voller Höhe als Betriebsausgaben abgezogen
+werden, wenn die Anschaffungs- oder Herstellungskosten, vermindert um
+einen darin enthaltenen Vorsteuerbetrag (§ 9b Absatz 1), oder der nach
+Absatz 1 Nummer 5 bis 6 an deren Stelle tretende Wert für das einzelne
+Wirtschaftsgut 250 Euro nicht übersteigen.
+5             Die Sätze 1 bis 3 sind für alle in einem Wirtschaftsjahr
+angeschafften, hergestellten oder eingelegten Wirtschaftsgüter
+einheitlich anzuwenden.
+
+(3)
+1             Wird ein Betrieb, ein Teilbetrieb oder der Anteil eines
+Mitunternehmers an einem Betrieb unentgeltlich übertragen, so sind bei
+der Ermittlung des Gewinns des bisherigen Betriebsinhabers
+(Mitunternehmers) die Wirtschaftsgüter mit den Werten anzusetzen, die
+sich nach den Vorschriften über die Gewinnermittlung ergeben, sofern
+die Besteuerung der stillen Reserven sichergestellt ist; dies gilt
+auch bei der unentgeltlichen Aufnahme einer natürlichen Person in ein
+bestehendes Einzelunternehmen sowie bei der unentgeltlichen
+Übertragung eines Teils eines Mitunternehmeranteils auf eine
+natürliche Person.
+2             Satz 1 ist auch anzuwenden, wenn der bisherige
+Betriebsinhaber (Mitunternehmer) Wirtschaftsgüter, die weiterhin zum
+Betriebsvermögen derselben Mitunternehmerschaft gehören, nicht
+überträgt, sofern der Rechtsnachfolger den übernommenen
+Mitunternehmeranteil über einen Zeitraum von mindestens fünf Jahren
+nicht veräußert oder aufgibt.
+3             Der Rechtsnachfolger ist an die in Satz 1 genannten
+Werte gebunden.
+
+(4) Wird ein einzelnes Wirtschaftsgut außer in den Fällen der Einlage
+(§ 4 Absatz 1 Satz 8) unentgeltlich in das Betriebsvermögen eines
+anderen Steuerpflichtigen übertragen, gilt sein gemeiner Wert für das
+aufnehmende Betriebsvermögen als Anschaffungskosten.
+
+(5)
+1             Wird ein einzelnes Wirtschaftsgut von einem
+Betriebsvermögen in ein anderes Betriebsvermögen desselben
+Steuerpflichtigen überführt, ist bei der Überführung der Wert
+anzusetzen, der sich nach den Vorschriften über die Gewinnermittlung
+ergibt, sofern die Besteuerung der stillen Reserven sichergestellt
+ist; § 4 Absatz 1 Satz 4 ist entsprechend anzuwenden.
+2             Satz 1 gilt auch für die Überführung aus einem eigenen
+Betriebsvermögen des Steuerpflichtigen in dessen
+Sonderbetriebsvermögen bei einer Mitunternehmerschaft und umgekehrt
+sowie für die Überführung zwischen verschiedenen
+Sonderbetriebsvermögen desselben Steuerpflichtigen bei verschiedenen
+Mitunternehmerschaften.
+3             Satz 1 gilt entsprechend, soweit ein Wirtschaftsgut
+
+1.  unentgeltlich oder gegen Gewährung oder Minderung von
+    Gesellschaftsrechten aus einem Betriebsvermögen des Mitunternehmers in
+    das Gesamthandsvermögen einer Mitunternehmerschaft und umgekehrt,
+
+
+2.  unentgeltlich oder gegen Gewährung oder Minderung von
+    Gesellschaftsrechten aus dem Sonderbetriebsvermögen eines
+    Mitunternehmers in das Gesamthandsvermögen derselben
+    Mitunternehmerschaft oder einer anderen Mitunternehmerschaft, an der
+    er beteiligt ist, und umgekehrt oder
+
+
+3.  unentgeltlich zwischen den jeweiligen Sonderbetriebsvermögen
+    verschiedener Mitunternehmer derselben Mitunternehmerschaft
+
+
+
+übertragen wird.
+4             Wird das nach Satz 3 übertragene Wirtschaftsgut
+innerhalb einer Sperrfrist veräußert oder entnommen, ist rückwirkend
+auf den Zeitpunkt der Übertragung der Teilwert anzusetzen, es sei
+denn, die bis zur Übertragung entstandenen stillen Reserven sind durch
+Erstellung einer Ergänzungsbilanz dem übertragenden Gesellschafter
+zugeordnet worden; diese Sperrfrist endet drei Jahre nach Abgabe der
+Steuererklärung des Übertragenden für den Veranlagungszeitraum, in dem
+die in Satz 3 bezeichnete Übertragung erfolgt ist.
+5             Der Teilwert ist auch anzusetzen, soweit in den Fällen
+des Satzes 3 der Anteil einer Körperschaft, Personenvereinigung oder
+Vermögensmasse an dem Wirtschaftsgut unmittelbar oder mittelbar
+begründet wird oder dieser sich erhöht.
+6             Soweit innerhalb von sieben Jahren nach der Übertragung
+des Wirtschaftsguts nach Satz 3 der Anteil einer Körperschaft,
+Personenvereinigung oder Vermögensmasse an dem übertragenen
+Wirtschaftsgut aus einem anderen Grund unmittelbar oder mittelbar
+begründet wird oder dieser sich erhöht, ist rückwirkend auf den
+Zeitpunkt der Übertragung ebenfalls der Teilwert anzusetzen.
+
+(6)
+1             Wird ein einzelnes Wirtschaftsgut im Wege des Tausches
+übertragen, bemessen sich die Anschaffungskosten nach dem gemeinen
+Wert des hingegebenen Wirtschaftsguts.
+2             Erfolgt die Übertragung im Wege der verdeckten Einlage,
+erhöhen sich die Anschaffungskosten der Beteiligung an der
+Kapitalgesellschaft um den Teilwert des eingelegten Wirtschaftsguts.
+3             In den Fällen des Absatzes 1 Nummer 5 Satz 1 Buchstabe a
+erhöhen sich die Anschaffungskosten im Sinne des Satzes 2 um den
+Einlagewert des Wirtschaftsguts.
+4             Absatz 5 bleibt unberührt.
+
+(7) Im Fall des § 4 Absatz 3 sind
+
+1.  bei der Bemessung der Absetzungen für Abnutzung oder
+    Substanzverringerung die sich bei der Anwendung der Absätze 3 bis 6
+    ergebenden Werte als Anschaffungskosten zugrunde zu legen und
+
+
+2.  die Bewertungsvorschriften des Absatzes 1 Nummer 1a und der Nummern 4
+    bis 7 entsprechend anzuwenden.
+
+
+
+
+

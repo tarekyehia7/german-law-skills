@@ -1,0 +1,329 @@
+# Sozialgesetzbuch (SGB) Fünftes Buch (V) - Gesetzliche Krankenversicherung - (Artikel 1 des Gesetzes v. 20. Dezember 1988, BGBl. I S. 2477) (SGB 5)
+## Teil 14/48: Viertes Kapitel - Beziehungen der Krankenkassen zu den Leistungserbringern › Zweiter Abschnitt - Beziehungen zu Ärzten, Zahnärzten und Psychotherapeuten › Vierter Titel - Zahntechnische Leistungen
+*§ 88 – § 89a* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 14 G v. 10.12.2021 I 5162
+
+#### Vierter Titel - Zahntechnische Leistungen
+
+
+
+##### § 88 Bundesleistungsverzeichnis, Datenaustausch, Vergütungen
+
+(1) Der Spitzenverband Bund der Krankenkassen vereinbart mit dem
+Verband Deutscher Zahntechniker-Innungen ein bundeseinheitliches
+Verzeichnis der abrechnungsfähigen zahntechnischen Leistungen. Die
+Vereinbarung nach Satz 1 umfasst auch Festlegungen zu Inhalt und
+Umfang der im Rahmen der Erbringung zahntechnischer Leistungen
+elektronisch auszutauschenden Daten sowie zu deren Übermittlung. Das
+bundeseinheitliche Verzeichnis ist im Benehmen mit der
+Kassenzahnärztlichen Bundesvereinigung zu vereinbaren.
+
+(2) Die Landesverbände der Krankenkassen und die Ersatzkassen
+vereinbaren mit den Innungsverbänden der Zahntechniker die Vergütungen
+für die nach dem bundeseinheitlichen Verzeichnis abrechnungsfähigen
+zahntechnischen Leistungen, ohne die zahntechnischen Leistungen beim
+Zahnersatz einschließlich Zahnkronen und Suprakonstruktionen. Die
+vereinbarten Vergütungen sind Höchstpreise. Die Krankenkassen können
+die Versicherten sowie die Zahnärzte über preisgünstige
+Versorgungsmöglichkeiten informieren.
+
+(3) Preise für zahntechnische Leistungen nach Absatz 1 ohne die
+zahntechnischen Leistungen beim Zahnersatz einschließlich Zahnkronen
+und Suprakonstruktionen, die von einem Zahnarzt erbracht werden, haben
+die Preise nach Absatz 2 Satz 1 und 2 um mindestens 5 vom Hundert zu
+unterschreiten. Hierzu können Verträge nach § 83 abgeschlossen werden.
+
+
+#### Fünfter Titel - Schiedswesen
+
+
+
+##### § 89 Schiedsamt, Verordnungsermächtigungen
+
+(1) Die Kassenärztlichen Vereinigungen, die Landesverbände der
+Krankenkassen sowie die Ersatzkassen bilden je ein gemeinsames
+Schiedsamt für die vertragsärztliche Versorgung und ein gemeinsames
+Schiedsamt für die vertragszahnärztliche Versorgung
+(Landesschiedsämter).
+
+(2) Die Kassenärztlichen Bundesvereinigungen und der Spitzenverband
+Bund der Krankenkassen bilden ein gemeinsames Schiedsamt für die
+vertragsärztliche Versorgung und ein gemeinsames Schiedsamt für die
+vertragszahnärztliche Versorgung (Bundesschiedsämter).
+
+(3) Kommt ein Vertrag über die vertragsärztliche oder die
+vertragszahnärztliche Versorgung ganz oder teilweise nicht zustande,
+setzt das zuständige Schiedsamt mit der Mehrheit der Stimmen seiner
+Mitglieder innerhalb von drei Monaten den Vertragsinhalt fest. Wird
+ein für die Einleitung des Verfahrens erforderlicher Antrag nicht
+gestellt, können auch die für das jeweilige Schiedsamt oder die für
+die Vertragsparteien zuständigen Aufsichtsbehörden, nachdem sie den
+Organisationen, die das Schiedsamt bilden, eine Frist zur
+Antragstellung gesetzt haben und die Frist abgelaufen ist oder nach
+Ablauf einer für das Zustandekommen des Vertrages gesetzlich
+vorgeschriebenen Frist, das Schiedsamt mit Wirkung für die
+Vertragsparteien anrufen. Das Schiedsamtsverfahren beginnt mit dem bei
+dem Schiedsamt gestellten Antrag.
+
+(4) Kündigt eine Vertragspartei einen Vertrag, hat sie die Kündigung
+dem zuständigen Schiedsamt schriftlich oder elektronisch mitzuteilen.
+Kommt bis zum Ablauf des Vertrages kein neuer Vertrag zustande, setzt
+das zuständige Schiedsamt mit der Mehrheit der Stimmen seiner
+Mitglieder innerhalb von drei Monaten den Inhalt des neuen Vertrages
+fest. In diesem Fall gelten die Bestimmungen des bisherigen Vertrages
+bis zur Festsetzung des Inhalts des neuen Vertrages durch das
+Schiedsamt weiter. Das Schiedsamtsverfahren beginnt mit dem auf den
+Ablauf der Kündigungsfrist folgenden Tag.
+
+(5) Die Landesschiedsämter und die Bundesschiedsämter bestehen aus je
+vier Vertretern der Ärzte oder Zahnärzte und vier Vertretern der
+Krankenkassen sowie einem unparteiischen Vorsitzenden und zwei
+weiteren unparteiischen Mitgliedern. Bei der Festsetzung des Inhalts
+eines Vertrages, der nicht alle Kassenarten betrifft, wirken als
+Vertreter der Krankenkassen nur Vertreter der betroffenen Kassenarten
+im Schiedsamt mit. Die in Absatz 1 genannten Landesverbände der
+Krankenkassen und die Ersatzkassen können von Satz 2 abweichende
+Regelungen vereinbaren. Für jedes Mitglied gibt es zwei
+Stellvertreter. Die Amtsdauer der Mitglieder beträgt vier Jahre. Die
+Vertreter und Stellvertreter werden jeweils durch die Organisationen,
+die das jeweilige Schiedsamt bilden, bestellt. Kommt eine Bestellung
+durch die Organisationen nicht zustande, bestellt die für das
+jeweilige Schiedsamt zuständige Aufsichtsbehörde die Vertreter und
+Stellvertreter, nachdem sie den Organisationen eine Frist zur
+Bestellung gesetzt hat und diese Frist abgelaufen ist.
+
+(6) Über den unparteiischen Vorsitzenden und die zwei weiteren
+unparteiischen Mitglieder sowie deren Stellvertreter sollen sich die
+Vertragsparteien einigen. § 213 Absatz 2 in der bis zum 31. Dezember
+2008 geltenden Fassung gilt für die Landesverbände der Krankenkassen
+und die Ersatzkassen entsprechend. Kommt eine Einigung nicht zustande,
+erfolgt eine Bestellung des unparteiischen Vorsitzenden, der weiteren
+unparteiischen Mitglieder und deren Stellvertreter durch die für das
+jeweilige Schiedsamt zuständige Aufsichtsbehörde, nachdem sie den
+Vertragsparteien eine Frist zur Einigung gesetzt hat und diese Frist
+abgelaufen ist. Die unparteiischen Mitglieder und deren Stellvertreter
+gelten als bestellt, sobald sie sich den beteiligten Vertragsparteien
+gegenüber zur Amtsübernahme bereit erklärt haben.
+
+(7) Die Mitglieder des Schiedsamtes führen ihr Amt als Ehrenamt. Sie
+sind an Weisungen nicht gebunden. Die unparteiischen Mitglieder und
+ihre Stellvertreter können aus wichtigem Grund von der für das
+jeweilige Schiedsamt zuständigen Aufsichtsbehörde abberufen werden.
+Die Vertreter der Ärzte oder Zahnärzte und die Vertreter der
+Krankenkassen sowie ihre Stellvertreter können von den Organisationen,
+die sie bestellt haben, abberufen werden. Eine Amtsniederlegung ist
+gegenüber den Organisationen zu erklären, die das jeweilige Schiedsamt
+gebildet haben. Die Mitglieder sind verpflichtet, an den Sitzungen des
+Schiedsamtes teilzunehmen oder bei Verhinderung ihre Stellvertreter zu
+benachrichtigen. Eine Stimmenthaltung ist unzulässig. Jedes Mitglied
+hat eine Stimme.
+
+(8) Das Schiedsamt ist beschlussfähig, wenn alle Mitglieder oder deren
+Stellvertreter anwesend sind. Ist das Schiedsamt in einer Sitzung
+nicht beschlussfähig, ist innerhalb von 14 Kalendertagen nach dieser
+Sitzung eine erneute Sitzung einzuberufen. In dieser erneuten Sitzung
+ist die Beschlussfähigkeit gegeben, wenn die unparteiischen Mitglieder
+oder deren Stellvertreter und mehr als die Hälfte der weiteren
+Mitglieder des Schiedsamtes oder deren Stellvertreter anwesend sind.
+Ist auch in der erneuten Sitzung keine Beschlussfähigkeit nach Satz 3
+gegeben, setzen die unparteiischen Mitglieder des Schiedsamtes den
+Vertragsinhalt fest. Auf diese Folgen ist in der Einladung zur
+erneuten Sitzung ausdrücklich hinzuweisen.
+
+(9) Setzt das Schiedsamt innerhalb der Frist nach Absatz 3 Satz 1 oder
+Absatz 4 Satz 2 keinen Vertragsinhalt fest, setzt die für das
+jeweilige Schiedsamt zuständige Aufsichtsbehörde eine Frist zur
+Festsetzung des Vertragsinhalts. Nach Ablauf dieser Frist setzen die
+unparteiischen Mitglieder des Schiedsamtes den Vertragsinhalt fest.
+Die unparteiischen Mitglieder können auf Kosten der Vertragsparteien
+Datenerhebungen, Auswertungen oder Sachverständigengutachten in
+Auftrag geben. Klagen gegen Entscheidungen des Schiedsamtes sowie
+Klagen gegen Entscheidungen der Aufsichtsbehörden nach diesem
+Paragraphen haben keine aufschiebende Wirkung. Ein Vorverfahren findet
+in den Fällen des Satzes 4 nicht statt.
+
+(10) Die Aufsicht über die Landesschiedsämter führen die für die
+Sozialversicherung zuständigen obersten Verwaltungsbehörden der
+Länder. Die Landesregierungen können durch Rechtsverordnung eine
+andere Behörde als Aufsichtsbehörde bestimmen; die Landesregierungen
+können diese Ermächtigung auf die obersten Landesbehörden
+weiterübertragen. Die Aufsicht über die Bundesschiedsämter führt das
+Bundesministerium für Gesundheit. Die Aufsicht erstreckt sich auf die
+Beachtung von Gesetz und sonstigem Recht. Die Aufsicht umfasst auch
+das Recht zur Teilnahme an den Sitzungen der Schiedsämter; das Recht
+zur Teilnahme an den Sitzungen der Schiedsämter gilt auch für das
+Bundesversicherungsamt, sofern ihm die Entscheidungen der Schiedsämter
+gemäß Satz 6 vorzulegen sind. Die Entscheidungen der Schiedsämter über
+die Vergütung der Leistungen nach § 57 Absatz 1 und 2, den §§ 83, 85
+und 87a sind der jeweiligen zuständigen Aufsichtsbehörde vorzulegen.
+Die Aufsichtsbehörden können die Entscheidungen bei einem
+Rechtsverstoß innerhalb von zwei Monaten nach Vorlage beanstanden. Für
+Klagen der Vertragspartner gegen die Beanstandung gilt Absatz 9 Satz 4
+und 5 entsprechend.
+
+(11) Das Bundesministerium für Gesundheit bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
+Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren
+Auslagen und die Entschädigung für Zeitaufwand der Mitglieder der
+Schiedsämter, die Geschäftsführung, das Verfahren, die Erhebung und
+die Höhe der Gebühren sowie über die Verteilung der Kosten.
+
+(12) Der Verband Deutscher Zahntechniker-Innungen und der
+Spitzenverband Bund der Krankenkassen bilden ein weiteres Schiedsamt
+auf Bundesebene. Das Schiedsamt besteht aus Vertretern des Verbandes
+Deutscher Zahntechniker-Innungen und des Spitzenverbandes Bund der
+Krankenkassen in gleicher Zahl sowie einem unparteiischen Vorsitzenden
+und zwei weiteren unparteiischen Mitgliedern. Im Übrigen gelten die
+Absätze 3, 4, 5 Satz 4 bis 7, die Absätze 6, 7, 8, 9 und 10 Satz 3, 4
+und 5 sowie die aufgrund des Absatzes 11 erlassene
+Schiedsamtsverordnung entsprechend.
+
+(13) Die Innungsverbände der Zahntechniker, die Landesverbände der
+Krankenkassen und die Ersatzkassen bilden ein weiteres Schiedsamt auf
+Landesebene. Das Schiedsamt besteht aus Vertretern der Innungsverbände
+der Zahntechniker und der Krankenkassen in gleicher Zahl sowie einem
+unparteiischen Vorsitzenden und zwei weiteren unparteiischen
+Mitgliedern. Im Übrigen gelten die Absätze 3, 4, 5 Satz 4 bis 7, die
+Absätze 6, 7, 8, 9 und 10 Satz 1, 2, 4 und 5 sowie die aufgrund des
+Absatzes 11 erlassene Verordnung entsprechend.
+
+
+##### § 89a Sektorenübergreifendes Schiedsgremium, Verordnungsermächtigungen
+
+(1) Die Kassenärztlichen Vereinigungen, die Landesverbände der
+Krankenkassen und die Ersatzkassen sowie die
+Landeskrankenhausgesellschaften oder die Vereinigungen der
+Krankenhausträger im Land bilden je ein sektorenübergreifendes
+Schiedsgremium.
+
+(2) Die Kassenärztliche Bundesvereinigung, der Spitzenverband Bund der
+Krankenkassen und die Deutsche Krankenhausgesellschaft bilden ein
+sektorenübergreifendes Schiedsgremium auf Bundesebene.
+
+(3) Die sektorenübergreifenden Schiedsgremien nach den Absätzen 1 und
+2 entscheiden in den ihnen durch Gesetz oder aufgrund eines Gesetzes
+zugewiesenen Aufgaben mit einer Mehrheit von zwei Dritteln der Stimmen
+ihrer Mitglieder innerhalb von drei Monaten. Wird ein für die
+Einleitung des Verfahrens erforderlicher Antrag nicht gestellt, können
+auch die für das jeweilige sektorenübergreifende Schiedsgremium oder
+die für die Vertragsparteien zuständigen Aufsichtsbehörden, nachdem
+sie den Organisationen, die das sektorenübergreifende Schiedsgremium
+bilden, eine Frist zur Antragstellung gesetzt haben und die Frist
+abgelaufen ist oder nach Ablauf einer für das Zustandekommen des
+sektorenübergreifenden Vertrages gesetzlich vorgeschrieben Frist, das
+sektorenübergreifende Schiedsgremium mit Wirkung für die
+Vertragsparteien anrufen. Das Schiedsverfahren beginnt mit dem bei dem
+sektorenübergreifenden Schiedsgremium gestellten Antrag.
+
+(4) Kündigt eine Vertragspartei einen sektorenübergreifenden Vertrag,
+hat sie die Kündigung dem zuständigen sektorenübergreifenden
+Schiedsgremium schriftlich oder elektronisch mitzuteilen. Kommt bis
+zum Ablauf des Vertrages kein neuer Vertrag zustande, setzt das
+zuständige sektorenübergreifende Schiedsgremium mit einer Mehrheit von
+zwei Dritteln der Stimmen seiner Mitglieder innerhalb von drei Monaten
+den Inhalt des neuen Vertrages fest. In diesem Fall gelten die
+Bestimmungen des bisherigen Vertrages bis zur Festsetzung des Inhalts
+des neuen Vertrages durch das sektorenübergreifende Schiedsgremium
+weiter. Das Schiedsverfahren beginnt mit dem auf den Ablauf der
+Kündigungsfrist folgenden Tag.
+
+(5) Die sektorenübergreifenden Schiedsgremien nach den Absätzen 1 und
+2 bestehen aus je zwei Vertretern der Ärzte, der Krankenkassen und der
+zugelassenen Krankenhäuser sowie einem unparteiischen Vorsitzenden und
+einem weiteren unparteiischen Mitglied. Für jedes Mitglied gibt es
+zwei Stellvertreter. Die Amtsdauer der Mitglieder beträgt vier Jahre.
+Die Vertreter und Stellvertreter werden jeweils durch die
+Organisationen, die das jeweilige sektorenübergreifende Schiedsgremium
+bilden, bestellt. Kommt eine Bestellung durch die Organisationen nicht
+zustande, bestellt die für das sektorenübergreifende Schiedsgremium
+zuständige Aufsichtsbehörde die Vertreter und Stellvertreter, nachdem
+sie den Organisationen eine Frist zur Bestellung gesetzt hat und diese
+Frist abgelaufen ist.
+
+(6) Über den unparteiischen Vorsitzenden und das weitere unparteiische
+Mitglied sowie deren Stellvertreter sollen sich die Vertragsparteien
+einigen. Kommt eine Einigung nicht zustande, erfolgt eine Bestellung
+des unparteiischen Vorsitzenden, des weiteren unparteiischen Mitglieds
+und von deren Stellvertretern durch die für das sektorenübergreifende
+Schiedsgremium zuständige Aufsichtsbehörde, nachdem sie den
+Vertragsparteien eine Frist zur Einigung gesetzt hat und diese Frist
+abgelaufen ist. Die unparteiischen Mitglieder und deren Stellvertreter
+gelten als bestellt, sobald sie sich den beteiligten Vertragsparteien
+gegenüber zur Amtsübernahme bereit erklärt haben.
+
+(7) Die Mitglieder des sektorenübergreifenden Schiedsgremiums führen
+ihr Amt als Ehrenamt. Sie sind an Weisungen nicht gebunden. Die
+unparteiischen Mitglieder und ihre Stellvertreter können aus wichtigem
+Grund von der für das jeweilige sektorenübergreifende Schiedsgremium
+zuständigen Aufsichtsbehörde abberufen werden. Die Vertreter der
+Ärzte, der Krankenkassen und der zugelassenen Krankenhäuser sowie
+deren Stellvertreter können von den Organisationen, die sie bestellt
+haben, abberufen werden. Eine Amtsniederlegung ist gegenüber den
+Organisationen zu erklären, die das jeweilige sektorenübergreifende
+Schiedsgremium gebildet haben. Die Mitglieder sind verpflichtet, an
+den Sitzungen des sektorenübergreifenden Schiedsgremiums teilzunehmen
+oder bei Verhinderung ihre Stellvertreter zu benachrichtigen. Eine
+Stimmenthaltung ist unzulässig. Jedes Mitglied hat eine Stimme.
+
+(8) Das sektorenübergreifende Schiedsgremium ist beschlussfähig, wenn
+alle Mitglieder oder deren Stellvertreter anwesend sind. Ist das
+sektorenübergreifende Schiedsgremium in einer Sitzung nicht
+beschlussfähig, ist innerhalb von 14 Kalendertagen nach dieser Sitzung
+eine erneute Sitzung einzuberufen. In dieser erneuten Sitzung ist die
+Beschlussfähigkeit gegeben, wenn der unparteiische Vorsitzende und das
+weitere unparteiische Mitglied oder deren Stellvertreter und mehr als
+die Hälfte der weiteren Mitglieder des sektorenübergreifenden
+Schiedsgremiums oder deren Stellvertreter anwesend sind. Ist auch in
+der erneuten Sitzung keine Beschlussfähigkeit nach Satz 3 gegeben,
+setzen die beiden unparteiischen Mitglieder des sektorenübergreifenden
+Schiedsgremiums den Vertragsinhalt fest. Bei Stimmengleichheit gibt
+die Stimme des Vorsitzenden den Ausschlag. Auf diese Folgen ist in der
+Einladung zur erneuten Sitzung ausdrücklich hinzuweisen.
+
+(9) Setzt das sektorenübergreifende Schiedsgremium innerhalb der Frist
+nach Absatz 3 Satz 1 oder Absatz 4 Satz 2 keinen Vertragsinhalt fest,
+setzt die für das jeweilige sektorenübergreifende Schiedsgremium
+zuständige Aufsichtsbehörde eine Frist zur Festsetzung des
+Vertragsinhalts. Nach Ablauf dieser Frist setzen die beiden
+unparteiischen Mitglieder des sektorenübergreifenden Schiedsgremiums
+den Vertragsinhalt fest. Bei Stimmengleichheit gibt die Stimme des
+Vorsitzenden den Ausschlag. Die unparteiischen Mitglieder können auf
+Kosten der Vertragsparteien Datenerhebungen, Auswertungen oder
+Sachverständigengutachten in Auftrag geben. Klagen gegen
+Entscheidungen des sektorenübergreifenden Schiedsgremiums sowie Klagen
+gegen Entscheidungen der Aufsichtsbehörde nach diesem Paragraphen
+haben keine aufschiebende Wirkung. Ein Vorverfahren findet in den
+Fällen des Satzes 4 nicht statt.
+
+(10) Die Aufsicht über die sektorenübergreifenden Schiedsgremien nach
+Absatz 1 führen die für die Sozialversicherung zuständigen obersten
+Verwaltungsbehörden der Länder. Die Landesregierungen können durch
+Rechtsverordnung eine andere Behörde als Aufsichtsbehörde bestimmen;
+die Landesregierungen können diese Ermächtigung auf die obersten
+Landesbehörden weiterübertragen. Die Aufsicht über das
+sektorenübergreifende Schiedsgremium auf Bundesebene führt das
+Bundesministerium für Gesundheit. Die Aufsicht erstreckt sich auf die
+Beachtung von Gesetz und sonstigem Recht. Das Aufsichtsrecht umfasst
+auch das Recht zur Teilnahme an den Sitzungen; das Recht zur Teilnahme
+an den Sitzungen der Schiedsgremien gilt auch für das
+Bundesversicherungsamt, soweit ihm die Entscheidungen der
+Schiedsgremien gemäß Satz 6 vorzulegen sind. Die Entscheidungen der
+Schiedsgremien über die Vergütung der Leistungen nach § 116b Absatz 6
+sind der jeweiligen zuständigen Aufsichtsbehörde vorzulegen. Die
+Aufsichtsbehörden können die Entscheidungen bei einem Rechtsverstoß
+innerhalb von zwei Monaten nach Vorlage beanstanden. Für Klagen der
+Vertragspartner gegen die Beanstandung gilt Absatz 9 Satz 5 und 6
+entsprechend.
+
+(11) Das Bundesministerium für Gesundheit bestimmt durch
+Rechtsverordnung mit Zustimmung des Bundesrates das Nähere über die
+Bestellung, die Amtsdauer, die Amtsführung, die Erstattung der baren
+Auslagen und die Entschädigungen für Zeitaufwand der Mitglieder der
+sektorenübergreifenden Schiedsgremien, die Geschäftsführung, das
+Verfahren, die Erhebung und die Höhe der Gebühren sowie über die
+Verteilung der Kosten.
+
+(12) Die Regelungen der Absätze 1 bis 11 gelten nicht für die
+Kassenzahnärztlichen Vereinigungen und die Kassenzahnärztliche
+Bundesvereinigung.
+
+

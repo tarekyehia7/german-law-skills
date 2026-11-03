@@ -1,0 +1,57 @@
+---
+name: sgb-6-rentenversicherung
+description: "Full German text of the Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) (SGB 6) – Social Code VI: statutory pension insurance, retirement age, pension calculation. Use when a question concerns German Sozialrecht and the exact wording of a § of the SGB 6 is needed."
+metadata:
+  jurabk: "SGB 6"
+  title: "Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337)"
+  area: Sozialrecht
+  ausfertigungsdatum: 1989-12-18
+  stand: "Art. 6a G v. 22.11.2021 I 4906"
+  source: https://www.gesetze-im-internet.de/sgb_6/
+  mirror: https://github.com/bundestag/gesetze/tree/master/s/sgb_6
+  paragraphs: 509
+  chunks: 21
+  size_bytes: 984836
+---
+
+# Sozialgesetzbuch (SGB) Sechstes Buch (VI) - Gesetzliche Rentenversicherung - (Artikel 1 des Gesetzes v. 18. Dezember 1989, BGBl. I S. 2261, 1990 I S. 1337) (SGB 6)
+
+**Area:** Sozialrecht  
+**Covers:** Social Code VI: statutory pension insurance, retirement age, pension calculation  
+**Text state:** Art. 6a G v. 22.11.2021 I 4906 (mirror snapshot 2022-03; later amendments are NOT included – verify current wording at the source link above before relying on it).
+
+## How to use this skill
+
+1. Identify the § (or Art.) you need. If you only know the topic, scan the outline below, or open `toc.md` and search the heading keywords.
+2. Open **only** the chunk file in `text/` that contains that §. Each chunk is self-contained and under 100 KB.
+3. Quote the German wording verbatim and cite it as `§ <nr> <Abs.> <jurabk>` (e.g. `§ 433 Abs. 1 BGB`). Translate or explain afterwards, keeping the quote separate from your interpretation.
+4. `(weggefallen)` means the § was repealed. Headings marked `(XXXX)` are placeholders for repealed ranges.
+5. This is statute text only – no case law, no commentary. For anything decision-relevant, say that the text is a 2022 snapshot and recommend checking the current version and a lawyer.
+
+## Outline (chunk → content)
+
+| # | File | Section | Paragraphs | Size |
+|---|------|---------|------------|------|
+| 1 | `text/01-erstes-kapitel-versicherter-personenkreis.md` | Erstes Kapitel - Versicherter Personenkreis | § 1 – § 8 | 28 KB |
+| 2 | `text/02-erster-abschnitt-leistungen-zur-teilhabe.md` | Zweites Kapitel - Leistungen › Erster Abschnitt - Leistungen zur Teilhabe | § 9 – § 34 | 33 KB |
+| 3 | `text/03-zweiter-unterabschnitt-anspruchsvoraussetzungen-fur-einzelne.md` | Zweites Kapitel - Leistungen › Zweiter Abschnitt - Renten › Zweiter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten | § 35 – § 62 | 37 KB |
+| 4 | `text/04-dritter-unterabschnitt-rentenhohe-und-rentenanpassung.md` | Zweites Kapitel - Leistungen › Zweiter Abschnitt - Renten › Dritter Unterabschnitt - Rentenhöhe und Rentenanpassung | § 63 – § 88a | 54 KB |
+| 5 | `text/05-vierter-unterabschnitt-zusammentreffen-von-renten-und-einkom.md` | Zweites Kapitel - Leistungen › Zweiter Abschnitt - Renten › Vierter Unterabschnitt - Zusammentreffen von Renten und Einkommen | § 89 – § 108 | 43 KB |
+| 6 | `text/06-vierter-abschnitt-serviceleistungen.md` | Zweites Kapitel - Leistungen › Vierter Abschnitt - Serviceleistungen | § 109 – § 124 | 36 KB |
+| 7 | `text/07-drittes-kapitel-organisation-datenschutz-und-datensicherheit.md` | Drittes Kapitel - Organisation, Datenschutz und Datensicherheit | § 125 – § 152 | 69 KB |
+| 8 | `text/08-viertes-kapitel-finanzierung.md` | Viertes Kapitel - Finanzierung | § 153 – § 156 | 9 KB |
+| 9 | `text/09-erster-unterabschnitt-beitrage.md` | Viertes Kapitel - Finanzierung › Zweiter Abschnitt - Beiträge und Verfahren › Erster Unterabschnitt - Beiträge | § 157 – § 189 | 73 KB |
+| 10 | `text/10-zweiter-unterabschnitt-verfahren.md` | Viertes Kapitel - Finanzierung › Zweiter Abschnitt - Beiträge und Verfahren › Zweiter Unterabschnitt - Verfahren | § 190 – § 212b | 34 KB |
+| 11 | `text/11-dritter-abschnitt-beteiligung-des-bundes-finanzbeziehungen-u.md` | Viertes Kapitel - Finanzierung › Dritter Abschnitt - Beteiligung des Bundes, Finanzbeziehungen und Erstattungen | § 213 – § 228b | 28 KB |
+| 12 | `text/12-zweiter-unterabschnitt-versicherter-personenkreis.md` | Fünftes Kapitel - Sonderregelungen › Erster Abschnitt - Ergänzungen für Sonderfälle › Zweiter Unterabschnitt - Versicherter Personenkreis | § 229 – § 234a | 31 KB |
+| 13 | `text/13-vierter-unterabschnitt-anspruchsvoraussetzungen-fur-einzelne.md` | Fünftes Kapitel - Sonderregelungen › Erster Abschnitt - Ergänzungen für Sonderfälle › Vierter Unterabschnitt - Anspruchsvoraussetzungen für einzelne Renten | § 235 – § 254a | 72 KB |
+| 14 | `text/14-funfter-unterabschnitt-rentenhohe-und-rentenanpassung.md` | Fünftes Kapitel - Sonderregelungen › Erster Abschnitt - Ergänzungen für Sonderfälle › Fünfter Unterabschnitt - Rentenhöhe und Rentenanpassung | § 254b – § 265b | 50 KB |
+| 15 | `text/15-sechster-unterabschnitt-zusammentreffen-von-renten-und-einko.md` | Fünftes Kapitel - Sonderregelungen › Erster Abschnitt - Ergänzungen für Sonderfälle › Sechster Unterabschnitt - Zusammentreffen von Renten und Einkommen | § 266 – § 274d | 18 KB |
+| 16 | `text/16-elfter-unterabschnitt-finanzierung.md` | Fünftes Kapitel - Sonderregelungen › Erster Abschnitt - Ergänzungen für Sonderfälle › Elfter Unterabschnitt - Finanzierung | § 275 – § 299 | 49 KB |
+| 17 | `text/17-zweiter-abschnitt-ausnahmen-von-der-anwendung-neuen-rechts.md` | Fünftes Kapitel - Sonderregelungen › Zweiter Abschnitt - Ausnahmen von der Anwendung neuen Rechts | § 300 – § 319b | 69 KB |
+| 18 | `text/18-sechstes-kapitel-bussgeldvorschriften.md` | Sechstes Kapitel - Bußgeldvorschriften | § 320 – Anlage 5 | 33 KB |
+| 19 | `text/19-2-beitrage-nach-beitragsklassen.md` | 2. Beiträge nach Beitragsklassen | Anlage 6 – Anlage 14 | 36 KB |
+| 20 | `text/20-bereich.md` | Bereich |  | 150 KB |
+| 21 | `text/21-anlage-15-anhang-ev.md` | Bereich › Anlage 15 – Anhang EV | Anlage 15 – Anhang EV | 23 KB |
+
+Full paragraph index: `toc.md` (509 paragraphs).

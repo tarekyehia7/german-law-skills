@@ -1,0 +1,320 @@
+# Gewerbeordnung (GewO)
+## Teil 2/6: Titel II - Stehendes Gewerbe
+*§ 14 – §§ 16* · Quelle: gesetze-im-internet.de via github.com/bundestag/gesetze · Stand: Art. 2 G v. 10.8.2021 I 3504
+
+## Titel II - Stehendes Gewerbe
+
+
+
+### I. - Allgemeine Erfordernisse
+
+
+
+#### § 14 Anzeigepflicht; Verordnungsermächtigung
+
+(1) Wer den selbständigen Betrieb eines stehenden Gewerbes, einer
+Zweigniederlassung oder einer unselbständigen Zweigstelle anfängt,
+muss dies der zuständigen Behörde gleichzeitig anzeigen. Das Gleiche
+gilt, wenn
+
+1.  der Betrieb verlegt wird,
+
+
+2.  der Gegenstand des Gewerbes gewechselt oder auf Waren oder Leistungen
+    ausgedehnt wird, die bei Gewerbebetrieben der angemeldeten Art nicht
+    geschäftsüblich sind, oder
+
+
+3.  der Betrieb aufgegeben wird.
+
+
+
+Steht die Aufgabe des Betriebes eindeutig fest und ist die Abmeldung
+nicht innerhalb eines angemessenen Zeitraums erfolgt, kann die Behörde
+die Abmeldung von Amts wegen vornehmen.
+
+(2) Absatz 1 gilt auch für den Handel mit Arzneimitteln, mit Losen von
+Lotterien und Ausspielungen sowie mit Bezugs- und Anteilscheinen auf
+solche Lose und für den Betrieb von Wettannahmestellen aller Art.
+
+(3) Wer die Aufstellung von Automaten jeder Art als selbständiges
+Gewerbe betreibt, muss die Anzeige bei der zuständigen Behörde seiner
+Hauptniederlassung erstatten. Der Gewerbetreibende ist verpflichtet,
+zum Zeitpunkt der Aufstellung des Automaten den Familiennamen mit
+mindestens einem ausgeschriebenen Vornamen, seine ladungsfähige
+Anschrift sowie die Anschrift seiner Hauptniederlassung an dem
+Automaten sichtbar anzubringen. Gewerbetreibende, für die eine Firma
+im Handelsregister eingetragen ist, haben außerdem ihre Firma in der
+in Satz 2 bezeichneten Weise anzubringen. Ist aus der Firma der
+Familienname des Gewerbetreibenden mit einem ausgeschriebenen Vornamen
+zu ersehen, so genügt die Anbringung der Firma.
+
+(4) Die Finanzbehörden teilen den zuständigen Behörden die nach § 30
+der Abgabenordnung geschützten Daten von Unternehmern im Sinne des § 5
+des Gewerbesteuergesetzes mit, wenn deren Steuerpflicht erloschen ist;
+mitzuteilen sind lediglich Name und betriebliche Anschrift des
+Unternehmers und der Tag, an dem die Steuerpflicht endete. Die
+Mitteilungspflicht besteht nicht, soweit ihre Erfüllung mit einem
+unverhältnismäßigen Aufwand verbunden wäre. Absatz 5 Satz 1 gilt
+entsprechend.
+
+(5) Die erhobenen Daten dürfen nur für die Überwachung der
+Gewerbeausübung sowie statistische Erhebungen verarbeitet werden. Der
+Name, die betriebliche Anschrift und die angezeigte Tätigkeit des
+Gewerbetreibenden dürfen allgemein zugänglich gemacht werden.
+
+(6) Öffentlichen Stellen, soweit sie nicht als öffentlich-rechtliche
+Unternehmen am Wettbewerb teilnehmen, dürfen der Zweckbindung nach
+Absatz 5 Satz 1 unterliegende Daten übermittelt werden, soweit
+
+1.  eine regelmäßige Datenübermittlung nach Absatz 8 zulässig ist,
+
+
+2.  die Kenntnis der Daten zur Abwehr einer gegenwärtigen Gefahr für die
+    öffentliche Sicherheit oder erheblicher Nachteile für das Gemeinwohl
+    erforderlich ist oder
+
+
+3.  der Empfänger die Daten beim Gewerbetreibenden nur mit
+    unverhältnismäßigem Aufwand erheben könnte oder von einer solchen
+    Datenerhebung nach der Art der Aufgabe, für deren Erfüllung die
+    Kenntnis der Daten erforderlich ist, abgesehen werden muss und kein
+    Grund zu der Annahme besteht, dass das schutzwürdige Interesse des
+    Gewerbetreibenden überwiegt.
+
+
+
+Für die Weitergabe von Daten innerhalb der Verwaltungseinheiten, denen
+die für die Entgegennahme der Anzeige und die Überwachung der
+Gewerbeausübung zuständigen Behörden angehören, gilt Satz 1
+entsprechend.
+
+(7) Öffentlichen Stellen, soweit sie als öffentlich-rechtliche
+Unternehmen am Wettbewerb teilnehmen, und nichtöffentlichen Stellen
+dürfen der Zweckbindung nach Absatz 5 Satz 1 unterliegende Daten
+übermittelt werden, wenn der Empfänger ein rechtliches Interesse an
+der Kenntnis der zu übermittelnden Daten glaubhaft macht und kein
+Grund zu der Annahme besteht, dass das schutzwürdige Interesse des
+Gewerbetreibenden überwiegt.
+
+(8) Die zuständige Behörde übermittelt, sofern die empfangsberechtigte
+Stelle auf die regelmäßige Datenübermittlung nicht verzichtet hat,
+Daten aus der Gewerbeanzeige regelmäßig an
+
+1.  die Industrie- und Handelskammer zur Wahrnehmung der in den §§ 1, 3
+    und 5 des Gesetzes zur vorläufigen Regelung des Rechts der Industrie-
+    und Handelskammern genannten sowie der nach § 1 Abs. 4 desselben
+    Gesetzes übertragenen Aufgaben,
+
+
+2.  die Handwerkskammer zur Wahrnehmung der in § 91 der Handwerksordnung
+    genannten, insbesondere der ihr durch die §§ 6, 19 und 28 der
+    Handwerksordnung zugewiesenen und sonstiger durch Gesetz übertragener
+    Aufgaben,
+
+
+3.  die für den Immissionsschutz zuständige Landesbehörde zur Durchführung
+    arbeitsschutzrechtlicher sowie immissionsschutzrechtlicher
+    Vorschriften,
+
+
+3a. die für den technischen und sozialen Arbeitsschutz, einschließlich den
+    Entgeltschutz nach dem Heimarbeitsgesetz zuständige Landesbehörde zur
+    Durchführung ihrer Aufgaben,
+
+
+4.  die nach Landesrecht zuständige Behörde zur Wahrnehmung der Aufgaben,
+    die im Mess- und Eichgesetz und in den auf Grund des Mess- und
+    Eichgesetzes ergangenen Rechtsverordnungen festgelegt sind,
+
+
+5.  die Bundesagentur für Arbeit zur Wahrnehmung der in § 405 Abs. 1 in
+    Verbindung mit § 404 Abs. 2 des Dritten Buches Sozialgesetzbuch sowie
+    der im Arbeitnehmerüberlassungsgesetz genannten Aufgaben,
+
+
+6.  die Deutsche Gesetzliche Unfallversicherung e. V. ausschließlich zur
+    Weiterleitung an die zuständige Berufsgenossenschaft für die Erfüllung
+    der ihr durch Gesetz übertragenen Aufgaben,
+
+
+7.  die Behörden der Zollverwaltung zur Wahrnehmung der ihnen nach dem
+    Schwarzarbeitsbekämpfungsgesetz, nach § 405 Abs. 1 in Verbindung mit §
+    404 Abs. 2 des Dritten Buches Sozialgesetzbuch sowie nach dem
+    Arbeitnehmer-überlassungsgesetz obliegenden Aufgaben,
+
+
+8.  das Registergericht, soweit es sich um die Abmeldung einer im Handels-
+    und Genossenschaftsregister eingetragenen Haupt- oder
+    Zweigniederlassung handelt, für Maßnahmen zur Herstellung der
+    inhaltlichen Richtigkeit des Handelsregisters gemäß § 388 Absatz 1 des
+    Gesetzes über das Verfahren in Familiensachen und in den
+    Angelegenheiten der freiwilligen Gerichtsbarkeit oder des
+    Genossenschaftsregisters gemäß § 160 des Gesetzes betreffend die
+    Erwerbs- und Wirtschaftsgenossenschaften,
+
+
+9.  die statistischen Ämter der Länder zur Führung des Statistikregisters
+    nach § 1 Abs. 1 Satz 1 des Statistikregistergesetzes in den Fällen des
+    Absatzes 1 Satz 2 Nr. 1 und 2,
+
+
+10. die für die Lebensmittelüberwachung zuständigen Behörden der Länder
+    zur Durchführung lebensmittelrechtlicher Vorschriften,
+
+
+11. die Deutsche Rentenversicherung Knappschaft- Bahn-See zum Einzug und
+    zur Vollstreckung der einheitlichen Pauschsteuer nach § 40a Absatz 2
+    des Einkommensteuergesetzes.
+
+
+
+Die Übermittlung der Daten ist auf das zur Wahrnehmung der in Satz 1
+bezeichneten Aufgaben Erforderliche zu beschränken. § 138 der
+Abgabenordnung bleibt unberührt. Sind die Daten derart verbunden, dass
+ihre Trennung nach erforderlichen und nicht erforderlichen Daten nicht
+oder nur mit unverhältnismäßigem Aufwand möglich ist, sind auch die
+Kenntnisnahme, die Weitergabe innerhalb der datenverarbeitenden Stelle
+und die Übermittlung der Daten, die nicht zur Erfüllung der jeweiligen
+Aufgaben erforderlich sind, zulässig, soweit nicht schutzwürdige
+Belange der betroffenen Personen oder Dritter überwiegen. Die nicht
+erforderlichen Daten unterliegen insoweit einem Verwertungsverbot.
+
+(9) Darüber hinaus sind Übermittlungen der nach den Absätzen 1 bis 4
+erhobenen Daten nur zulässig, soweit die Kenntnis der Daten zur
+Verfolgung von Straftaten erforderlich ist oder eine besondere
+Rechtsvorschrift dies vorsieht.
+
+(10) Die Einrichtung eines automatisierten Verfahrens, das den Abruf
+von Daten aus der Gewerbeanzeige ermöglicht, ist nur zulässig, wenn
+technisch sichergestellt ist, dass
+
+1.  die abrufende Stelle die bei der zuständigen Stelle gespeicherten
+    Daten nicht verändern kann und
+
+
+2.  ein Abruf durch eine in Absatz 7 genannte Stelle nur möglich ist, wenn
+    die abrufende Stelle entweder den Namen des Gewerbetreibenden oder die
+    betriebliche Anschrift des Gewerbetreibenden angegeben hat; der Abruf
+    von Daten unter Verwendung unvollständiger Abfragedaten oder die Suche
+    mittels einer Ähnlichenfunktion kann zugelassen werden.
+
+
+
+
+(11) Die Einrichtung eines automatisierten Verfahrens, das den Abruf
+von Daten ermöglicht, die der Zweckbindung nach Absatz 5 Satz 1
+unterliegen, ist nur zulässig, soweit
+
+1.  dies wegen der Häufigkeit oder der Eilbedürftigkeit der Abrufe und
+    unter Berücksichtigung der schutzwürdigen Interessen der
+    Gewerbetreibenden angemessen ist,
+
+
+2.  die zum Abruf bereitgehaltenen Daten ihrer Art nach für die Aufgaben
+    oder Geschäftszwecke des Empfängers erforderlich sein können und
+
+
+3.  technisch sichergestellt ist, dass Daten durch andere als die in
+    Absatz 8 genannten Stellen nur abgerufen werden können, wenn dabei der
+    Verarbeitungszweck, für den der Abruf erfolgt, sowie das Aktenzeichen
+    oder eine andere Bezeichnung des Vorgangs, für den der Abruf erfolgt,
+    angegeben wird.
+
+
+
+Die Datenempfänger sowie die Verarbeitungszwecke, für die Abrufe
+zugelassen werden, sind vom Leiter der Verwaltungseinheit festzulegen.
+Die zuständige Stelle protokolliert die Abrufe einschließlich der
+angegebenen Verarbeitungszwecke und Vorgangsbezeichnungen. Die
+Protokolle müssen die Feststellung der für die einzelnen Abrufe
+verantwortlichen Personen ermöglichen. Eine mindestens
+stichprobenweise Protokollauswertung ist durch die speichernde Stelle
+zu gewährleisten. Die Protokolldaten dürfen nur zur Kontrolle der
+Zulässigkeit der Abrufe verarbeitet werden und sind nach sechs Monaten
+zu löschen.
+
+(12) Daten, die der Zweckbindung nach Absatz 5 Satz 1 unterliegen,
+darf der Empfänger nur für den Zweck verarbeiten, zu dessen Erfüllung
+sie ihm übermittelt werden.
+
+(13) Über die Gewerbeanzeigen nach Absatz 1 Satz 1 und 2 Nr. 3 werden
+monatliche Erhebungen als Bundesstatistik durchgeführt. Die Statistik
+nach Satz 1 soll als Informationsgrundlage für die Wirtschafts-,
+Wettbewerbs- und Strukturpolitik dienen. Für die Erhebungen besteht
+Auskunftspflicht. Auskunftspflichtig sind die Anzeigepflichtigen, die
+die Auskunftspflicht durch Erstattung der Anzeige erfüllen. Die
+zuständige Behörde übermittelt aus den Gewerbeanzeigen monatlich die
+Daten als Erhebungs- oder Hilfsmerkmale an die statistischen Ämter der
+Länder, die zur Führung der Statistik nach Satz 1 erforderlich sind.
+Die statistischen Ämter der Länder dürfen die Angaben zum
+eingetragenen Namen des Betriebes mit Rechtsform und zum Namen des
+Betriebsinhabers für die Bestimmung der Rechtsform bis zum Abschluss
+der nach § 12 Abs. 1 des Bundesstatistikgesetzes vorgesehenen Prüfung
+auswerten. Ferner dürfen sie nähere Angaben zu der angemeldeten
+Tätigkeit unmittelbar bei den Auskunftspflichtigen erfragen, soweit
+die gemeldete Tätigkeit sonst den Wirtschaftszweigen nach Anhang I der
+Verordnung (EG) Nr. 1893/2006 des Europäischen Parlaments und des
+Rates vom 20. Dezember 2006 zur Aufstellung der statistischen
+Systematik der Wirtschaftszweige NACE Revision 2 und zur Änderung der
+Verordnung (EWG) Nr. 3037/90 des Rates sowie einiger Verordnungen der
+EG über bestimmte Bereiche der Statistik (ABl. EU Nr. L 393 S. 1) in
+der jeweils geltenden Fassung nicht zugeordnet werden kann.
+
+(14) Das Bundesministerium für Wirtschaft und Energie erlässt mit
+Zustimmung des Bundesrates durch Rechtsverordnung zur Gewährleistung
+der ordnungsgemäßen Erfüllung der Anzeigepflicht nach Absatz 1, zur
+Regelung der Datenübermittlung nach Absatz 8 sowie zur Führung der
+Statistik nach Absatz 13 nähere Vorschriften. Die Rechtsverordnung
+
+1.  bestimmt insbesondere, welche erforderlichen Informationen in den
+    Anzeigen nach Absatz 1 anzugeben sind,
+
+
+2.  kann die Verwendung von Vordrucken zur Anzeige eines Gewerbes
+    anordnen, die Gestaltung der Vordrucke durch Muster festlegen und
+    Vorgaben treffen, wie und in welcher Anzahl die Vordrucke auszufüllen
+    sind,
+
+
+3.  kann Rahmenvorgaben für die elektronische Datenverarbeitung und
+    -übermittlung festlegen,
+
+
+4.  bestimmt, welche Daten zur Aufgabenwahrnehmung der in Absatz 8 Satz 1
+    bezeichneten Stellen erforderlicherweise zu übermitteln sind, und
+
+
+5.  bestimmt, welche Daten als Erhebungs- und Hilfsmerkmale für die
+    Statistik nach Absatz 13 Satz 1 an die statistischen Ämter der Länder
+    zu übermitteln sind.
+
+
+
+
+
+#### § 15 Empfangsbescheinigung, Betrieb ohne Zulassung
+
+(1) Die Behörde bescheinigt innerhalb dreier Tage den Empfang der
+Anzeige.
+
+(2) Wird ein Gewerbe, zu dessen Ausübung eine Erlaubnis, Genehmigung,
+Konzession oder Bewilligung (Zulassung) erforderlich ist, ohne diese
+Zulassung betrieben, so kann die Fortsetzung des Betriebes von der
+zuständigen Behörde verhindert werden. Das gleiche gilt, wenn ein
+Gewerbe von einer ausländischen juristischen Person begonnen wird,
+deren Rechtsfähigkeit im Inland nicht anerkannt wird.
+
+
+### II. - Erfordernis besonderer Überwachung oder Genehmigung
+
+
+
+#### A. - Anlagen, die einer besonderen Überwachung bedürfen
+
+
+
+##### (XXXX) §§ 16 bis 28 (weggefallen)
+
+
+
